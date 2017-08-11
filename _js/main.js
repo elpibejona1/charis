@@ -78,6 +78,7 @@ accordionToggle();
 
 var zoom = function(current, scale, x, y, name, i){
 	var $worldMap = $('.worldMap');
+	var $labels = $('.map__label');
 	var $continent = $('.continent[id=' + current +']');
 	var top = coords[i].buttonTop;
 	var left = coords[i].buttonLeft;
@@ -106,6 +107,7 @@ var zoom = function(current, scale, x, y, name, i){
 		TweenMax.to($continent, 1, { scale: 1, x: 0, y: 0 });
 		TweenMax.to($('.continent'), 1, { opacity: 1, visibility: "visible" });
 		TweenMax.to($('.map__zoom').not($button), 1, { opacity: 1, visibility: "visible", delay: 1.25});
+		TweenMax.to($('.map__label'), 1, { opacity: 1, visibility: "visible", delay: 1.25});
 		TweenMax.to($button, 1, { left: left, top: top })
 		TweenMax.to($button, 0.25, { rotation: 0, delay: 1 })
 		TweenMax.to($button, 1, { x: 0, y: 0 })
@@ -132,6 +134,7 @@ var zoom = function(current, scale, x, y, name, i){
 		TweenMax.to($continent, 1, { scale: scale, x: x, y: y });
 		TweenMax.to($('.continent').not($continent), 1, { opacity: 0, visibility: "hidden" });
 		TweenMax.to($('.map__zoom').not($button), 1, { opacity: 0, visibility: "hidden" });
+		TweenMax.to($('.map__label'), 1, { opacity: 0, visibility: "hidden" });
 		TweenMax.to($button, 1, { left: buttonLeft, top: buttonTop })
 		TweenMax.to($button, 0.25, { rotation: 45, delay: 1 })
 		TweenMax.to($('.map__info'), 1, { opacity: 1, visibility: "visible", delay: 1.25});
@@ -145,7 +148,7 @@ var zoom = function(current, scale, x, y, name, i){
 };
 
 // Trigger Zoom Function when Zoom Button is Clicked
-$('.map__zoom').on('click', function(){
+$('.map__zoom, .map__label').on('click', function(){
 	var $this = $(this);
 	
 	$(coords).each(function(i){

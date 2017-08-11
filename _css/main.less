@@ -933,6 +933,27 @@ footer {
 	}
 }
 
+.map__label {
+	cursor: pointer;
+	position: absolute;
+	height: 35px;
+	background-color: @red;
+	color: @white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	text-align: left;
+	z-index: 2;
+	padding: 11px 30px 11px 10px;
+
+	&--NA { top: 51%; left: 5%; }
+	&--CA { top: 59%; left: 12%; }
+	&--SA { top: 73%; left: 17%; }
+	&--EU { top: 47%; left: 42.5%; }
+	&--AF { top: 64%; left: 45.5%; }
+	&--AS { top: 53%;  left: 69%; }
+}
+
 .map__zoom {
 	cursor: pointer;
 	position: absolute;
