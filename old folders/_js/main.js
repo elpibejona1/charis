@@ -52,27 +52,21 @@ TweenMax.staggerFrom([$('.history__scroll i:first-child'), $('.history__scroll i
 
 // "What is Charis?" Accordion
 
-var accordionToggle = function(){
+$('.accordion__question').on('click', function(){
+	var current = $(this);
+	var plus = current.children('.accordion__plus').children('img');
 
-	TweenMax.set( $('.accordion__question.open + .accordion__content'), { display: 'block'});
-	TweenMax.set( $('.accordion__question.open .accordion__plus img'), { rotation: 45 });
+	current.siblings().slideToggle('fast');
+	
+	if (current.hasClass('open')) {
+		TweenMax.to(plus, 0.2, { rotation: 0 });
+		current.toggleClass('open');
+	} else {
+		TweenMax.to(plus, 0.2, { rotation: 45 });
+		current.toggleClass('open');
+	}
+});
 
-	$('.accordion__question').on('click', function(){
-		var current = $(this);
-		var plus = current.children('.accordion__plus').children('img');
-
-		current.siblings().slideToggle('fast');
-		
-		if (current.hasClass('open')) {
-			TweenMax.to(plus, 0.2, { rotation: 0 });
-			current.toggleClass('open');
-		} else {
-			TweenMax.to(plus, 0.2, { rotation: 45 });
-			current.toggleClass('open');
-		}
-	});
-};
-accordionToggle();
 
 // Members Map
 
