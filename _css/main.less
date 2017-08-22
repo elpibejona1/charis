@@ -1141,13 +1141,15 @@ footer {
 
 // celebration.php
 
+.fullContainer--noPadding { padding: 0; }
+
 .hero {
-	.columns(12);
+	width: 100%;
 	height: 300px;
 	background-image: url('../_images/celebration/hero.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center bottom;
+	background-position: center 75%;
 }
 
 .hero__title {
@@ -1259,10 +1261,20 @@ footer {
 		width: 100%;
 		text-decoration: none;
 	}
+
+	span {
+		font-family: 'Raleway', sans-serif;
+		color:@red;
+		font-weight: 600;
+		font-size: 18px;
+		display: inline-block;
+		font-style: italic;
+		margin-top: 20px;
+	}
 }
 
 .videoList { 
-	li:nth-of-type(odd) {
+	li:nth-of-type(odd) a {
 		font-family: 'Raleway', sans-serif;
 		text-transform: uppercase;
 		color: @red;
@@ -1285,6 +1297,43 @@ footer {
 	display: block;
 	margin: 75px auto!important;
 	width: 250px;
+}
+
+.celebration__footer {
+	background-color: #696969;
+	font-family: "Raleway", sans-serif;
+	padding: 30px 0;
+	color: #ffffff;
+	text-align: center;
+}
+
+.celebration__footer p {
+	display: block;
+	text-align: center;
+}
+
+.celebration__footer div {
+	display: inline-block;
+	border-radius: 10px;
+	width: 150px;
+	margin-top: 15px;
+}
+
+.celebration__footer a { 
+	display: inline-block;
+	border-radius: 10px;
+	text-decoration: none;
+	color: #ffffff;
+	padding: 15px;
+	font-weight: bold;
+	cursor: pointer;
+	width: 100%;
+}
+
+.celebration__footer a:hover {
+	color: #696969;
+	background-color: #ffffff;
+
 }
 
 
