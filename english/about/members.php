@@ -36,7 +36,6 @@
 					<li class="map__info__churches"></li>
 				</ul>
 			</div>
-			<!-- <div class="zoomOutButton">Zoom Out</div> -->
 		</div>
 	</div>
 </div>

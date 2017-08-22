@@ -57,7 +57,7 @@
 		</div>
 	</div>
 </div>
-<div class="fullContainer fullContainer--gray">
+<!-- <div class="fullContainer fullContainer--gray">
 	<div class="container">
 		<div class="row">
 			<div class="content content--home content--news">
@@ -82,7 +82,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 
 	<? $globalFunction->includeContent(1,'footer'); ?>
