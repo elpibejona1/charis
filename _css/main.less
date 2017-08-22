@@ -1236,9 +1236,18 @@ footer {
 	margin-bottom: 30px;
 
 	span { color: @gray; font-size: 32px; vertical-align: middle; }
+	br { display: none; }
 }
 
-.row--content { padding-top: 50px; }
+.row--content {
+	padding-top: 50px;
+
+	@media only screen and (max-width: 400px) {
+		span { font-size: 28px; line-height: 1.5; }
+
+		br { display: block; }
+	}
+}
 
 .copy {
 	color: @gray;

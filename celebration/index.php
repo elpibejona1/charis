@@ -17,7 +17,7 @@
 </div>
 <div class="container">
     <div class="row row--content">
-        <h2 class="heading">Sunday&nbsp;&nbsp;<span>//</span>&nbsp;&nbsp;November 5&nbsp;&nbsp;<span>//</span>&nbsp;&nbsp;20</span>17</h2>
+        <h2 class="heading">Sunday&nbsp;&nbsp;<span>//</span>&nbsp;&nbsp;November&nbsp;5&nbsp;&nbsp;<span>//</span>&nbsp;&nbsp;<br>2017</h2>
         <p class="copy copy--large">Your church is invited to join with hundreds of others around the world to learn about how God brought Charis into existence and is using this vibrant alliance to bring the hope of Christ to the corners of the&nbsp;globe.</p>
         <p class="copy">Join churches around the world in celebrating our global movement and seeking God’s blessing upon our common pursuit of biblical truth, biblical relationship and biblical mission.</p>
         <p class="copy">The following resources are designed to help you prepare your church for the event and host a successful celebration.</p>

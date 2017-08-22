@@ -19,7 +19,7 @@
 					<div class="comingSoon">
 						<div class="cycle-slideshow" 
 							data-cycle-fx="fadeout" 
-							data-cycle-timeout="4000"
+							data-cycle-timeout="4500"
 							data-cycle-slides=".slide"
 							>
 							<div class="slide">
