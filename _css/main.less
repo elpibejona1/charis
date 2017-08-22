@@ -231,7 +231,8 @@ footer {
 		background-image: url("../_images/home/background.jpg");
 		background-color: @gold;
 		background-repeat: no-repeat;
-		background-size: 100% auto;
+		/* background-size: 100% auto; */
+		background-size: cover;
 	}
 }
 
@@ -261,18 +262,64 @@ footer {
 	border-top: 5px solid @tea;
 	margin: 0 0 100px 0;
 	padding: 15px 0;
-	height: 175px;
+	/* height: 175px; */
+	height: 250px;
+
+	// Coming Soon SplashPage Styles
+
+	.comingSoon {
+		.columns(8);
+		.prefix(1);
+
+		@media only screen and (max-width: 1000px) {
+			width: 100%;
+			padding-left: 0;
+
+			.cycle-slideshow,
+			.slide { width: 100%; }
+		}
+	}
+
+	h3 {
+		/* .columns(8);
+		.prefix(1); */
+		font-family: 'Kaushan Script', serif;
+		font-size: 28px;
+		color: @tea;
+		text-align: center;
+	}
+
+	h4 { 
+		/* .columns(8);
+		.prefix(1); */
+		font-family: 'Raleway', sans-serif;
+		font-size: 18px;
+		color: @gray;
+		margin-top: 20px;
+		font-weight: 600;
+		text-align: center;
+
+		a { color: @red; }
+	}
 
 	img { .columns(4); padding: 20px; }
 
-	ul { .columns(8); .prefix(1); position: relative; }
+	ul {
+		/* .columns(8); .prefix(1); */
+		position: relative;
+
+		@media only screen and (max-width: 1000px) {
+			margin-top: 10px;
+		}
+	}
 
 	li {
 		width: 30%;
 		margin-right: calc(~'10% / 3');
 		float: left;
 		height: 60px;
-		margin-top: 40px;
+		/* margin-top: 40px; */
+		margin-top: 10px;
 		
 
 		a {
@@ -281,14 +328,16 @@ footer {
 			border-radius: 8px;
 			color: @gold;
 			font-weight: 600;
-			font-size: 25px;
+			/* font-size: 25px; */
+			font-size: 16px;
 			text-align: center;
 			text-decoration: none;
 			display: block;
 			width: 100%;
 			height: 100%;
 			vertical-align: middle;
-			padding: 15px;
+			/* padding: 5px; */
+			padding: 12px 5px;
 			
 			&:hover {
 				color: @white;
@@ -1264,7 +1313,7 @@ footer {
 
 	span {
 		font-family: 'Raleway', sans-serif;
-		color:@red;
+		color: @gray;
 		font-weight: 600;
 		font-size: 18px;
 		display: inline-block;
@@ -1343,7 +1392,8 @@ footer {
 
 @media only screen and (max-width: 1020px) {
 	.chooseLang {
-		height: 240px;
+		/* height: 240px; */
+		height: auto;
 
 		img { width: 330px; }
 
@@ -1734,7 +1784,7 @@ footer {
 	.chooseLang {
 		
 		margin-bottom: 0;
-		height: calc(~'100vh - 43vh');
+		/* height: calc(~'100vh - 43vh'); */
 
 		img { width: 75%; padding: 0 15px 10px 15px; }
 
@@ -1743,9 +1793,10 @@ footer {
 			margin-right: 10%;
 			margin-left: 10%;
 			margin-bottom: 10px;
-			height: 46px;
+			/* height: 46px; */
+			height: auto;
 
-			a { padding: 10px; }
+			/* a { padding: 10px; } */
 		}
 	}
 
