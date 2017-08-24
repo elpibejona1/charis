@@ -103,7 +103,7 @@ var zoom = function(current, scale, x, y, name, i){
 	if ($('#map').attr('class') === 'zoomed') {
 
 		// Zoom Out
-		TweenMax.to([$('.map__info__country'), $('.map__info__list')], 0, { opacity: 0, visibility: "hidden" });
+		TweenMax.to([$('.map__info__country-title'), $('.map__info__list')], 0, { opacity: 0, visibility: "hidden" });
 		TweenMax.to($continent, 1, { scale: 1, x: 0, y: 0 });
 		TweenMax.to($('.continent'), 1, { opacity: 1, visibility: "visible" });
 		TweenMax.to($('.map__zoom').not($button), 1, { opacity: 1, visibility: "visible", delay: 1.25});
@@ -113,10 +113,10 @@ var zoom = function(current, scale, x, y, name, i){
 		TweenMax.to($button, 1, { x: 0, y: 0 })
 		TweenMax.to($('.map__info'), 1, { opacity: 0, visibility: "hidden" });
 		TweenMax.to($('.country.active'), 1, { fill: "#c4c4c4" });
-		TweenMax.to([$('.map__info__country'), $('.map__info__list')], 0.25, { opacity: 0, visibility: "hidden" });
-		$('.map__info__country').html('');
-		$('.map__info__status').html('');
-		$('.map__info__delegates').html('');
+		TweenMax.to([$('.map__info__country-title'), $('.map__info__list')], 0.25, { opacity: 0, visibility: "hidden" });
+		$('.map__info__country-title').html('');
+		$('.map__info__status-countries').html('');
+		$('.map__info__delegates-churches').html('');
 		$('.map__info__churches').html('');
 
 		$('.country').attr('class', 'country');
@@ -125,11 +125,9 @@ var zoom = function(current, scale, x, y, name, i){
 	} else {
 		// Zoom In
 		$('.country').attr('class', 'country zoomed');
-		$('.country[data-index="0"]').attr('class', 'country zoomed active');
-		$('.map__info__country').html(info[current][0].country);
-		$('.map__info__status').html(info[current][0].status);
-		$('.map__info__delegates').html(info[current][0].delegates);
-		$('.map__info__churches').html(info[current][0].churches);
+		$('.map__info__country-title').html('Overall Data:');
+		$('.map__info__status-countries').html(info[current][0].countries);
+		$('.map__info__delegates-churches').html(info[current][0].churches);
 
 		TweenMax.to($continent, 1, { scale: scale, x: x, y: y });
 		TweenMax.to($('.continent').not($continent), 1, { opacity: 0, visibility: "hidden" });
@@ -139,7 +137,7 @@ var zoom = function(current, scale, x, y, name, i){
 		TweenMax.to($button, 0.25, { rotation: 45, delay: 1 })
 		TweenMax.to($('.map__info'), 1, { opacity: 1, visibility: "visible", delay: 1.25});
 		TweenMax.to($('.country.active'), 1, { fill: "#097888", delay: 1.25});
-		TweenMax.to([$('.map__info__country'), $('.map__info__list')], 1, { opacity: 1, visibility: "visible", delay: 2});
+		TweenMax.to([$('.map__info__country-title'), $('.map__info__list')], 1, { opacity: 1, visibility: "visible", delay: 2});
 		$('.map__heading').html(name + ' <span>(select a country)</span>');
 		$('#map').attr('class', 'zoomed');
 	}
@@ -172,23 +170,23 @@ $('.country').on('click', function(){
 
 			console.log(i + ' ' + continent);
 
-			$('.map__info__country', '.map__info__list').css({
+			$('.map__info__country-title', '.map__info__list').css({
 				'opacity': "0",
 				'visibility': 'hidden'
 			});
 
-			TweenMax.to([$('.map__info__country'), $('.map__info__list')], 0, { opacity: 0, visibility: "hidden" });
+			TweenMax.to([$('.map__info__country-title'), $('.map__info__list')], 0, { opacity: 0, visibility: "hidden" });
 
-			$('.map__info__country').html(info[continent][i].country);
-			$('.map__info__status').html(info[continent][i].status);
-			$('.map__info__delegates').html(info[continent][i].delegates);
+			$('.map__info__country-title').html(info[continent][i].country);
+			$('.map__info__status-countries').html(info[continent][i].status);
+			$('.map__info__delegates-churches').html(info[continent][i].delegates);
 			$('.map__info__churches').html(info[continent][i].churches);
 
 			$(this).attr('class', 'country zoomed active');
 			$('.country.zoomed').not($(this)).attr('class', 'country zoomed');
 			TweenMax.to($('.country.zoomed').not('.country.zoomed.active'), 0, { fill: "#c4c4c4" });
 			TweenMax.to($(this), 0.5, { fill: "#097888" });
-			TweenMax.to([$('.map__info__country'), $('.map__info__list')], 1.25, { opacity: 1, visibility: "visible", delay: 0.25});
+			TweenMax.to([$('.map__info__country-title'), $('.map__info__list')], 1.25, { opacity: 1, visibility: "visible", delay: 0.25});
 		};
 	}
 });

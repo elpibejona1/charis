@@ -29,10 +29,10 @@
 			<div class="map__label map__label--AS" data-name="asia">Asia</div>
 			<img class="map__zoom map__zoom--AS" data-name="asia" src="../../_images/about/members/zoomButton.png" alt="">
 			<div class="map__info">
-				<h3  class="map__info__country"></h3>
+				<h3 class="map__info__country-title"></h3>
 				<ul class="map__info__list">
-					<li class="map__info__status"></li>
-					<li class="map__info__delegates"></li>
+					<li class="map__info__status-countries"></li>
+					<li class="map__info__delegates-churches"></li>
 					<li class="map__info__churches"></li>
 				</ul>
 			</div>

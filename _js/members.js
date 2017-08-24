@@ -62,6 +62,10 @@ var coords = [
 var info = {
 	africa: [
 		{
+			countries: '6 Countries',
+			churches: '2500 Churches',
+		},
+		{
 			country: "Cameroon",
 			status: "Charis Charter Member",
 			delegates: '3 Delegates',
@@ -101,6 +105,10 @@ var info = {
 	],
 	asia: [
 		{
+			countries: '3 Countries',
+			churches: '50 Churches',
+		},
+		{
 			country: "Japan",
 			status: "Charis Charter Member",
 			delegates: '1 Delegates',
@@ -121,6 +129,10 @@ var info = {
 	],
 	caribbean: [
 		{
+			countries: '3 Countries',
+			churches: '250 Churches',
+		},
+		{
 			country: "The Bahamas",
 			status: "Charis Charter Member",
 			delegates: '1 Delegate',
@@ -140,6 +152,10 @@ var info = {
 		}
 	],
 	europe: [
+		{
+			countries: '4 Countries',
+			churches: '25 Churches',
+		},
 		{
 			country: "Germany",  //DE
 			status: "Charis Observer Member",
@@ -167,6 +183,10 @@ var info = {
 	],
 	northAmerica: [
 		{
+			countries: '4 Countries',
+			churches: '400 Churches',
+		},
+		{
 			country: "Canada",
 			status: "Charis Charter Member",
 			delegates: '1 Delegate',
@@ -192,6 +212,10 @@ var info = {
 		}
 	],
 	southAmerica: [
+		{
+			countries: '4 Countries',
+			churches: '45 Churches',
+		},
 		{
 			country: "Argentina",
 			status: "Charis Charter Member",
