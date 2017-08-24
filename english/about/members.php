@@ -11,7 +11,7 @@
 	<div class="content content--map">
 		<div class="continentOverlay">
 			<div class="container">
-				<h2 class="map__heading">Choose a Region to Explore:</h2>
+				<h2 class="map__heading">Choose a Region to Begin:</h2>
 			</div>
 		</div>
 		<?php include("../../_images/about/members/world.svg"); ?>
@@ -29,7 +29,7 @@
 			<div class="map__label map__label--AS" data-name="asia">Asia</div>
 			<img class="map__zoom map__zoom--AS" data-name="asia" src="../../_images/about/members/zoomButton.png" alt="">
 			<div class="map__info">
-				<h3 class="map__info__country-title"></h3>
+				<h3 class="map__info__country-continent"></h3>
 				<ul class="map__info__list">
 					<li class="map__info__status-countries"></li>
 					<li class="map__info__delegates-churches"></li>

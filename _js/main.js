@@ -45,10 +45,10 @@ statusIndication();
 
 // Home Page Scroll Arrows
 
-TweenMax.staggerFrom([$('.home__scroll i:first-child'), $('.home__scroll i:nth-of-type(2)')], 0.25, { visibility: 'hidden', repeatDelay: 1.5, repeat: -1 }, 0.35 );
+TweenMax.staggerFrom(['.home__scroll i:first-child', '.home__scroll i:nth-of-type(2)'], 0.25, { visibility: 'hidden', repeatDelay: 1.5, repeat: -1 }, 0.35 );
 
 // History Page Scroll Arrows
-TweenMax.staggerFrom([$('.history__scroll i:first-child'), $('.history__scroll i:nth-of-type(2)')], 0.25, { visibility: 'hidden', repeatDelay: 1.5, repeat: -1 }, 0.35 );
+TweenMax.staggerFrom(['.history__scroll i:first-child', '.history__scroll i:nth-of-type(2)'], 0.25, { visibility: 'hidden', repeatDelay: 1.5, repeat: -1 }, 0.35 );
 
 // "What is Charis?" Accordion
 
@@ -76,185 +76,214 @@ accordionToggle();
 
 // Members Map
 
-var zoom = function(current, scale, x, y, name, i){
-	var $worldMap = $('.worldMap');
-	var $labels = $('.map__label');
-	var $continent = $('.continent[id=' + current +']');
-	var top = coords[i].buttonTop;
-	var left = coords[i].buttonLeft;
+var membersMap = function () {
 
-	var mapInfoLeft = $('.map__info').css('left');
-	var mapInfoTop = $('.map__info').css('top');
-	var mapInfoWidth = $('.map__info').css('width');
+		// Map Variables
+		var $map = $('#map');
+		var $worldMap = $('.worldMap');
+		var $continent = $('.continent');
+		var $country = $('.country');
 
-	if ($(window).width() >= 975 || $(window).width() <= 665) {
-		var buttonLeft = parseInt(mapInfoLeft.slice(0,3));
-		buttonLeft = buttonLeft + parseInt(mapInfoWidth.slice(0,3)) - 17.5;
-	} else {
-		var buttonLeft = '98%';
-	}
+		// Info Window Variables
+		var $mapInfo = $('.map__info');
+		var $mapInfoList = $('.map__info__list');
+		var $mapInfoCountryContinent = $('.map__info__country-continent');
+		var $mapInfoStatusCountries = $('.map__info__status-countries');
+		var $mapInfoDelegatesChurches = $('.map__info__delegates-churches');
+		var $mapInfoChurches = $('.map__info__churches');
 
-	var buttonTop = (parseInt(mapInfoTop.slice(0,3)) - 17.5);
-	
+		// Zoom Button Variables
+		var $mapZoom = $('.map__zoom');
+		var $mapLabel = $('.map__label');
+		var $mapHeading = $('.map__heading');
 
-	var $button = $('.map__zoom[data-name=' + current + ']')
-	console.log($button);	
 
-	if ($('#map').attr('class') === 'zoomed') {
 
-		// Zoom Out
-		TweenMax.to([$('.map__info__country-title'), $('.map__info__list')], 0, { opacity: 0, visibility: "hidden" });
-		TweenMax.to($continent, 1, { scale: 1, x: 0, y: 0 });
-		TweenMax.to($('.continent'), 1, { opacity: 1, visibility: "visible" });
-		TweenMax.to($('.map__zoom').not($button), 1, { opacity: 1, visibility: "visible", delay: 1.25});
-		TweenMax.to($('.map__label'), 1, { opacity: 1, visibility: "visible", delay: 1.25});
-		TweenMax.to($button, 1, { left: left, top: top })
-		TweenMax.to($button, 0.25, { rotation: 0, delay: 1 })
-		TweenMax.to($button, 1, { x: 0, y: 0 })
-		TweenMax.to($('.map__info'), 1, { opacity: 0, visibility: "hidden" });
-		TweenMax.to($('.country.active'), 1, { fill: "#c4c4c4" });
-		TweenMax.to([$('.map__info__country-title'), $('.map__info__list')], 0.25, { opacity: 0, visibility: "hidden" });
-		$('.map__info__country-title').html('');
-		$('.map__info__status-countries').html('');
-		$('.map__info__delegates-churches').html('');
-		$('.map__info__churches').html('');
+	var zoom = function(current, scale, x, y, name, i){
+		var $currentContinent = $('.continent[id=' + current +']');
+		var $currentMapZoom = $('.map__zoom[data-name=' + current + ']');
 
-		$('.country').attr('class', 'country');
-		$('.map__heading').text('Choose a Region to Explore:');
-		$('#map').attr('class', '');
-	} else {
-		// Zoom In
-		$('.country').attr('class', 'country zoomed');
-		$('.map__info__country-title').html('Overall Data:');
-		$('.map__info__status-countries').html(info[current][0].countries);
-		$('.map__info__delegates-churches').html(info[current][0].churches);
+		var top = coords[i].buttonTop;
+		var left = coords[i].buttonLeft;
 
-		TweenMax.to($continent, 1, { scale: scale, x: x, y: y });
-		TweenMax.to($('.continent').not($continent), 1, { opacity: 0, visibility: "hidden" });
-		TweenMax.to($('.map__zoom').not($button), 1, { opacity: 0, visibility: "hidden" });
-		TweenMax.to($('.map__label'), 1, { opacity: 0, visibility: "hidden" });
-		TweenMax.to($button, 1, { left: buttonLeft, top: buttonTop })
-		TweenMax.to($button, 0.25, { rotation: 45, delay: 1 })
-		TweenMax.to($('.map__info'), 1, { opacity: 1, visibility: "visible", delay: 1.25});
-		TweenMax.to($('.country.active'), 1, { fill: "#097888", delay: 1.25});
-		TweenMax.to([$('.map__info__country-title'), $('.map__info__list')], 1, { opacity: 1, visibility: "visible", delay: 2});
-		$('.map__heading').html(name + ' <span>(select a country)</span>');
-		$('#map').attr('class', 'zoomed');
-	}
+		var mapInfoLeft = $('.map__info').css('left');
+		var mapInfoTop = $('.map__info').css('top');
+		var buttonTop = (parseInt(mapInfoTop.slice(0,3)) - 17.5);
+		var mapInfoWidth = $('.map__info').css('width');
 
-	
-};
-
-// Trigger Zoom Function when Zoom Button is Clicked
-$('.map__zoom, .map__label').on('click', function(){
-	var $this = $(this);
-	
-	$(coords).each(function(i){
-		if (coords[i].continent === $this.attr('data-name')) {
-			zoom($this.attr('data-name'), coords[i].scale, coords[i].x, coords[i].y, coords[i].name, i);
-		}
-	})
-});
-
-// Toggle selected country
-
-$('.country').on('click', function(){
-	if ($('#map').attr('class') === 'zoomed') {
-		if ($(this).attr('class') === "country zoomed active") {
-			console.log('Active');
+		if ($(window).width() >= 975 || $(window).width() <= 665) {
+			var buttonLeft = parseInt(mapInfoLeft.slice(0,3));
+			buttonLeft = buttonLeft + parseInt(mapInfoWidth.slice(0,3)) - 17.5;
 		} else {
-			console.log('Inactive');
+			var buttonLeft = '98%';
+		}
+		console.log($currentMapZoom);	
 
-			var i = $(this).attr('data-index');
-			var continent = $(this).parent().attr('id');
+		if ($map.attr('class') === 'zoomed') {
 
-			console.log(i + ' ' + continent);
+			// Zoom Out
+			TweenMax.to([$mapInfoCountryContinent, $mapInfoList], 0, { opacity: 0, visibility: "hidden" });
+			TweenMax.to($currentContinent, 1, { scale: 1, x: 0, y: 0 });
+			TweenMax.to($continent, 1, { opacity: 1, visibility: "visible" });
+			TweenMax.to($mapZoom.not($currentMapZoom), 1, { opacity: 1, visibility: "visible", delay: 1.25});
+			TweenMax.to($mapLabel, 1, { opacity: 1, visibility: "visible", delay: 1.25});
+			TweenMax.to($currentMapZoom, 1, { left: left, top: top })
+			TweenMax.to($currentMapZoom, 0.25, { rotation: 0, delay: 1 })
+			TweenMax.to($currentMapZoom, 1, { x: 0, y: 0 })
+			TweenMax.to($mapInfo, 1, { opacity: 0, visibility: "hidden" });
+			TweenMax.to($('.country.active'), 1, { fill: "#c4c4c4" });
+			TweenMax.to([$mapInfoCountryContinent, $mapInfoList], 0.25, { opacity: 0, visibility: "hidden" });
+			$mapInfoCountryContinent.html('');
+			$mapInfoStatusCountries.html('');
+			$mapInfoDelegatesChurches.html('');
+			$mapInfoChurches.html('');
 
-			$('.map__info__country-title', '.map__info__list').css({
-				'opacity': "0",
-				'visibility': 'hidden'
-			});
+			$country.attr('class', 'country');
+			$mapHeading.text('Choose a Region to Begin:');
+			$map.attr('class', '');
+		} else {
+			// Zoom In
+			$country.attr('class', 'country zoomed');
+			$mapInfoCountryContinent.html(name);
+			$mapInfoStatusCountries.html(info[current][0].countries);
+			$mapInfoDelegatesChurches.html(info[current][0].churches);
 
-			TweenMax.to([$('.map__info__country-title'), $('.map__info__list')], 0, { opacity: 0, visibility: "hidden" });
+			TweenMax.to($currentContinent, 1, { scale: scale, x: x, y: y });
+			TweenMax.to($continent.not($currentContinent), 1, { opacity: 0, visibility: "hidden" });
+			TweenMax.to($mapZoom.not($currentMapZoom), 1, { opacity: 0, visibility: "hidden" });
+			TweenMax.to($mapLabel, 1, { opacity: 0, visibility: "hidden" });
+			TweenMax.to($currentMapZoom, 1, { left: buttonLeft, top: buttonTop })
+			TweenMax.to($currentMapZoom, 0.25, { rotation: 45, delay: 1 })
+			TweenMax.to($mapInfo, 1, { opacity: 1, visibility: "visible", delay: 1.25});
+			TweenMax.to($('.country.active'), 1, { fill: "#097888", delay: 1.25});
+			TweenMax.to([$mapInfoCountryContinent, $mapInfoList], 1, { opacity: 1, visibility: "visible", delay: 2});
+			$mapHeading.text('Select a Country:');
+			$map.attr('class', 'zoomed');
+		}
 
-			$('.map__info__country-title').html(info[continent][i].country);
-			$('.map__info__status-countries').html(info[continent][i].status);
-			$('.map__info__delegates-churches').html(info[continent][i].delegates);
-			$('.map__info__churches').html(info[continent][i].churches);
+		
+	};
 
-			$(this).attr('class', 'country zoomed active');
-			$('.country.zoomed').not($(this)).attr('class', 'country zoomed');
-			TweenMax.to($('.country.zoomed').not('.country.zoomed.active'), 0, { fill: "#c4c4c4" });
-			TweenMax.to($(this), 0.5, { fill: "#097888" });
-			TweenMax.to([$('.map__info__country-title'), $('.map__info__list')], 1.25, { opacity: 1, visibility: "visible", delay: 0.25});
-		};
-	}
-});
+	// Trigger Zoom Function when Zoom Button is Clicked
+	$mapZoom.add($mapLabel).on('click', function(){
+		var $this = $(this);
+		
+		$(coords).each(function(i){
+			if (coords[i].continent === $this.attr('data-name')) {
+				zoom($this.attr('data-name'), coords[i].scale, coords[i].x, coords[i].y, coords[i].name, i);
+			}
+		})
+	});
+
+	// Toggle selected country
+
+	$country.on('click', function(){
+		if ($map.attr('class') === 'zoomed') {
+			if ($(this).attr('class') === "country zoomed active") {
+				console.log('Active');
+			} else {
+				console.log('Inactive');
+
+				var i = $(this).attr('data-index');
+				var continentId = $(this).parent().attr('id');
+
+				console.log(i + ' ' + continentId);
+
+				$mapInfoCountryContinent.add($mapInfoList).css({
+					'opacity': "0",
+					'visibility': 'hidden'
+				});
+
+				TweenMax.to(['.map__info__country-continent', '.map__info__list'], 0, { opacity: 0, visibility: "hidden" });
+
+				$mapInfoCountryContinent.html(info[continentId][i].country);
+				$mapInfoStatusCountries.html(info[continentId][i].status);
+				$mapInfoDelegatesChurches.html(info[continentId][i].delegates);
+				$mapInfoChurches.html(info[continentId][i].churches); 
+
+				$(this).attr('class', 'country zoomed active');
+				$('.country.zoomed').not($(this)).attr('class', 'country zoomed');
+				TweenMax.to($('.country.zoomed').not('.country.zoomed.active'), 0, { fill: "#c4c4c4" });
+				TweenMax.to($(this), 0.5, { fill: "#097888" });
+				TweenMax.to(['.map__info__country-continent', '.map__info__list'], 1.25, { opacity: 1, visibility: "visible", delay: 0.25}); 
+			};
+		}
+	});
+};
+membersMap();
 
 // Mobile Hamburger Menu Animation
 
-$('.header__buttons').on('click', function(){
+var mobileHamburger = function(){
+	var $headerButtons = $('.header__buttons');
+	var $htmlBody = $('html, body');
+	var $headerNav = $('.header__nav');
+	var $closeEverything = $('.closeEverything');
 
-	var animateHamburger = new TimelineMax();
+	$headerButtons.on('click', function(){
 
-	if ($('.header__buttons').hasClass('active')) {
+		var animateHamburger = new TimelineMax();
 
-		$('html, body').css({
-		    'overflow-y': 'scroll',
-		    'height': 'auto'
-		});
-		
-		$('.header__buttons').removeClass('active');
+		if ($headerButtons.hasClass('active')) {
 
-		TweenMax.to($('.header__nav'), 0.5, { right: -250 });
+			$htmlBody.css({
+				'overflow-y': 'scroll',
+				'height': 'auto'
+			});
+			
+			$headerButtons.removeClass('active');
 
-		setTimeout(function(){ $('.header__nav').hide(); }, 500);
+			TweenMax.to('.header__nav', 0.5, { right: -250 });
 
-		$('.closeEverything').removeClass('active');
+			setTimeout(function(){ $headerNav.hide(); }, 500);
 
-		animateHamburger.to( $('.hamburger__top'), 0.25, { rotation: 0, transformOrigin: 'center center' })
-						.to( $('.hamburger__bottom'), 0.25, { rotation: 0, transformOrigin: 'center center' }, "-=0.25" )
-						.to( $('.hamburger__middle'), 0, { opacity: 1 })
-						.to( $('.hamburger__top'), 0.25, { y: 0, transformOrigin: 'center center' })
-						.to( $('.hamburger__bottom'), 0.25, { y: 0, transformOrigin: 'center center' }, '-=0.25' );
+			$closeEverything.removeClass('active');
 
-	} else {
+			animateHamburger.to( '.hamburger__top', 0.25, { rotation: 0, transformOrigin: 'center center' })
+							.to( '.hamburger__bottom', 0.25, { rotation: 0, transformOrigin: 'center center' }, "-=0.25" )
+							.to( '.hamburger__middle', 0, { opacity: 1 })
+							.to( '.hamburger__top', 0.25, { y: 0, transformOrigin: 'center center' })
+							.to( '.hamburger__bottom', 0.25, { y: 0, transformOrigin: 'center center' }, '-=0.25' );
 
-		$('html, body').css({
-		    'overflow-y': 'hidden',
-		    'height': '100%'
-		});
+		} else {
 
-		$('.header__buttons').addClass('active');
+			$htmlBody.css({
+				'overflow-y': 'hidden',
+				'height': '100%'
+			});
 
-		$('.header__nav').show();
+			$headerButtons.addClass('active');
 
-		TweenMax.to($('.header__nav'), 0.5, { right: 0 });
+			$headerNav.show();
 
-		$('.closeEverything').addClass('active');
+			TweenMax.to('.header__nav', 0.5, { right: 0 });
 
-		animateHamburger.to( $('.hamburger__top'), 0.25, { y: '+=8px', transformOrigin: 'center center' })
-						.to( $('.hamburger__bottom'), 0.25, { y: '-=8px', transformOrigin: 'center center' }, "-=0.25" )
-						.to( $('.hamburger__middle'), 0, { opacity: 0 })
-						.to( $('.hamburger__top'), 0.25, { rotation: 45, transformOrigin: 'center center' })
-						.to( $('.hamburger__bottom'), 0.25, { rotation: -45, transformOrigin: 'center center' }, '-=0.25' );
+			$closeEverything.addClass('active');
 
-	}
-});
+			animateHamburger.to( '.hamburger__top', 0.25, { y: '+=8px', transformOrigin: 'center center' })
+							.to( '.hamburger__bottom', 0.25, { y: '-=8px', transformOrigin: 'center center' }, "-=0.25" )
+							.to( '.hamburger__middle', 0, { opacity: 0 })
+							.to( '.hamburger__top', 0.25, { rotation: 45, transformOrigin: 'center center' })
+							.to( '.hamburger__bottom', 0.25, { rotation: -45, transformOrigin: 'center center' }, '-=0.25' );
 
-$('.closeEverything').on('click', function(){
+		}
+	});
 
-		$('.header__buttons').removeClass('active');
+	$closeEverything.on('click', function(){
 
-		$('html, body').css({
-		    'overflow-y': 'scroll',
-		    'height': 'auto'
-		});
+			$headerButtons.removeClass('active');
 
-		TweenMax.to($('.header__nav'), 0.5, { right: -250 });
+			$htmlBody.css({
+				'overflow-y': 'scroll',
+				'height': 'auto'
+			});
 
-		$('.closeEverything').removeClass('active');
-});
+			TweenMax.to('.header__nav', 0.5, { right: -250 });
+
+			$closeEverything.removeClass('active');
+	});
+}
+mobileHamburger();
 
 // Charis History Page
 
@@ -274,8 +303,9 @@ var mapInitial = function(){
 };
 
 var tweenIterator = function(){
+	var $timelineEvent = $('.timeline__event');
 	
-	$('.timeline__event').each(function(){
+	$timelineEvent.each(function(){
 		var currentBox = this;
 
 		var tweenBox = TweenMax.from(currentBox, 1, { opacity: 0});
@@ -287,8 +317,9 @@ var tweenIterator = function(){
 };
 
 var toggleCountry = function(){
+	var $timelineDot = $('.timeline__dot');
 
-	$('.timeline__dot').each(function(i){
+	$timelineDot.each(function(i){
 		var currentDot = this;
 		var dot = $(this).attr('data-dot');
 		var grayTrigger = $(this).offset().top + ( $(this).parent().height() / 2 );
@@ -305,8 +336,7 @@ var toggleCountry = function(){
 		.setTween(tweenGray)
 		.addTo(controller);
 	});
-}
-
+};
 
 var bottomMap = function(){
 	if ($(window).width() > 768) {
@@ -325,7 +355,7 @@ var bottomMap = function(){
 
 // Photos.php Slideshow Centering
 
-$('.slideControls').on('click', function(){
+/* $('.slideControls').on('click', function(){
 	var currentSlide = $('.fancybox-inner .cycle-slide.cycle-slide-active').next();
 
 	if ( currentSlide.height() > currentSlide.width() ) {
@@ -335,4 +365,4 @@ $('.slideControls').on('click', function(){
 
 		currentSlide.css( 'margin-left', margin );
 	}
-});
+}); */
