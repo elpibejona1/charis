@@ -30,7 +30,7 @@
 			<img class="map__zoom map__zoom--AS" data-name="asia" src="../../_images/about/members/zoomButton.png" alt="">
 			<div class="map__info">
 				<h3  class="map__info__country"></h3>
-				<ul class="list map__info__list">
+				<ul class="map__info__list">
 					<li class="map__info__status"></li>
 					<li class="map__info__delegates"></li>
 					<li class="map__info__churches"></li>
