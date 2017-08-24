@@ -19,6 +19,7 @@
 						<li><a href="<?php echo $directory ?>english/media/video.php">Video Archive</a></li>
 						<li><a href="<?php echo $directory ?>english/media/photos.php">Photo Archive</a></li>
 					</ul>
+				<li><a href="<?php echo $directory ?>english/news/index.php">News</a></li>
 				<li>
 					<select  onchange="location = this.options[this.selectedIndex].value;">
 						<option selected>English</option>
