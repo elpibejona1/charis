@@ -62,7 +62,7 @@
 				<p><span>Charis Commitment to a Common Mission</span> - Unanimously approved by the delegates of the 2008 CILE, this historic document summarizes our commitment to work together in regional and international arenas to promote church planting, leadership training and integrated&nbsp;ministries.</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/cccm/CCCM_English.pdf">PDF: Letter</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/cccm/CCCM_English.pdf">PDF: A4</a></li>
 					</ul>
 				</div>
 			</div>
@@ -71,6 +71,7 @@
 </div>
 
 </script>
+	<? $globalFunction->includeContent(2,'footer'); ?>
 	<? $globalFunction->includeContent(2,'botInc'); ?>
 </body>
 </html>
