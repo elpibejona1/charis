@@ -36,7 +36,7 @@
 						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.0_Letter).pdf">PDF: Letter</a></li>
 						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.0_A4).pdf">PDF: A4</a></li>
 						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.1_with_verses_letter).pdf">PDF: Letter (with&nbsp;scriptures)</a></li>
-						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.1_with_verses_A4).pdf">PDF: A4 (with&nbsp;scriptures)</a></li>
+						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.1_with_verses_A4).pdf">PDF: A4 <br>(with&nbsp;scriptures)</a></li>
 					</ul>
 				</div>
 				<div class="primary__downloadContainer">
@@ -44,7 +44,7 @@
 						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.0_Letter).docx">DOCX: Letter</a></li>
 						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.0_A4).docx">DOCX: A4</a></li>
 						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.1_with_verses_letter).docx">DOCX: Letter (with&nbsp;scriptures)</a></li>
-						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.1_with_verses_A4).docx">DOCX: A4 (with&nbsp;scriptures)</a></li>
+						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.1_with_verses_A4).docx">DOCX: <br>A4 (with&nbsp;scriptures)</a></li>
 					</ul>
 				</div>
 				<div class="primary__downloadContainer">
