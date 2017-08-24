@@ -33,11 +33,6 @@
 				<p><span>Charis Commitment to a Common Identity</span> - Unanimously approved by the delegates of the 2015 CILE, this historic document is a truly global expression of the common values and beliefs of the Grace Brethren movement.</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(2015_Brochure).pdf">PDF: Brochure</a></li>
-					</ul>
-				</div>
-				<div class="primary__downloadContainer">
-					<ul>
 						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.0_Letter).pdf">PDF: Letter</a></li>
 						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.0_A4).pdf">PDF: A4</a></li>
 						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.1_with_verses_letter).pdf">PDF: Letter (with&nbsp;scriptures)</a></li>
@@ -50,6 +45,11 @@
 						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.0_A4).docx">DOCX: A4</a></li>
 						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.1_with_verses_letter).docx">DOCX: Letter (with&nbsp;scriptures)</a></li>
 						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.1_with_verses_A4).docx">DOCX: A4 (with&nbsp;scriptures)</a></li>
+					</ul>
+				</div>
+				<div class="primary__downloadContainer">
+					<ul>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(2015_Brochure).pdf">PDF: Brochure</a></li>
 					</ul>
 				</div>
 			</div>

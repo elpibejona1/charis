@@ -32,63 +32,63 @@
             <img src="../_images/celebration/resource1.png" alt="">
             <h3>Celebration Guide</h3>
             <p>A guide to Charis Celebration Sunday, along with a recommended schedule</p>
-            <!-- <div><a target="_blank" href="">Download</a></div> -->
+            <!-- <div><a class="resourceThird__link" target="_blank" href="">Download</a></div> -->
             <span>Coming Soon</span>
         </div>
         <div class="resourceThird">
             <img src="../_images/celebration/placeholder.png" alt="">
             <h3>CHARIS CELEBRATION WHITEBOARD VIDEO</h3>
             <p>For churches with video capability</p>
-            <!-- <div><a target="_blank" href="">Vimeo</a></div> -->
+            <!-- <div><a class="resourceThird__link" target="_blank" href="">Vimeo</a></div> -->
             <span>Coming Soon</span>
         </div>
         <div class="resourceThird">
             <img src="../_images/celebration/placeholder.png" alt="">
             <h3>CHARIS CELEBRATION PRINTED BOOKLET</h3>
             <p>For churches without video capability</p>
-            <!-- <div><a target="_blank" href="">Download</a></div> -->
+            <!-- <div><a class="resourceThird__link" target="_blank" href="">Download</a></div> -->
             <span>Coming Soon</span>
         </div>
         <div class="resourceThird">
             <img src="../_images/celebration/placeholder.png" alt="">
             <h3>PRAYER BOOKLET</h3>
             <p>To help you organize your celebration, with 10-minute, 30-minute and one-hour options</p>
-            <!-- <div><a target="_blank" href="">Download</a></div> -->
+            <!-- <div><a class="resourceThird__link" target="_blank" href="">Download</a></div> -->
             <span>Coming Soon</span>
         </div>
         <div class="resourceThird">
             <img src="../_images/celebration/resource5.png" alt="">
             <h3>PROMOTIONAL POSTER</h3>
             <p>8.5”w x 11”h poster to print and display at your church</p>
-            <div><a target="_blank" href="csc_poster_2017_bleed.pdf">With Bleed</a></div>
-            <div><a target="_blank" href="csc_poster_2017_noBleed.pdf">No Bleed</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="csc_poster_2017_bleed.pdf">With Bleed</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="csc_poster_2017_noBleed.pdf">No Bleed</a></div>
         </div>
         <div class="resourceThird">
             <img class="wide" src="../_images/celebration/resource6.png" alt="">
             <h3>PROJECTION SCREENS</h3>
             <p>For slide presentations, in both 4:3 and 16:9 formats</p>
-            <div><a href="csc_projection_slides_4-3.zip">4:3</a></div>
-            <div><a href="csc_projection_slides_16-9.zip">16:9</a></div>
+            <div><a class="resourceThird__link" href="csc_projection_slides_4-3.zip">4:3</a></div>
+            <div><a class="resourceThird__link" href="csc_projection_slides_16-9.zip">16:9</a></div>
         </div>
         <div class="resourceThird">
             <img src="../_images/celebration/resource7.png" alt="">
             <h3>Graphics for social media promotion</h3>
             <p>Including a Facebook cover image and shareable graphics</p>
-            <div><a href="csc_social_media_2017.zip">Download</a></div>
+            <div><a class="resourceThird__link" href="csc_social_media_2017.zip">Download</a></div>
         </div>
         <div class="resourceThird resourceThird--padding">
             <img class="wide" src="../_images/celebration/resource8.png" alt="">
             <h3>Special offering giving card</h3>
             <p>For collecting special gifts on Charis Celebration Sunday</p>
-            <!-- <div><a target="_blank" href="">With Bleed</a></div>
-            <div><a target="_blank" href="">No Bleed</a></div> -->
+            <!-- <div><a class="resourceThird__link" target="_blank" href="">With Bleed</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="">No Bleed</a></div> -->
             <span>Coming Soon</span>
         </div>
         <div class="resourceThird">
             <img src="../_images/celebration/resource9.png" alt="">
             <h3>FEEDBACK FORM</h3>
             <p>We want to hear from you! Your input will help us make future celebrations even more successful</p>
-            <div><a target="_blank" href="csc_feedbackForm_2017.pdf">Download</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="csc_feedbackForm_2017.pdf">Download</a></div>
         </div>
     </div>
     <div class="row">
@@ -99,14 +99,23 @@
     <div class="row">
         <h2 class="heading">Charis Alliance Videos</h2>
         <p class="copy copy--large">To prepare your church for Charis Celebration Sunday, and to create greater awareness about the Charis Alliance, share these videos at your church and in your social networks.</p>
-        <ul class="videoList">
-            <li><a target="_blank" href="https://vimeo.com/229173759">Charis Celebration Sunday 2017 Promo</a></li>
-            <li>Pastors Mike Yoder, Clancy Cruise, and Keith Minier talk about Charis Celebration Sunday and why your church should be involved!</li>
-            <li><a target="_blank" href="https://vimeo.com/153226056">The Charis Alliance</a></li>
-            <li>This video is an introduction and overview of the Charis Alliance, a movement of Grace Brethren Churches around the world. Finalized in early 2016, most footage from this video was shot in the Fall of 2015 at the Charis National Leadership Encounter in Bangkok,&nbsp;Thailand.</li>
-            <li><a target="_blank" href="https://vimeo.com/161481570">The Charis Alliance (short)</a></li>
-            <li>This video is a shortend version of the introduction and overview of the Charis Alliance.</li>
-        </ul>
+    </div>
+    <div class="row">
+        <div class="resourceThird resourceThird--video">
+            <a class="resourceThird__videoLink" href="https://vimeo.com/229173759" target="_blank"><img src="../_images/celebration/video1.jpg" alt="">
+            <h3>Charis Celebration Sunday 2017 Promo</h3></a>
+            <p>Pastors Mike Yoder, Clancy Cruise, and Keith Minier talk about Charis Celebration Sunday and why your church should be involved!</p>
+        </div>
+        <div class="resourceThird resourceThird--video">
+            <a class="resourceThird__videoLink" href="https://vimeo.com/153226056" target="_blank"><img src="../_images/celebration/video2.jpg" alt="">
+            <h3>The Charis Alliance</h3></a>
+            <p>This video is an introduction and overview of the Charis Alliance, a movement of Grace Brethren Churches around the world. Finalized in early 2016, most footage from this video was shot in the Fall of 2015 at the Charis National Leadership Encounter in Bangkok,&nbsp;Thailand.</p>
+        </div>
+        <div class="resourceThird resourceThird--video">
+            <a class="resourceThird__videoLink" href="https://vimeo.com/161481570" target="_blank"><img src="../_images/celebration/video3.jpg" alt="">
+            <h3>The Charis Alliance (short&nbsp;version)</h3></a>
+            <p>This video is a shortend version of the introduction and overview of the Charis Alliance.</p>
+        </div>
     </div>
     <div class="row">
         <img src="../_images/celebration/watermark.png" alt="" class="watermark">
