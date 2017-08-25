@@ -933,20 +933,32 @@ footer {
 
 	h3 {
 		font-family: 'Raleway', sans-serif;
-		color: @tea;
-		font-weight: 800;
+		color: @gray;
+		font-weight: 600;
 		font-size: 32px;
 		padding: 15px 0;
 		margin-bottom: 20px;
+
+		span {
+			font-family: 'Kaushan Script', serif;
+			font-size: 40px;
+
+			&.continent { color: @red; }
+
+			&.country { color: @tea; }
+		}
 	}
 	
-	ul { padding-left: 20px; }
 
 	li {
 		font-family: 'Raleway', sans-serif;
 		color: @gray;
 		font-size: 20px;
 		margin-bottom: 10px;
+		line-height: 1.2;
+		font-weight: 600;
+		
+		span { font-weight: 400; }
 	}
 
 	p {
@@ -955,7 +967,7 @@ footer {
 		font-size: 16px;
 	}
 	
-	&__country,
+	&__title,
 	&__list { opacity: 0; visibility: hidden; }
 }
 

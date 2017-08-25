@@ -41,11 +41,11 @@
 				<div class="map__label map__label--AS" data-name="asia">Asia</div>
 			</div>
 			<div class="map__info">
-				<h3 class="map__info__country-continent"></h3>
+				<h3 class="map__info__title"></h3>
 				<ul class="map__info__list">
-					<li class="map__info__status-countries"></li>
-					<li class="map__info__delegates-churches"></li>
-					<li class="map__info__churches"></li>
+					<li class="map__info__item map__info__item--1"></li>
+					<li class="map__info__item map__info__item--2"></li>
+					<li class="map__info__item map__info__item--3"></li>
 				</ul>
 			</div>
 		</div>

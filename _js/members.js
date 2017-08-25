@@ -73,14 +73,14 @@ var info = {
 			churches: 190
 		},
 		{
-			country: "Central African Republic",
+			country: "The Central African Republic",
 			status: "Charis Charter Member",
 			delegates: 3,
 			churches: 2100
 		},
 
 		{
-			country: "Democratic Republic of the Congo",
+			country: "The Democratic Republic of the Congo",
 			status: "Charis Observer Member",
 			delegates: 1,
 			churches: 1
@@ -210,7 +210,7 @@ var info = {
 			churches: 8
 		},
 		{
-			country: "United States",
+			country: "The United States",
 			status: "Charis Charter Member",
 			delegates: 3,
 			churches: 245

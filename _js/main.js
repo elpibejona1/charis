@@ -87,10 +87,10 @@ var membersMap = function () {
 		// Info Window Variables
 		var $mapInfo = $('.map__info');
 		var $mapInfoList = $('.map__info__list');
-		var $mapInfoCountryContinent = $('.map__info__country-continent');
-		var $mapInfoStatusCountries = $('.map__info__status-countries');
-		var $mapInfoDelegatesChurches = $('.map__info__delegates-churches');
-		var $mapInfoChurches = $('.map__info__churches');
+		var $mapInfoTitle = $('.map__info__title');
+		var $mapInfoItem1 = $('.map__info__item--1');
+		var $mapInfoItem2 = $('.map__info__item--2');
+		var $mapInfoItem3 = $('.map__info__item--3');
 
 		// Zoom Button Variables
 		var $mapZoom = $('.map__zoom');
@@ -122,7 +122,7 @@ var membersMap = function () {
 		if ($map.attr('class') === 'zoomed') {
 
 			// Zoom Out
-			TweenMax.to([$mapInfoCountryContinent, $mapInfoList], 0, { opacity: 0, visibility: "hidden" });
+			TweenMax.to([$mapInfoTitle, $mapInfoList], 0, { opacity: 0, visibility: "hidden" });
 			TweenMax.to($currentContinent, 1, { scale: 1, x: 0, y: 0 });
 			TweenMax.to($continent, 1, { opacity: 1, visibility: "visible" });
 			TweenMax.to($mapZoom.not($currentMapZoom), 1, { opacity: 1, visibility: "visible", delay: 1.25});
@@ -134,11 +134,11 @@ var membersMap = function () {
 			TweenMax.to($currentMapZoom, 1, { x: 0, y: 0 })
 			TweenMax.to($mapInfo, 1, { opacity: 0, visibility: "hidden" });
 			TweenMax.to($('.country.active'), 1, { fill: "#c4c4c4" });
-			TweenMax.to([$mapInfoCountryContinent, $mapInfoList], 0.25, { opacity: 0, visibility: "hidden" });
-			$mapInfoCountryContinent.html('');
-			$mapInfoStatusCountries.html('');
-			$mapInfoDelegatesChurches.html('');
-			$mapInfoChurches.html('');
+			TweenMax.to([$mapInfoTitle, $mapInfoList], 0.25, { opacity: 0, visibility: "hidden" });
+			$mapInfoTitle.html('');
+			$mapInfoItem1.html('');
+			$mapInfoItem2.html('');
+			$mapInfoItem3.html('');
 
 			$country.attr('class', 'country');
 			$mapHeading.text('Choose a Region to Begin:');
@@ -146,9 +146,9 @@ var membersMap = function () {
 		} else {
 			// Zoom In
 			$country.attr('class', 'country zoomed');
-			$mapInfoCountryContinent.html('The Charis Alliance in <br>' + info[current][0].continent);
-			$mapInfoStatusCountries.html('Charis Countries: ' + info[current][0].countries);
-			$mapInfoDelegatesChurches.html('Charis Churches: ' + info[current][0].churches);
+			$mapInfoTitle.html('The Charis Alliance in <br><span class="continent">' + info[current][0].continent + '</span>');
+			$mapInfoItem1.html('Charis Countries: <span>' + info[current][0].countries) + '</span>';
+			$mapInfoItem2.html('Charis Churches: <span>' + info[current][0].churches + '</span>');
 
 			TweenMax.to($currentContinent, 1, { scale: scale, x: x, y: y });
 			TweenMax.to($continent.not($currentContinent), 1, { opacity: 0, visibility: "hidden" });
@@ -160,7 +160,7 @@ var membersMap = function () {
 			TweenMax.to($currentMapZoom, 0.25, { rotation: 45, delay: 1, transformOrigin: "17.5px center" })
 			TweenMax.to($mapInfo, 1, { opacity: 1, visibility: "visible", delay: 1.25});
 			TweenMax.to($('.country.active'), 1, { fill: "#097888", delay: 1.25});
-			TweenMax.to([$mapInfoCountryContinent, $mapInfoList], 1, { opacity: 1, visibility: "visible", delay: 2});
+			TweenMax.to([$mapInfoTitle, $mapInfoList], 1, { opacity: 1, visibility: "visible", delay: 2});
 			$mapHeading.text('Select a Country:');
 			$map.attr('class', 'zoomed');
 		}
@@ -169,7 +169,7 @@ var membersMap = function () {
 	};
 
 	// Trigger Zoom Function when Zoom Button is Clicked
-	$mapZoom.add($mapLabel).on('click', function(){
+	$mapZoom.on('click', function(){
 		var $this = $(this);
 		
 		$(coords).each(function(i){
@@ -193,23 +193,23 @@ var membersMap = function () {
 
 				console.log(i + ' ' + continentId);
 
-				$mapInfoCountryContinent.add($mapInfoList).css({
+				$mapInfoTitle.add($mapInfoList).css({
 					'opacity': "0",
 					'visibility': 'hidden'
 				});
 
-				TweenMax.to(['.map__info__country-continent', '.map__info__list'], 0, { opacity: 0, visibility: "hidden" });
+				TweenMax.to(['.map__info__title', '.map__info__list'], 0, { opacity: 0, visibility: "hidden" });
 
-				$mapInfoCountryContinent.html(info[continentId][i].country);
-				$mapInfoStatusCountries.html('Membership Status: ' + info[continentId][i].status);
-				$mapInfoDelegatesChurches.html('Charis Delegates: ' + info[continentId][i].delegates);
-				$mapInfoChurches.html('Charis Churches: ' + info[continentId][i].churches); 
+				$mapInfoTitle.html('The Charis Alliance in <br><span class="country">' +info[continentId][i].country) + '</span>';
+				$mapInfoItem1.html('Membership Status: <br><span>' + info[continentId][i].status + '</span>');
+				$mapInfoItem2.html('Charis Delegates: <span>' + info[continentId][i].delegates + '</span>');
+				$mapInfoItem3.html('Charis Churches: <span>' + info[continentId][i].churches + '</span>'); 
 
 				$(this).attr('class', 'country zoomed active');
 				$('.country.zoomed').not($(this)).attr('class', 'country zoomed');
 				TweenMax.to($('.country.zoomed').not('.country.zoomed.active'), 0, { fill: "#c4c4c4" });
 				TweenMax.to($(this), 0.5, { fill: "#097888" });
-				TweenMax.to(['.map__info__country-continent', '.map__info__list'], 1.25, { opacity: 1, visibility: "visible", delay: 0.25}); 
+				TweenMax.to(['.map__info__title', '.map__info__list'], 1.25, { opacity: 1, visibility: "visible", delay: 0.25}); 
 			};
 		}
 	});
