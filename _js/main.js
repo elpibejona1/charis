@@ -126,7 +126,9 @@ var membersMap = function () {
 			TweenMax.to($currentContinent, 1, { scale: 1, x: 0, y: 0 });
 			TweenMax.to($continent, 1, { opacity: 1, visibility: "visible" });
 			TweenMax.to($mapZoom.not($currentMapZoom), 1, { opacity: 1, visibility: "visible", delay: 1.25});
-			TweenMax.to($mapLabel, 1, { opacity: 1, visibility: "visible", delay: 1.25});
+			if ($(window).width() > 870) {
+				TweenMax.to($mapLabel, 1, { display: 'block', delay: 1.25});
+			}
 			TweenMax.to($currentMapZoom, 1, { left: left, top: top })
 			TweenMax.to($currentMapZoom, 0.25, { rotation: 0, delay: 1 })
 			TweenMax.to($currentMapZoom, 1, { x: 0, y: 0 })
@@ -151,9 +153,11 @@ var membersMap = function () {
 			TweenMax.to($currentContinent, 1, { scale: scale, x: x, y: y });
 			TweenMax.to($continent.not($currentContinent), 1, { opacity: 0, visibility: "hidden" });
 			TweenMax.to($mapZoom.not($currentMapZoom), 1, { opacity: 0, visibility: "hidden" });
-			TweenMax.to($mapLabel, 1, { opacity: 0, visibility: "hidden" });
+			if ($(window).width() > 870) {
+				TweenMax.set($mapLabel, { display: 'none' });
+			}
 			TweenMax.to($currentMapZoom, 1, { left: buttonLeft, top: buttonTop })
-			TweenMax.to($currentMapZoom, 0.25, { rotation: 45, delay: 1 })
+			TweenMax.to($currentMapZoom, 0.25, { rotation: 45, delay: 1, transformOrigin: "17.5px center" })
 			TweenMax.to($mapInfo, 1, { opacity: 1, visibility: "visible", delay: 1.25});
 			TweenMax.to($('.country.active'), 1, { fill: "#097888", delay: 1.25});
 			TweenMax.to([$mapInfoCountryContinent, $mapInfoList], 1, { opacity: 1, visibility: "visible", delay: 2});

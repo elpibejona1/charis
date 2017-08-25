@@ -16,18 +16,30 @@
 		</div>
 		<?php include("../../_images/about/members/world.svg"); ?>
 		<div class="container">
-			<div class="map__label map__label--NA" data-name="northAmerica">North America</div>
-			<img class="map__zoom map__zoom--NA" data-name="northAmerica" src="../../_images/about/members/zoomButton.png" alt="">
-			<div class="map__label map__label--CA" data-name="caribbean">The Caribbean</div>
-			<img class="map__zoom map__zoom--CA" data-name="caribbean" src="../../_images/about/members/zoomButton.png" alt="">
-			<div class="map__label map__label--SA" data-name="southAmerica">South America</div>
-			<img class="map__zoom map__zoom--SA" data-name="southAmerica" src="../../_images/about/members/zoomButton.png" alt="">
-			<div class="map__label map__label--EU" data-name="europe">Europe</div>
-			<img class="map__zoom map__zoom--EU"  data-name="europe" src="../../_images/about/members/zoomButton.png" alt="">
-			<div class="map__label map__label--AF" data-name="africa">Africa</div>
-			<img class="map__zoom map__zoom--AF" data-name="africa" src="../../_images/about/members/zoomButton.png" alt="">
-			<div class="map__label map__label--AS" data-name="asia">Asia</div>
-			<img class="map__zoom map__zoom--AS" data-name="asia" src="../../_images/about/members/zoomButton.png" alt="">
+			<div class="map__zoom map__zoom--NA" data-name="northAmerica">
+				<img src="../../_images/about/members/zoomButton.png" alt="">
+				<div class="map__label map__label--NA" data-name="northAmerica">North America</div>
+			</div>
+			<div class="map__zoom map__zoom--CA" data-name="caribbean">
+				<img src="../../_images/about/members/zoomButton.png" alt="">
+				<div class="map__label map__label--CA" data-name="caribbean">The Caribbean</div>
+			</div>
+			<div class="map__zoom map__zoom--SA" data-name="southAmerica">
+				<img src="../../_images/about/members/zoomButton.png" alt="">
+				<div class="map__label map__label--SA" data-name="southAmerica">South America</div>
+			</div>
+			<div class="map__zoom map__zoom--EU"  data-name="europe">
+				<img src="../../_images/about/members/zoomButton.png" alt="">
+				<div class="map__label map__label--EU" data-name="europe">Europe</div>
+			</div>
+			<div class="map__zoom map__zoom--AF" data-name="africa">
+				<img src="../../_images/about/members/zoomButton.png" alt="">
+				<div class="map__label map__label--AF" data-name="africa">Africa</div>
+			</div>
+			<div class="map__zoom map__zoom--AS" data-name="asia">
+				<img src="../../_images/about/members/zoomButton.png" alt="">
+				<div class="map__label map__label--AS" data-name="asia">Asia</div>
+			</div>
 			<div class="map__info">
 				<h3 class="map__info__country-continent"></h3>
 				<ul class="map__info__list">
