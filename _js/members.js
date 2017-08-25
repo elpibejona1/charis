@@ -62,183 +62,189 @@ var coords = [
 var info = {
 	africa: [
 		{
-			countries: '6 Countries',
-			churches: '2500 Churches',
+			continent: 'Africa',
+			countries: 6,
+			churches: 2500,
 		},
 		{
 			country: "Cameroon",
 			status: "Charis Charter Member",
-			delegates: '3 Delegates',
-			churches: '190 churches'
+			delegates: 3,
+			churches: 190
 		},
 		{
 			country: "Central African Republic",
 			status: "Charis Charter Member",
-			delegates: '3 Delegates',
-			churches: '2100 churches'
+			delegates: 3,
+			churches: 2100
 		},
 
 		{
 			country: "Democratic Republic of the Congo",
 			status: "Charis Observer Member",
-			delegates: '1 Delegate',
-			churches: '1 church'
+			delegates: 1,
+			churches: 1
 		},
 		{
 			country: "Nigeria",
 			status: "Charis Charter Member",
-			delegates: '3 Delegates',
-			churches: '448 churches'
+			delegates: 3,
+			churches: 448
 		},
 		{
 			country: "Sudan",
 			status: "Charis Observer Member",
-			delegates: '1 Delegate',
-			churches: '1 church'
+			delegates: 1,
+			churches: 1
 		},
 		{
 			country: "Chad",  //TD
 			status: "Charis Charter Member",
-			delegates: '3 Delegates',
-			churches: '800 churches'
+			delegates: 3,
+			churches: 800
 		},
 	],
 	asia: [
 		{
-			countries: '3 Countries',
-			churches: '50 Churches',
+			continent: 'Asia',
+			countries: 3,
+			churches: 50,
 		},
 		{
 			country: "Japan",
 			status: "Charis Charter Member",
-			delegates: '1 Delegates',
-			churches: '3 churches'
+			delegates: 1,
+			churches: 3
 		},
 		{
 			country: "Cambodia", //KH
 			status: "Charis Charter Member",
-			delegates: '1 Delegates',
-			churches: '7 churches'
+			delegates: 1,
+			churches: 7
 		},
 		{
 			country: "The Philippines",
 			status: "Charis Charter Member",
-			delegates: '1 Delegates',
-			churches: '12 churches'
+			delegates: 1,
+			churches: 12
 		},
 	],
 	caribbean: [
 		{
-			countries: '3 Countries',
-			churches: '250 Churches',
+			continent: 'The Caribbean',
+			countries: 3,
+			churches: 250,
 		},
 		{
 			country: "The Bahamas",
 			status: "Charis Charter Member",
-			delegates: '1 Delegate',
-			churches: '8 churches'
+			delegates: 1,
+			churches: 8
 		},
 		{
 			country: "Haiti",
 			status: "Charis Charter Member",
-			delegates: '2 Delegate',
-			churches: '25 churches'
+			delegates: 2,
+			churches: 25
 		},
 		{
 			country: "Trinidad",
 			status: "Charis Charter Member",
-			delegates: '1 Delegate',
-			churches: '5 churches'
+			delegates: 1,
+			churches: 5
 		}
 	],
 	europe: [
 		{
-			countries: '4 Countries',
-			churches: '25 Churches',
+			continent: 'Europe',
+			countries: 4,
+			churches: 25,
 		},
 		{
 			country: "Germany",  //DE
 			status: "Charis Observer Member",
-			delegates: '1 Delegate',
-			churches: '2 churches'
+			delegates: 1,
+			churches: 2
 		},
 		{
 			country: "France",
 			status: "Charis Charter Member",
-			delegates: '1 Delegate',
-			churches: '7 churches'
+			delegates: 1,
+			churches: 7
 		},
 		{
 			country: "Great Britain",
 			status: "Charis Observer Member",
-			delegates: '1 Delegate',
-			churches: '2 churches'
+			delegates: 1,
+			churches: 2
 		},
 		{
 			country: "Portugal",
 			status: "Charis Observer Member",
-			delegates: '1 Delegate',
-			churches: '2 churches'
+			delegates: 1,
+			churches: 2
 		}
 	],
 	northAmerica: [
 		{
-			countries: '4 Countries',
-			churches: '400 Churches',
+			continent: 'North America',
+			countries: 4,
+			churches: 400,
 		},
 		{
 			country: "Canada",
 			status: "Charis Charter Member",
-			delegates: '1 Delegate',
-			churches: '3 churches'
+			delegates: 1,
+			churches: 3
 		},
 		{
 			country: "Guatemala",
 			status: "Charis Observer Member",
-			delegates: '1 Delegate',
-			churches: '1 church'
+			delegates: 1,
+			churches: 1
 		},
 		{
 			country: "Mexico",
 			status: "Charis Charter Member",
-			delegates: '2 Delegates',
-			churches: '8 churches'
+			delegates: 2,
+			churches: 8
 		},
 		{
 			country: "United States",
 			status: "Charis Charter Member",
-			delegates: '3 Delegates',
-			churches: '245 churches'
+			delegates: 3,
+			churches: 245
 		}
 	],
 	southAmerica: [
 		{
-			countries: '4 Countries',
-			churches: '45 Churches',
+			continent: 'South America',
+			countries: 4,
+			churches: 45,
 		},
 		{
 			country: "Argentina",
 			status: "Charis Charter Member",
-			delegates: '2 Delegates',
-			churches: '12 churches'
+			delegates: 2,
+			churches: 12
 		},
 		{
 			country: "Brazil",
 			status: "Charis Charter Member",
-			delegates: '2 Delegates',
-			churches: '17 churches'
+			delegates: 2,
+			churches: 17
 		},
 		{
 			country: "Chile",
 			status: "Charis Observer Member",
-			delegates: '1 Delegate',
-			churches: '1 church'
+			delegates: 1,
+			churches: 1
 		},
 		{
 			country: "Uruguay",
 			status: "Charis Observer Member",
-			delegates: '1 Delegate',
-			churches: '1 church'
+			delegates: 1,
+			churches: 1
 		}
 	]
 }

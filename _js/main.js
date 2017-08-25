@@ -146,9 +146,9 @@ var membersMap = function () {
 		} else {
 			// Zoom In
 			$country.attr('class', 'country zoomed');
-			$mapInfoCountryContinent.html(name);
-			$mapInfoStatusCountries.html(info[current][0].countries);
-			$mapInfoDelegatesChurches.html(info[current][0].churches);
+			$mapInfoCountryContinent.html('The Charis Alliance in <br>' + info[current][0].continent);
+			$mapInfoStatusCountries.html('Charis Countries: ' + info[current][0].countries);
+			$mapInfoDelegatesChurches.html('Charis Churches: ' + info[current][0].churches);
 
 			TweenMax.to($currentContinent, 1, { scale: scale, x: x, y: y });
 			TweenMax.to($continent.not($currentContinent), 1, { opacity: 0, visibility: "hidden" });
@@ -201,9 +201,9 @@ var membersMap = function () {
 				TweenMax.to(['.map__info__country-continent', '.map__info__list'], 0, { opacity: 0, visibility: "hidden" });
 
 				$mapInfoCountryContinent.html(info[continentId][i].country);
-				$mapInfoStatusCountries.html(info[continentId][i].status);
-				$mapInfoDelegatesChurches.html(info[continentId][i].delegates);
-				$mapInfoChurches.html(info[continentId][i].churches); 
+				$mapInfoStatusCountries.html('Membership Status: ' + info[continentId][i].status);
+				$mapInfoDelegatesChurches.html('Charis Delegates: ' + info[continentId][i].delegates);
+				$mapInfoChurches.html('Charis Churches: ' + info[continentId][i].churches); 
 
 				$(this).attr('class', 'country zoomed active');
 				$('.country.zoomed').not($(this)).attr('class', 'country zoomed');
