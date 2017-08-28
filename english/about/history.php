@@ -169,6 +169,66 @@
 						<p>Roger Peugh observed, speaking of new churches almost spontaneously springing up in parts of Germany, “I think we are on the verge of something great.”</p>
 					</div>
 				</div>
+				<div class="row">
+					<div class="timeline__dot" data-dot="GB"></div>
+					<div class="timeline__event">
+						<h2>1980: Great Britain</h2>
+						<p>Serious prayer for revival in Europe began in 1980, and that fall the Europe missionaries gathered for a week of prayer, reflection and planning. Out of this came the commitment to see the missionaries of Europe as a united team, reaching out into new countries. One of these was England. After an exploratory trip, the decision was made to send Phil and Elinor Steele, joined by Dave and Cindy Kowalke, to the city of Birmingham.</p>
+						<p>Within a short amount of time services were started in a vacant church building, and quickly a sizeable group assembled for the Sunday services. Unfortunately most of these people were from other churches rather than converts, and the ministry only continued for a few years. A new team began to form, and services began in a school building. Many of the new people were contacted through the guitar classes begun by Dave Schwan, who came to England with his wife Becky in 1988. The church grew, and is under British leadership. A branch church was begun by the Schwans in another suburb of Birmingham, which has also seen encouraging growth, and commitment to outreach in the community.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>Current outreach ministries include concerts, participation in community festivals, Bible studies, children’s game evenings, volunteering in the local community youth center and serving on the chaplaincy team at the huge Bourneville middle college, with its approximately 15,000 students. In addition, Bill Kiddoo, a member of the former missionary staff, reaches out to international students in language teaching ministries.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot" data-dot="JP"></div>
+					<div class="timeline__event">
+						<h2>1984: Japan</h2>
+						<p>It was the vision of Jay Bell, a member of the staff at the Long Beach California church, that opened Asia to Grace Brethren missions. After four years of serious praying by Jay and his wife Jan, the Long Beach church sent the first of the mission’s missionaries to Asia. One of the couples sent was Cecil and Debbie O’Dell to Japan. Japan was already on the hearts of the O’Dells through their ministry to Japanese students in Long Beach. They became missionaries to Japan in 1984, choosing Hoya City in the greater Tokyo area to begin their ministry.</p>
+						<p>They and the missionaries who joined them have had to exhibit exceptional commitment and perseverance, because of the hardness of the soil in Japan. As is true in all resistant populations, evangelism is done through relationships, leading to small groups. The key to reaching Japan is prayer. The spiritual powers have blinded the minds of the people.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>At present the church in Tokyo is seeing the Lord’s blessing through the faithful ministry of Ralph and Joan Justiniano, who use a variety of methods to reach the Japanese. A branch work in Okinawa is seeing the Lord’s blessing under the leadership of a former member of the Tokyo church. In addition, the mission more recently acquired a center in the mountainous region of the country, called North Star, which serves as a base and bridge for the ministries. Further, the O’Dells pursue their ministry in Long Beach, reaching out to Japanese students, many of whom return to Japan as faithful witnesses.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot" data-dot="PT"></div>
+					<div class="timeline__event">
+						<h2>NEED YEAR: Portugal</h2>
+						<p>It was the vision of Jack Zielasko which opened the ministry in Portugal. The Zielaskos had served for 14 years in Brazil before Jack became the Executive Director of Grace Brethren Missions. Because of their knowledge of Portuguese, they became burdened for the mother country of that language, a country impoverished by years of dictatorship and colonial wars.</p>
+						<p>The majority of the Portuguese are Catholics, but only a minority regularly practice their religion. Protestants represent only slightly more than 1% of the population, with far fewer being evangelical. The Zielaskos were soon joined by Tim and Julie Hawkins and Ralph and Martha Schwartz, followed later by their son and his wife, Sam and Tracey.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>Most of the ministry in Portugal has centered in the city of Porto and has focused on personal contact-making and the creation of small groups, of which a number were started in the area. The missionaries cooperated with other workers in establishing an international church, which has been instrumental in reaching out also into Portuguese families. A number of Portuguese men have been trained as leaders of the ministry, and have faithfully fulfilled their responsibilities. One of these, Alfredo Abreu, who had been serving in a campus ministry, later moved with his family to the capitol, Lisbon, to seek to build up a body of believers there. He has been joined by Sam and Tracey Schwartz, and their ministries have resulted in planting a church. There are currently four organized churches in Portugal with the Brethren fellowship.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot" data-dot="PT"></div>
+					<div class="timeline__event">
+						<h2>1993: Czech Republic</h2>
+						<p>It was the vision of Jack Zielasko which opened the ministry in Portugal. The Zielaskos had served for 14 years in Brazil before Jack became the Executive Director of Grace Brethren Missions. Because of their knowledge of Portuguese, they became burdened for the mother country of that language, a country impoverished by years of dictatorship and colonial wars.</p>
+						<p>The majority of the Portuguese are Catholics, but only a minority regularly practice their religion. Protestants represent only slightly more than 1% of the population, with far fewer being evangelical. The Zielaskos were soon joined by Tim and Julie Hawkins and Ralph and Martha Schwartz, followed later by their son and his wife, Sam and Tracey.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>Most of the ministry in Portugal has centered in the city of Porto and has focused on personal contact-making and the creation of small groups, of which a number were started in the area. The missionaries cooperated with other workers in establishing an international church, which has been instrumental in reaching out also into Portuguese families. A number of Portuguese men have been trained as leaders of the ministry, and have faithfully fulfilled their responsibilities. One of these, Alfredo Abreu, who had been serving in a campus ministry, later moved with his family to the capitol, Lisbon, to seek to build up a body of believers there. He has been joined by Sam and Tracey Schwartz, and their ministries have resulted in planting a church. There are currently four organized churches in Portugal with the Brethren fellowship.</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
