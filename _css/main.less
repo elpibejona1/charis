@@ -45,6 +45,8 @@ ul.list {
 	list-style-position: outside;
 
 	li + li { margin-top: 10px; }
+
+	&--margin { margin-top: 20px; }
 }
 
 .fancybox-skin { background-color: rgba(256,256,256,.8); }
@@ -804,7 +806,7 @@ footer {
 
 	// general.php
 
-.about__video { width: 100%; height: 56.25vw; margin-top: 20px; }
+.about__video { width: 100%; height: 575px; margin-top: 20px; }
 
 .row--aboutIntroBlock { padding-top: 30px; }
 
@@ -1115,6 +1117,8 @@ footer {
 	position: absolute;
 	top: 17px;
 	left: 28px;
+
+	&--hidden { opacity: 0; visibility: none; }
 }
 
 .timeline__event {
@@ -1153,7 +1157,7 @@ footer {
 		left: -27px;
 	}
 
-	p { 
+	p, { 
 		padding: 20px 15px;
 		padding-top: 0;
 		font-family: 'Raleway', sans-serif;
@@ -1166,11 +1170,20 @@ footer {
 		span {
 			color: @tea;
 			font-family: 'Kaushan Script', cursive;
-			font-size: 26px;
+			font-size: 18px;
 			text-align: center;
 		}
 
 		&:first-child { padding-top: 15px; }
+	}
+
+	ul { margin-left: 46px; margin-bottom: 20px; }
+
+	li {
+		font-family: 'Raleway', sans-serif;
+		font-size: 18px;
+		color: @gray;
+		line-height: 1.5;
 	}
 }
 
@@ -1486,6 +1499,10 @@ footer {
 	.container { width: 100%; }
 
 	.fullContainer .container { padding: 0; }
+
+	// About Video
+
+	.about__video { height: 57vw; }
 }
 
 // Map Info Window

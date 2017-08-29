@@ -200,6 +200,147 @@
 					</div>
 				</div>
 				<div class="row">
+					<div class="timeline__dot" data-dot="PH"></div>
+					<div class="timeline__event">
+						<h2>1984: The Philippines</h2>
+						<p>During the same year that the ministry in Japan began, Clay and Kim Hulett left for the Philippines, to be joined soon after by Ted and Vivian Ruiz. They quickly learned that in the Philippines life revolves around neighborhoods called “barangays.” The barangay is a municipal unit. The vision of the missionaries was to see a church in each barangay.</p>
+						<p>After their language studies, the Huletts prayed that the Lord would lead them to the barangay where they should begin their ministry. Knowing no one, Kim simply followed the Lord’s leading and walked into the barangay of Calumpang, where the ministry was started. There Clay soon met Rey Paz. They began studying the Bible together, and Rey became the first Filipino convert, and the first Grace Brethren pastor. Rey remains, after all these years, a faithful leader of the churches there.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>The responsiveness of the Filipinos, coupled with their ability to speak English, has made short-term teams an effective means of reaching the population. The Ruizes targeted the settlements along the famous Sumulong highway, using short-term teams. Soon six groups of believers began meeting in homes. Since then the ministry spread through neighboring communities and far beyond the boundaries of Manila, resulting in multiple churches. During the years of ministry in the Philippines, much effort has been expended in training leaders through a training program, and other effective ministries have branched off. The friendliness of the Filipinos and their openness to the gospel has been a continual encouragement.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot" data-dot="PT"></div>
+					<div class="timeline__event">
+						<h2>NEED YEAR: Portugal</h2>
+						<p>It was the vision of Jack Zielasko which opened the ministry in Portugal. The Zielaskos had served for 14 years in Brazil before Jack became the Executive Director of Grace Brethren Missions. Because of their knowledge of Portuguese, they became burdened for the mother country of that language, a country impoverished by years of dictatorship and colonial wars.</p>
+						<p>The majority of the Portuguese are Catholics, but only a minority regularly practice their religion. Protestants represent only slightly more than 1% of the population, with far fewer being evangelical. The Zielaskos were soon joined by Tim and Julie Hawkins and Ralph and Martha Schwartz, followed later by their son and his wife, Sam and Tracey.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>Most of the ministry in Portugal has centered in the city of Porto and has focused on personal contact-making and the creation of small groups, of which a number were started in the area. The missionaries cooperated with other workers in establishing an international church, which has been instrumental in reaching out also into Portuguese families. A number of Portuguese men have been trained as leaders of the ministry, and have faithfully fulfilled their responsibilities. One of these, Alfredo Abreu, who had been serving in a campus ministry, later moved with his family to the capitol, Lisbon, to seek to build up a body of believers there. He has been joined by Sam and Tracey Schwartz, and their ministries have resulted in planting a church. There are currently four organized churches in Portugal with the Brethren fellowship.</p>
+					</div>
+					<div class="timeline__event">
+						<h2>1990s: The Beginnings of an International Identity</h2>
+						<p>The vision of an international fellowship of Grace Brethren churches goes back many decades. Periodically a proposal would be made at National Conference for the creation of an international conference, but would almost immediately be tabled because of the obstacles involved in making it happen. Too many questions seemed unanswerable. Who would be invited? How would they be chosen? How would a global gathering of Grace Brethren churches be financed? What would be the guiding purpose?</p>
+						<p>At the 1990 conference there was serious discussion concerning the need to give churches an international identity, but again it appeared that because of the hurdles involved, an international fellowship would never be more than a dream.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>Those involved with Grace Brethren International Missions knew, however, that some day the dream would have to become a reality in order to allow churches around the globe to preserve their Grace Brethren identities. Whenever churches are established throughout the world, the mission plays an apostolic role, usually perceived as the role of a parent. The identity of a church is closely related to the mission until the time several congregations can organize themselves into a national fellowship, usually following the pattern of the sending churches. At this time the churches become autonomous, making their own decisions, and seeking to provide for their own needs.</p>
+					</div>
+					<div class="timeline__event">
+						<p>When this autonomy becomes a reality, the churches begin to phase out their relationship with the mission. However, this forces to them phase out their relationship with the only entity that has given them a sense of global identity. As the mission moves into the background, something has to take its place, or the churches will become increasingly provincial and cut off from the rest of the world.</p>
+						<p>Therefore, the main purpose of an international fellowship, whatever the form it assumes, is to give global vision and identity to church fellowships. They must know that they are a part of a larger family than their local churches. And they must know that their mission and ministry go beyond their own back yard.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>At the 1993 National Conference of the Fellowship of Grace Brethren Churches (FGBC) in Billings, Mont., serious dialogues occurred concerning this need and how to meet it. These discussions, which took place in encounters with the field superintendents (of Grace Brethren International Missions) rather than on the conference floor, opened the way to the first international gathering representing a global fellowship. Three key guidelines were established concerning the nature of an international gathering:</p>
+						<ul class="list">
+							<li>Charis would be an international gathering of leaders, rather than churches.</li>
+							<li>These leaders would meet somewhere outside the United States.</li>
+							<li>This endeavor would be led by a national, not by an American.</li>
+						</ul>
+					</div>
+					<div class="timeline__event">
+						<p>It was also determined that:</p>
+						<ul class="list">
+							<li>the place of the first meeting would be the Château of Saint-Albain in France.</li>
+							<li>Florent Varak, pastor of the Grace Brethren Church in Lyon, France, would be asked to give leadership to the gathering.</li>
+							<li>The time of the meeting would be October of 1994.</li>
+							<li>The Field Superintendents would be responsible for inviting at least one delegate from each country.</li>
+						</ul>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>The name <span>Charis</span> was chosen, to represent Grace in any language. It would be called the <span>Charis International Alliance</span>, since it was to be a fraternity of leaders, and not an organization. The overall purpose would be to promote international church planting.</p>
+						<p>Accordingly, on October 3, 1994, delegates from fifteen countries converged on the Château of Saint Albain, France, for the first meeting of the <span>Charis International Alliance</span>.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot"></div>
+					<div class="timeline__event">
+						<h2>1994: Charis Gathering in Saint-Albain, France</h2>
+						<p>The first gathering of the Charis Alliance was an exceptional experience for the participants, many of who had never been out of their respective countries. Not only were they exposed to the world and its spiritual needs; they learned that the Grace Brethren fellowship of churches was a global movement. There was an immediate bonding of the participants in spite of the great diversity of language and culture. They knew that they were members of the same global family.</p>
+						<p>This gathering followed the guidelines formulated at the meeting of the field superintendents in Billings.</p>
+						<p>First, it was a meeting of leaders, and not churches. Of the 35 participants, 13 were national leaders from their country. Thirteen missionaries came alongside these nationals as teammates for the delegates. The other nine participants were invited guests, American except for two additional brethren from Africa.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>Second, it was held outside the United States. The Château of Saint-Albain proved to be the logical place for the first gathering of the Charis Alliance. The facilities provided lodging and meals at a reasonable cost. The rustic setting diminished the material impact of the gathering on those coming from third-world countries. Transportation was available and comparatively inexpensive, especially for the delegates from Africa and Europe. Florent Varak, the coordinator,lived just 50 miles away. Further, the focus of prayer and ministry at the Château created a spiritual impact that was sensed by the participants.</p>
+						<p></p>
+					</div>
+					<div class="timeline__event">
+						<p>Third, it was led by a national. The wisdom of choosing Florent Varak became immediately evident, from his positive attitude toward the ministry, his vision, his leadership charisma, and his organizational skills. Assisted by Encompass missionary Kent Good, who became a link with the mission, Florent planned a program that provided both the necessary input to make the gathering significant in the lives of the participants, as well as giving opportunity for freedom of participation for all who were there.</p>
+						<p>Intense discussion on a wide range of subjects occurred during the course of the Charis. At times much of it was related to the material needs of the churches in countries less favored economically, and how to meet those needs without violating indigenous principles. The possibility of visits of the national leaders to other countries was discussed. A great deal of time was spent discussing ways of maintaining better communication between the various countries involved.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>In all these discussions, it was the consensus of the delegates that Charis must not become an organization with authority to impose its decisions upon the churches. It would always be a fraternity of the representatives sent by the churches.</p>
+						<p>In view of his fine work, Florent Varak was asked to continue as coordinator of Charis, through the next conference. Steve Peters, future moderator of the U.S. fellowship of churches, gave an official invitation to	Charis to meet at Toronto during the National Conference of the Fellowship of Grace Brethren Churches (USA) in 1996.</p>
+						<p>In his letter to the participants of the conference, Florent Varak wrote: “I have always felt a spiritual bond with French and American Grace Brethren churches, this being all I have known, but I had never known the extent, nor the beauty—of our fellowship worldwide. My vision has been stretched and my passion renewed. I have been humbled and challenged by the qualities	displayed in our lives and ministries and commitments. Praise and glory be to God!”</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot"></div>
+					<div class="timeline__event">
+						<h2>1996: Charis Gathering in Toronto, Canada</h2>
+						<p>On July 24 the second global gathering of the Charis Alliance convened in Toronto, Canada. Fourteen delegates represented 15 countries. They were joined by 16 missionary representatives, and 17 observers.</p>
+						<p>The Charis meeting was held in Toronto at the invitation of the moderator of the National Fellowship of Grace Brethren Churches (USA). This was to expose the delegates to the conference, which was held in Toronto that year, and to take advantage of the presence of the missionaries attending conference.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>Florent Varak, again the coordinator for the Charis gathering, led discussions on Charis identity, mission, goals, and definitions. The group approved the following items:</p>
+						<p><strong>Charis identity:</strong> Charis is a multinational network of Grace Brethren church planters and developers.</p>
+						<p><strong>Charis Mission:</strong> The mission of Charis is to promote church planting worldwide, by facilitating communication, by encouraging the exchange of needs and resources, and by soliciting the opening of new fields.</p>
+					</div>
+					<div class="timeline__event">
+						<p>Charis Definitions: </p>
+						<p><strong>Charis Goals:</strong></p>
+						<ul class="list">
+							<li>To chart the progress of new church planting efforts around the world, through a quarterly English news bulletin (Prayer and Praise)</li>
+							<li>To maintain a current list of the most rapid means of communication between countries between urgent prayer requests and special needs.</li>
+							<li>To issue a bi-annual list of missionary projects</li>
+							<li>To organize a world conference in three years</li>
+							<li>And if possible, a continental conference before that time.</li>
+						</ul>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p><strong>Charis Definitions:</strong> A missionary project is a measurable task related to church planting with a specific budget and time frame, owned by local church(es), approved by a national fellowship of churches (if necessary), under the responsibility of a church leader.</p>
+						<p>It was determined that the next conference would take place in Argentina, in order to allow Charis to convene during the 90th anniversary of the Argentine churches.</p>
+					</div>
+				</div>
+				<div class="row">
 					<div class="timeline__dot" data-dot="PT"></div>
 					<div class="timeline__event">
 						<h2>NEED YEAR: Portugal</h2>
@@ -215,18 +356,122 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="PT"></div>
+					<div class="timeline__dot" data-dot="KH"></div>
 					<div class="timeline__event">
-						<h2>1993: Czech Republic</h2>
-						<p>It was the vision of Jack Zielasko which opened the ministry in Portugal. The Zielaskos had served for 14 years in Brazil before Jack became the Executive Director of Grace Brethren Missions. Because of their knowledge of Portuguese, they became burdened for the mother country of that language, a country impoverished by years of dictatorship and colonial wars.</p>
-						<p>The majority of the Portuguese are Catholics, but only a minority regularly practice their religion. Protestants represent only slightly more than 1% of the population, with far fewer being evangelical. The Zielaskos were soon joined by Tim and Julie Hawkins and Ralph and Martha Schwartz, followed later by their son and his wife, Sam and Tracey.</p>
+						<h2>1997: Cambodia</h2>
+						<p>Grace Brethren missions began in Cambodia through a Cambodian believer, Vek Huong Taing, who had formed a friendship with Jay Bell in the Long Beach church. Huong and his wife had survived the “killing fields,” four years of terror during which the Khmer Rouge had murdered nearly one-third of the population. Huong had begun evangelizing Cambodian refugees in Thailand, and invited the American brethren for some exploratory trips, leading to the involvement of several American churches sending teams to Cambodia.</p>
+						<p>The tragic events of that country opened many thousands to the gospel. In 1997 the Grace Brethren movement consisted of three traditional churches ministering to 155 people. One month later apostolic teams were launched on motorbikes into the villages surrounding the city of Battambang. By the end of the decade nearly eighty Points of Light, a term designating house groups that were becoming churches, could count 1,000 adults. All of this was carried on with the cooperation of teams from American churches.</p>
 					</div>
 					<div class="timeline__event">
 						<img src="http://placehold.it/424x200" alt="">
 						<img src="http://placehold.it/424x200" alt="">
 					</div>
 					<div class="timeline__event">
-						<p>Most of the ministry in Portugal has centered in the city of Porto and has focused on personal contact-making and the creation of small groups, of which a number were started in the area. The missionaries cooperated with other workers in establishing an international church, which has been instrumental in reaching out also into Portuguese families. A number of Portuguese men have been trained as leaders of the ministry, and have faithfully fulfilled their responsibilities. One of these, Alfredo Abreu, who had been serving in a campus ministry, later moved with his family to the capitol, Lisbon, to seek to build up a body of believers there. He has been joined by Sam and Tracey Schwartz, and their ministries have resulted in planting a church. There are currently four organized churches in Portugal with the Brethren fellowship.</p>
+						<p>In 2000 Steve and Debbie Wise, newly-married, began in-depth training of the Cambodian apostles, later moving to the capital city, Phnom Penh, to continue their training ministries. The Cambodians continue to seek to penetrate the villages. Kevin and Jill Kane currently serve in Battambang, joined for several years by Kent and Becky Good, who had served for many years in France. One of the recent outstanding accomplishments has been the purchase and renovation of a Ministry Training Center.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot"></div>
+					<div class="timeline__event">
+						<h2>1999: Charis Gathering in Carlos Paz, Argentina</h2>
+						<p>The 1999 Charis brought together 40 participants, of which 15 were nationals representing their countries. As was true of the other Charis meetings, several countries were also represented by Encompass missionary staff.</p>
+						<p>The principles of Charis were reiterated:</p>
+						<ul class="list">
+							<li><strong>Organization:</strong> we are organized but we do not have organizational structure.</li>
+							<li><strong>Relationship with the American mission agency:</strong> we share the same objectives but maintain our autonomy in implementing them.</li>
+							<li><strong>Objective:</strong> we promote the movement but do not control the movement.</li>
+							<li><strong>Philosophy:</strong> we suggest, encourage and channel the movement but we do not implement it.</li>
+						</ul>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>During these meetings, the discussion focused on the following questions:</p>
+						<ul class="list">
+							<li><strong>In your opinion, what is Charis?</strong> The answers were unified: we are an international fraternity of leaders of the Grace Brethren movement.</li>
+							<li><strong>What do you expect from Charis?</strong> The answers differed. Many wanted something more closely knit together than in the past. They wanted more than just a networking of information.</li>
+							<li><strong>What do you think have been the principal achievements of Charis?</strong> The achievements discussed included churches that had been planted and alliances that had been formed. Charis had helped member countries get to know each other. It had given them an identity and shown them that they were not alone.</li>
+						</ul>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<ul class="list list--margin">
+							<li><strong>What results did you expect from Charis and in your opinion were not achieved?</strong> Some said that Charis must function more as a spiritual movement, and not just give material help. Others wanted more European representation. It was also suggested that Charis learn from other similar organizations. The need to launch a missionary movement was also discusse along with the need for news to be more concise.</li>
+						</ul>
+						<p>At the conclusion of the gathering, the delegates proposed that future Charis meetings continue a similar fashion. A conference would be held periodically with the location to be determined at the previous meeting. </p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot timeline__dot--hidden" data-dot="UY"></div>
+					<div class="timeline__dot timeline__dot--hidden" data-dot="GT"></div>
+					<div class="timeline__dot timeline__dot--hidden" data-dot="CA"></div>
+					<div class="timeline__dot timeline__dot--hidden" data-dot="CL"></div>
+					<div class="timeline__dot timeline__dot--hidden" data-dot="CM"></div>
+					<div class="timeline__dot timeline__dot--hidden" data-dot="NG"></div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot"></div>
+					<div class="timeline__event">
+						<h2>2008: Charis Gathering in Bad Homburg, Germany</h2>
+						<p>Leaders from Grace Brethren fellowships around the world gathered near Frankfurt, Germany, for a week-long conference in early August, 2008. Some 55 Grace Brethren from many parts of the globe gathered for information, encouragement, and strategizing about God’s work through Grace Brethren people around the world.</p>
+						<p>Representatives came from 16 of the 33 nations in the world where there are Grace Brethren churches or beginning works. They met at Bad Homburg Youth Hostel near the Frankfurt airport the week of August 2-9. The week’s theme was “Faithful Stewards of God’s Grace,” based on 1 Peter 4:10.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>A seven-person planning committee, representing the five regions where Grace Brethren churches are located, planned the conference. These included Francois Ngoumape from the Central African Republic; Adan Panizales from the Philippines; Florent Varak from France; Jorge Nunez from Argentina; and Keith Shearer from North America. Rainer Ehmann of Germany was the conference coordinator and host, and the coordinator of the planning committee was David Guiles, executive director of Encompass World Partners.</p>
+					</div>
+					<div class="timeline__event">
+						<p>The week consisted of four kinds of program events. Representatives of each country or continent gave reports of what God has been doing through their churches. In addition, major addresses were given in the areas of Brethren history (David Plaster), biblical truth (Keith Shearer), and holism ministries (Jorge Nunez). Worldwide audits of Grace Brethren church-planting, leadership training, and holism ministries had been prepared by Nate Dunlevy, Mike McCaman, and Mike Yoder of the Encompass staff.</p>
+						<p>During the last several days, the group divided into three sub-groupings, according to their interest in church planting, leadership development, or integrated ministries. Each group developed a short, forward-looking statement, and these were then combined into a one-page <span>Commitment to Common Mission</span> statement that provides forward-thinking direction and intention for the worldwide Grace Brethren fellowship for at least the next decade.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>Throughout the week these international leaders affirmed their commitment to Biblical Truth and Biblical Relationships. The culmination of the Encounter occurred on Friday evening with the unanimous approval of the <span>Commitment to Common Mission</span>, a document produced during the week through the three Task Forces. It expressed the commitment of the delegates to challenge Grace Brethren Churches worldwide to new levels of partnership in Biblical Mission.</p>
+						<p>Each delegate was challenged to encourage the churches of his country to prayerfully consider the invitation to subscribe to the Commitment to Common Mission, as well as to promote concrete ways to put the challenges of that document into action.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot"></div>
+					<div class="timeline__event">
+						<h2>2010: Charis Gathering in Saint-Albain, France</h2>
+						<p>Nearly 20 leaders of Grace Brethren fellowships from around the globe met in September at the Château Saint-Albain in France. The purpose was to discuss strategy for the Charis movement over the next ten years.</p>
+						<p>One topic for discussion was the <span>Commitment to Common Mission</span>, which was crafted during the 2008 meeting at Bad Homburg, Germany. That document revealed the intention of Grace Brethren worldwide to progress over the next decade in the areas of evangelism, leadership development, and integrated, or holistic ministries. In the years following the meeting in Germany, the document was processed and endorsed by leadership and organizations representing all 35 countries where Grace Brethren congregations exist.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>Participants at the Château meeting adopted a plan for implementing the three-part strategy of the <span>Commitment to Common Mission</span>.</p>
+						<p>The group identified the need for a commitment to common identity. Until this time, most Grace Brethren church activity outside the U.S. was under the auspices of Grace Brethren North American Missions with no mechanism to handle requests from other groups to join the movement. Rather than create a new organization, Charis leaders agreed to an interim strategy whereby the nearest Grace Brethren fellowship would be the evaluator of any candidate’s commitment to biblical truth, biblical relationships, and biblical mission.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot"></div>
+					<div class="timeline__event">
+						<h2>2015: Charis Gathering in Bangkok, Thailand</h2>
+						<p>Seeking a way to work together as a united movement for the cause of Christ, representatives of Grace Brethren ministries from around the world met for the Charis International Leadership Encounter (CILE) in early November in Bangkok, Thailand.</p>
+						<p>Thirty delegates represented 19 countries with established Grace Brethren churches. Another 16 steering committee members, staff, and advisors rounded out the attendance at 46.</p>
+						<p>The week was highlighted by the unanimous approval on Wednesday of the <span>Charis Commitment of Common Identity</span> (CCCI) as the current expression of the values, doctrines and practices of their global movement.</p>
+					</div>
+					<div class="timeline__event">
+						<img src="http://placehold.it/424x200" alt="">
+						<img src="http://placehold.it/424x200" alt="">
+					</div>
+					<div class="timeline__event">
+						<p>It was the culmination of several days of discussion in which the delegates met according to language group &mdash; English, French, or Spanish &mdash; to discuss the proposed final document. Much of the earlier work had taken place in various regions around the world where there are Grace Brethren churchesministries.</p>
+						<p>On Friday, the delegates considered how to move forward as an international network of churches. Each signed a the <span>Charis Alliance Charter</span> encouraging the creation of the <span>Charis Alliance</span>, an association that seeks to promote fellowship and cooperation on the regional and international level among the churches that endorse the <span>Charis Commitment to Common Identity</span>. Each delegate was charged to take the charter to his own country for adoption.</p>
 					</div>
 				</div>
 			</div>
