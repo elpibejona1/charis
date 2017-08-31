@@ -63,188 +63,163 @@ var info = {
 	africa: [
 		{
 			continent: 'Africa',
-			countries: 6,
-			churches: 2500,
+			countries: 4,
+			churches: 'XXX',
 		},
 		{
 			country: "Cameroon",
 			status: "Charis Charter Member",
-			delegates: 3,
-			churches: 190
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
 			country: "The Central African Republic",
 			status: "Charis Charter Member",
-			delegates: 3,
-			churches: 2100
-		},
-
-		{
-			country: "The Democratic Republic of the Congo",
-			status: "Charis Observer Member",
-			delegates: 1,
-			churches: 1
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
 			country: "Nigeria",
 			status: "Charis Charter Member",
-			delegates: 3,
-			churches: 448
-		},
-		{
-			country: "Sudan",
-			status: "Charis Observer Member",
-			delegates: 1,
-			churches: 1
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
 			country: "Chad",  //TD
 			status: "Charis Charter Member",
-			delegates: 3,
-			churches: 800
+			delegates: 'X',
+			churches: 'XXX'
 		},
 	],
 	asia: [
 		{
 			continent: 'Asia',
 			countries: 3,
-			churches: 50,
+			churches: 'XXX',
 		},
 		{
 			country: "Japan",
-			status: "Charis Charter Member",
-			delegates: 1,
-			churches: 3
+			status: "Charis Observer Member",
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
 			country: "Cambodia", //KH
 			status: "Charis Charter Member",
-			delegates: 1,
-			churches: 7
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
 			country: "The Philippines",
 			status: "Charis Charter Member",
-			delegates: 1,
-			churches: 12
+			delegates: 'X',
+			churches: 'XXX'
 		},
 	],
 	caribbean: [
 		{
 			continent: 'The Caribbean',
-			countries: 3,
-			churches: 250,
+			countries: 1,
+			churches: 'XXX',
 		},
 		{
 			country: "The Bahamas",
 			status: "Charis Charter Member",
-			delegates: 1,
-			churches: 8
-		},
-		{
-			country: "Haiti",
-			status: "Charis Charter Member",
-			delegates: 2,
-			churches: 25
-		},
-		{
-			country: "Trinidad",
-			status: "Charis Charter Member",
-			delegates: 1,
-			churches: 5
+			delegates: 'X',
+			churches: 'XXX'
 		}
 	],
 	europe: [
 		{
 			continent: 'Europe',
 			countries: 4,
-			churches: 25,
+			churches: 'XXX',
 		},
 		{
 			country: "Germany",  //DE
 			status: "Charis Observer Member",
-			delegates: 1,
-			churches: 2
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
 			country: "France",
 			status: "Charis Charter Member",
-			delegates: 1,
-			churches: 7
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
 			country: "Great Britain",
 			status: "Charis Observer Member",
-			delegates: 1,
-			churches: 2
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
-			country: "Portugal",
+			country: "Ireland",
 			status: "Charis Observer Member",
-			delegates: 1,
-			churches: 2
+			delegates: 'X',
+			churches: 'XXX'
 		}
 	],
 	northAmerica: [
 		{
 			continent: 'North America',
 			countries: 4,
-			churches: 400,
+			churches: 'XXX',
 		},
 		{
 			country: "Canada",
 			status: "Charis Charter Member",
-			delegates: 1,
-			churches: 3
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
 			country: "Guatemala",
 			status: "Charis Observer Member",
-			delegates: 1,
-			churches: 1
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
 			country: "Mexico",
 			status: "Charis Charter Member",
-			delegates: 2,
-			churches: 8
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
 			country: "The United States",
 			status: "Charis Charter Member",
-			delegates: 3,
-			churches: 245
+			delegates: 'X',
+			churches: 'XXX'
 		}
 	],
 	southAmerica: [
 		{
 			continent: 'South America',
 			countries: 4,
-			churches: 45,
+			churches: 'XXX',
 		},
 		{
 			country: "Argentina",
 			status: "Charis Charter Member",
-			delegates: 2,
-			churches: 12
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
 			country: "Brazil",
 			status: "Charis Charter Member",
-			delegates: 2,
-			churches: 17
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
 			country: "Chile",
 			status: "Charis Observer Member",
-			delegates: 1,
-			churches: 1
+			delegates: 'X',
+			churches: 'XXX'
 		},
 		{
 			country: "Uruguay",
 			status: "Charis Observer Member",
-			delegates: 1,
-			churches: 1
+			delegates: 'X',
+			churches: 'XXX'
 		}
 	]
 }

@@ -1142,7 +1142,22 @@ footer {
 		font-weight: 600;
 	}
 
-	img { .columns(6); padding: 15px; }
+	&__photo {
+		.columns(6);
+		padding: 15px;
+		
+		img { display: block; width: 100%; margin: 0 auto; }
+
+		img.portrait { height: 250px; width: auto; }
+
+		.caption {
+			font-family: 'Raleway', sans-serif;
+			font-size: 14px;
+			color: @gray;
+			margin-top: 10px;
+			text-align: center;
+		}
+	}
 
 	h2::before {
 		content: "";
