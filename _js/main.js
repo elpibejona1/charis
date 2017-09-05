@@ -293,6 +293,26 @@ mobileHamburger();
 
 var controller = new ScrollMagic.Controller();
 
+// Show "Back to Top" Button
+var toTopTweenShow = TweenMax.to('.toTop', 0.5, { opacity: 1, visibility: 'visible'});
+
+var toTopShowScene = new ScrollMagic.Scene({
+	triggerElement: '.timeline__decade--first',
+	triggerHook: 'onLeave'
+})
+.setTween(toTopTweenShow)
+.addTo(controller);
+
+// Hide "Back to Top" Button
+var toTopTweenHide = TweenMax.to('.toTop', 0.5, { opacity: 0, visibility: 'none'});
+
+var toTopHideScene = new ScrollMagic.Scene({
+	triggerElement: '.footer__image',
+	triggerHook: 'onEnter'
+})
+.setTween(toTopTweenHide)
+.addTo(controller);
+
 var mapInitial = function(){
 	if ($(window).width() > 768) {
 		var mapContTween = TweenMax.to($('.container--historyMap'), 1, { top: '50%' });
@@ -356,6 +376,12 @@ var bottomMap = function(){
 		.addTo(controller);
 	}
 };
+
+	// Back to Top Functionality
+
+$('.toTop').on('click', function() {
+	$('body, html').animate({ scrollTop: 0 });
+});
 
 // Photos.php Slideshow Centering
 

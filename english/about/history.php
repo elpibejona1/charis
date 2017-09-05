@@ -25,6 +25,10 @@
 	</div>
 </div>
 <div class="fullContainer fullContainer--history">
+	<div class="toTop">
+		<i class="fa fa-angle-up" aria-hidden="true"></i><br>
+		Back to Top
+	</div>
 	<div class="container">
 		<div class="row">
 			<div class="content content--timeline">
