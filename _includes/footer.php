@@ -6,7 +6,7 @@
 			<div class="siteMap">
 				<h6><a href="<?php echo $directory ?>english/about/about.php">About</a></h6>
 				<ul>
-					<li><a href="<?php echo $directory ?>english/about/general.php">What is Charis?</li>
+					<li><a href="<?php echo $directory ?>english/about/about.php">What is Charis?</li>
 					<li><a href="<?php echo $directory ?>english/about/members.php">Aliance Members</a></li>
 					<li><a href="<?php echo $directory ?>english/about/history.php">Charis History</a></li>
 				</ul>

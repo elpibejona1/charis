@@ -857,16 +857,10 @@ p.interior__description__subTitle {
 		color: @tea;
 		font-size: 30px;
 		font-weight: 600;
+		padding: 27px 0 27px 30px;
 		margin-bottom: 10px;
 		background-color: rgba(230, 230, 230, 0.7);
-		position: relative;
 		cursor: pointer;
-
-		h3 {
-			position: absolute;
-			left: 30px;
-			bottom: 10px;
-		}
 
 		&:hover .accordion__plus { background-color: @dGold; }
 	}
@@ -1548,8 +1542,6 @@ p.interior__description__subTitle {
 		width: 300px !important;
 	}
 
-	.accordion__question { font-size: 22px; }
-
 	.accordion__plus { padding: 33px 0; }
 }
 
@@ -1755,8 +1747,7 @@ p.interior__description__subTitle {
 	// What is Charis
 	.accordion__question {
 		font-size: 18px;
-
-		h3 { left: 20px; }
+		padding: 33px 0 33px 30px;
 	}
 
 	// Alliance Members
@@ -1967,6 +1958,10 @@ p.interior__description__subTitle {
 
 		p { font-size: 14px; }
 	}
+}
+
+@media screen and (max-width: 453px) {
+	.accordion__question--long { padding: 25px 0 25px 30px; }
 }
 
 @media screen and (max-width: 440px) {

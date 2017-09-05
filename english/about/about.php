@@ -45,7 +45,7 @@
 			</div>
 		</div>
 		<div class="row accordion__bottom">
-			<div class="accordion__question">
+			<div class="accordion__question accordion__question--long">
 				<h3>What lies in the future for the Charis Alliance?</h3>
 				<div class="accordion__plus"><img src="../../_images/about/general/plus.png" alt=""></div>
 			</div>

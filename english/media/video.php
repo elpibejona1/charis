@@ -47,7 +47,7 @@
 						<a target="_blank" href="">
 							<img src="../../_images/media/videos/video5.jpg" alt="">
 							<h3>Foundations for a Global Charis Identity</h3>
-							<p>Dr. Dave Guiles explains the history and thought process behind the Charis Commitment to a Common Identity</p>
+							<p>Dr. Dave Guiles explains the history and thought process behind the Charis Commitment to a Common Identity.</p>
 						</a>
 					</div>
 				</div>
