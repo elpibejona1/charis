@@ -417,25 +417,6 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="PT"></div>
-					<div class="timeline__event">
-						<h2>NEED YEAR: Portugal</h2>
-						<p>It was the vision of Jack Zielasko which opened the ministry in Portugal. The Zielaskos had served for 14 years in Brazil before Jack became the Executive Director of Grace Brethren Missions. Because of their knowledge of Portuguese, they became burdened for the mother country of that language, a country impoverished by years of dictatorship and colonial wars.</p>
-						<p>The majority of the Portuguese are Catholics, but only a minority regularly practice their religion. Protestants represent only slightly more than 1% of the population, with far fewer being evangelical. The Zielaskos were soon joined by Tim and Julie Hawkins and Ralph and Martha Schwartz, followed later by their son and his wife, Sam and Tracey.</p>
-					</div>
-					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
-						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
-						</div>
-					</div>
-					<div class="timeline__event">
-						<p>Most of the ministry in Portugal has centered in the city of Porto and has focused on personal contact-making and the creation of small groups, of which a number were started in the area. The missionaries cooperated with other workers in establishing an international church, which has been instrumental in reaching out also into Portuguese families. A number of Portuguese men have been trained as leaders of the ministry, and have faithfully fulfilled their responsibilities. One of these, Alfredo Abreu, who had been serving in a campus ministry, later moved with his family to the capitol, Lisbon, to seek to build up a body of believers there. He has been joined by Sam and Tracey Schwartz, and their ministries have resulted in planting a church. There are currently four organized churches in Portugal with the Brethren fellowship.</p>
-					</div>
-				</div>
-				<div class="row">
 					<div class="timeline__dot" data-dot="KH"></div>
 					<div class="timeline__event">
 						<h2>1997: Cambodia</h2>

@@ -67,6 +67,38 @@
 				</div>
 			</div>
 		</div>
+		<div class="row row--documents">
+			<div class="interior__photo">
+				<img src="../../_images/documents/primary/thumbnail5.jpg" alt="">
+			</div>
+			<div class="interior__description">
+				<p class="interior__description__title"><span>Additional Languages:</span></p>
+				<p class="interior__description__subTitle">Charis Alliance Charter</p>
+				<div class="primary__downloadContainer">
+					<ul>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/Charter_German_(A4).pdf">German</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/Charter_Portuguese_(A4).pdf">Portuguese</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/Charter_Tagalog_(letter).pdf">Tagalog</a></li>
+					</ul>
+				</div>
+				<p class="interior__description__subTitle">Charis Commitment to a Common Identity</p>
+				<div class="primary__downloadContainer">
+					
+				<ul>
+					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Die_Charis_Übereinkunft_zur_gemeinsamen_Identität_(DEUTSCH_V2015.1).pdf">German</a></li>
+					<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Die_Charis_Übereinkunft_zur_gemeinsamen_Identität_Fußnoten_(DEUTSCH_V2015.1).pdf">German <br>(with footnotes)</a></li>
+					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Nosso_Compromisso_para_uma_Identidade_Comum_2015_(POR_v2015_0)_com_versos.pdf">Portuguese</a></li>
+					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Tagalog_Charis_Common_Identity_(v2015.0).pdf">Tagalog</a></li>
+				</ul>
+				</div>
+				<p class="interior__description__subTitle">Charis Commitment to a Common Mission</p>
+				<div class="primary__downloadContainer">
+					<ul>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/cccm/CCCM_German.pdf">German</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
 
