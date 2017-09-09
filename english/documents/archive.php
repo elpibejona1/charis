@@ -44,8 +44,8 @@
 				</div>
 				<div class="archive__files">
 					<ul>
-						<li><a target="_blank" href="../../documents/sermons-2015/4-EN-Message-Florent-V.pdf">Keep the Gospel intact! &ndash; Florent Varak</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/5-EN-Approval-Speech-Dave-G.pdf">CCCI Acceptance Speach &ndash; Dr. Dave Guiles</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/4-EN-Message-Florent-V.pdf">Keep the Gospel Intact! &ndash; Florent Varak</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/5-EN-Approval-Speech-Dave-G.pdf">CCCI Acceptance Speech &ndash; Dr. Dave Guiles</a></li>
 						<li><a target="_blank" href="../../documents/sermons-2015/6-EN-Thinking-About-Next-Steps.pdf">Thinking About Next Steps</a></li>
 					</ul>
 				</div>

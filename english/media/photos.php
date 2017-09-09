@@ -11,7 +11,7 @@
 	<div class="container">
 		<div class="row row--archive">
 			<div class="archive__section">
-				<h2>2015 CILE<i class="fa fa-angle-down"></i></h2>
+				<h2>2015 Charis International Leadership Encounter</h2>
 				<div class="row">
 					<div class="galleryPrev">
 						<a class="fancybox" href="#gallery1">

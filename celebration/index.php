@@ -114,7 +114,7 @@
         <div class="resourceThird resourceThird--video">
             <a class="resourceThird__videoLink" href="https://vimeo.com/161481570" target="_blank"><img src="../_images/celebration/video3.jpg" alt="">
             <h3>The Charis Alliance (short&nbsp;version)</h3></a>
-            <p>This video is a shortend version of the introduction and overview of the Charis Alliance.</p>
+            <p>This video is a shortened version of the introduction and overview of the Charis Alliance.</p>
         </div>
     </div>
     <div class="row">

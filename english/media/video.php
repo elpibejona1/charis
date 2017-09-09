@@ -15,9 +15,9 @@
 				<div class="row">
 					<div class="galleryPrev galleryPrev--video">
 						<a href="#">
-							<img src="http://via.placeholder.com/285x160?text=Image+to+come" alt="">
+							<img src="http://via.placeholder.com/285x160?text=Coming+Soon!" alt="">
 							<h3>Charis Whiteboard Video</h3>
-							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil sint iste illum voluptatum dolores nam accusantium id voluptatibus quae incidunt?</p>
+							<p><em>Coming Soon!</em></p>
 						</a>
 					</div>
 					<div class="galleryPrev galleryPrev--video">
@@ -31,7 +31,7 @@
 						<a target="_blank" href="https://vimeo.com/161481570">
 							<img src="../../_images/media/videos/video3.jpg">
 							<h3>The Charis Alliance (Short&nbsp;Version)</h3>
-							<p>This video is a shortend version of the introduction and overview of the Charis Alliance.</p>
+							<p>This video is a shortened version of the introduction and overview of the Charis Alliance.</p>
 						</a>
 					</div>
 				</div>
