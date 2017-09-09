@@ -149,6 +149,7 @@ var membersMap = function () {
 			$mapInfoTitle.html('The Charis Alliance in <br><span class="continent">' + info[current][0].continent + '</span>');
 			$mapInfoItem1.html('Charis Countries: <span>' + info[current][0].countries) + '</span>';
 			$mapInfoItem2.html('Charis Churches: <span>' + info[current][0].churches + '</span>');
+			$mapInfoItem3.html('Points of Light: <span>' + info[current][0].pointsOfLight + '</span>');
 
 			TweenMax.to($currentContinent, 1, { scale: scale, x: x, y: y });
 			TweenMax.to($continent.not($currentContinent), 1, { opacity: 0, visibility: "hidden" });
@@ -202,8 +203,13 @@ var membersMap = function () {
 
 				$mapInfoTitle.html('The Charis Alliance in <br><span class="country">' +info[continentId][i].country) + '</span>';
 				$mapInfoItem1.html('Membership Status: <br><span>' + info[continentId][i].status + '</span>');
-				$mapInfoItem2.html('Charis Delegates: <span>' + info[continentId][i].delegates + '</span>');
-				$mapInfoItem3.html('Charis Churches: <span>' + info[continentId][i].churches + '</span>'); 
+				$mapInfoItem2.html('Charis Churches: <span>' + info[continentId][i].churches + '</span>');
+				
+				if ( info[continentId][i].pointsOfLight !== '') {
+					$mapInfoItem3.html('Points of Light: <span>' + info[continentId][i].pointsOfLight + '</span>');
+				} else {
+					$mapInfoItem3.html('');
+				}
 
 				$(this).attr('class', 'country zoomed active');
 				$('.country.zoomed').not($(this)).attr('class', 'country zoomed');
@@ -297,17 +303,17 @@ var controller = new ScrollMagic.Controller();
 var toTopTweenShow = TweenMax.to('.toTop', 0.5, { opacity: 1, visibility: 'visible'});
 
 var toTopShowScene = new ScrollMagic.Scene({
-	triggerElement: '.timeline__decade--first',
+	triggerElement: '.timeline__decade--1',
 	triggerHook: 'onLeave'
 })
 .setTween(toTopTweenShow)
 .addTo(controller);
 
 // Hide "Back to Top" Button
-var toTopTweenHide = TweenMax.to('.toTop', 0.5, { opacity: 0, visibility: 'none'});
+var toTopTweenHide = TweenMax.to('.toTop', 0.5, { opacity: 0, visibility: 'hidden'});
 
 var toTopHideScene = new ScrollMagic.Scene({
-	triggerElement: '.footer__image',
+	triggerElement: '.history--last',
 	triggerHook: 'onEnter'
 })
 .setTween(toTopTweenHide)
@@ -325,6 +331,20 @@ var mapInitial = function(){
 		.addTo(controller);
 	}
 };
+
+// Set Pin for Nav
+
+var showHistoryNav = new TimelineMax();
+
+	showHistoryNav.to('.history__nav', 0.5, { opacity: 1, visibility: 'visible'});
+
+var navScene = new ScrollMagic.Scene({
+	triggerElement: '.history__nav',
+	triggerHook: 'onLeave'
+})
+.setTween(showHistoryNav)
+.setPin('.history__nav')
+.addTo(controller);
 
 var tweenIterator = function(){
 	var $timelineEvent = $('.timeline__event');
@@ -376,6 +396,14 @@ var bottomMap = function(){
 		.addTo(controller);
 	}
 };
+
+	// History Nav Functionality
+
+$('.history__nav__button').on('click', function(){
+	var dataDecade = $(this).attr('data-decade');
+	var scrollPosition = $('.timeline__decade--' + dataDecade).offset().top - 100;
+	$('body, html').animate({ scrollTop: scrollPosition });
+})
 
 	// Back to Top Functionality
 

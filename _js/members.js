@@ -65,29 +65,30 @@ var info = {
 			continent: 'Africa',
 			countries: 4,
 			churches: 'XXX',
+			pointsOfLight: 'X'
 		},
 		{
 			country: "Cameroon",
 			status: "Charis Charter Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		},
 		{
 			country: "The Central African Republic",
 			status: "Charis Charter Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		},
 		{
 			country: "Nigeria",
 			status: "Charis Charter Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		},
 		{
 			country: "Chad",  //TD
 			status: "Charis Charter Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		},
 	],
@@ -96,23 +97,24 @@ var info = {
 			continent: 'Asia',
 			countries: 3,
 			churches: 'XXX',
+			pointsOfLight: 'X'
 		},
 		{
 			country: "Japan",
 			status: "Charis Observer Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		},
 		{
 			country: "Cambodia", //KH
 			status: "Charis Charter Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		},
 		{
 			country: "The Philippines",
 			status: "Charis Charter Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		},
 	],
@@ -121,11 +123,12 @@ var info = {
 			continent: 'The Caribbean',
 			countries: 1,
 			churches: 'XXX',
+			pointsOfLight: 'X'
 		},
 		{
 			country: "The Bahamas",
 			status: "Charis Charter Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		}
 	],
@@ -134,29 +137,30 @@ var info = {
 			continent: 'Europe',
 			countries: 4,
 			churches: 'XXX',
+			pointsOfLight: 'X'
 		},
 		{
 			country: "Germany",  //DE
 			status: "Charis Observer Member",
-			delegates: 'X',
-			churches: 'XXX'
+			pointsOfLight: 1,
+			churches: 3
 		},
 		{
 			country: "France",
 			status: "Charis Charter Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		},
 		{
 			country: "Great Britain",
 			status: "Charis Observer Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		},
 		{
 			country: "Ireland",
 			status: "Charis Observer Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		}
 	],
@@ -165,30 +169,31 @@ var info = {
 			continent: 'North America',
 			countries: 4,
 			churches: 'XXX',
+			pointsOfLight: 'X'
 		},
 		{
 			country: "Canada",
 			status: "Charis Charter Member",
-			delegates: 'X',
-			churches: 'XXX'
+			pointsOfLight: 1,
+			churches: 4
 		},
 		{
 			country: "Guatemala",
 			status: "Charis Observer Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		},
 		{
 			country: "Mexico",
 			status: "Charis Charter Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		},
 		{
 			country: "The United States",
 			status: "Charis Charter Member",
-			delegates: 'X',
-			churches: 'XXX'
+			pointsOfLight: '',
+			churches: 238
 		}
 	],
 	southAmerica: [
@@ -196,29 +201,30 @@ var info = {
 			continent: 'South America',
 			countries: 4,
 			churches: 'XXX',
+			pointsOfLight: 'X'
 		},
 		{
 			country: "Argentina",
 			status: "Charis Charter Member",
-			delegates: 'X',
-			churches: 'XXX'
+			pointsOfLight: 4,
+			churches: 18
 		},
 		{
 			country: "Brazil",
 			status: "Charis Charter Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		},
 		{
 			country: "Chile",
 			status: "Charis Observer Member",
-			delegates: 'X',
-			churches: 'XXX'
+			pointsOfLight: 1,
+			churches: 1
 		},
 		{
 			country: "Uruguay",
 			status: "Charis Observer Member",
-			delegates: 'X',
+			pointsOfLight: 'X',
 			churches: 'XXX'
 		}
 	]

@@ -1230,7 +1230,7 @@ p.interior__description__subTitle {
   font-family: 'Raleway', sans-serif;
   color: #696969;
   font-weight: 600;
-  font-size: 32px;
+  font-size: 20px;
   padding: 15px 0;
   margin-bottom: 20px;
 }
@@ -1387,6 +1387,32 @@ p.interior__description__subTitle {
 .fullContainer--history {
   background-color: rgba(230, 230, 230, 0.5);
 }
+.history__nav {
+  width: 100%;
+  padding: 15px;
+  background-color: #fff;
+  visibility: hidden;
+  opacity: 0;
+  z-index: 99;
+}
+.history__nav::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.history__nav__button {
+  width: 11.625%;
+  padding: 15px;
+  text-align: center;
+  background-color: #b22222;
+  float: left;
+  font-family: 'Kaushan Script', cursive;
+  color: #fff;
+  cursor: pointer;
+}
+.history__nav__button + .history__nav__button {
+  margin-left: 1%;
+}
 .toTop {
   position: fixed;
   bottom: 20px;
@@ -1435,7 +1461,7 @@ p.interior__description__subTitle {
   padding: 22px 0;
   margin-bottom: 25px;
 }
-.timeline__decade--first {
+.timeline__decade--1 {
   margin-top: 0;
 }
 .timeline__dot {

@@ -31,9 +31,21 @@
 	</div>
 	<div class="container">
 		<div class="row">
+			<div class="history__nav">
+				<div class="history__nav__button history__nav__button--1" data-decade="1">1900</div>
+				<div class="history__nav__button history__nav__button--2" data-decade="2">1910</div>
+				<div class="history__nav__button history__nav__button--3" data-decade="3">1950</div>
+				<div class="history__nav__button history__nav__button--4" data-decade="4">1960</div>
+				<div class="history__nav__button history__nav__button--5" data-decade="5">1980</div>
+				<div class="history__nav__button history__nav__button--6" data-decade="6">1990</div>
+				<div class="history__nav__button history__nav__button--7" data-decade="7">2000</div>
+				<div class="history__nav__button history__nav__button--8" data-decade="8">2010</div>
+			</div>
+		</div>	
+		<div class="row">
 			<div class="content content--timeline">
 				<div class="row">
-					<div class="timeline__decade timeline__decade--first">1900</div>
+					<div class="timeline__decade timeline__decade--1">1900</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot" data-dot="US"></div>
@@ -77,7 +89,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__decade">1910</div>
+					<div class="timeline__decade timeline__decade--2">1910</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot" data-dot="CF"></div>
@@ -100,7 +112,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__decade">1950</div>
+					<div class="timeline__decade timeline__decade--3">1950</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot" data-dot="BR"></div>
@@ -163,7 +175,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__decade">1960</div>
+					<div class="timeline__decade timeline__decade--4">1960</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot" data-dot="TD"></div>
@@ -204,6 +216,9 @@
 						<p>A German, Rainer Ehmann who had done his studies in a Bible College in Texas soon joined the team, with his wife. During the next few years the team grew, with several new missionary couples responding to the Lord’ s call to Germany. A branch church was planted in the near-by city of Leonberg, which soon grew an active congregation of seventy people, and new churches were established throughout the country.</p>
 						<p>Roger Peugh observed, speaking of new churches almost spontaneously springing up in parts of Germany, “I think we are on the verge of something great.”</p>
 					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__decade timeline__decade--5">1980</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot" data-dot="GB"></div>
@@ -280,6 +295,12 @@
 					<div class="timeline__event">
 						<p>Most of the ministry in Portugal has centered in the city of Porto and has focused on personal contact-making and the creation of small groups, of which a number were started in the area. The missionaries cooperated with other workers in establishing an international church, which has been instrumental in reaching out also into Portuguese families. A number of Portuguese men have been trained as leaders of the ministry, and have faithfully fulfilled their responsibilities. One of these, Alfredo Abreu, who had been serving in a campus ministry, later moved with his family to the capitol, Lisbon, to seek to build up a body of believers there. He has been joined by Sam and Tracey Schwartz, and their ministries have resulted in planting a church. There are currently four organized churches in Portugal with the Brethren fellowship.</p>
 					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__decade timeline__decade--6">1990</div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot"></div>
 					<div class="timeline__event">
 						<h2>1990s: The Beginnings of an International Identity</h2>
 						<p>The vision of an international fellowship of Grace Brethren churches goes back many decades. Periodically a proposal would be made at National Conference for the creation of an international conference, but would almost immediately be tabled because of the obstacles involved in making it happen. Too many questions seemed unanswerable. Who would be invited? How would they be chosen? How would a global gathering of Grace Brethren churches be financed? What would be the guiding purpose?</p>
@@ -490,6 +511,11 @@
 					<div class="timeline__dot timeline__dot--hidden" data-dot="CL"></div>
 					<div class="timeline__dot timeline__dot--hidden" data-dot="CM"></div>
 					<div class="timeline__dot timeline__dot--hidden" data-dot="NG"></div>
+					<div class="timeline__dot timeline__dot--hidden" data-dot="IE"></div>
+					<div class="timeline__dot timeline__dot--hidden" data-dot="BS"></div>
+				</div>
+				<div class="row">
+					<div class="timeline__decade timeline__decade--7">2000</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot"></div>
@@ -525,6 +551,9 @@
 						<p>Throughout the week these international leaders affirmed their commitment to Biblical Truth and Biblical Relationships. The culmination of the Encounter occurred on Friday evening with the unanimous approval of the <span>Commitment to Common Mission</span>, a document produced during the week through the three Task Forces. It expressed the commitment of the delegates to challenge Grace Brethren Churches worldwide to new levels of partnership in Biblical Mission.</p>
 						<p>Each delegate was challenged to encourage the churches of his country to prayerfully consider the invitation to subscribe to the Commitment to Common Mission, as well as to promote concrete ways to put the challenges of that document into action.</p>
 					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__decade timeline__decade--8">2010</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot"></div>
