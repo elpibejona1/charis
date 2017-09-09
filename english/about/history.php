@@ -99,11 +99,11 @@
 						<p>One night in Africa, during an attack of blackwater fever he had a vision. “I saw pass before me a panorama of the tribes of central Africa, and heard a voice saying, ‘ Thou shalt be instrumental in carrying the gospel to these people.’” Later he married Florence Newberry, a fellow missionary, who shared his vision.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/car-image1.jpg" alt="">		
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/car-image2.jpg" alt="">
 						</div>
 					</div>
 					<div class="timeline__event">
@@ -122,11 +122,11 @@
 						<p>The first of these was Brazil. Keith and Vivian Altig were the first to respond to God’s call to that country. One of their first converts, Raimundo Cardoso, had been warned by a priest not to look into their black book, the Bible, for fear of becoming blind. He became the first Brazilian pastor. Their target city, Belem, was at the mouth of the Amazon River.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/brazil-image1.jpg" alt="">		
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/brazil-image2.jpg" alt="">
 						</div>
 					</div>
 					<div class="timeline__event">
@@ -142,11 +142,11 @@
 						<p>Later the ministry was extended further east, near Mexicali. As the work progressed a Bible Institute began in 1960, providing training for those who were now pastoring the churches that had been established. Because of its proximity to the United States, the Mexican churches have through the years benefitted from the ministry of American teams.</p> 
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/mexico-image1.jpg" alt="">	
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/mexico-image2.jpg" alt="">
 						</div>
 					</div>
 					<div class="timeline__event">
@@ -205,11 +205,11 @@
 						<p>The first few years were challenging, but in 1972 the Peughs began holding Bible studies and worship services in their home, praying much for conversions. Later an evangelistic crusade was organized, providing the initial contacts for the beginning of a church in Stuttgart, which was incorporated in 1976 and began meeting in a rented facility. The church experienced some inner tension, but the Lord brought encouragement by calling the Pappas family to Germany as co-laborers, and the church experienced a period of excitement and growth.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/germany-image1.jpg" alt="">		
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/germany-image2.jpg" alt="">
 						</div>
 					</div>
 					<div class="timeline__event">
