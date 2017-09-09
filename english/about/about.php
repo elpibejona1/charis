@@ -21,7 +21,7 @@
 			</div>
 			<div class="accordion__content">
 				<div class="interior__photo">
-					<img src="http://placehold.it/277x169" alt="">
+					<img src="../../_images/about/general/image1.jpg" alt="">
 				</div>
 				<div class="interior__description">
 					<p>In 2015, at an historic meeting in Bangkok, Thailand, delegates representing 19 countries met to finalize a fresh expression of the core beliefs of our global movement. The <span class="about__highlight">Charis Commitment to Common Identity</span> follows a unique format and is divided into three sections. Section One affirms our unity with the global Body of Christ. Section Two affirms our agreement with the main tenets of historic Christian orthodoxy and the global evangelical movement. Section Three summarizes some unique convictions and practices we’ve developed in our quest to faithfully live out the teachings of the New Testament in our world today.</p>
@@ -36,7 +36,7 @@
 			</div>
 			<div class="accordion__content">
 				<div class="interior__photo">
-					<img src="http://placehold.it/277x169" alt="">
+					<img src="../../_images/about/general/image2.jpg" alt="">
 				</div>
 				<div class="interior__description">
 					<p>In 2008, at an historic meeting near Schwarzenau, Germany (the birthplace of our movement), delegates from 15 countries met to explore ways to foster greater cooperation in ministry. The result was the <span class="about__highlight">Charis Commitment to Common Mission</span>, which outlines our mutual commitments to church planting, leadership development and ‘doing good’ in our communities. Whether on the local, regional or international level, the members of <span class="about__highlight">The Charis Alliance</span> seek to share their experience and resources, and to partner with one another in ministry. </p>
@@ -51,7 +51,7 @@
 			</div>
 			<div class="accordion__content">
 				<div class="interior__photo">
-					<img src="http://placehold.it/277x169" alt="">
+					<img src="../../_images/about/general/image3.jpg" alt="">
 				</div>
 				<div class="interior__description">
 					<p>Since the first international gathering in 1994, the leaders and churches associated with <span class="about__highlight">The Charis Alliance</span> are laboring together to forge a common mission and common identity. These efforts are bearing fruit in the form of regional and international communion, cooperation and mutual care. Progress is both remarkable and encouraging, especially when one considers how Charis is a decentralized movement, with no formal headquarters or paid leadership. Our commitments to biblical truth, biblical relationships and biblical mission provide a foundation upon which to build a bright future.</p>

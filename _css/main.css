@@ -840,7 +840,7 @@ footer .row {
 }
 .interior__description p {
   font-family: 'Raleway', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   color: #696969;
   line-height: 1.5;
   padding: 15px 0;
@@ -1124,7 +1124,6 @@ p.interior__description__subTitle {
   color: #097888;
   font-weight: 600;
   font-family: 'Kaushan Script', cursive;
-  font-size: 26px;
 }
 .accordion__top {
   margin-top: 50px;
