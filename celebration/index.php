@@ -109,7 +109,7 @@
         <div class="resourceThird resourceThird--video">
             <a class="resourceThird__videoLink" href="https://vimeo.com/153226056" target="_blank"><img src="../_images/celebration/video2.jpg" alt="">
             <h3>The Charis Alliance</h3></a>
-            <p>This video is an introduction and overview of the Charis Alliance, a movement of Grace Brethren Churches around the world. Finalized in early 2016, most footage from this video was shot in the Fall of 2015 at the Charis National Leadership Encounter in Bangkok,&nbsp;Thailand.</p>
+            <p>This video is an introduction and overview of the Charis Alliance, a movement of Grace Brethren Churches around the world. Finalized in early 2016, most footage from this video was shot in Oct/Nov of 2015 at the Charis Internationl Leadership Encounter in Bangkok,&nbsp;Thailand.</p>
         </div>
         <div class="resourceThird resourceThird--video">
             <a class="resourceThird__videoLink" href="https://vimeo.com/161481570" target="_blank"><img src="../_images/celebration/video3.jpg" alt="">

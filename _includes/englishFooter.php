@@ -19,11 +19,7 @@
 				</ul>
 			</div>
 			<div class="siteMap">
-				<h6><a href="<?php echo $directory ?>english/media/video.php">Media</a></h6>
-				<ul>
-					<li><a href="<?php echo $directory ?>english/media/video.php">Video Gallery</li>
-					<li><a href="<?php echo $directory ?>english/media/photos.php">Photo Gallery</a></li>
-				</ul>
+				<h6><a href="<?php echo $directory ?>english/media/video.php">Media Gallery</a></h6>
 				<h6><a href="<?php echo $directory ?>english/news/index.php">News</a></h6>
 			</div>
 			<div class="siteMap__img">

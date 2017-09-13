@@ -22,8 +22,8 @@
 <div class="container container--callout">
 	<div class="row">
 		<div class="homeSlideShow__callout">
-			<h2>The Charis Alliance ...</h2>
-			<p>... seeks to obey the Great Commission by promoting fellowship and cooperation on the regional and international levels among associations of churches that endorse the Charis Commitments to Common Identity and Mission.</p>
+			<h2>La Alianza de Charis ...</h2>
+			<p>... intenta obedecer a la Gran Comisión mediante la promoción de la comunión fraternal y la cooperación a nivel regional e internacional entre las asociaciones de iglesias que apoyan el Compromiso de Charis a la Misión Común y al Compromiso de Charis a la Identidad Común.</p>
 			<div class="home__scroll">
 				<i class="fa fa-angle-down" aria-hidden="true"></i>
 				<i class="fa fa-angle-down" aria-hidden="true"></i>
@@ -34,23 +34,23 @@
 <div class="container">
 	<div class="row">
 		<div class="content content--home">
-			<h2>Featured Content:</h2>
+			<h2>Contenido Destacado:</h2>
 			<div class="content content--third content--featured">
 				<a class="charisVideo fancybox.iframe" data-fancy-box-type="iframe" href="https://player.vimeo.com/video/153226056">
 					<img src="../_images/home/thumbnail1.jpg" alt="">
-					<span>Watch Video: Intro to the <br>Charis Alliance</span>
+					<span>Mire el video: Presentación de la Alianza de&nbsp;Charis</span>
 				</a>
 			</div>
 			<div class="content content--third content--featured">
 				<a href="documents/documents.php">
 					<img src="../_images/home/thumbnail3.jpg" alt="">
-					<span>Download the Charis <br>Alliance Charter</span>
+					<span>Bajar los Estatutos de la Alianza de&nbsp;Charis</span>
 				</a>
 			</div>
 			<div class="content content--third content--featured">
 				<a href="documents/documents.php">
 					<img src="../_images/home/thumbnail2.jpg" alt="">
-					<span>Download the Charis Commitment to a Common Identity</span>
+					<span>Bajar El Compromiso de Charis a la Identidad&nbsp;Común </span>
 				</a>
 			</div>
 			<hr>
