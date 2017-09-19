@@ -81,8 +81,8 @@ var info = {
 			pais: "República Centroafricana",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: 'X',
-			churches: 'XXX'
+			pointsOfLight: '2965',
+			churches: '384'
 		},
 		{
 			country: "Nigeria",
