@@ -164,11 +164,15 @@ var membersMap = function () {
 				$mapInfoItem1.html('Charis Countries: <span>' + info[current][0].countries) + '</span>';
 				$mapInfoItem2.html('Charis Churches: <span>' + info[current][0].churches + '</span>');
 				$mapInfoItem3.html('Points of Light: <span>' + info[current][0].pointsOfLight + '</span>');
+
+				$mapHeading.text('Select a Country:');
 			} else if ( language === 'espanol' ) {
 				$mapInfoTitle.html('La Alianza de Charis en <br><span class="continent">' + info[current][0].continente + '</span>');
 				$mapInfoItem1.html('Países de Charis: <span>' + info[current][0].countries) + '</span>';
 				$mapInfoItem2.html('Iglesias de Charis: <span>' + info[current][0].churches + '</span>');
 				$mapInfoItem3.html('Puntos de Luz: <span>' + info[current][0].pointsOfLight + '</span>');
+
+				$mapHeading.text('Elija un País:');
 			}
 
 			TweenMax.to($currentContinent, 1, { scale: scale, x: x, y: y });
@@ -182,7 +186,6 @@ var membersMap = function () {
 			TweenMax.to($mapInfo, 1, { opacity: 1, visibility: "visible", delay: 1.25});
 			TweenMax.to($('.country.active'), 1, { fill: "#097888", delay: 1.25});
 			TweenMax.to([$mapInfoTitle, $mapInfoList], 1, { opacity: 1, visibility: "visible", delay: 2});
-			$mapHeading.text('Select a Country:');
 			$map.attr('class', 'zoomed');
 		}
 

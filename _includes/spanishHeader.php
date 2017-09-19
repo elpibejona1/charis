@@ -2,7 +2,7 @@
 	<div class="closeEverything"></div>
 	<div class="container">
 			<a href="<?php echo $directory ?>espanol/home.php"><img src="<?php echo $directory ?>_images/global/logo.png"/ class="header__logo"></a>
-			<ul class="header__nav">
+			<ul class="header__nav header__nav--spanish">
 				<li><a href="<?php echo $directory ?>espanol/about/about.php">Acerca de</a></li>
 					<ul class="header__subNav">
 						<li><a href="<?php echo $directory ?>espanol/about/about.php">¿Qué es Charis?</a></li>
