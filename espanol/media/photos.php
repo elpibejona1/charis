@@ -5,8 +5,8 @@
 	<? $globalFunction->includeContent(2,'topInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(2,'englishHeader'); ?>
-	<? $globalFunction->includeContent(2,'englishMediaSubNav'); ?>
+	<? $globalFunction->includeContent(2,'spanishHeader'); ?>
+	<? $globalFunction->includeContent(2,'spanishMediaSubNav'); ?>
 <div class="documents__background fullContainer">
 	<div class="container">
 		<div class="row row--archive">
@@ -250,7 +250,7 @@
 	<div id="alt-caption7" class="slideshow__caption"></div>
 </div>
 
-<? $globalFunction->includeContent(2,'englishFooter'); ?>
+<? $globalFunction->includeContent(2,'spanishFooter'); ?>
 <script src="../../_js/plugins/cycle2Swipe.js"></script>
 <script>
     $(document).ready(function() {

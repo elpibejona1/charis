@@ -18,8 +18,8 @@
 					<img src="_images/global/logo.png"/>
 					<ul>
 						<li class="chooseLang__buttons"><a href="english/home.php">English</a></li>
-						<li class="chooseLang__buttons"><a href="home-espanol.php">Español</a></li>
-						<li class="chooseLang__buttons"><a href="home-francais.php">Français</a></li>
+						<li class="chooseLang__buttons"><a href="espanol/home.php">Español</a></li>
+						<li class="chooseLang__buttons"><a href="francais/home.php">Français</a></li>
 					</ul>
 				</div>
 			</div>

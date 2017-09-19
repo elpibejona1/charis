@@ -5,8 +5,8 @@
 	<? $globalFunction->includeContent(2,'topInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(2,'englishHeader'); ?>
-	<? $globalFunction->includeContent(2,'englishAboutSubNav'); ?>
+	<? $globalFunction->includeContent(2,'spanishHeader'); ?>
+	<? $globalFunction->includeContent(2,'spanishAboutSubNav'); ?>
 <div class="fullContainer fullContainer--members">
 	<div class="content content--map">
 		<div class="continentOverlay">
@@ -52,7 +52,7 @@
 	</div>
 </div>
 <div class="membersFooter">
-	<? $globalFunction->includeContent(2,'englishFooter'); ?>
+	<? $globalFunction->includeContent(2,'spanishFooter'); ?>
 </div>
 	<script src="../../_js/members.js"></script>
 	<? $globalFunction->includeContent(2,'botInc'); ?>

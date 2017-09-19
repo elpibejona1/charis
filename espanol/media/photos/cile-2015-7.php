@@ -5,7 +5,7 @@
 	<? $globalFunction->includeContent(3,'topInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(3,'englishHeader'); ?>
+	<? $globalFunction->includeContent(3,'spanishHeader'); ?>
 <div class="subNav fullContainer">
 	<div class="container">
 		<div class="row">
@@ -24,7 +24,7 @@
 	<div class="container">
 		<div class="row row--archive">
 			<div class="archive__section archive__section--gallery">
-				<h2>2015 CILE - Wednesday, November 4, 2015</h2>				
+				<h2>2015 CILE - Friday, November 6, 2015</h2>				
 			</div>
 			<div class="archive archive--photos">
 				<div class="cycle-slideshow"
@@ -36,32 +36,28 @@
     			data-cycle-caption-template="{{alt}}">
     				<div class="slideControls slideControls--left" id=prev><i class="fa fa-chevron-left"></i></div>
 		        	<div class="slideControls slideControls--right" id=next><i class="fa fa-chevron-right"></i></div>
-				    <img src="../../../_images/media/photos/cile-2015-5/img1.jpg" alt="Praising God in the three languages of Charis: English, French, and Spanish. A true taste of Heaven.">
-				    <img src="../../../_images/media/photos/cile-2015-5/img2.jpg" alt="Praising God in the three languages of Charis: English, French, and Spanish. A true taste of Heaven.">
-				    <img src="../../../_images/media/photos/cile-2015-5/img3.jpg" alt="Praising God in the three languages of Charis: English, French, and Spanish. A true taste of Heaven.">
-				    <img src="../../../_images/media/photos/cile-2015-5/img4.jpg" alt="Pastor Keith Minier from the USA shares from the Word of God.">
-				    <img src="../../../_images/media/photos/cile-2015-5/img5.jpg" alt="Pastor Keith Minier from the USA shares from the Word of God.">
-				    <img src="../../../_images/media/photos/cile-2015-5/img6.jpg" alt="Pastor Keith Minier from the USA shares from the Word of God.">
-				    <img src="../../../_images/media/photos/cile-2015-5/img7.jpg" alt="Pastor Keith Minier from the USA shares from the Word of God.">
-				    <img src="../../../_images/media/photos/cile-2015-5/img8.jpg" alt="Pastor Keith Minier from the USA shares from the Word of God.">
-				    <img src="../../../_images/media/photos/cile-2015-5/img9.jpg" alt="Pastor Keith Minier from the USA shares from the Word of God.">
+				    <img src="../../../_images/media/photos/cile-2015-7/img1.jpg" alt="The delegates vote to approve the Charis Commitment to Common Identity.">
+				    <img src="../../../_images/media/photos/cile-2015-7/img2.jpg" alt="The delegates vote to approve the Charis Commitment to Common Identity.">
+				    <img src="../../../_images/media/photos/cile-2015-7/img3.jpg" alt="The delegates conclude the 2015 CILE by participating in three-fold Communion.">
+				    <img src="../../../_images/media/photos/cile-2015-7/img4.jpg" alt="The delegates conclude the 2015 CILE by participating in three-fold Communion.">
+				    <img src="../../../_images/media/photos/cile-2015-7/img5.jpg" alt="The delegates conclude the 2015 CILE by participating in three-fold Communion.">
 				</div>
 				<!-- empty element for caption -->
 				<div id="alt-caption" class="slideshow__caption center"></div>
 				<div class="slideshowlink slideshowlink__prev">
-					<a href="cile-2015-4.php"><i class="fa fa-chevron-left"></i> November 3, 2015</a>
+					<a href="cile-2015-6.php"><i class="fa fa-chevron-left"></i> November 5, 2015</a>
 				</div>
 				<div class="slideshowlink slideshowlink__back">
 					<a href="../photos.php">Back to Photo Gallery</i></a>
 				</div>
 				<div class="slideshowlink slideshowlink__next">
-					<a href="cile-2015-6.php">November 5, 2015 <i class="fa fa-chevron-right"></i></a>
+					&nbsp;
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-	<? $globalFunction->includeContent(2,'englishFooter'); ?>
+	<? $globalFunction->includeContent(2,'spanishFooter'); ?>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script src="../../../_js/cycle2.js"></script>
 </body>

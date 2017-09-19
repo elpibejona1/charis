@@ -70,6 +70,7 @@ var info = {
 		},
 		{
 			country: "Cameroon",
+			pais: "Camerún",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
 			pointsOfLight: 'X',
@@ -77,6 +78,7 @@ var info = {
 		},
 		{
 			country: "The Central African Republic",
+			pais: "República Centroafricana",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
 			pointsOfLight: 'X',
@@ -84,6 +86,7 @@ var info = {
 		},
 		{
 			country: "Nigeria",
+			pais: "Nigeria",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
 			pointsOfLight: 'X',
@@ -91,10 +94,11 @@ var info = {
 		},
 		{
 			country: "Chad",  //TD
+			pais: "Chad",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: 'X',
-			churches: 'XXX'
+			pointsOfLight: '283',
+			churches: '249'
 		},
 	],
 	asia: [
@@ -107,13 +111,15 @@ var info = {
 		},
 		{
 			country: "Japan",
+			pais: "Japón",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
-			pointsOfLight: 'X',
-			churches: 'XXX'
+			pointsOfLight: '',
+			churches: '2'
 		},
 		{
 			country: "Cambodia", //KH
+			pais: "Camboya",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
 			pointsOfLight: 'X',
@@ -121,10 +127,11 @@ var info = {
 		},
 		{
 			country: "The Philippines",
+			pais: "Filipinas",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: 'X',
-			churches: 'XXX'
+			pointsOfLight: '6',
+			churches: '10'
 		},
 	],
 	caribbean: [
@@ -137,6 +144,7 @@ var info = {
 		},
 		{
 			country: "The Bahamas",
+			pais: "Bahamas",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
 			pointsOfLight: '',
@@ -153,6 +161,7 @@ var info = {
 		},
 		{
 			country: "Germany",  //DE
+			pais: "Alemania",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
 			pointsOfLight: 1,
@@ -160,6 +169,7 @@ var info = {
 		},
 		{
 			country: "France",
+			pais: "Francia",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
 			estado: "Miembro Observador",
@@ -167,7 +177,8 @@ var info = {
 			churches: 7
 		},
 		{
-			country: "Great Britain",
+			country: "The United Kingdom",
+			pais: "Reino Unido",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
 			pointsOfLight: 'X',
@@ -175,6 +186,7 @@ var info = {
 		},
 		{
 			country: "Ireland",
+			pais: "Irlanda",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
 			pointsOfLight: '',
@@ -191,6 +203,7 @@ var info = {
 		},
 		{
 			country: "Canada",
+			pais: "Canadá",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
 			pointsOfLight: 1,
@@ -198,6 +211,7 @@ var info = {
 		},
 		{
 			country: "Guatemala",
+			pais: "Guatemala",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
 			pointsOfLight: 'X',
@@ -205,13 +219,15 @@ var info = {
 		},
 		{
 			country: "Mexico",
+			pais: "México",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: 'X',
-			churches: 'XXX'
+			pointsOfLight: '15',
+			churches: '30'
 		},
 		{
 			country: "The United States",
+			pais: "Estados Unidos",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
 			pointsOfLight: '',
@@ -228,6 +244,7 @@ var info = {
 		},
 		{
 			country: "Argentina",
+			pais: "Argentina",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
 			pointsOfLight: 4,
@@ -235,13 +252,15 @@ var info = {
 		},
 		{
 			country: "Brazil",
+			pais: "Brasil",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: 'X',
-			churches: 'XXX'
+			pointsOfLight: '29',
+			churches: '33'
 		},
 		{
 			country: "Chile",
+			pais: "Chile",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
 			pointsOfLight: 1,
@@ -249,6 +268,7 @@ var info = {
 		},
 		{
 			country: "Uruguay",
+			pais: "Uruguay",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
 			pointsOfLight: 1,

@@ -150,7 +150,7 @@ var membersMap = function () {
 
 			if ( language === "english" ) {
 				$mapHeading.text('Choose a Region to Begin:');
-			} else if ( language === 'espa%C3%B1ol' ) {
+			} else if ( language === 'espanol' ) {
 				$mapHeading.text('Elija una region para comenzar:')
 			}
 			$map.attr('class', '');
@@ -164,7 +164,7 @@ var membersMap = function () {
 				$mapInfoItem1.html('Charis Countries: <span>' + info[current][0].countries) + '</span>';
 				$mapInfoItem2.html('Charis Churches: <span>' + info[current][0].churches + '</span>');
 				$mapInfoItem3.html('Points of Light: <span>' + info[current][0].pointsOfLight + '</span>');
-			} else if ( language === 'espa%C3%B1ol' ) {
+			} else if ( language === 'espanol' ) {
 				$mapInfoTitle.html('La Alianza de Charis en <br><span class="continent">' + info[current][0].continente + '</span>');
 				$mapInfoItem1.html('Países de Charis: <span>' + info[current][0].countries) + '</span>';
 				$mapInfoItem2.html('Iglesias de Charis: <span>' + info[current][0].churches + '</span>');
@@ -237,8 +237,8 @@ var membersMap = function () {
 					} else {
 						$mapInfoItem3.html('');
 					}
-				} else if ( language === 'espa%C3%B1ol' ) {
-					$mapInfoTitle.html('La Alianza de Charis en <br><span class="country">' +info[continentId][i].country) + '</span>';
+				} else if ( language === 'espanol' ) {
+					$mapInfoTitle.html('La Alianza de Charis en <br><span class="country">' +info[continentId][i].pais) + '</span>';
 					$mapInfoItem1.html('Estado de la Membresía: <br><span>' + info[continentId][i].estado + '</span>');
 					$mapInfoItem2.html('Iglesias de Charis: <span>' + info[continentId][i].churches + '</span>');
 				

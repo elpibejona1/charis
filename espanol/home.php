@@ -5,7 +5,7 @@
 	<? $globalFunction->includeContent(1,'topInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(1,'englishHeader'); ?>
+	<? $globalFunction->includeContent(1,'spanishHeader'); ?>
 <div class="homeSlideShow cycle-slideshow"
 	data-cycle-fx="scrollHorz"
     data-cycle-speed="700"
@@ -85,7 +85,7 @@
 </div> -->
 
 
-	<? $globalFunction->includeContent(1,'englishFooter'); ?>
+	<? $globalFunction->includeContent(1,'spanishFooter'); ?>
 	<script src="../_js/cycle2.js"></script>
 	<script>
 		$(document).ready(function() {

@@ -5,7 +5,7 @@
 	<? $globalFunction->includeContent(3,'topInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(3,'englishHeader'); ?>
+	<? $globalFunction->includeContent(3,'spanishHeader'); ?>
 <div class="subNav fullContainer">
 	<div class="container">
 		<div class="row">
@@ -60,7 +60,7 @@
 		</div>
 	</div>
 </div>
-	<? $globalFunction->includeContent(2,'englishFooter'); ?>
+	<? $globalFunction->includeContent(2,'spanishFooter'); ?>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script src="../../../_js/cycle2.js"></script>
 </body>

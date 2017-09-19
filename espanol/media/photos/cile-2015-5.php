@@ -5,7 +5,7 @@
 	<? $globalFunction->includeContent(3,'topInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(3,'englishHeader'); ?>
+	<? $globalFunction->includeContent(3,'spanishHeader'); ?>
 <div class="subNav fullContainer">
 	<div class="container">
 		<div class="row">
@@ -24,7 +24,7 @@
 	<div class="container">
 		<div class="row row--archive">
 			<div class="archive__section archive__section--gallery">
-				<h2>2015 CILE - Saturday, October 31, 2015</h2>				
+				<h2>2015 CILE - Wednesday, November 4, 2015</h2>				
 			</div>
 			<div class="archive archive--photos">
 				<div class="cycle-slideshow"
@@ -36,33 +36,32 @@
     			data-cycle-caption-template="{{alt}}">
     				<div class="slideControls slideControls--left" id=prev><i class="fa fa-chevron-left"></i></div>
 		        	<div class="slideControls slideControls--right" id=next><i class="fa fa-chevron-right"></i></div>
-				    <img src="../../../_images/media/photos/cile-2015-1/img1.jpg" alt="Delegates and staff are arriving in Bangkok this weekend for the Charis International Leadership Encounter.">
-				    <img src="../../../_images/media/photos/cile-2015-1/img2.jpg" alt="Delegates and staff greeted each other in the lobby of the hotel.">
-				    <img src="../../../_images/media/photos/cile-2015-1/img3.jpg" alt="A group set out Saturday night for dinner with Reiner Ehmann from Germany leading the way.">
-				    <img src="../../../_images/media/photos/cile-2015-1/img4.jpg" alt="This group tried Thai food at the local mall.">
-				    <img src="../../../_images/media/photos/cile-2015-1/img5.jpg" alt="Part of the group that tried Thai food at the local mall.">
-				    <img src="../../../_images/media/photos/cile-2015-1/img6.jpg" alt="Part of the group that tried Thai food at the local mall.">
-				    <img src="../../../_images/media/photos/cile-2015-1/img7.jpg" alt="Part of the group that tried Thai food at the local mall.">
-				    <img src="../../../_images/media/photos/cile-2015-1/img8.jpg" alt="Leaving the mall.">
-				    <img src="../../../_images/media/photos/cile-2015-1/img9.jpg" alt="A view from the hotel about dusk.">
-				    <img src="../../../_images/media/photos/cile-2015-1/img10.jpg" alt="A Saturday night view from the hotel where the CILE meetings are being held.">
+				    <img src="../../../_images/media/photos/cile-2015-5/img1.jpg" alt="Praising God in the three languages of Charis: English, French, and Spanish. A true taste of Heaven.">
+				    <img src="../../../_images/media/photos/cile-2015-5/img2.jpg" alt="Praising God in the three languages of Charis: English, French, and Spanish. A true taste of Heaven.">
+				    <img src="../../../_images/media/photos/cile-2015-5/img3.jpg" alt="Praising God in the three languages of Charis: English, French, and Spanish. A true taste of Heaven.">
+				    <img src="../../../_images/media/photos/cile-2015-5/img4.jpg" alt="Pastor Keith Minier from the USA shares from the Word of God.">
+				    <img src="../../../_images/media/photos/cile-2015-5/img5.jpg" alt="Pastor Keith Minier from the USA shares from the Word of God.">
+				    <img src="../../../_images/media/photos/cile-2015-5/img6.jpg" alt="Pastor Keith Minier from the USA shares from the Word of God.">
+				    <img src="../../../_images/media/photos/cile-2015-5/img7.jpg" alt="Pastor Keith Minier from the USA shares from the Word of God.">
+				    <img src="../../../_images/media/photos/cile-2015-5/img8.jpg" alt="Pastor Keith Minier from the USA shares from the Word of God.">
+				    <img src="../../../_images/media/photos/cile-2015-5/img9.jpg" alt="Pastor Keith Minier from the USA shares from the Word of God.">
 				</div>
 				<!-- empty element for caption -->
 				<div id="alt-caption" class="slideshow__caption center"></div>
 				<div class="slideshowlink slideshowlink__prev">
-					&nbsp;
+					<a href="cile-2015-4.php"><i class="fa fa-chevron-left"></i> November 3, 2015</a>
 				</div>
 				<div class="slideshowlink slideshowlink__back">
 					<a href="../photos.php">Back to Photo Gallery</i></a>
 				</div>
 				<div class="slideshowlink slideshowlink__next">
-					<a href="cile-2015-2.php">November 1, 2015 <i class="fa fa-chevron-right"></i></a>
+					<a href="cile-2015-6.php">November 5, 2015 <i class="fa fa-chevron-right"></i></a>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-	<? $globalFunction->includeContent(2,'englishFooter'); ?>
+	<? $globalFunction->includeContent(2,'spanishFooter'); ?>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script src="../../../_js/cycle2.js"></script>
 </body>

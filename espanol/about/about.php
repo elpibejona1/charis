@@ -5,8 +5,8 @@
 	<? $globalFunction->includeContent(2,'topInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(2,'englishHeader'); ?>
-	<? $globalFunction->includeContent(2,'englishAboutSubNav'); ?>
+	<? $globalFunction->includeContent(2,'spanishHeader'); ?>
+	<? $globalFunction->includeContent(2,'spanishAboutSubNav'); ?>
 <div class="fullContainer">
 	<div class="container">
 		<iframe class="about__video" <iframe src="https://player.vimeo.com/video/161481570?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></iframe>
@@ -61,7 +61,7 @@
 		</div>
 	</div>
 </div>
-	<? $globalFunction->includeContent(2,'englishFooter'); ?>
+	<? $globalFunction->includeContent(2,'spanishFooter'); ?>
 	<? $globalFunction->includeContent(2,'botInc'); ?>
 </body>
 </html>

@@ -5,8 +5,8 @@
 	<? $globalFunction->includeContent(2,'topInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(2,'englishHeader'); ?>
-	<? $globalFunction->includeContent(2,'englishNewsSubNav'); ?>
+	<? $globalFunction->includeContent(2,'spanishHeader'); ?>
+	<? $globalFunction->includeContent(2,'spanishNewsSubNav'); ?>
 <div class="news__background fullContainer">
 	<div class="container">
 		<div class="row row--documents">
@@ -25,7 +25,7 @@
 </div>
 
 </script>
-	<? $globalFunction->includeContent(2,'englishFooter'); ?>
+	<? $globalFunction->includeContent(2,'spanishFooter'); ?>
 	<? $globalFunction->includeContent(2,'botInc'); ?>
 </body>
 </html>

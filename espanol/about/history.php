@@ -5,8 +5,8 @@
 	<? $globalFunction->includeContent(2,'topInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(2,'englishHeader'); ?>
-	<? $globalFunction->includeContent(2,'englishAboutSubNav'); ?>
+	<? $globalFunction->includeContent(2,'spanishHeader'); ?>
+	<? $globalFunction->includeContent(2,'spanishAboutSubNav'); ?>
 <div class="container container--historyMap">
 	<div class="row">
 		<?php include('../../_images/about/history/world.svg'); ?>
@@ -607,7 +607,7 @@
 		</div>
 	</div>
 </div>
-	<? $globalFunction->includeContent(2,'englishFooter'); ?>
+	<? $globalFunction->includeContent(2,'spanishFooter'); ?>
 	<script>
 		$('document').ready(function(){
 
