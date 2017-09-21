@@ -63,109 +63,97 @@ var info = {
 	africa: [
 		{
 			continent: 'Africa',
-			continente: 'África',
-			countries: 4,
-			churches: 'XXX',
-			pointsOfLight: 'X'
+			continente: 'África'
 		},
 		{
 			country: "Cameroon",
 			pais: "Camerún",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: 'X',
-			churches: 'XXX'
+			churches: 49,
+			pointsOfLight: 37
 		},
 		{
 			country: "The Central African Republic",
 			pais: "República Centroafricana",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: '2965',
-			churches: '384'
+			churches: 2965,
+			pointsOfLight: 384
 		},
 		{
 			country: "Nigeria",
 			pais: "Nigeria",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: 'X',
-			churches: 'XXX'
+			churches: 0,
+			pointsOfLight: 0
 		},
 		{
 			country: "Chad",  //TD
 			pais: "Chad",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: '283',
-			churches: '249'
+			churches: 249,
+			pointsOfLight: 283
 		},
 	],
 	asia: [
 		{
 			continent: 'Asia',
-			continente: 'Asia',
-			countries: 3,
-			churches: 'XXX',
-			pointsOfLight: 'X'
+			continente: 'Asia'
 		},
 		{
 			country: "Japan",
 			pais: "Japón",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
-			pointsOfLight: '',
-			churches: '2'
+			churches: 2,
+			pointsOfLight: 0
 		},
 		{
 			country: "Cambodia", //KH
 			pais: "Camboya",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: 'X',
-			churches: 'XXX'
+			churches: 4,
+			pointsOfLight: 4
 		},
 		{
 			country: "The Philippines",
 			pais: "Filipinas",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: '6',
-			churches: '10'
+			churches: 10,
+			pointsOfLight: 6
 		},
 	],
 	caribbean: [
 		{
 			continent: 'The Caribbean',
-			continente: 'El Caribe',
-			countries: 1,
-			churches: 'XXX',
-			pointsOfLight: 'X'
+			continente: 'El Caribe'
 		},
 		{
 			country: "The Bahamas",
 			pais: "Bahamas",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: '',
-			churches: 5
+			churches: 5,
+			pointsOfLight: 0
 		}
 	],
 	europe: [
 		{
 			continent: 'Europe',
-			continente: 'Europa',
-			countries: 4,
-			churches: 'XXX',
-			pointsOfLight: 'X'
+			continente: 'Europa'
 		},
 		{
 			country: "Germany",  //DE
 			pais: "Alemania",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
-			pointsOfLight: 1,
-			churches: 3
+			churches: 3,
+			pointsOfLight: 1
 		},
 		{
 			country: "France",
@@ -173,106 +161,100 @@ var info = {
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
 			estado: "Miembro Observador",
-			pointsOfLight: 5,
-			churches: 7
+			churches: 7,
+			pointsOfLight: 5
 		},
 		{
 			country: "The United Kingdom",
 			pais: "Reino Unido",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
-			pointsOfLight: 'X',
-			churches: 'XXX'
+			churches: 0,
+			pointsOfLight: 0
 		},
 		{
 			country: "Ireland",
 			pais: "Irlanda",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
-			pointsOfLight: '',
-			churches: 1
+			churches: 1,
+			pointsOfLight: 0
 		}
 	],
 	northAmerica: [
 		{
 			continent: 'North America',
-			continente: 'América del Norte',
-			countries: 4,
-			churches: 'XXX',
-			pointsOfLight: 'X'
+			continente: 'América del Norte'
 		},
 		{
 			country: "Canada",
 			pais: "Canadá",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: 1,
-			churches: 4
+			churches: 4,
+			pointsOfLight: 1
 		},
 		{
 			country: "Guatemala",
 			pais: "Guatemala",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
-			pointsOfLight: '',
-			churches: 1
+			churches: 1,
+			pointsOfLight: 0
 		},
 		{
 			country: "Mexico",
 			pais: "México",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: '15',
-			churches: '30'
+			churches: 30,
+			pointsOfLight: 15
 		},
 		{
 			country: "The United States",
 			pais: "Estados Unidos",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: '',
-			churches: 238
+			churches: 238,
+			pointsOfLight: 0
 		}
 	],
 	southAmerica: [
 		{
 			continent: 'South America',
-			continente: 'América del Sur',
-			countries: 4,
-			churches: 'XXX',
-			pointsOfLight: 'X'
+			continente: 'América del Sur'
 		},
 		{
 			country: "Argentina",
 			pais: "Argentina",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: 4,
-			churches: 18
+			churches: 18,
+			pointsOfLight: 4
 		},
 		{
 			country: "Brazil",
 			pais: "Brasil",
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			pointsOfLight: '29',
-			churches: '33'
+			churches: 33,
+			pointsOfLight: 29
 		},
 		{
 			country: "Chile",
 			pais: "Chile",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
-			pointsOfLight: 1,
-			churches: 1
+			churches: 1,
+			pointsOfLight: 1
 		},
 		{
 			country: "Uruguay",
 			pais: "Uruguay",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
-			pointsOfLight: 1,
-			churches: 1
+			churches: 1,
+			pointsOfLight: 1
 		}
 	]
 }
