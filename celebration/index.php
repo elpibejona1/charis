@@ -32,17 +32,15 @@
             <img src="../_images/celebration/resource1.png" alt="">
             <h3>Celebration Guide</h3>
             <p>A guide to Charis Celebration Sunday, along with a recommended schedule</p>
-            <div><a class="resourceThird__link" target="_blank" href="csc_celebrationGuide_2017_bleed.pdf">With Bleed</a></div>
-            <div><a class="resourceThird__link" target="_blank" href="csc_celebrationGuide_2017.pdf">No Bleed</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="csc_celebrationGuide_2017.pdf">Download</a></div>
         </div>
         <div class="resourceThird">
             <img src="../_images/celebration/resource2.png" alt="">
             <h3>LEADER NOTES</h3>
             <p>To help you organize your celebration, with 10-minute, 30-minute and one-hour options</p>
-            <div><a class="resourceThird__link" target="_blank" href="csc_Leader_Notes_2017_bleed.pdf">With Bleed</a></div>
-            <div><a class="resourceThird__link" target="_blank" href="csc_Leader_Notes_2017.pdf">No Bleed</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="csc_Leader_Notes_2017.pdf">Download</a></div>
         </div>
-        <div class="resourceThird resourceThird--padding">
+        <div class="resourceThird">
             <img class="wide" src="../_images/celebration/resource3.png" alt="">
             <h3>CHARIS CELEBRATION WHITEBOARD VIDEO</h3>
             <p>For churches with video capability</p>
@@ -53,22 +51,19 @@
             <img src="../_images/celebration/resource4.png" alt="">
             <h3>CHARIS HISTORY INFORMATION SHEET</h3>
             <p>For churches without video capability</p>
-            <div><a class="resourceThird__link" target="_blank" href="csc_history_2017_bleed.pdf">With Bleed</a></div>
-            <div><a class="resourceThird__link" target="_blank" href="csc_history_2017.pdf">No Bleed</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="csc_history_2017.pdf">Download</a></div>
         </div>
         <div class="resourceThird">
             <img src="../_images/celebration/resource10.png" alt="">
             <h3>PRAYER GUIDE</h3>
             <p>Highlights Charis Alliance church locations and how best to pray for them</p>
-            <div><a class="resourceThird__link" target="_blank" href="csc_Prayer_Guide_2017_bleed.pdf">With Bleed</a></div>
-            <div><a class="resourceThird__link" target="_blank" href="csc_Prayer_Guide_2017.pdf">No Bleed</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="csc_Prayer_Guide_2017.pdf">Download</a></div>
         </div>
         <div class="resourceThird">
             <img src="../_images/celebration/resource5.png" alt="">
             <h3>PROMOTIONAL POSTER</h3>
             <p>8.5”w x 11”h poster to print and display at your church</p>
-            <div><a class="resourceThird__link" target="_blank" href="csc_poster_2017_bleed.pdf">With Bleed</a></div>
-            <div><a class="resourceThird__link" target="_blank" href="csc_poster_2017_noBleed.pdf">No Bleed</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="csc_poster_2017_noBleed.pdf">Download</a></div>
         </div>
         <div class="resourceThird">
             <img class="wide" src="../_images/celebration/resource6.png" alt="">
@@ -87,8 +82,7 @@
             <img src="../_images/celebration/resource8.png" alt="">
             <h3>Giving Sheet</h3>
             <p>Notes the ways to give to Charis Alliance churches</p>
-            <div><a class="resourceThird__link" target="_blank" href="csc_Giving_Sheet_2017_BLEED.pdf">With Bleed</a></div>
-            <div><a class="resourceThird__link" target="_blank" href="csc_Giving_Sheet_2017.pdf">No Bleed</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="csc_Giving_Sheet_2017.pdf">Download</a></div>
         </div>
         <div class="resourceThird">
             <img src="../_images/celebration/resource9.png" alt="">
