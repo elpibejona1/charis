@@ -588,6 +588,9 @@ footer .row {
 .slideshow {
   display: none;
 }
+.slideshow img {
+  width: 100%;
+}
 .cycle-slide {
   max-width: 100%;
   max-height: 120%;
@@ -622,7 +625,7 @@ footer .row {
 }
 .slideshow__caption {
   text-align: center;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 600;
   color: #097888;
   font-family: 'Raleway', sans-serif;

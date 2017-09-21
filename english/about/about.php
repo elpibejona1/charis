@@ -9,7 +9,7 @@
 	<? $globalFunction->includeContent(2,'englishAboutSubNav'); ?>
 <div class="fullContainer">
 	<div class="container">
-		<iframe class="about__video" <iframe src="https://player.vimeo.com/video/161481570?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></iframe>
+		<iframe class="about__video" src="https://player.vimeo.com/video/234318690?color=b7962f&title=0&byline=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 		<div class="row row--aboutIntroBlock">
 			<h2 class="about__heading">What is the Charis Alliance?</h2>
 			<p class="about__introText">From their humble beginnings to their global footprint today, the churches of The Charis Alliance share a common quest &mdash; to faithfully and creatively represent God’s Son and God’s Word among the diverse cultures of our world. The movement began in a small German village in 1708, when eight men and women committed to creating a church faithful to the teachings of the New Testament. Persecution soon forced them to immigrate to North America. Over the centuries, the movement morphed, divided and grew, so that today it is represented by churches and outreach efforts in thirty-three countries. While individual churches and groups of churches maintain their autonomy, The Charis Alliance provides a platform for these churches to pursue matters of common benefit and interest.</p>

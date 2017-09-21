@@ -214,8 +214,8 @@ var info = {
 			pais: "Guatemala",
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
-			pointsOfLight: 'X',
-			churches: 'XXX'
+			pointsOfLight: '',
+			churches: 1
 		},
 		{
 			country: "Mexico",
