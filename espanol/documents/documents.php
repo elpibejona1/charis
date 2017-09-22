@@ -14,13 +14,11 @@
 				<img src="../../_images/home/thumbnail3.jpg" alt="">
 			</div>
 			<div class="interior__description">
-				<p><span>Charis Alliance Charter</span> - What does it mean to be a member of the  <strong>Charis Alliance</strong>? Access definitions, a description of member benefits and responsibilities, and information on the governing body of this international partnership.</p>
+				<p><span>Estatutos de la Alianza de Charis:</span> - ¿Qué significa ser un miembro de la  <strong>Charis Alliance</strong>? Acceda a definiciones, descripciones de los beneficios y responsabilidades, y a la información del cuerpo que dirige esta asociación internacional.</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/The_Charis_Alliance_Charter_(v2015.0)_letter_size.pdf">PDF: Letter</a></li>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/The_Charis_Alliance_Charter_(v2015.0)_A4.pdf">PDF: A4</a></li>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/The_Charis_Alliance_Charter_(v2015.0)_letter_size.docx">DOCX: Letter</a></li>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/The_Charis_Alliance_Charter_(v2015.0)_A4.docx">DOCX: A4</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/Alianza_Charis_Estatutos_(v2015.0).pdf">Archivo PDF</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/Alianza_Charis_Estatutos_(1.0).docx">Archivo DOCX</a></li>
 					</ul>
 				</div>
 			</div>
@@ -30,26 +28,13 @@
 				<img src="../../_images/home/thumbnail2.jpg" alt="">
 			</div>
 			<div class="interior__description">
-				<p><span>Charis Commitment to a Common Identity</span> - Unanimously approved by the delegates of the 2015 CILE, this historic document is a truly global expression of the common values and beliefs of the Grace Brethren movement.</p>
+				<p><span>El Compromiso de Charis a la Identidad Común</span> - Aprobado por unanimidad por los delegados de EILC 2015, este documento histórico es una expresión verdaderamente global de los valores y creencias en común del movimiento de La Iglesia de los Hermanos por Gracia.</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.0_Letter).pdf">PDF: Letter</a></li>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.0_A4).pdf">PDF: A4</a></li>
-						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.1_with_verses_letter).pdf">PDF: Letter (with&nbsp;scriptures)</a></li>
-						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.1_with_verses_A4).pdf">PDF: A4 <br>(with&nbsp;scriptures)</a></li>
-					</ul>
-				</div>
-				<div class="primary__downloadContainer">
-					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.0_Letter).docx">DOCX: Letter</a></li>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.0_A4).docx">DOCX: A4</a></li>
-						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.1_with_verses_letter).docx">DOCX: Letter (with&nbsp;scriptures)</a></li>
-						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.1_with_verses_A4).docx">DOCX: <br>A4 (with&nbsp;scriptures)</a></li>
-					</ul>
-				</div>
-				<div class="primary__downloadContainer">
-					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(2015_Brochure).pdf">PDF: Brochure</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Nuestro_Compromiso_a_la_Identidad_Común_2015_(ESP_v2015.0).pdf">Archivo PDF</a></li>
+						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Nuestro_Compromiso_a_la_Identidad_Común_2015_(ESP_v2015.0)_con_versículos.pdf">Archivo PDF <br>(con&nbsp;versos)</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Nuestro_Compromiso_a_la_Identidad_Común_2015_(ESP_v2015.0).docx">Archivo DOCX</a></li>
+						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Nuestro_Compromiso_a_la_Identidad_Común_2015_(ESP_v2015.0)_con_versículos.docx">Archivo DOCX <br> (con&nbsp;versos)</a></li>
 					</ul>
 				</div>
 			</div>
@@ -59,10 +44,10 @@
 				<img src="../../_images/documents/primary/thumbnail4.jpg" alt="">
 			</div>
 			<div class="interior__description">
-				<p><span>Charis Commitment to a Common Mission</span> - Unanimously approved by the delegates of the 2008 CILE, this historic document summarizes our commitment to work together in regional and international arenas to promote church planting, leadership training and integrated&nbsp;ministries.</p>
+				<p><span>El Compromiso de Charis a la Misión Común</span> - Aprobado por unanimidad por los delegados de EILC 2008, este documento histórico resume nuestro compromiso a trabajar juntos en la esfera regional e internacional para promover la fundación de iglesias, capacitación para el liderazgo y ministerios integrales.</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/cccm/CCCM_English.pdf">PDF: A4</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/cccm/CCCM_Español.pdf">Archivo PDF</a></li>
 					</ul>
 				</div>
 			</div>
@@ -72,29 +57,29 @@
 				<img src="../../_images/documents/primary/thumbnail5.jpg" alt="">
 			</div>
 			<div class="interior__description">
-				<p class="interior__description__title"><span>Additional Languages:</span></p>
-				<p class="interior__description__subTitle">Charis Alliance Charter</p>
+				<p class="interior__description__title"><span>Idiomas adicionales:</span></p>
+				<p class="interior__description__subTitle">Estatutos de la Alianza de Charis:</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/Charter_German_(A4).pdf">German</a></li>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/Charter_Portuguese_(A4).pdf">Portuguese</a></li>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/Charter_Tagalog_(letter).pdf">Tagalog</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/Charter_German_(A4).pdf">Alemán</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/Charter_Portuguese_(A4).pdf">Portugués</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/Charter_Tagalog_(letter).pdf">Tagalo</a></li>
 					</ul>
 				</div>
-				<p class="interior__description__subTitle">Charis Commitment to a Common Identity</p>
+				<p class="interior__description__subTitle">El Compromiso de Charis a la Identidad Común</p>
 				<div class="primary__downloadContainer">
 					
 				<ul>
-					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Die_Charis_Übereinkunft_zur_gemeinsamen_Identität_(DEUTSCH_V2015.1).pdf">German</a></li>
-					<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Die_Charis_Übereinkunft_zur_gemeinsamen_Identität_Fußnoten_(DEUTSCH_V2015.1).pdf">German <br>(with scriptures)</a></li>
+					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Die_Charis_Übereinkunft_zur_gemeinsamen_Identität_(DEUTSCH_V2015.1).pdf">Alemán</a></li>
+					<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Die_Charis_Übereinkunft_zur_gemeinsamen_Identität_Fußnoten_(DEUTSCH_V2015.1).pdf">Alemán <br>(con versos)</a></li>
 					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Nosso_Compromisso_para_uma_Identidade_Comum_2015_(POR_v2015_0)_com_versos.pdf">Portuguese</a></li>
-					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Tagalog_Charis_Common_Identity_(v2015.0).pdf">Tagalog</a></li>
+					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Tagalog_Charis_Common_Identity_(v2015.0).pdf">Tagalo</a></li>
 				</ul>
 				</div>
-				<p class="interior__description__subTitle">Charis Commitment to a Common Mission</p>
+				<p class="interior__description__subTitle">El Compromiso de Charis a la Misión Común</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/cccm/CCCM_German.pdf">German</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/cccm/CCCM_German.pdf">Alemán</a></li>
 					</ul>
 				</div>
 			</div>

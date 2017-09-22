@@ -9,7 +9,7 @@
 	<? $globalFunction->includeContent(2,'spanishAboutSubNav'); ?>
 <div class="fullContainer">
 	<div class="container">
-		<iframe class="about__video" <iframe src="https://player.vimeo.com/video/161481570?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></iframe>
+		<iframe  class="about__video" src="https://player.vimeo.com/video/234542538?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 		<div class="row row--aboutIntroBlock">
 			<h2 class="about__heading">¿Qué es la Alianza de Charis?</h2>
 			<p class="about__introText">Desde sus humildes comienzos hasta las huellas globales de hoy, las iglesias de la Alianza de Charis comparten una búsqueda en común: representar fiel y creativamente al Hijo de Dios y a la Palabra de Dios entre las diferentes culturas de nuestro mundo. El movimiento comenzó en un pequeño pueblo de Alemania en el 1708, cuando 8 personas se comprometieron a crear una iglesia fiel a las enseñanzas del Nuevo Testamento. La persecución pronto los forzaría a emigrar a América del Norte. A través de los siglos, el movimiento fue tomando forma, se dividió y creció, y hoy en día está representado por Iglesias y esfuerzos de extención en treinta y tres países. Aún cuando las iglesias y los grupos de iglesias mantienen su autonomía, la Alianza de Charis les provee una plataforma para perseguir asuntos de beneficio e interés común.</p>

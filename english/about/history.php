@@ -48,7 +48,7 @@
 					<div class="timeline__decade timeline__decade--1">1900</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="US"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="US"></div>
 					<div class="timeline__event">
 						<h2>1900: United States</h2>
 						<p>The Brethren movement began in Germany in 1708 when Alexander Mack and seven others were baptized, leading to the creation of churches whose passion was to return to the Scriptures for all matters of faith and practice. Many of these pioneers were forced to flee to the American colonies in order to freely practice their beliefs.</p>
@@ -69,7 +69,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="AR"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="AR"></div>
 					<div class="timeline__event">
 						<h2>1909: Argentina</h2>
 						<p>The year 1909 was termed “The Hour of Opportunity,” by the man who for years became the director of the missionary society, L. S. Bauman. This year marks the beginning of Brethren missions in Argentina, the start of the long history of highly successful missionary endeavor.</p>
@@ -92,7 +92,7 @@
 					<div class="timeline__decade timeline__decade--2">1910</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="CF"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="CF"></div>
 					<div class="timeline__event">
 						<h2>1918: Central African Republic</h2>
 						<p>God gave a former streetcar conductor a vision that would transform the heart of Africa. As a young man he accidently killed a woman who walked into his streetcar in Philadelphia. Deeply affected, he entered a church where Jacob Cassel had been a member. He found Christ and left for Africa with the Africa Inland Mission.</p>
@@ -115,7 +115,7 @@
 					<div class="timeline__decade timeline__decade--3">1950</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="BR"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="BR"></div>
 					<div class="timeline__event">
 						<h2>1951: Brazil</h2>
 						<p>Between the two world wars the vision of Brethren missions focused on Argentina and Africa. This would change in the early 1950s. Under the leadership of Dr. Russell Barnard, the mission would experience a period of rapid expansion. In their 1951 meeting the board interviewed 40 missionaries and candidates, and during the decade that followed, missionaries departed for five new fields.</p>
@@ -135,7 +135,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="MX"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="MX"></div>
 					<div class="timeline__event">
 						<h2>1951: Mexico</h2>
 						<p>Though Mexico was just across the border from the United States, it was not until 1951 that it became a part of Grace Brethren missions. The first missionaries to Mexico were the Haags and the Howards. After surveying the situation, they realized that the most densely populated area was along the Mexican border. The missionaries settled on the United States side, just across from Tijuana, where many churches were planted.</p>
@@ -155,7 +155,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="FR"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="FR"></div>
 					<div class="timeline__event">
 						<h2>1951: France</h2>
 						<p>Europe was off the mission map until American servicemen returned with their accounts of the dire spiritual condition of that continent. The land of the Reformation and the birthplace of the Brethren movement had become a post-Christian continent.</p>
@@ -178,7 +178,7 @@
 					<div class="timeline__decade timeline__decade--4">1960</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="TD"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="TD"></div>
 					<div class="timeline__event">
 						<h2>1966: Chad</h2>
 						<p>The Republic of Chad lies just across the northern border of the Central African Republic. Jake and Freda Kliever began their ministry in the CAR in 1937, but moved into Chad in 1966, where they served as the pioneer missionaries for ten years. This move was later duplicated by several other families at various periods of time.</p>
@@ -198,7 +198,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="DE"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="DE"></div>
 					<div class="timeline__event">
 						<h2>1968: Germany</h2>
 						<p>In 1968 a team of Brethren men went to Germany, the birth place of the fellowship, to explore the opportunity to plant the kind of churches our founder, Alexander Mack, had desired to see. In response to this trip, the mission commissioned Roger and Nancy Peugh to take the Word of God back to Germany. Roger had already served there on a short-term basis, and was fluent in German.</p>
@@ -221,7 +221,7 @@
 					<div class="timeline__decade timeline__decade--5">1980</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="GB"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="GB"></div>
 					<div class="timeline__event">
 						<h2>1980: Great Britain</h2>
 						<p>Serious prayer for revival in Europe began in 1980, and that fall the Europe missionaries gathered for a week of prayer, reflection and planning. Out of this came the commitment to see the missionaries of Europe as a united team, reaching out into new countries. One of these was England. After an exploratory trip, the decision was made to send Phil and Elinor Steele, joined by Dave and Cindy Kowalke, to the city of Birmingham.</p>
@@ -240,7 +240,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="JP"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="JP"></div>
 					<div class="timeline__event">
 						<h2>1984: Japan</h2>
 						<p>It was the vision of Jay Bell, a member of the staff at the Long Beach California church, that opened Asia to Grace Brethren missions. After four years of serious praying by Jay and his wife Jan, the Long Beach church sent the first of the mission’s missionaries to Asia. One of the couples sent was Cecil and Debbie O’Dell to Japan. Japan was already on the hearts of the O’Dells through their ministry to Japanese students in Long Beach. They became missionaries to Japan in 1984, choosing Hoya City in the greater Tokyo area to begin their ministry.</p>
@@ -259,7 +259,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="PH"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="PH"></div>
 					<div class="timeline__event">
 						<h2>1984: The Philippines</h2>
 						<p>During the same year that the ministry in Japan began, Clay and Kim Hulett left for the Philippines, to be joined soon after by Ted and Vivian Ruiz. They quickly learned that in the Philippines life revolves around neighborhoods called “barangays.” The barangay is a municipal unit. The vision of the missionaries was to see a church in each barangay.</p>
@@ -278,7 +278,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="PT"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="PT"></div>
 					<div class="timeline__event">
 						<h2>NEED YEAR: Portugal</h2>
 						<p>It was the vision of Jack Zielasko which opened the ministry in Portugal. The Zielaskos had served for 14 years in Brazil before Jack became the Executive Director of Grace Brethren Missions. Because of their knowledge of Portuguese, they became burdened for the mother country of that language, a country impoverished by years of dictatorship and colonial wars.</p>
@@ -442,7 +442,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot" data-dot="KH"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="KH"></div>
 					<div class="timeline__event">
 						<h2>1997: Cambodia</h2>
 						<p>Grace Brethren missions began in Cambodia through a Cambodian believer, Vek Huong Taing, who had formed a friendship with Jay Bell in the Long Beach church. Huong and his wife had survived the “killing fields,” four years of terror during which the Khmer Rouge had murdered nearly one-third of the population. Huong had begun evangelizing Cambodian refugees in Thailand, and invited the American brethren for some exploratory trips, leading to the involvement of several American churches sending teams to Cambodia.</p>
@@ -461,7 +461,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot"></div>
+					<div class="timeline__dot timeline__dot--lastTrigger"></div>
 					<div class="timeline__event">
 						<h2>1999: Charis Gathering in Carlos Paz, Argentina</h2>
 						<p>The 1999 Charis brought together 40 participants, of which 15 were nationals representing their countries. As was true of the other Charis meetings, several countries were also represented by Encompass missionary staff.</p>
@@ -504,16 +504,16 @@
 						<p>At the conclusion of the gathering, the delegates proposed that future Charis meetings continue a similar fashion. A conference would be held periodically with the location to be determined at the previous meeting. </p>
 					</div>
 				</div>
-				<div class="row">
-					<div class="timeline__dot timeline__dot--hidden" data-dot="UY"></div>
-					<div class="timeline__dot timeline__dot--hidden" data-dot="GT"></div>
-					<div class="timeline__dot timeline__dot--hidden" data-dot="CA"></div>
-					<div class="timeline__dot timeline__dot--hidden" data-dot="CL"></div>
-					<div class="timeline__dot timeline__dot--hidden" data-dot="CM"></div>
-					<div class="timeline__dot timeline__dot--hidden" data-dot="NG"></div>
-					<div class="timeline__dot timeline__dot--hidden" data-dot="IE"></div>
-					<div class="timeline__dot timeline__dot--hidden" data-dot="BS"></div>
-				</div>
+				<!-- <div class="row">
+					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="UY"></div>
+					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="GT"></div>
+					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="CA"></div>
+					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="CL"></div>
+					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="CM"></div>
+					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="NG"></div>
+					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="IE"></div>
+					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="BS"></div>
+				</div> -->
 				<div class="row">
 					<div class="timeline__decade timeline__decade--7">2000</div>
 				</div>

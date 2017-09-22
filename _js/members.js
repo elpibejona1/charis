@@ -192,7 +192,7 @@ var info = {
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
 			churches: 4,
-			pointsOfLight: 1
+			pointsOfLight: 2
 		},
 		{
 			country: "Guatemala",

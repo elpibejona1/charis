@@ -11,42 +11,42 @@
 	<div class="container">
 		<div class="row row--archive">
 			<div class="archive__section">
-				<h2>Charis Global Audits</h2>				
+				<h2>Auditorías Globales de Charis</h2>				
 			</div>
 			<div class="archive">
 				<div class="archive__files">
 					<ul>
-						<li><a target="_blank" href="../../documents/audits/2015_Church_Planting.pdf">2015 Charis Global Audit for Church Planting</a></li>
-						<li><a target="_blank" href="../../documents/audits/2015_Integrated_Ministries.pdf">2015 Charis Global Audit for Integrated Ministries</a></li>
-						<li><a target="_blank" href="../../documents/audits/2015_Leadership_Training.pdf">2015 Charis Global Audit for Leadership Training</a></li>
+						<li><a target="_blank" href="../../documents/audits/2015_Fundación_de_Iglesias.pdf">Auditoría Global de Charis 2015 para Fundación de Iglesias</a></li>
+						<li><a target="_blank" href="../../documents/audits/2015_Ministerios_Integrales.pdf">Auditoría Global de Charis 2015 para Ministerios Integrales</a></li>
+						<li><a target="_blank" href="../../documents/audits/2015_Capacitación_para_el_Liderazgo.pdf">Auditoría Global de Charis 2015 para Capacitación para el Liderazgo</a></li>
 					</ul>
 				</div>
 				<div class="archive__files">
 					<ul>
-						<li><a target="_blank" href="../../documents/audits/2008_Church_Planting.pdf">2008 Charis Global Audit for Church Planting</a></li>
-						<li><a target="_blank" href="../../documents/audits/2008_Integrated_Ministries.pdf">2008 Charis Global Audit for Integrated Ministries</a></li>
-						<li><a target="_blank" href="../../documents/audits/2008_Leadership_Training.pdf">2008 Charis Global Audit for Leadership Training</a></li>
+						<li><a target="_blank" href="../../documents/audits/2008_Church_Planting.pdf">Auditoría Global de Charis 2008 para Fundación de Iglesias (Inglés)</a></li>
+						<li><a target="_blank" href="../../documents/audits/2008_Integrated_Ministries.pdf">Auditoría Global de Charis 2008 para Ministerios Integrales (Inglés)</a></li>
+						<li><a target="_blank" href="../../documents/audits/2008_Leadership_Training.pdf">Auditoría Global de Charis 2008 para Capacitación para el Liderazgo (Inglés)</a></li>
 					</ul>
 				</div>
 			</div>
 		</div>
 		<div class="row row--archive">
 			<div class="archive__section">
-				<h2>2015 CILE Sermons</h2>				
+				<h2>Sermones Encuentro Internacional de Charis 2015</h2>				
 			</div>
 			<div class="archive">
 				<div class="archive__files">
 					<ul>
-						<li><a target="_blank" href="../../documents/sermons-2015/1-EN-Message-Eduardo-P.pdf">The Church of the Living God &ndash; Eduardo Pizzi</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/2-EN-Message-Augustin-H.pdf">Managing Your Family &ndash; Dr. Augustin Hibaile</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/3-EN-Message-Keith-M.pdf">To &ndash; Keith Minier</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Mensaje-Eduardo-P.pdf">La Iglesia del Dios Viviente – Eduardo Pizzi</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Mensaje-Augustin-H.pdf">Saber Dirigir su Casa – Dr. Augustin Hibaile</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Mensaje-Keith-M.pdf">A Donde – Keith Minier</a></li>
 					</ul>
 				</div>
 				<div class="archive__files">
 					<ul>
-						<li><a target="_blank" href="../../documents/sermons-2015/4-EN-Message-Florent-V.pdf">Keep the Gospel Intact! &ndash; Florent Varak</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/5-EN-Approval-Speech-Dave-G.pdf">CCCI Acceptance Speech &ndash; Dr. Dave Guiles</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/6-EN-Thinking-About-Next-Steps.pdf">Thinking About Next Steps</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Mensaje-Florent-V.pdf">¡Guarda el Evangelio Intacto! – Florent Varak</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Discurso-De-Acceptación.docx">Discurso de Aceptación del Compromiso de Charis a la Misión Común – Dr. Dave Guiles</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Pensando-En-Nuestros-Próximos-Pasos.docx">Pensando en Nuestros Próximos Pasos</a></li>
 					</ul>
 				</div>
 			</div>
