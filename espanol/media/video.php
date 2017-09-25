@@ -21,14 +21,14 @@
 						</a>
 					</div>
 					<div class="galleryPrev galleryPrev--video">
-						<a target="_blank" href="https://vimeo.com/153226056">
+						<a target="_blank" href="https://vimeo.com/162078890">
 							<img src="../../_images/media/videos/video3.jpg" alt="">
 							<h3>La Alianza de Charis</h3>
 							<p>Este video es una presentación y un vistazo general de la Alianza de Charis, un movimiento de iglesias de Los Hermanos por Gracia alrededor del mundo.</p>
 						</a>
 					</div>
 					<div class="galleryPrev galleryPrev--video">
-						<a target="_blank" href="https://vimeo.com/153226056">
+						<a target="_blank" href="https://vimeo.com/167413466">
 							<img src="../../_images/media/videos/video3.jpg" alt="">
 							<h3>La Alianza de Charis (Portugués)</h3>
 							<p>Este video es una presentación y un vistazo general de la Alianza de Charis, un movimiento de iglesias de Los Hermanos por Gracia alrededor del mundo.</p>

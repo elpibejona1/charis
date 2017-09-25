@@ -123,7 +123,6 @@ var membersMap = function () {
 		} else {
 			var buttonLeft = '98%';
 		}
-		console.log($currentMapZoom);	
 
 		if ($map.attr('class') === 'zoomed') {
 
@@ -152,6 +151,8 @@ var membersMap = function () {
 				$mapHeading.text('Choose a Region to Begin:');
 			} else if ( language === 'espanol' ) {
 				$mapHeading.text('Elija una region para comenzar:')
+			} else if ( language === 'francais') {
+				$mapHeading.text('Choisir une région pour commencer :')
 			}
 			$map.attr('class', '');
 		} else {
@@ -186,6 +187,15 @@ var membersMap = function () {
 				}
 
 				$mapHeading.text('Elija un País:');
+			} else if ( language === 'francais' ) {
+				$mapInfoTitle.html('L’Alliance Charis ' + info[current][0].continentFr + '</span>');
+				$mapInfoItem1.html('Pays Charis : <span>' + totalCountries + '</span>');
+				$mapInfoItem2.html('Églises Charis : <span>' + totalChurches + '</span>');
+				if ( totalPointsOfLight !== 0 ){
+					$mapInfoItem3.html('Points de Lumière : <span>' + totalPointsOfLight + '</span>');
+				}
+
+				$mapHeading.text('Choisir un Pays:');
 			}
 
 			TweenMax.to($currentContinent, 1, { scale: scale, x: x, y: y });
@@ -234,8 +244,6 @@ var membersMap = function () {
 				var i = $(this).attr('data-index');
 				var continentId = $(this).parent().attr('id');
 
-				console.log(i + ' ' + continentId);
-
 				$mapInfoTitle.add($mapInfoList).css({
 					'opacity': "0",
 					'visibility': 'hidden'
@@ -260,6 +268,16 @@ var membersMap = function () {
 				
 					if ( info[continentId][i].pointsOfLight !== 0) {
 						$mapInfoItem3.html('Puntos de Luz: <span>' + info[continentId][i].pointsOfLight + '</span>');
+					} else {
+						$mapInfoItem3.html('');
+					}
+				} else if ( language === 'francais' ) {
+					$mapInfoTitle.html('L’Alliance Charis ' +info[continentId][i].pays) + '</span>';
+					$mapInfoItem1.html('Statut de membre : <br><span>' + info[continentId][i].statut + '</span>');
+					$mapInfoItem2.html('Églises Charis : <span>' + info[continentId][i].churches + '</span>');
+				
+					if ( info[continentId][i].pointsOfLight !== 0) {
+						$mapInfoItem3.html('Points de Lumière : <span>' + info[continentId][i].pointsOfLight + '</span>');
 					} else {
 						$mapInfoItem3.html('');
 					}

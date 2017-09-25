@@ -5,7 +5,7 @@
 	<? $globalFunction->includeContent(1,'topInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(1,'spanishHeader'); ?>
+	<? $globalFunction->includeContent(1,'frenchHeader'); ?>
 <div class="homeSlideShow cycle-slideshow"
 	data-cycle-fx="scrollHorz"
     data-cycle-speed="700"
@@ -22,8 +22,8 @@
 <div class="container container--callout">
 	<div class="row">
 		<div class="homeSlideShow__callout">
-			<h2>La Alianza de Charis ...</h2>
-			<p>... intenta obedecer a la Gran Comisión mediante la promoción de la comunión fraternal y la cooperación a nivel regional e internacional entre las asociaciones de iglesias que apoyan el Compromiso de Charis a la Misión Común y al Compromiso de Charis a la Identidad Común.</p>
+			<h2>L'Alliance Charis ...</h2>
+			<p>... vise l’accomplissement du Mandat Missionnaire par le développement de relations fraternelles, et par la coopération régionale et internationale entre les unions d'églises qui partagent l'Engagement de Charis pour une Identité et une Mission communes.</p>
 			<div class="home__scroll">
 				<i class="fa fa-angle-down" aria-hidden="true"></i>
 				<i class="fa fa-angle-down" aria-hidden="true"></i>
@@ -34,23 +34,23 @@
 <div class="container">
 	<div class="row">
 		<div class="content content--home">
-			<h2>Contenido Destacado:</h2>
+			<h2>Contenu présenté :</h2>
 			<div class="content content--third content--featured">
-				<a class="charisVideo fancybox.iframe" data-fancy-box-type="iframe" href="https://player.vimeo.com/video/162078890">
+				<a class="charisVideo fancybox.iframe" data-fancy-box-type="iframe" href="https://player.vimeo.com/video/162081663">
 					<img src="../_images/home/thumbnail1.jpg" alt="">
-					<span>Mire el video: Presentación de la Alianza de&nbsp;Charis</span>
+					<span>Visionner la vidéo : Intro à <br>l’Alliance Charis</span>
 				</a>
 			</div>
 			<div class="content content--third content--featured">
 				<a href="documents/documents.php">
 					<img src="../_images/home/thumbnail3.jpg" alt="">
-					<span>Bajar los Estatutos de la Alianza de&nbsp;Charis</span>
+					<span>Télécharger la Charte <br>de l’Alliance Charis</span>
 				</a>
 			</div>
 			<div class="content content--third content--featured">
 				<a href="documents/documents.php">
 					<img src="../_images/home/thumbnail2.jpg" alt="">
-					<span>Bajar El Compromiso de Charis a la Identidad&nbsp;Común </span>
+					<span>Télécharger l’Engagement de Charis pour une Identité Commune</span>
 				</a>
 			</div>
 			<hr>
@@ -85,7 +85,7 @@
 </div> -->
 
 
-	<? $globalFunction->includeContent(1,'spanishFooter'); ?>
+	<? $globalFunction->includeContent(1,'frenchFooter'); ?>
 	<script src="../_js/cycle2.js"></script>
 	<script>
 		$(document).ready(function() {
