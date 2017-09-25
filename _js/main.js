@@ -179,9 +179,11 @@ var membersMap = function () {
 				$mapHeading.text('Select a Country:');
 			} else if ( language === 'espanol' ) {
 				$mapInfoTitle.html('La Alianza de Charis en <br><span class="continent">' + info[current][0].continente + '</span>');
-				$mapInfoItem1.html('Países de Charis: <span>' + info[current][0].countries) + '</span>';
-				$mapInfoItem2.html('Iglesias de Charis: <span>' + info[current][0].churches + '</span>');
-				$mapInfoItem3.html('Puntos de Luz: <span>' + info[current][0].pointsOfLight + '</span>');
+				$mapInfoItem1.html('Países de Charis: <span>' + totalCountries + '</span>');
+				$mapInfoItem2.html('Iglesias de Charis: <span>' + totalChurches + '</span>');
+				if ( totalPointsOfLight !== 0 ){
+					$mapInfoItem3.html('Puntos de Luz: <span>' + totalPointsOfLight + '</span>');
+				}
 
 				$mapHeading.text('Elija un País:');
 			}
@@ -256,7 +258,7 @@ var membersMap = function () {
 					$mapInfoItem1.html('Estado de la Membresía: <br><span>' + info[continentId][i].estado + '</span>');
 					$mapInfoItem2.html('Iglesias de Charis: <span>' + info[continentId][i].churches + '</span>');
 				
-					if ( info[continentId][i].pointsOfLight !== '') {
+					if ( info[continentId][i].pointsOfLight !== 0) {
 						$mapInfoItem3.html('Puntos de Luz: <span>' + info[continentId][i].pointsOfLight + '</span>');
 					} else {
 						$mapInfoItem3.html('');
