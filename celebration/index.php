@@ -5,6 +5,7 @@
 	<? $globalFunction->includeContent(1,'topInc'); ?>
 </head>
 <body class="body--celebration">
+<? $globalFunction->includeContent(1,'englishHeader'); ?>
 <div class="fullContainer fullContainer--noPadding">
     <div class="row">
         <div class="hero">
@@ -121,10 +122,7 @@
         <img src="../_images/celebration/watermark.png" alt="" class="watermark">
     </div>
 </div>
-<footer class="celebration__footer fullContainer fullContainer--noPadding">
-    <p>Copyright &copy; <?php echo date("Y"); ?> The Charis Alliance. All rights reserved.</p> 
-    <div><a href="mailto: jonguiles@gmail.com">Contact Us</a></div>
-</footer>
-	<? $globalFunction->includeContent(1,'botInc'); ?>
+<? $globalFunction->includeContent(1,'englishFooter'); ?>
+<? $globalFunction->includeContent(1,'botInc'); ?>
 </body>
 </html>

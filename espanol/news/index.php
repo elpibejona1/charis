@@ -16,9 +16,9 @@
 				</a>
 			</div>
 			<div class="news__description">
-				<h4>Wednesday, August 23</h4>
-				<h3><a href="../../celebration" target="_blank">Charis Celebration Sunday</a></h3>
-				<p>Your church is invited to join with hundreds of others around the world on <span>Sunday, November 5th</span> to learn about how God brought Charis into existence and is using this vibrant alliance to bring the hope of Christ to the corners of the globe. <a href="../../celebration/" target="_blank">Access resources</a> designed to help you prepare your church for the event and host a successful celebration. </p>
+				<h4>Miércoles 23 de agosto</h4>
+				<h3><a href="../../celebration" target="_blank">Un Domingo Para Celebrar la Alianza de Charis</a></h3>
+				<p>Su iglesia está invitada a unirse a cientos deiglesias más alrededor del mundo, el <span>domingo 5 de noviembre,</span> para saber cómo Dios hizo que Charis existiera, y cómo está usando esta alianza vibrante para llevar la esperanza de Cristo a los confines de la tierra. <a href="../../celebracion/" target="_blank">Acceda a los recursos</a> diseñados para ayudarle a preparar su iglesia para este evento y tener una celebración&nbsp;exitosa.</p>
 			</div>
 		</div>
 	</div>
