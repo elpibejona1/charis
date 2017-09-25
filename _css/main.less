@@ -51,6 +51,8 @@ ul.list {
 
 .fancybox-skin { background-color: rgba(256,256,256,.8); }
 
+.center { text-align: center; }
+
 em { font-style: italic; }
 
 // Header Styles
@@ -69,7 +71,7 @@ header {
 
 	&__nav { 
 		float: right;
-		width: 445px;
+		width: 525px;
 
 		&--spanish { width: 525px; }
 
@@ -575,6 +577,8 @@ footer {
 		padding-bottom: 30px;
 
 		img { width: 100%; }
+
+		&--full { .columns(12); padding-top: 30px; padding-bottom: 0; }
 	}
 
 	&__description {
@@ -595,6 +599,8 @@ footer {
 			span.general { font-family: 'Kaushan Script', cursive; }
 		}
 
+		p.small { font-size: 14px; }
+
 		a {
 			font-family: 'Raleway', sans-serif;
 			text-align: center;
@@ -604,6 +610,8 @@ footer {
 
 			&.inline { display: inline; }
 		}
+
+		&--full { .columns(12); .prefix(0); padding-top: 0; }
 	}
 	
 	&__download {
@@ -708,6 +716,13 @@ p.interior__description__subTitle {
 	}
 
 	&--twoLines a { padding: 3px 0; }
+
+	&--giving {
+		display: inline-block;
+		float: none;
+
+		a { font-size: 20px; }
+	}
 }
 
 	// archive.php
@@ -1337,7 +1352,7 @@ p.interior__description__subTitle {
 	}
 }
 
-// celebration.php
+// celebration.php and giving.php
 
 .fullContainer--noPadding { padding: 0; }
 
@@ -1349,6 +1364,8 @@ p.interior__description__subTitle {
 	background-size: cover;
 	background-position: center 75%;
 }
+
+.hero--giving { background-image: url('../_images/giving/hero.jpg'); background-position: center bottom; }
 
 .hero__title {
 	width: 250px;
@@ -1553,6 +1570,16 @@ p.interior__description__subTitle {
 	color: #696969;
 	background-color: #ffffff;
 
+}
+
+.giving__button {
+	width: 100px;
+	padding: 15px;
+	font-family: "Raleway", sans-serif;
+	color: @white;
+	background-color: @red;
+	text-align: center;
+	margin: 0 auto;
 }
 
 

@@ -22,9 +22,9 @@
 				<li><a href="<?php echo $directory ?>francais/news/index.php">Nouvelles</a></li>
 				<li>
 					<select  onchange="location = this.options[this.selectedIndex].value;">
-						<option selected>English</option>
-						<option value="<?php echo $directory ?>espanol/home.php">Español</option>
-						<option value="<?php echo $directory ?>francais/home.php">Français</option>
+						<option value="">English</option>
+						<option value="">Español</option>
+						<option selected>Français</option>
 					</select>
 				</li>
 			</ul>
