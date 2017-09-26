@@ -223,16 +223,18 @@
 				<div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="GB"></div>
 					<div class="timeline__event">
-						<h2>1980: Great Britain</h2>
+						<h2>1980: United Kingdom</h2>
 						<p>Serious prayer for revival in Europe began in 1980, and that fall the Europe missionaries gathered for a week of prayer, reflection and planning. Out of this came the commitment to see the missionaries of Europe as a united team, reaching out into new countries. One of these was England. After an exploratory trip, the decision was made to send Phil and Elinor Steele, joined by Dave and Cindy Kowalke, to the city of Birmingham.</p>
 						<p>Within a short amount of time services were started in a vacant church building, and quickly a sizeable group assembled for the Sunday services. Unfortunately most of these people were from other churches rather than converts, and the ministry only continued for a few years. A new team began to form, and services began in a school building. Many of the new people were contacted through the guitar classes begun by Dave Schwan, who came to England with his wife Becky in 1988. The church grew, and is under British leadership. A branch church was begun by the Schwans in another suburb of Birmingham, which has also seen encouraging growth, and commitment to outreach in the community.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/uk-image1.jpg" alt="">
+							<p class="caption">Brittish youth at summer camp.</p>		
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/uk-image2.jpg" alt="">
+							<p class="caption">Grace Bible Fellowship of Solihull, England (Easter 1983)</p>
 						</div>
 					</div>
 					<div class="timeline__event">
@@ -247,11 +249,11 @@
 						<p>They and the missionaries who joined them have had to exhibit exceptional commitment and perseverance, because of the hardness of the soil in Japan. As is true in all resistant populations, evangelism is done through relationships, leading to small groups. The key to reaching Japan is prayer. The spiritual powers have blinded the minds of the people.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/japan-image1.jpg" alt="">	
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/japan-image2.jpg" alt="">
 						</div>
 					</div>
 					<div class="timeline__event">
@@ -266,18 +268,20 @@
 						<p>After their language studies, the Huletts prayed that the Lord would lead them to the barangay where they should begin their ministry. Knowing no one, Kim simply followed the Lord’s leading and walked into the barangay of Calumpang, where the ministry was started. There Clay soon met Rey Paz. They began studying the Bible together, and Rey became the first Filipino convert, and the first Grace Brethren pastor. Rey remains, after all these years, a faithful leader of the churches there.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/philippines-image1.jpg" alt="">
+							<p class="caption">Greater Manila Church Meeting</p>		
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/philippines-image2.jpg" alt="">
+							<p class="caption">Celebrating 10 years of Grace Brethren Churches in the&nbsp;Philippines</p>
 						</div>
 					</div>
 					<div class="timeline__event">
 						<p>The responsiveness of the Filipinos, coupled with their ability to speak English, has made short-term teams an effective means of reaching the population. The Ruizes targeted the settlements along the famous Sumulong highway, using short-term teams. Soon six groups of believers began meeting in homes. Since then the ministry spread through neighboring communities and far beyond the boundaries of Manila, resulting in multiple churches. During the years of ministry in the Philippines, much effort has been expended in training leaders through a training program, and other effective ministries have branched off. The friendliness of the Filipinos and their openness to the gospel has been a continual encouragement.</p>
 					</div>
 				</div>
-				<div class="row">
+				<!-- <div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="PT"></div>
 					<div class="timeline__event">
 						<h2>NEED YEAR: Portugal</h2>
@@ -295,7 +299,7 @@
 					<div class="timeline__event">
 						<p>Most of the ministry in Portugal has centered in the city of Porto and has focused on personal contact-making and the creation of small groups, of which a number were started in the area. The missionaries cooperated with other workers in establishing an international church, which has been instrumental in reaching out also into Portuguese families. A number of Portuguese men have been trained as leaders of the ministry, and have faithfully fulfilled their responsibilities. One of these, Alfredo Abreu, who had been serving in a campus ministry, later moved with his family to the capitol, Lisbon, to seek to build up a body of believers there. He has been joined by Sam and Tracey Schwartz, and their ministries have resulted in planting a church. There are currently four organized churches in Portugal with the Brethren fellowship.</p>
 					</div>
-				</div>
+				</div> -->
 				<div class="row">
 					<div class="timeline__decade timeline__decade--6">1990</div>
 				</div>
@@ -307,27 +311,11 @@
 						<p>At the 1990 conference there was serious discussion concerning the need to give churches an international identity, but again it appeared that because of the hurdles involved, an international fellowship would never be more than a dream.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
-						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
-						</div>
-					</div>
-					<div class="timeline__event">
 						<p>Those involved with Grace Brethren International Missions knew, however, that some day the dream would have to become a reality in order to allow churches around the globe to preserve their Grace Brethren identities. Whenever churches are established throughout the world, the mission plays an apostolic role, usually perceived as the role of a parent. The identity of a church is closely related to the mission until the time several congregations can organize themselves into a national fellowship, usually following the pattern of the sending churches. At this time the churches become autonomous, making their own decisions, and seeking to provide for their own needs.</p>
 					</div>
 					<div class="timeline__event">
 						<p>When this autonomy becomes a reality, the churches begin to phase out their relationship with the mission. However, this forces to them phase out their relationship with the only entity that has given them a sense of global identity. As the mission moves into the background, something has to take its place, or the churches will become increasingly provincial and cut off from the rest of the world.</p>
 						<p>Therefore, the main purpose of an international fellowship, whatever the form it assumes, is to give global vision and identity to church fellowships. They must know that they are a part of a larger family than their local churches. And they must know that their mission and ministry go beyond their own back yard.</p>
-					</div>
-					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
-						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
-						</div>
 					</div>
 					<div class="timeline__event">
 						<p>At the 1993 National Conference of the Fellowship of Grace Brethren Churches (FGBC) in Billings, Mont., serious dialogues occurred concerning this need and how to meet it. These discussions, which took place in encounters with the field superintendents (of Grace Brethren International Missions) rather than on the conference floor, opened the way to the first international gathering representing a global fellowship. Three key guidelines were established concerning the nature of an international gathering:</p>
@@ -340,19 +328,11 @@
 					<div class="timeline__event">
 						<p>It was also determined that:</p>
 						<ul class="list">
-							<li>the place of the first meeting would be the Château of Saint-Albain in France.</li>
+							<li>The place of the first meeting would be the Château of Saint-Albain in France.</li>
 							<li>Florent Varak, pastor of the Grace Brethren Church in Lyon, France, would be asked to give leadership to the gathering.</li>
 							<li>The time of the meeting would be October of 1994.</li>
 							<li>The Field Superintendents would be responsible for inviting at least one delegate from each country.</li>
 						</ul>
-					</div>
-					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
-						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
-						</div>
 					</div>
 					<div class="timeline__event">
 						<p>The name <span>Charis</span> was chosen, to represent Grace in any language. It would be called the <span>Charis International Alliance</span>, since it was to be a fraternity of leaders, and not an organization. The overall purpose would be to promote international church planting.</p>
@@ -368,11 +348,13 @@
 						<p>First, it was a meeting of leaders, and not churches. Of the 35 participants, 13 were national leaders from their country. Thirteen missionaries came alongside these nationals as teammates for the delegates. The other nine participants were invited guests, American except for two additional brethren from Africa.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis94-image1.jpg" alt="">
+							<p class="caption">Charis coordinator Florent Varak of France leads the Charis gathering at the Chateau de St. Albain.</p>		
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis94-image2.jpg" alt="">
+							<p class="caption">Charis delegates discuss topics of common interest.</p>
 						</div>
 					</div>
 					<div class="timeline__event">
@@ -381,20 +363,23 @@
 					</div>
 					<div class="timeline__event">
 						<p>Third, it was led by a national. The wisdom of choosing Florent Varak became immediately evident, from his positive attitude toward the ministry, his vision, his leadership charisma, and his organizational skills. Assisted by Encompass missionary Kent Good, who became a link with the mission, Florent planned a program that provided both the necessary input to make the gathering significant in the lives of the participants, as well as giving opportunity for freedom of participation for all who were there.</p>
-						<p>Intense discussion on a wide range of subjects occurred during the course of the Charis. At times much of it was related to the material needs of the churches in countries less favored economically, and how to meet those needs without violating indigenous principles. The possibility of visits of the national leaders to other countries was discussed. A great deal of time was spent discussing ways of maintaining better communication between the various countries involved.</p>
+						<p>Intense discussion on a wide range of subjects occurred during the course of this gathering. At times much of it was related to the material needs of the churches in countries less favored economically, and how to meet those needs without violating indigenous principles. The possibility of visits of the national leaders to other countries was discussed. A great deal of time was spent discussing ways of maintaining better communication between the various countries involved.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis94-image3.jpg" alt="">
+							<p class="caption">Charis delegates discuss topics of common interest.</p>		
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis94-image4.jpg" alt="">
+							<p class="caption">The Participants of the 1994 Charis Gathering.</p>
 						</div>
 					</div>
 					<div class="timeline__event">
 						<p>In all these discussions, it was the consensus of the delegates that Charis must not become an organization with authority to impose its decisions upon the churches. It would always be a fraternity of the representatives sent by the churches.</p>
 						<p>In view of his fine work, Florent Varak was asked to continue as coordinator of Charis, through the next conference. Steve Peters, future moderator of the U.S. fellowship of churches, gave an official invitation to	Charis to meet at Toronto during the National Conference of the Fellowship of Grace Brethren Churches (USA) in 1996.</p>
-						<p>In his letter to the participants of the conference, Florent Varak wrote: “I have always felt a spiritual bond with French and American Grace Brethren churches, this being all I have known, but I had never known the extent, nor the beauty—of our fellowship worldwide. My vision has been stretched and my passion renewed. I have been humbled and challenged by the qualities	displayed in our lives and ministries and commitments. Praise and glory be to God!”</p>
+						<p>In his letter to the participants of the conference, Florent Varak wrote:</p>
+						<p class="center"><span class="highlight">“I have always felt a spiritual bond with French and American Grace Brethren churches, this being all I have known, but I had never known the extent, nor the beauty—of our fellowship worldwide. My vision has been stretched and my passion renewed. I have been humbled and challenged by the qualities	displayed in our lives and ministries and commitments. Praise and glory be to God!”</span></p>
 					</div>
 				</div>
 				<div class="row">
@@ -405,11 +390,13 @@
 						<p>The Charis meeting was held in Toronto at the invitation of the moderator of the National Fellowship of Grace Brethren Churches (USA). This was to expose the delegates to the conference, which was held in Toronto that year, and to take advantage of the presence of the missionaries attending conference.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis96-image1.jpg" alt="">
+							<p class="caption">International delegates and Encompass staff arrive at the 1996 Charis Gathering.</p>		
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis96-image2.jpg" alt="">
+							<p class="caption">The Participants of the 1996 Charis Gathering.</p>
 						</div>
 					</div>
 					<div class="timeline__event">
@@ -429,14 +416,6 @@
 						</ul>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
-						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
-						</div>
-					</div>
-					<div class="timeline__event">
 						<p><strong>Charis Definitions:</strong> A missionary project is a measurable task related to church planting with a specific budget and time frame, owned by local church(es), approved by a national fellowship of churches (if necessary), under the responsibility of a church leader.</p>
 						<p>It was determined that the next conference would take place in Argentina, in order to allow Charis to convene during the 90th anniversary of the Argentine churches.</p>
 					</div>
@@ -449,11 +428,11 @@
 						<p>The tragic events of that country opened many thousands to the gospel. In 1997 the Grace Brethren movement consisted of three traditional churches ministering to 155 people. One month later apostolic teams were launched on motorbikes into the villages surrounding the city of Battambang. By the end of the decade nearly eighty Points of Light, a term designating house groups that were becoming churches, could count 1,000 adults. All of this was carried on with the cooperation of teams from American churches.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/cambodia-image1.jpg" alt="">
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/cambodia-image2.jpg" alt="">
 						</div>
 					</div>
 					<div class="timeline__event">
@@ -474,11 +453,13 @@
 						</ul>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis99-image1.jpg" alt="">
+							<p class="caption">The Participants of the 1999 Charis Gathering.</p>
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis99-image1.jpg" alt="">
+							<p class="caption">Delegates from Latin America and Africa at the 1999 Charis&nbsp;Gathering.</p>		
 						</div>
 					</div>
 					<div class="timeline__event">
@@ -490,30 +471,12 @@
 						</ul>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
-						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
-						</div>
-					</div>
-					<div class="timeline__event">
 						<ul class="list list--margin">
 							<li><strong>What results did you expect from Charis and in your opinion were not achieved?</strong> Some said that Charis must function more as a spiritual movement, and not just give material help. Others wanted more European representation. It was also suggested that Charis learn from other similar organizations. The need to launch a missionary movement was also discusse along with the need for news to be more concise.</li>
 						</ul>
 						<p>At the conclusion of the gathering, the delegates proposed that future Charis meetings continue a similar fashion. A conference would be held periodically with the location to be determined at the previous meeting. </p>
 					</div>
 				</div>
-				<!-- <div class="row">
-					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="UY"></div>
-					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="GT"></div>
-					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="CA"></div>
-					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="CL"></div>
-					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="CM"></div>
-					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="NG"></div>
-					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="IE"></div>
-					<div class="timeline__dot timeline__dot--hidden timeline__dot--country" data-dot="BS"></div>
-				</div> -->
 				<div class="row">
 					<div class="timeline__decade timeline__decade--7">2000</div>
 				</div>
@@ -522,14 +485,16 @@
 					<div class="timeline__event">
 						<h2>2008: Charis Gathering in Bad Homburg, Germany</h2>
 						<p>Leaders from Grace Brethren fellowships around the world gathered near Frankfurt, Germany, for a week-long conference in early August, 2008. Some 55 Grace Brethren from many parts of the globe gathered for information, encouragement, and strategizing about God’s work through Grace Brethren people around the world.</p>
-						<p>Representatives came from 16 of the 33 nations in the world where there are Grace Brethren churches or beginning works. They met at Bad Homburg Youth Hostel near the Frankfurt airport the week of August 2-9. The week’s theme was “Faithful Stewards of God’s Grace,” based on 1 Peter 4:10.</p>
+						<p>Representatives came from 16 of the 33 nations in the world where there were Grace Brethren churches or beginning works at that time. They met at Bad Homburg Youth Hostel near the Frankfurt airport the week of August 2-9. The week’s theme was “Faithful Stewards of God’s Grace,” based on 1 Peter 4:10.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis08-image1.jpg" alt="">
+							<p class="caption">The Participants of the 2008 Charis Leadership Encounter.</p>		
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis08-image2.jpg" alt="">
+							<p class="caption">The theme of the encounter was “Faithful Stewards of God’s Grace,” based on 1 Peter 4:10.</p>
 						</div>
 					</div>
 					<div class="timeline__event">
@@ -540,11 +505,11 @@
 						<p>During the last several days, the group divided into three sub-groupings, according to their interest in church planting, leadership development, or integrated ministries. Each group developed a short, forward-looking statement, and these were then combined into a one-page <span>Commitment to Common Mission</span> statement that provides forward-thinking direction and intention for the worldwide Grace Brethren fellowship for at least the next decade.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis08-image3.jpg" alt="">
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis08-image4.jpg" alt="">
 						</div>
 					</div>
 					<div class="timeline__event">
@@ -563,11 +528,13 @@
 						<p>One topic for discussion was the <span>Commitment to Common Mission</span>, which was crafted during the 2008 meeting at Bad Homburg, Germany. That document revealed the intention of Grace Brethren worldwide to progress over the next decade in the areas of evangelism, leadership development, and integrated, or holistic ministries. In the years following the meeting in Germany, the document was processed and endorsed by leadership and organizations representing all 35 countries where Grace Brethren congregations exist.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis10-image1.jpg" alt="">
+							<p class="caption">The Participants of the 2010 Charis Gathering.</p>		
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis10-image2.jpg" alt="">
+							<p class="caption">Members of the Charis Steering Committee</p>
 						</div>
 					</div>
 					<div class="timeline__event">
@@ -584,11 +551,13 @@
 						<p>The week was highlighted by the unanimous approval on Wednesday of the <span>Charis Commitment of Common Identity</span> (CCCI) as the current expression of the values, doctrines and practices of their global movement.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis15-image1.jpg" alt="">
+							<p class="caption">The Participants of the 2015 Charis International Leadership Encounter.</p>		
 						</div>
-						<div class="timeline__event__photo"> 						<img src="http://placehold.it/424x200" alt="">
-							<p class="caption">Lorem ipsum dolor sit amet, consectetur.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/charis15-image2.jpg" alt="">
+							<p class="caption">Delegates discuss the Charis Commitment to Common&nbsp;Identity.</p>
 						</div>
 					</div>
 					<div class="timeline__event">

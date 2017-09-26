@@ -442,13 +442,13 @@ var toggleCountry = function(){
 
 		var tweenCountry = TweenMax.to($('.histCountry[ data-name = ' + dot + ']'), 1, { fill: '#097888' });
 
-		var countryScene = new ScrollMagic.Scene({ triggerElement: currentDot })
+		var countryScene = new ScrollMagic.Scene({ triggerElement: currentDot, reverse: false })
 		.setTween(tweenCountry)
 		.addTo(controller);
 
 		var tweenGray = TweenMax.to($('.histCountry[ data-name = ' + dot + ']'), 1, { fill: '#696969' });
 
-		var countryScene = new ScrollMagic.Scene({ offset: grayTrigger })
+		var countryScene = new ScrollMagic.Scene({ offset: grayTrigger, reverse: false })
 		.setTween(tweenGray)
 		.addTo(controller);
 	});
