@@ -21,13 +21,14 @@
 					</ul>
 				<li><a href="<?php echo $directory ?>en/news/index.php">News</a></li>
 				<li><a href="<?php echo $directory ?>en/giving/index.php">Giving</a></li>
-				<li>
+				<li class="featured"><a href="<?php echo $directory ?>en/celebration/index.php">Celebration <br>Sunday</a></li>
+				<!-- <li>
 					<select class="header__select" onchange="location = this.options[this.selectedIndex].value;">
 						<option class="header__select header__select__option--en" disabled selected>English</option>
 						<option class="header__select header__select__option--es">Español</option>
 						<option class="header__select header__select__option--fr">Français</option>
 					</select>
-				</li>
+				</li> -->
 			</ul>
 			<div class="header__buttons">
 				<svg id="Layer_1" class="header__hamburger" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="34" height="30" viewBox="0 0 34 30">

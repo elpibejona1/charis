@@ -47,30 +47,94 @@ var statusIndication = function() {
 
 	if ( $('.header__select__option--en').prop('disabled') ) {
 
-		esReplace = pathName.replace('/en/', '/es/');
-		frReplace = pathName.replace('/en/', '/fr/');
+		if ( directory === 'giving') {
 
-		$('.header__select__option--es').attr('value', esReplace);
+			esReplace = pathName.replace('/en/giving', '/es/ofrendar');
+			frReplace = pathName.replace('/en/giving', '/fr/donner');
 
-		$('.header__select__option--fr').attr('value', frReplace);
+			$('.header__select__option--es').attr('value', esReplace);
+
+			$('.header__select__option--fr').attr('value', frReplace);
+
+		} else if (directory === 'celebration') {
+
+			esReplace = pathName.replace('/en/celebration', '/es/celebracion');
+			frReplace = pathName.replace('/en/celebration', '/fr/celebrer');
+
+			$('.header__select__option--es').attr('value', esReplace);
+
+			$('.header__select__option--fr').attr('value', frReplace);
+
+		} else {
+
+			esReplace = pathName.replace('/en/', '/es/');
+			frReplace = pathName.replace('/en/', '/fr/');
+
+			$('.header__select__option--es').attr('value', esReplace);
+
+			$('.header__select__option--fr').attr('value', frReplace);
+		}
 
 	} else if ( $('.header__select__option--es').prop('disabled')) {
 
-		enReplace = pathName.replace('/es/', '/en/');
-		frReplace = pathName.replace('/es/', '/fr/');
+		if ( directory === 'ofrendar') {
+			
+			enReplace = pathName.replace('/es/ofrendar', '/en/giving');
+			frReplace = pathName.replace('/es/ofrendar', '/fr/donner');
 
-		$('.header__select__option--en').attr('value', enReplace);
+			$('.header__select__option--en').attr('value', enReplace);
 
-		$('.header__select__option--fr').attr('value', frReplace);
+			$('.header__select__option--fr').attr('value', frReplace);
+
+		} else if (directory === 'celebration') {
+			
+			enReplace = pathName.replace('/es/celebracion', '/en/celebration');
+			frReplace = pathName.replace('/es/celebracion', '/fr/celebrer');
+
+			$('.header__select__option--en').attr('value', enReplace);
+
+			$('.header__select__option--fr').attr('value', frReplace);
+
+		} else {
+
+			enReplace = pathName.replace('/es/', '/en/');
+			frReplace = pathName.replace('/es/', '/fr/');
+	
+			$('.header__select__option--en').attr('value', enReplace);
+	
+			$('.header__select__option--fr').attr('value', frReplace);
+		}
+
 		
 	} else if ( $('.header__select__option--fr').prop('disabled') ) {
+
+		if ( directory === 'donner') {
+			
+			enReplace = pathName.replace('/fr/donner', '/en/giving');
+			esReplace = pathName.replace('/fr/donner', '/es/ofrendar');
+
+			$('.header__select__option--en').attr('value', enReplace);
+
+			$('.header__select__option--es').attr('value', esReplace);
+
+		} else if (directory === 'celebrer') {
+			
+			enReplace = pathName.replace('/fr/celebrer', '/en/celebration');
+			frReplace = pathName.replace('/fr/celebrer', '/e/celebracion');
+
+			$('.header__select__option--en').attr('value', enReplace);
+
+			$('.header__select__option--es').attr('value', esReplace);
+
+		} else {
 		
-		enReplace = pathName.replace('/fr/', '/en/');
-		esReplace = pathName.replace('/fr/', '/es/');
+			enReplace = pathName.replace('/fr/', '/en/');
+			esReplace = pathName.replace('/fr/', '/es/');
 
-		$('.header__select__option--en').attr('value', enReplace);
+			$('.header__select__option--en').attr('value', enReplace);
 
-		$('.header__select__option--es').attr('value', esReplace);
+			$('.header__select__option--es').attr('value', esReplace);
+		}
 	}
 }
 statusIndication();

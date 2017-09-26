@@ -33,79 +33,39 @@
 </div>
 <div class="container">
 	<div class="row">
+		<div class="content content--home content--video">
+			<h2>Qu’est-ce que c’est Charis?</h2>
+			<iframe class="about__video" src="https://player.vimeo.com/video/234315598?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			<hr>
+		</div>
+	</div>
+	<div class="row">
 		<div class="content content--home">
 			<h2>Contenu présenté :</h2>
 			<div class="content content--third content--featured">
-				<a class="charisVideo fancybox.iframe" data-fancy-box-type="iframe" href="https://player.vimeo.com/video/162081663">
-					<img src="../_images/home/thumbnail1.jpg" alt="">
-					<span>Visionner la vidéo : Intro à <br>l’Alliance Charis</span>
+				<a href="celebrer/index.php">
+					<img src="../_images/news/thumbnail1.jpg" alt="">
+					<span>Dimanche de célébration. Célébrez notre mouvement mondial.</span>
 				</a>
 			</div>
 			<div class="content content--third content--featured">
-				<a href="documents/documents.php">
+				<a href="about/about.php">
 					<img src="../_images/home/thumbnail3.jpg" alt="">
-					<span>Télécharger la Charte <br>de l’Alliance Charis</span>
+					<span>Qu'est-ce que Charis? Qui sommes-nous et ce que nous croyons.</span>
 				</a>
 			</div>
 			<div class="content content--third content--featured">
-				<a href="documents/documents.php">
+				<a href="donner/index.php">
 					<img src="../_images/home/thumbnail2.jpg" alt="">
-					<span>Télécharger l’Engagement de Charis pour une Identité Commune</span>
+					<span>Pour soutenir notre mouvement global d'églises, donnez ici.</span>
 				</a>
 			</div>
 			<hr>
 		</div>
 	</div>
 </div>
-<!-- <div class="fullContainer fullContainer--gray">
-	<div class="container">
-		<div class="row">
-			<div class="content content--home content--news">
-				<h2>Charis News:</h2>
-				<div class="news__feed">
-					<div class="content content--third">
-						<p><span>Feb 28, 2016</span></p>
-						<p class="news__feed__blurb"><strong>The Charis Alliance Charter</strong> is available in the "Documents" section in both A4 and Letter sizes.</p><a href="documents/documents.php">Read More ></a>
-					</div>
-					<div class="content content--third">
-						<p><span>Feb 28, 2016</span></p>
-						<p class="news__feed__blurb"><strong>The Charis Commitment to Common Identity</strong> is available in the "Documents" section in both A4 and Letter sizes.</p>
-						<a href="documents/documents.php">Read More ></a>
-					</div>
-					<div class="content content--third">
-						<p><span>Feb 28, 2016</span></p>
-						<p class="news__feed__blurb"><strong>The Charis Commitment to Common Identity</strong> is available in the "Documents" section in both A4 and Letter sizes.</p>
-						<a href="documents/documents.php">Read More ></a>
-					</div>
-				</div>
-				<hr>
-			</div>
-		</div>
-	</div>
-</div> -->
-
 
 	<? $globalFunction->includeContent(1,'frenchFooter'); ?>
-	<script src="../_js/cycle2.js"></script>
-	<script>
-		$(document).ready(function() {
-			$(".charisVideo").fancybox({
-				maxWidth	: 800,
-				maxHeight	: 600,
-				fitToView	: false,
-				maxWidth	: '70%',
-				maxHeight	: '70%',
-				aspectRatio: true,
-				autoSize	: false,
-				closeClick	: false,
-				openEffect	: 'none',
-				closeEffect	: 'none',
-				padding: 0,
-				zIndex: 999,
-				scrolling: 'no'
-			});
-		});
-	</script>
 	<? $globalFunction->includeContent(1,'botInc'); ?>
 </body>
 </html>

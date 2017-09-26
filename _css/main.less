@@ -71,11 +71,10 @@ header {
 
 	&__nav { 
 		float: right;
-		width: 525px;
 
-		&--spanish { width: 525px; }
+		/* &--spanish { width: 630px; }
 
-		&--french { width: 675px; }
+		&--french { width: 700px; } */
 	
 		li {
 			float: left;
@@ -115,9 +114,18 @@ header {
 				text-decoration: none;
 			}
 
-			a { font-size: 20px; height: 20px; }
+			a { font-size: 18px; height: 20px; }
 
 			select { font-size: 14px; height: 22px; }
+
+			&.featured {
+				margin-top: 30px;
+				text-align: center;
+
+				a { color: @red; font-weight: 700; }
+
+				&.active a { border-bottom: none; }
+			}
 		}
 	}
 }
@@ -431,6 +439,7 @@ footer {
 
 	&--home {
 		.columns(12);
+		padding-top: 0;
 
 		p {
 			font-family: 'Raleway', sans-serif;
@@ -454,6 +463,8 @@ footer {
 	}
 
 	&--gray { background-color: @gray; }
+
+	&--video { padding-top: 35px; }
 }
 
 .home__scroll {
@@ -563,6 +574,8 @@ footer {
 		&.active { background-color: @lGray; }
 	}
 }
+
+.subnav--aboutFrench h3 { font-size: 18px; }
 
 	// documents.php
 

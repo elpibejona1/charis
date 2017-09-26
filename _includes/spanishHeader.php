@@ -20,13 +20,15 @@
 						<li><a href="<?php echo $directory ?>es/media/photos.php">Fotos</a></li>
 					</ul>
 				<li><a href="<?php echo $directory ?>es/news/index.php">Noticias</a></li>
-				<li>
+				<li><a href="<?php echo $directory ?>es/ofrendar/index.php">Ofrendar</a></li>
+				<li class="featured"><a href="<?php echo $directory ?>es/celebracion/index.php">Domingo de <br>Celebración</a></li>
+				<!-- <li>
 					<select  onchange="location = this.options[this.selectedIndex].value;">
 						<option class="header__select header__select__option--en">English</option>
 						<option class="header__select header__select__option--es" selected disabled>Español</option>
 						<option class="header__select header__select__option--fr">Français</option>
 					</select>
-				</li>
+				</li> -->
 			</ul>
 			<div class="header__buttons">
 				<svg id="Layer_1" class="header__hamburger" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="34" height="30" viewBox="0 0 34 30">
