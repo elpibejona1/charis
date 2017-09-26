@@ -222,7 +222,7 @@
 		    <img src="../../_images/media/photos/cile-2015-6/img4.jpg" alt="After lunch along the river, some members of the group show off their newly-purchased Thai hats.">
 		    <img src="../../_images/media/photos/cile-2015-6/img5.jpg" alt="Delegates pose with one of their tour guides on Thursday afternoon.">
 		    <img src="../../_images/media/photos/cile-2015-6/img6.jpg" alt="Taking a break from the tour are Florent Varak, a member of the steering committee from France, and Shu Aoki, a delegate and steering committee member from Japan.">
-		    <img src="../../_images/media/photos/cile-2015-6/img7.jpg" alt="Arnulfo Vieyra, Mexico; Kevin Stauffer, France; Franck Segonne, France; Dave Guiles, Encompass World Partners; Paris Pena, Guatemala; and Juan Saez, Chile.">
+		    <img src="../../_images/media/photos/cile-2015-6/img7.jpg" alt="Arnulfo Vieyra (Mexico), Kevin Stauffer (France), Franck Segonne (France), Dr. Dave Guiles (Encompass World Partners), Paris Pena (Guatemala), and Juan Saez (Chile).">
 		    <img src="../../_images/media/photos/cile-2015-6/img8.jpg" alt="Dr. Augustin Hibaile (Central African Republic) and Shu Aoki (Japan) listen carefully to the tour guide on Thursday.">
 	</div>
 	<!-- empty element for caption -->
