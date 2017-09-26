@@ -2,10 +2,14 @@
 
 var statusIndication = function() {
 	var pathName = window.location.pathname;
+	var origin= window.location.origin;
 	var pathArray = pathName.split('/');
 	var arrayLength = pathArray.length;
 	var href = pathArray[arrayLength-1];
 	var directory = pathArray[arrayLength-2];
+	var enReplace = '';
+	var esReplace = '';
+	var frReplace = '';
 
 	var mainMenu = function() {
 		var anchor;
@@ -40,6 +44,34 @@ var statusIndication = function() {
 		});
 	}
 	subNavMenu();
+
+	if ( $('.header__select__option--en').prop('disabled') ) {
+
+		esReplace = pathName.replace('/en/', '/es/');
+		frReplace = pathName.replace('/en/', '/fr/');
+
+		$('.header__select__option--es').attr('value', esReplace);
+
+		$('.header__select__option--fr').attr('value', frReplace);
+
+	} else if ( $('.header__select__option--es').prop('disabled')) {
+
+		enReplace = pathName.replace('/es/', '/en/');
+		frReplace = pathName.replace('/es/', '/fr/');
+
+		$('.header__select__option--en').attr('value', enReplace);
+
+		$('.header__select__option--fr').attr('value', frReplace);
+		
+	} else if ( $('.header__select__option--fr').prop('disabled') ) {
+		
+		enReplace = pathName.replace('/fr/', '/en/');
+		esReplace = pathName.replace('/fr/', '/es/');
+
+		$('.header__select__option--en').attr('value', enReplace);
+
+		$('.header__select__option--es').attr('value', esReplace);
+	}
 }
 statusIndication();
 
@@ -147,11 +179,11 @@ var membersMap = function () {
 
 			$country.attr('class', 'country');
 
-			if ( language === "english" ) {
+			if ( language === "en" ) {
 				$mapHeading.text('Choose a Region to Begin:');
-			} else if ( language === 'espanol' ) {
+			} else if ( language === 'es' ) {
 				$mapHeading.text('Elija una region para comenzar:')
-			} else if ( language === 'francais') {
+			} else if ( language === 'fr') {
 				$mapHeading.text('Choisir une région pour commencer :')
 			}
 			$map.attr('class', '');
@@ -170,7 +202,7 @@ var membersMap = function () {
 			$country.attr('class', 'country zoomed');
 			
 			// Labels in Different Languages
-			if ( language === "english") {
+			if ( language === "en") {
 				$mapInfoTitle.html('The Charis Alliance in <br><span class="continent">' + info[current][0].continent + '</span>');
 				$mapInfoItem1.html('Charis Countries: <span>' + totalCountries + '</span>');
 				$mapInfoItem2.html('Charis Churches: <span>' + totalChurches + '</span>');
@@ -178,7 +210,7 @@ var membersMap = function () {
 					$mapInfoItem3.html('Points of Light: <span>' + totalPointsOfLight + '</span>');
 				}
 				$mapHeading.text('Select a Country:');
-			} else if ( language === 'espanol' ) {
+			} else if ( language === 'es' ) {
 				$mapInfoTitle.html('La Alianza de Charis en <br><span class="continent">' + info[current][0].continente + '</span>');
 				$mapInfoItem1.html('Países de Charis: <span>' + totalCountries + '</span>');
 				$mapInfoItem2.html('Iglesias de Charis: <span>' + totalChurches + '</span>');
@@ -187,7 +219,7 @@ var membersMap = function () {
 				}
 
 				$mapHeading.text('Elija un País:');
-			} else if ( language === 'francais' ) {
+			} else if ( language === 'fr' ) {
 				$mapInfoTitle.html('L’Alliance Charis ' + info[current][0].continentFr + '</span>');
 				$mapInfoItem1.html('Pays Charis : <span>' + totalCountries + '</span>');
 				$mapInfoItem2.html('Églises Charis : <span>' + totalChurches + '</span>');
@@ -251,7 +283,7 @@ var membersMap = function () {
 
 				TweenMax.to(['.map__info__title', '.map__info__list'], 0, { opacity: 0, visibility: "hidden" });
 
-				if ( language === "english") {
+				if ( language === "en") {
 					$mapInfoTitle.html('The Charis Alliance in <br><span class="country">' +info[continentId][i].country) + '</span>';
 					$mapInfoItem1.html('Membership Status: <br><span>' + info[continentId][i].status + '</span>');
 					$mapInfoItem2.html('Charis Churches: <span>' + info[continentId][i].churches + '</span>');
@@ -261,7 +293,7 @@ var membersMap = function () {
 					} else {
 						$mapInfoItem3.html('');
 					}
-				} else if ( language === 'espanol' ) {
+				} else if ( language === 'es' ) {
 					$mapInfoTitle.html('La Alianza de Charis en <br><span class="country">' +info[continentId][i].pais) + '</span>';
 					$mapInfoItem1.html('Estado de la Membresía: <br><span>' + info[continentId][i].estado + '</span>');
 					$mapInfoItem2.html('Iglesias de Charis: <span>' + info[continentId][i].churches + '</span>');
@@ -271,7 +303,7 @@ var membersMap = function () {
 					} else {
 						$mapInfoItem3.html('');
 					}
-				} else if ( language === 'francais' ) {
+				} else if ( language === 'fr' ) {
 					$mapInfoTitle.html('L’Alliance Charis ' +info[continentId][i].pays) + '</span>';
 					$mapInfoItem1.html('Statut de membre : <br><span>' + info[continentId][i].statut + '</span>');
 					$mapInfoItem2.html('Églises Charis : <span>' + info[continentId][i].churches + '</span>');

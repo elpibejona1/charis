@@ -1,31 +1,31 @@
 <header>
 	<div class="closeEverything"></div>
 	<div class="container">
-			<a href="<?php echo $directory ?>english/home.php"><img src="<?php echo $directory ?>_images/global/logo.png"/ class="header__logo"></a>
+			<a href="<?php echo $directory ?>en/home.php"><img src="<?php echo $directory ?>_images/global/logo.png"/ class="header__logo"></a>
 			<ul class="header__nav">
-				<li><a href="<?php echo $directory ?>english/about/about.php">About</a></li>
+				<li><a href="<?php echo $directory ?>en/about/about.php">About</a></li>
 					<ul class="header__subNav">
-						<li><a href="<?php echo $directory ?>english/about/about.php">What is Charis?</a></li>
-						<li><a href="<?php echo $directory ?>english/about/members.php">Alliance Members</a></li>
-						<li><a href="<?php echo $directory ?>english/about/history.php">Charis History</a></li>
+						<li><a href="<?php echo $directory ?>en/about/about.php">What is Charis?</a></li>
+						<li><a href="<?php echo $directory ?>en/about/members.php">Alliance Members</a></li>
+						<li><a href="<?php echo $directory ?>en/about/history.php">Charis History</a></li>
 					</ul>
-				<li><a href="<?php echo $directory ?>english/documents/documents.php">Documents</a></li>
+				<li><a href="<?php echo $directory ?>en/documents/documents.php">Documents</a></li>
 					<ul class="header__subNav">
-						<li><a href="<?php echo $directory ?>english/documents/documents.php">Primary Documents</a></li>
-						<li><a href="<?php echo $directory ?>english/documents/archive.php">Document Archive</a></li>
+						<li><a href="<?php echo $directory ?>en/documents/documents.php">Primary Documents</a></li>
+						<li><a href="<?php echo $directory ?>en/documents/archive.php">Document Archive</a></li>
 					</ul>
-				<li><a href="<?php echo $directory ?>english/media/video.php">Media</a></li>
+				<li><a href="<?php echo $directory ?>en/media/video.php">Media</a></li>
 					<ul class="header__subNav">
-						<li><a href="<?php echo $directory ?>english/media/video.php">Video Archive</a></li>
-						<li><a href="<?php echo $directory ?>english/media/photos.php">Photo Archive</a></li>
+						<li><a href="<?php echo $directory ?>en/media/video.php">Video Archive</a></li>
+						<li><a href="<?php echo $directory ?>en/media/photos.php">Photo Archive</a></li>
 					</ul>
-				<li><a href="<?php echo $directory ?>english/news/index.php">News</a></li>
-				<li><a href="<?php echo $directory ?>english/giving/index.php">Giving</a></li>
+				<li><a href="<?php echo $directory ?>en/news/index.php">News</a></li>
+				<li><a href="<?php echo $directory ?>en/giving/index.php">Giving</a></li>
 				<li>
-					<select  onchange="location = this.options[this.selectedIndex].value;">
-						<option selected>English</option>
-						<option value="<?php echo $directory ?>espanol/home.php">Español</option>
-						<option value="<?php echo $directory ?>francais/home.php">Français</option>
+					<select class="header__select" onchange="location = this.options[this.selectedIndex].value;">
+						<option class="header__select header__select__option--en" disabled selected>English</option>
+						<option class="header__select header__select__option--es">Español</option>
+						<option class="header__select header__select__option--fr">Français</option>
 					</select>
 				</li>
 			</ul>
