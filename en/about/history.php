@@ -306,7 +306,7 @@
 				<div class="row">
 					<div class="timeline__dot"></div>
 					<div class="timeline__event">
-						<h2>1990s: The Beginnings of an International Identity</h2>
+						<h2>1990s: The Beginnings of an International&nbsp;Identity</h2>
 						<p>The vision of an international fellowship of Grace Brethren churches goes back many decades. Periodically a proposal would be made at National Conference for the creation of an international conference, but would almost immediately be tabled because of the obstacles involved in making it happen. Too many questions seemed unanswerable. Who would be invited? How would they be chosen? How would a global gathering of Grace Brethren churches be financed? What would be the guiding purpose?</p>
 						<p>At the 1990 conference there was serious discussion concerning the need to give churches an international identity, but again it appeared that because of the hurdles involved, an international fellowship would never be more than a dream.</p>
 					</div>

@@ -34,8 +34,6 @@
 							<p>This video is an introduction and overview of the Charis Alliance, a movement of Grace Brethren Churches around the world.</p>
 						</a>
 					</div>
-				</div>
-				<div class="row">
 					<div class="galleryPrev galleryPrev--video">
 						<a target="_blank" href="https://vimeo.com/161481570">
 							<img src="../../_images/media/videos/video4.jpg">

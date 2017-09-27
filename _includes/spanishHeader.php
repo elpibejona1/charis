@@ -43,7 +43,7 @@
 			<ul>
 				<li><a class="header__languages__link header__languages__link--en" href="">English</a></li>
 				<li><a class="header__languages__link header__languages__link--es active" href="">Español</a></li>
-				<li><a class="header__languages__link header__languages__link--fr " href="">Français</a></li>
+				<li><a class="header__languages__link header__languages__link--fr" href="">Français</a></li>
 			</ul>
 		</div>
 	</div>

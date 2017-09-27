@@ -57,7 +57,7 @@
 			<div class="content content--third content--featured">
 				<a href="giving/index.php">
 					<img src="../_images/home/thumbnail2.jpg" alt="">
-					<span>Want to help equip our global <br>network of churches? Donate here!</span>
+					<span>Want to help equip our global <br>network of churches? Donate&nbsp;here!</span>
 				</a>
 			</div>
 			<hr>

@@ -877,8 +877,14 @@ p.interior__description__subTitle {
 
 	}
 
-	.galleryPrev--video h3 { text-align: left; }
-	.galleryPrev--video a p { text-align: left; line-height: 1.2;}
+	.galleryPrev--video {
+
+		height: 350px;
+		
+		h3 { text-align: left; }
+
+		a p { text-align: left; line-height: 1.2;}
+	}
 
 	.hidden { display: none; }
 
@@ -1325,7 +1331,13 @@ p.interior__description__subTitle {
 		&:first-child { padding-top: 15px; }
 	}
 
-	ul { margin-left: 46px; margin-bottom: 20px; }
+	ul {
+		margin-left: 46px;
+		margin-bottom: 20px;
+
+		&:first-child { padding-top: 15px; }
+		&:last-child { padding-bottom: 15px; }
+	}
 
 	li {
 		font-family: 'Raleway', sans-serif;
@@ -1699,6 +1711,10 @@ p.interior__description__subTitle {
 
 @media screen and (max-width: 1023px) {
 
+	// Header
+
+	.header__languages { top: -5px; }
+
 	// history.php
 
 	.content--history.history--first { height: calc(~'100vh - 176px'); }
@@ -1711,8 +1727,14 @@ p.interior__description__subTitle {
 		margin-left: 80px !important;
 		width: calc(~'100% - 125px');
 
-		img { width: initial; margin: 15px auto; display: block; float: none; }
+		img { margin: 15px auto; display: block; float: none; }
 	}
+
+	// Celebration page
+	
+	.resourceThird { width: 49%; float: left; }
+
+	.resourceThird--video { height: auto; }
 }
 
 // Phone
@@ -1763,7 +1785,14 @@ p.interior__description__subTitle {
     		width: 100%;
     		margin-top: 20px;
     		text-align: left;
-    	}
+		}
+		
+		li.featured {
+			text-align: left;
+			margin-top: 20px;
+
+			br { display: none; }
+		}
 
     	select { text-align: center; width: 100%; }
 
@@ -1797,7 +1826,13 @@ p.interior__description__subTitle {
 
 	}
 
-    // Home Page
+	// Home Page
+	
+	.content--home {
+		h2 { text-align: left; }
+
+		text-align: center;
+	}
 
     .homeSlideShow__callout {
     	h2 { font-size: 30px; }
@@ -1806,14 +1841,19 @@ p.interior__description__subTitle {
     }
 
     .content--featured {
+		width: 49%;
+		display: inline-block;
+
     	img {
-    		max-width: 300px;
+    		width: 100%;
     		position: static;
-    		display: block;
-    		margin: 0 auto;
     	}
 
-    	span { max-width: 300px; left: 50%; .transform(translateX(-50%)); }
+    	span {
+			width: 100%;
+
+			br { display: none; }
+		}
     }
 
     .news__feed .content--third {
@@ -1852,8 +1892,21 @@ p.interior__description__subTitle {
 	.news__photo img,
 	.news__description h3,
 	.news__description h4,
-	.news__description p { padding-left: 10%; padding-right: 10%; }
+	.news__description p,
+	.primary__downloadContainer { padding-left: 10%; padding-right: 10%; }
 
+	.primary__downloadContainer + .primary__downloadContainer { margin-top: 0; }
+
+	.primary__download__button {
+		width: 48%;
+		margin-bottom: 10px;
+
+		a {
+			padding: 10px 0;
+
+			br { display: none; }
+		}
+	}
 
 	.interior__description,
 	.news__description {
@@ -1863,9 +1916,19 @@ p.interior__description__subTitle {
 		p { font-size: 16px; }
 	}
 
+	.primary__downloadContainer { padding-left: 0; padding-right: 0; }
+
+	.primary__download__button { width: 100%; margin-left: 0; margin-right: 0; }
+
 	// Photo Archive
 
-	.galleryPrev img { display: block; max-width: 300px; margin: 0 auto; }
+	.archive__section {
+		text-align: center;
+
+		h2 { text-align: left; }
+	}
+
+	.galleryPrev { width: 48%; margin: 0 1%; float: left; }
 
 	/*.fancybox-title-float-wrap .child { max-width: 300px; white-space: normal; }*/
 
@@ -1882,9 +1945,15 @@ p.interior__description__subTitle {
 	// history.php
 
 	.timeline__event { float: left; }
+
+	.timeline__event h2 { font-size: 22px; padding: 16px 10px; }
 }
 
 @media screen and (max-width: 750px) {
+
+	// Home Page
+
+	.content--featured { width: auto; display: block; }
 
 	// What is Charis
 	.accordion__question {
@@ -1926,6 +1995,13 @@ p.interior__description__subTitle {
 		&--AS { top: 36%; left: 63%; }
 	}
 
+	// Charis History
+
+	.history__nav__button {
+		font-size: 10px;
+		padding: 15px 0;
+	}
+
 	// Primary Documents
 
 	.interior__download--wide {
@@ -1933,6 +2009,29 @@ p.interior__description__subTitle {
 
 		div { float: none; }
 	}
+
+	// Media Gallery
+
+	.galleryPrev {
+		width: 100%;
+		margin: 0;
+		margin-bottom: 20px;
+		height: auto;
+	}
+
+	// Celebration Sunday
+
+	.resourceThird {
+		width: 100%;
+		float: none;
+		height: auto;
+	}
+
+	.resourceThird:not(.resourceThird--video) {
+		margin-bottom: 75px; 
+	}
+
+	
 }
 
 @media screen and (max-width: 690px) {
@@ -1966,10 +2065,10 @@ p.interior__description__subTitle {
 
 	.map__info {
 		height: 215px;
-    	width: 100%;
+    	width: 235px;
    		top: 64%;
-    	bottom: 30px;
-    	left: 0;
+		left: auto;
+		right: 0;
 	}
 
 	.accordion__question h3 { padding-right: 50px; }
@@ -1984,13 +2083,6 @@ p.interior__description__subTitle {
 	// Documents
 
 	.primary__downloadContainer + .primary__downloadContainer { margin-top: 0; }
-
-	.primary__download__button {
-		width: 48%;
-		margin-top: 10px;
-
-		br { display: none; }
-	}
 
 	// Photo Gallery
 
@@ -2035,7 +2127,8 @@ p.interior__description__subTitle {
 			}
 		}
 
-		p { font-size: 16px; }
+		p,
+		li { font-size: 16px; }
 	}
 }
 
@@ -2089,16 +2182,14 @@ p.interior__description__subTitle {
 
 		h2 {
 			font-size: 16px;
+			padding: 10px;
 
-			&::before {
-				border-top: 18px solid transparent;
-		    	border-bottom: 18px solid transparent;
-		    	border-right: 18px solid rgba(9,120,136,.3);
-		    	left: -18px;
+			&::before { display: none;
 			}
 		}
 
-		p { font-size: 14px; }
+		p,
+		li { font-size: 14px; }
 	}
 }
 
@@ -2144,23 +2235,20 @@ p.interior__description__subTitle {
 
 	// Document Archive
 
-	.archive__files li {
-		&::before { margin-top: -4px; }
-
-		a {
-			border-bottom: none;
-			text-decoration: underline;
-
-			&:hover { border-bottom: none; }
-		}
-	
-	}
+	.archive__files li::before { margin-top: -4px; }
 	
 	.subNav__item h3 { font-size: 18px; }
 
 	.content--map .continentOverlay h2 { font-size: 24px; }
 
 	.archive__section h2 { padding: 15px; }
+}
+
+// iPhone 5
+@media screen and (max-width: 320px) {
+	.map__info { width: 100%; }
+
+	.history__nav { padding: 10px; }
 }
 
 // Mobile Landscape Mode
@@ -2235,17 +2323,3 @@ p.interior__description__subTitle {
 	}
 }
 
-
-// Celebration 
-
-@media only screen and (max-width: 1080px) {
-	.resourceThird { width: 49%; float: left; }
-}
-
-@media only screen and (max-width: 620px) {
-	.resourceThird { height: 500px; }
-}
-
-@media only screen and (max-width: 570px) {
-	.resourceThird { width: 100%; float: none; height: 400px; }
-}

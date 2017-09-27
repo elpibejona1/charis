@@ -11,7 +11,7 @@
 	<div class="container">
 		<div class="row row--archive">
 			<div class="archive__section">
-				<h2>2015 Charis International Leadership Encounter</h2>
+				<h2>2015 Charis International Leadership&nbsp;Encounter</h2>
 				<div class="row">
 					<div class="galleryPrev">
 						<a class="fancybox" href="#gallery1">
@@ -34,8 +34,6 @@
 							<p>Charis Meetings Day 1</p>
 						</a>
 					</div>
-				</div>
-				<div class="row">
 					<div class="galleryPrev">
 						<a class="fancybox" href="#gallery4">
 							<img src="../../_images/media/photos/cile-2015-4/img1.jpg" alt="Dr. Dave Guiles leads a discussion on the most recent draft of the Commitment to Common Identity.">
