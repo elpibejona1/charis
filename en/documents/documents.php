@@ -81,7 +81,7 @@
 						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/Charter_Tagalog_(letter).pdf">Tagalog</a></li>
 					</ul>
 				</div>
-				<p class="interior__description__subTitle">Charis Commitment to a Common Identity</p>
+				<p class="interior__description__subTitle">Charis Commitment to a Common&nbsp;Identity</p>
 				<div class="primary__downloadContainer">
 					
 				<ul>
@@ -91,7 +91,7 @@
 					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Tagalog_Charis_Common_Identity_(v2015.0).pdf">Tagalog</a></li>
 				</ul>
 				</div>
-				<p class="interior__description__subTitle">Charis Commitment to a Common Mission</p>
+				<p class="interior__description__subTitle">Charis Commitment to a Common&nbsp;Mission</p>
 				<div class="primary__downloadContainer">
 					<ul>
 						<li class="primary__download__button"><a target="_blank" href="../../documents/cccm/CCCM_German.pdf">German</a></li>

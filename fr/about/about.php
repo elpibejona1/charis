@@ -30,7 +30,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="accordion__question">
+			<div class="accordion__question accordion__question--longFrench">
 				<h3>Qu'est-ce que nous faisons ?</h3>
 				<div class="accordion__plus"><img src="../../_images/about/general/plus.png" alt=""></div>
 			</div>
@@ -45,7 +45,7 @@
 			</div>
 		</div>
 		<div class="row accordion__bottom">
-			<div class="accordion__question accordion__question--long">
+			<div class="accordion__question accordion__question--long accordion__question--longFrench">
 				<h3>Quel sera l’avenir de l’Alliance Charis ?</h3>
 				<div class="accordion__plus"><img src="../../_images/about/general/plus.png" alt=""></div>
 			</div>

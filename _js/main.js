@@ -215,12 +215,13 @@ var membersMap = function () {
 		var buttonTop = (parseInt(mapInfoTop.slice(0,3)) - 17.5);
 		var mapInfoWidth = $('.map__info').css('width');
 
-		if ($(window).width() >= 975 || $(window).width() <= 665) {
+		if ($(window).width() >= 975) {
 			var buttonLeft = parseInt(mapInfoLeft.slice(0,3));
 			buttonLeft = buttonLeft + parseInt(mapInfoWidth.slice(0,3)) - 17.5;
 		} else {
-			var buttonLeft = '98%';
+			var buttonLeft = $('.container').width() - 16;
 		}
+
 
 		if ($map.attr('class') === 'zoomed') {
 

@@ -4,9 +4,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="siteMap">
-				<h6><a href="<?php echo $directory ?>fr/about/about.php">À propos de Charis</a></h6>
+				<h6><a href="<?php echo $directory ?>fr/about/about.php">À propos de</a></h6>
 				<ul>
-					<li><a href="<?php echo $directory ?>fr/about/about.php">Qu’est-ce que c’est?</li>
+					<li><a href="<?php echo $directory ?>fr/about/about.php">Qu’est-ce que c’est Charis?</li>
 					<li><a href="<?php echo $directory ?>fr/about/members.php">Membres de l’Alliance</a></li>
 					<li><a href="<?php echo $directory ?>fr/about/history.php">Histoire de Charis</a></li>
 				</ul>

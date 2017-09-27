@@ -975,6 +975,7 @@ p.interior__description__subTitle {
 	background-repeat: no-repeat;
 	background-size: cover;*/
 	background-color: rgba(9, 120, 136, 0.5);
+	overflow: hidden;
 }
 
 .content--map {
@@ -1684,6 +1685,10 @@ p.interior__description__subTitle {
 	// About Video
 
 	.about__video { height: 57vw; }
+
+	// Celebration Page
+
+	.row--content span { font-size: 20px; }
 }
 
 // Map Info Window
@@ -1771,7 +1776,7 @@ p.interior__description__subTitle {
 
     .header__nav {
 		display: none;
-		height: 560px;
+		height: 85vh;
     	width: 275px;
     	padding: 20px;
     	margin-left: 0;
@@ -2272,11 +2277,15 @@ p.interior__description__subTitle {
 
 // iPhone 5
 @media screen and (max-width: 320px) {
-	.map__info { width: 100%; }
+	.map__info { width: 100%; top: 58%; }
 
 	.history__nav { padding: 10px; }
 
 	.heading { font-size: 19px; }
+
+	.accordion__question--longFrench { padding: 20px 0 20px 30px; }
+
+	.accordion__question--longSpanish { padding: 10px 0 10px 30px; }
 }
 
 // Mobile Landscape Mode
