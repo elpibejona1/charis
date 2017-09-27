@@ -79,6 +79,7 @@ header {
 
 	&__nav { 
 		float: right;
+		position: relative;
 
 		/* &--spanish { width: 630px; }
 
@@ -188,6 +189,7 @@ header {
 	li {
 		float: left;
 		padding: 10px 0;
+		margin: 0;
 
 		a {
 			display: inline-block;
@@ -197,6 +199,7 @@ header {
 			font-weight: 600;
 			font-size: 12px;
 			text-decoration: none;
+			height: auto;
 
 			&.active {
 				color: @tea;
@@ -1711,10 +1714,6 @@ p.interior__description__subTitle {
 
 @media screen and (max-width: 1023px) {
 
-	// Header
-
-	.header__languages { top: -5px; }
-
 	// history.php
 
 	.content--history.history--first { height: calc(~'100vh - 176px'); }
@@ -1769,22 +1768,24 @@ p.interior__description__subTitle {
     .header__logo { width: 180px; }
 
     .header__nav {
-    	display: none;
-    	width: 250px;
+		display: none;
+		height: 100vh;
+    	width: 275px;
     	padding: 20px;
     	margin-left: 0;
     	position: absolute;
     	right: -250px;
     	top: 0;
     	z-index: 999999999999999;
-    	background-color: rgba(230, 230, 230, 0.9);
+		background-color: rgba(230, 230, 230, 0.9);
+		overflow-y: scroll;
 
     	li {
     		display: block;
     		float: none;
     		width: 100%;
     		margin-top: 20px;
-    		text-align: left;
+			text-align: left;
 		}
 		
 		li.featured {
@@ -1798,6 +1799,20 @@ p.interior__description__subTitle {
 
 	}
 
+	.header__nav__first { margin-top: 40px!important; }
+	
+	.header__languages {
+		left: 10px;
+		top: 0;
+		right: auto;
+
+		li {
+			float: left;
+			width: auto;
+			margin-top: 0;
+		}
+	}
+
     .header__buttons { display: block; }
 
     .header__subNav {
@@ -1808,7 +1823,7 @@ p.interior__description__subTitle {
 
 			a { font-size: 18px; font-weight: 400; border-bottom: none !important; }
 		}
-    }
+	}
 
     // Footer
 

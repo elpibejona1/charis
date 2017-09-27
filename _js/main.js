@@ -413,7 +413,7 @@ var mobileHamburger = function(){
 			
 			$headerButtons.removeClass('active');
 
-			TweenMax.to('.header__nav', 0.5, { right: -250 });
+			TweenMax.to('.header__nav', 0.5, { right: -275 });
 
 			setTimeout(function(){ $headerNav.hide(); }, 500);
 
