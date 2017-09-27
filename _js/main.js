@@ -45,95 +45,97 @@ var statusIndication = function() {
 	}
 	subNavMenu();
 
-	if ( $('.header__select__option--en').prop('disabled') ) {
+	// Populate Language Links HREF in Header
+
+	if ( $('.header__languages__link--en').hasClass('active') ) {
 
 		if ( directory === 'giving') {
 
 			esReplace = pathName.replace('/en/giving', '/es/ofrendar');
 			frReplace = pathName.replace('/en/giving', '/fr/donner');
 
-			$('.header__select__option--es').attr('value', esReplace);
+			$('.header__languages__link--es').attr('href', esReplace);
 
-			$('.header__select__option--fr').attr('value', frReplace);
+			$('.header__languages__link--fr').attr('href', frReplace);
 
 		} else if (directory === 'celebration') {
 
 			esReplace = pathName.replace('/en/celebration', '/es/celebracion');
 			frReplace = pathName.replace('/en/celebration', '/fr/celebrer');
 
-			$('.header__select__option--es').attr('value', esReplace);
+			$('.header__languages__link--es').attr('href', esReplace);
 
-			$('.header__select__option--fr').attr('value', frReplace);
+			$('.header__languages__link--fr').attr('href', frReplace);
 
 		} else {
 
 			esReplace = pathName.replace('/en/', '/es/');
 			frReplace = pathName.replace('/en/', '/fr/');
 
-			$('.header__select__option--es').attr('value', esReplace);
+			$('.header__languages__link--es').attr('href', esReplace);
 
-			$('.header__select__option--fr').attr('value', frReplace);
+			$('.header__languages__link--fr').attr('href', frReplace);
 		}
 
-	} else if ( $('.header__select__option--es').prop('disabled')) {
+	} else if ( $('.header__languages__link--es').hasClass('active')) {
 
 		if ( directory === 'ofrendar') {
 			
 			enReplace = pathName.replace('/es/ofrendar', '/en/giving');
 			frReplace = pathName.replace('/es/ofrendar', '/fr/donner');
 
-			$('.header__select__option--en').attr('value', enReplace);
+			$('.header__languages__link--en').attr('href', enReplace);
 
-			$('.header__select__option--fr').attr('value', frReplace);
+			$('.header__languages__link--fr').attr('href', frReplace);
 
-		} else if (directory === 'celebration') {
+		} else if (directory === 'celebracion') {
 			
 			enReplace = pathName.replace('/es/celebracion', '/en/celebration');
 			frReplace = pathName.replace('/es/celebracion', '/fr/celebrer');
 
-			$('.header__select__option--en').attr('value', enReplace);
+			$('.header__languages__link--en').attr('href', enReplace);
 
-			$('.header__select__option--fr').attr('value', frReplace);
+			$('.header__languages__link--fr').attr('href', frReplace);
 
 		} else {
 
 			enReplace = pathName.replace('/es/', '/en/');
 			frReplace = pathName.replace('/es/', '/fr/');
 	
-			$('.header__select__option--en').attr('value', enReplace);
+			$('.header__languages__link--en').attr('href', enReplace);
 	
-			$('.header__select__option--fr').attr('value', frReplace);
+			$('.header__languages__link--fr').attr('href', frReplace);
 		}
 
 		
-	} else if ( $('.header__select__option--fr').prop('disabled') ) {
+	} else if ( $('.header__languages__link--fr').hasClass('active') ) {
 
 		if ( directory === 'donner') {
 			
 			enReplace = pathName.replace('/fr/donner', '/en/giving');
 			esReplace = pathName.replace('/fr/donner', '/es/ofrendar');
 
-			$('.header__select__option--en').attr('value', enReplace);
+			$('.header__languages__link--en').attr('href', enReplace);
 
-			$('.header__select__option--es').attr('value', esReplace);
+			$('.header__languages__link--es').attr('href', esReplace);
 
 		} else if (directory === 'celebrer') {
 			
 			enReplace = pathName.replace('/fr/celebrer', '/en/celebration');
-			frReplace = pathName.replace('/fr/celebrer', '/e/celebracion');
+			esReplace = pathName.replace('/fr/celebrer', '/es/celebracion');
 
-			$('.header__select__option--en').attr('value', enReplace);
+			$('.header__languages__link--en').attr('href', enReplace);
 
-			$('.header__select__option--es').attr('value', esReplace);
+			$('.header__languages__link--es').attr('href', esReplace);
 
 		} else {
 		
 			enReplace = pathName.replace('/fr/', '/en/');
 			esReplace = pathName.replace('/fr/', '/es/');
 
-			$('.header__select__option--en').attr('value', enReplace);
+			$('.header__languages__link--en').attr('href', enReplace);
 
-			$('.header__select__option--es').attr('value', esReplace);
+			$('.header__languages__link--es').attr('href', esReplace);
 		}
 	}
 }

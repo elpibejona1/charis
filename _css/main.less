@@ -55,6 +55,14 @@ ul.list {
 
 em { font-style: italic; }
 
+.clearFix {
+	&::after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+}
+
 // Header Styles
 
 header {
@@ -119,7 +127,7 @@ header {
 			select { font-size: 14px; height: 22px; }
 
 			&.featured {
-				margin-top: 30px;
+				margin-top: 33px;
 				text-align: center;
 
 				a { color: @red; font-weight: 700; }
@@ -170,7 +178,36 @@ header {
 
 .header__subNav { display: none; }
 
+.header__languages {
+	position: absolute;
+	top: -30px;
+	right: 0;
 
+	.clearFix;
+
+	li {
+		float: left;
+		padding: 10px 0;
+
+		a {
+			display: inline-block;
+			padding: 0 10px;
+			font-family: 'Raleway', sans-serif;
+			color: @gray;
+			font-weight: 600;
+			font-size: 12px;
+			text-decoration: none;
+
+			&.active {
+				color: @tea;
+				text-decoration: underline;
+				pointer-events: none;
+			}
+		}
+
+		+ li a { border-left: 1px solid @gray; }
+	}
+}
 
 // Footer Styles
 

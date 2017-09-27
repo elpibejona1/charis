@@ -230,7 +230,7 @@
 					<div class="timeline__event">
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/uk-image1.jpg" alt="">
-							<p class="caption">Brittish youth at summer camp.</p>		
+							<p class="caption">British youth at summer camp.</p>		
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/uk-image2.jpg" alt="">
@@ -405,7 +405,6 @@
 						<p><strong>Charis Mission:</strong> The mission of Charis is to promote church planting worldwide, by facilitating communication, by encouraging the exchange of needs and resources, and by soliciting the opening of new fields.</p>
 					</div>
 					<div class="timeline__event">
-						<p>Charis Definitions: </p>
 						<p><strong>Charis Goals:</strong></p>
 						<ul class="list">
 							<li>To chart the progress of new church planting efforts around the world, through a quarterly English news bulletin (Prayer and Praise)</li>
@@ -458,7 +457,7 @@
 							<p class="caption">The Participants of the 1999 Charis Gathering.</p>
 						</div>
 						<div class="timeline__event__photo">
-							<img src="../../_images/about/history/charis99-image1.jpg" alt="">
+							<img src="../../_images/about/history/charis99-image2.jpg" alt="">
 							<p class="caption">Delegates from Latin America and Africa at the 1999 Charis&nbsp;Gathering.</p>		
 						</div>
 					</div>
@@ -561,7 +560,7 @@
 						</div>
 					</div>
 					<div class="timeline__event">
-						<p>It was the culmination of several days of discussion in which the delegates met according to language group &mdash; English, French, or Spanish &mdash; to discuss the proposed final document. Much of the earlier work had taken place in various regions around the world where there are Grace Brethren churchesministries.</p>
+						<p>It was the culmination of several days of discussion in which the delegates met according to language group &mdash; English, French, or Spanish &mdash; to discuss the proposed final document. Much of the earlier work had taken place in various regions around the world where there are Grace Brethren churches/ministries.</p>
 						<p>On Friday, the delegates considered how to move forward as an international network of churches. Each signed a the <span>Charis Alliance Charter</span> encouraging the creation of the <span>Charis Alliance</span>, an association that seeks to promote fellowship and cooperation on the regional and international level among the churches that endorse the <span>Charis Commitment to Common Identity</span>. Each delegate was charged to take the charter to his own country for adoption.</p>
 					</div>
 				</div>
