@@ -32,7 +32,7 @@
 		</div>
 		<div class="row row--archive">
 			<div class="archive__section">
-				<h2>Sermons de la Rencontre Internationale de Leadership de Charis 2015</h2>				
+				<h2>Sermons de la Rencontre Internationale de Leadership de Charis&nbsp;2015</h2>				
 			</div>
 			<div class="archive">
 				<div class="archive__files">

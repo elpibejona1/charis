@@ -79,7 +79,7 @@ var info = {
 		{
 			country: "The Central African Republic",
 			pais: "República Centroafricana",
-			pays: 'en <br><span class="country">République centrafricaine',
+			pays: 'en <br><span class="country">République Centrafricaine',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
 			statut: 'Membre fondateur Charis',

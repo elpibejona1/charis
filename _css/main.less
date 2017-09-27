@@ -914,6 +914,7 @@ p.interior__description__subTitle {
 	font-size: 40px;
 	font-weight: 600;
 	margin-bottom: 20px;
+	line-height: 1.2;
 }
 
 .about__introText {
@@ -945,6 +946,7 @@ p.interior__description__subTitle {
 		margin-bottom: 10px;
 		background-color: rgba(230, 230, 230, 0.7);
 		cursor: pointer;
+		line-height: 1.2;
 
 		&:hover .accordion__plus { background-color: @dGold; }
 	}
@@ -1769,7 +1771,7 @@ p.interior__description__subTitle {
 
     .header__nav {
 		display: none;
-		height: 525px;
+		height: 560px;
     	width: 275px;
     	padding: 20px;
     	margin-left: 0;
@@ -1886,7 +1888,7 @@ p.interior__description__subTitle {
 	.subNav__item {
 		display: none;
 
-		a { padding: 25px; }
+		a { padding: 25px; padding-right: 0; }
 	
 		&.active {
 			display: block;
@@ -1971,6 +1973,11 @@ p.interior__description__subTitle {
 	.content--featured { width: auto; display: block; }
 
 	// What is Charis
+
+	.about__heading { font-size: 35px; }
+
+	.about__introText { font-size: 16px; }
+
 	.accordion__question {
 		font-size: 18px;
 		padding: 33px 0 33px 30px;
@@ -2081,7 +2088,7 @@ p.interior__description__subTitle {
 	.map__info {
 		height: 215px;
     	width: 235px;
-   		top: 64%;
+   		top: 60%;
 		left: auto;
 		right: 0;
 	}
@@ -2186,6 +2193,8 @@ p.interior__description__subTitle {
 		}
 	}
 
+	.archive__section h2 { font-size: 22px; }
+
 }
 
 // iPhone 5
@@ -2206,6 +2215,8 @@ p.interior__description__subTitle {
 		p,
 		li { font-size: 14px; }
 	}
+
+	.archive__files li a { font-size: 15px; }
 }
 
 @media screen and (max-width: 453px) {
@@ -2264,6 +2275,8 @@ p.interior__description__subTitle {
 	.map__info { width: 100%; }
 
 	.history__nav { padding: 10px; }
+
+	.heading { font-size: 19px; }
 }
 
 // Mobile Landscape Mode

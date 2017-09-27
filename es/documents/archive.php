@@ -37,15 +37,15 @@
 			<div class="archive">
 				<div class="archive__files">
 					<ul>
-						<li><a target="_blank" href="../../documents/sermons-2015/ES-Mensaje-Eduardo-P.pdf">La Iglesia del Dios Viviente – Eduardo Pizzi</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/ES-Mensaje-Augustin-H.pdf">Saber Dirigir su Casa – Dr. Augustin Hibaile</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Mensaje-Eduardo-P.pdf">La Iglesia del Dios Viviente – Eduardo&nbsp;Pizzi</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Mensaje-Augustin-H.pdf">Saber Dirigir su Casa – Dr.&nbsp;Augustin&nbsp;Hibaile</a></li>
 						<li><a target="_blank" href="../../documents/sermons-2015/ES-Mensaje-Keith-M.pdf">A Donde – Keith Minier</a></li>
 					</ul>
 				</div>
 				<div class="archive__files">
 					<ul>
-						<li><a target="_blank" href="../../documents/sermons-2015/ES-Mensaje-Florent-V.pdf">¡Guarda el Evangelio Intacto! – Florent Varak</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/ES-Discurso-De-Acceptación.docx">Discurso de Aceptación del Compromiso de Charis a la Misión Común – Dr. Dave Guiles</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Mensaje-Florent-V.pdf">¡Guarda el Evangelio Intacto! – Florent&nbsp;Varak</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Discurso-De-Acceptación.docx">Discurso de Aceptación del Compromiso de Charis a la Misión Común – Dr.&nbsp;Dave&nbsp;Guiles</a></li>
 						<li><a target="_blank" href="../../documents/sermons-2015/ES-Pensando-En-Nuestros-Próximos-Pasos.docx">Pensando en Nuestros Próximos Pasos</a></li>
 					</ul>
 				</div>

@@ -31,7 +31,7 @@
 						<a class="fancybox" href="#gallery3">
 							<img src="../../_images/media/photos/cile-2015-3/img1.jpg" alt="Des informations et le nombre d’églises dans chaque région présentent chaque pays. Des cadeaux du pays sont également offerts.">
 							<h3>Lundi 2 novembre</h3>
-							<p>1er jour des Réunions de Charis</p>
+							<p>1er jour des Réunions de&nbsp;Charis</p>
 						</a>
 					</div>
 				</div>
@@ -40,14 +40,14 @@
 						<a class="fancybox" href="#gallery4">
 							<img src="../../_images/media/photos/cile-2015-4/img1.jpg" alt="Le Dr. Dave Guiles (Encompass World Partners) dirige une discussion portant sur la version la plus récente de l'Engagement pour une Identité Commune.">
 							<h3>Mardi 3 novembre</h3>
-							<p>2ème jour des Réunions de Charis</p>
+							<p>2ème jour des Réunions de&nbsp;Charis</p>
 						</a>
 					</div>
 					<div class="galleryPrev">
 						<a class="fancybox" href="#gallery5">
 							<img src="../../_images/media/photos/cile-2015-5/img1.jpg" alt="Le pasteur Keith Minier des États-Unis partage la Parole de Dieu.">
 							<h3>Mercredi 4 novembre</h3>
-							<p>3ème jour des Réunions de Charis</p>
+							<p>3ème jour des Réunions de&nbsp;Charis</p>
 						</a>
 					</div>
 					<div class="galleryPrev">
@@ -63,7 +63,7 @@
 						<a class="fancybox" href="#gallery7">
 							<img src="../../_images/media/photos/cile-2015-7/img1.jpg" alt="Les délégués votent pour approuver l'Identité Commune de l’Alliance Charis.">
 							<h3>Vendredi 6 novembre</h3>
-							<p>Dernier jour des Réunions de Charis</p>
+							<p>Dernier jour des Réunions de&nbsp;Charis</p>
 						</a>
 					</div>
 				</div>

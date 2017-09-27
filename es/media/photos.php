@@ -17,7 +17,7 @@
 						<a class="fancybox" href="#gallery1">
 							<img src="../../_images/media/photos/cile-2015-1/img1.jpg" alt="Llegada de los delegados a Bangkok">
 							<h3>Sábado 31 de Octubre</h3>
-							<p>Llegada de los delegados a Bangkok</p>
+							<p>Llegada de los delegados a&nbsp;Bangkok</p>
 						</a>
 					</div>
 					<div class="galleryPrev">
@@ -63,7 +63,7 @@
 						<a class="fancybox" href="#gallery7">
 							<img src="../../_images/media/photos/cile-2015-7/img1.jpg" alt="Los delegados votan para aprobar el Compromiso de la Alianza de Charis a la Identidad Común.">
 							<h3>Viernes 6 de Noviembre</h3>
-							<p>Último día de las reuniones de Charis</p>
+							<p>Último día de las reuniones de&nbsp;Charis</p>
 						</a>
 					</div>
 				</div>

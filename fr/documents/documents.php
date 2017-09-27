@@ -34,7 +34,7 @@
 						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Identité_Commune_de_lAlliance_Charis_2015_(FRA_v2015.0).pdf">Fichier PDF</a></li>
 						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Identité_Commune_de_l’Alliance_Charis_2015_(FRA_v2015.0)_w_verses.pdf">Fichier PDF (avec&nbsp;écritures)</a></li>
 						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Identité_Commune_de_l'Alliance_Charis_2015_(FRA_v2015.0).docx">Fichier DOCX</a></li>
-						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Identité_Commune_de_l’Alliance_Charis_2015_(FRA_v2015.0)_w_verses.docx">Fichier DOCX<br>(avec&nbsp;écritures)</a></li>
+						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Identité_Commune_de_l’Alliance_Charis_2015_(FRA_v2015.0)_w_verses.docx">Fichier DOCX<br> (avec&nbsp;écritures)</a></li>
 					</ul>
 				</div>
 			</div>

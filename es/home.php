@@ -45,7 +45,7 @@
 			<div class="content content--third content--featured">
 				<a href="celebracion/index.php">
 					<img src="../_images/news/thumbnail1.jpg" alt="">
-					<span>Domingo de Celebración. Celebre nuestro movimiento global.</span>
+					<span>Domingo de Celebración. Celebre nuestro movimiento&nbsp;global.</span>
 				</a>
 			</div>
 			<div class="content content--third content--featured">
