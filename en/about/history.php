@@ -45,47 +45,65 @@
 		<div class="row">
 			<div class="content content--timeline">
 				<div class="row">
-					<div class="timeline__decade timeline__decade--1">1900</div>
+					<div class="timeline__decade timeline__decade--1">1700</div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot"></div>
+					<div class="timeline__event">
+						<h2>1708: Movement Begins in Germany</h2>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/origins-image1.jpg" alt="">
+							<p class="caption">Alexander Mack: Founder of the Brethren Movement in Schwarzenau, Germany.</p>
+						</div>
+						<div class="timeline__event__photo">
+							<img class="portrait" src="../../_images/about/history/origins-image2.jpg" alt="">
+							<p class="caption">The original eight Brethren.</p>		
+						</div>
+					</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="US"></div>
 					<div class="timeline__event">
-						<h2>1900: United States</h2>
-						<p>The Brethren movement began in Germany in 1708 when Alexander Mack and seven others were baptized, leading to the creation of churches whose passion was to return to the Scriptures for all matters of faith and practice. Many of these pioneers were forced to flee to the American colonies in order to freely practice their beliefs.</p>
-						<p>Though the movement grew, it was not until 1900 that missions came to the forefront. One of the leaders of the progressive brethren, named Jacob Cassel, gave a stirring appeal for world evangelism and called for the creation of a foreign mission organization. He told the delegates,</p>
-						<p class="center"><span class="highlight">“If the evangelization of the world is to you what the north star is for a sailor; if you will always take your bearings from that God-focalized center, your responsibility will be met.”</span></p>
-					</div>
-					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="../../_images/about/history/usa-image2.jpg" alt="">
-							<p class="caption">Plaque commemmorating the organization of the Foreign Missionary Society of the Brethren Church (known today as Encompass World Partners).</p>
+						<h2>1719: First Wave of Immigration to America</h2>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/immigration-image1.jpg" alt="">
+							<p class="caption">Early Brethren in America</p>
 						</div>
-						<div class="timeline__event__photo"> 						<img class="portrait" src="../../_images/about/history/usa-image1.jpg" alt="">
-							<p class="caption">Jacob C. Cassel</p>		
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/immigration-image2.jpg" alt="">
+							<p class="caption">Building of the first Brethren in America</p>		
 						</div>
 					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__decade timeline__decade--1">1900</div>
+				</div>
+				<div class="row">
+					<div class="timeline__dot"></div>
 					<div class="timeline__event">
-						<p>His words were electrifying for many of the delegates. However, the leader of the conference, not wanting to interrupt the flow of his agenda, told the mission enthusiasts that there was plenty of room under the trees if they wanted their missionary organization. Accordingly, 53 people went from the conference to a spot under the trees, to launch the most significant movement in Brethren history.</p>
-						<p>Thus began the adventure that would infuse the Brethren fellowship of churches with uncommon missionary zeal, captivating its finest minds and mobilizing its most dedicated youth. The global impact of the Brethren would eventually extend to the four corners of the world. Today the sun never sets on a Grace Brethren church.</p>
+						<h2>1900: Mission Efforts Begin</h2>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/usa-image2.jpg" alt="">
+							<p class="caption">Plaque commemmorating the organization of the Foreign Missionary Society of the Brethren Church (known today as Encompass World Partners) in Winona Lake, IN.</p>
+						</div>
+						<div class="timeline__event__photo">
+							<img class="portrait" src="../../_images/about/history/usa-image1.jpg" alt="">
+							<p class="caption">Jacob C. Cassel: Founder of Brethren Missions</p>		
+						</div>
 					</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="AR"></div>
 					<div class="timeline__event">
 						<h2>1909: Argentina</h2>
-						<p>The year 1909 was termed “The Hour of Opportunity,” by the man who for years became the director of the missionary society, L. S. Bauman. This year marks the beginning of Brethren missions in Argentina, the start of the long history of highly successful missionary endeavor.</p>
-						<p>The pioneer again was Charles Yoder, who chose the city of Rio Cuarto as his base of operations. He soon discovered that the Argentine soil was hard. To break into the resistant society, Yoder accepted an offer to teach English in their college, which he said gave him access to hundreds of young people from leading homes.</p>
-					</div>
-					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="../../_images/about/history/argentina-image1.jpg" alt="">
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/argentina-image1.jpg" alt="">
 							<p class="caption">In front of the Grace Brethren Church in Rio Cuarto, Bible coach workers prepare for a tent meeting in 1932.</p>		
 						</div>
-						<div class="timeline__event__photo"> 						<img src="../../_images/about/history/argentina-image2.jpg" alt="">
-							<p class="caption">Leadership Training at the Bible Institute.</p>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/argentina-image2.jpg" alt="">
+							<p class="caption">Leadership Training at the Brethren Bible Institute in&nbsp;Argentina.</p>
 						</div>
-					</div>
-					<div class="timeline__event">
-						<p>A “Bible Coach” was purchased, bringing identity to the mission and creating opportunities for open-air meetings and literature distribution. This at times provoked fierce opposition, but as more missionaries joined the team, they were able to reach into the hearts of the Argentine people, seeing churches established in many of the cities of the province. Eventually a Bible Institute was established to train leadership for these churches. A camp gave focus to a growing youth work, and radio ministry began and developed.</p>
-						<p>Though the first chapters of the ministry focused on the cities of the interior, the people of Argentina were following the global trend of moving to the larger cities. In 1947 the first congregation in Buenos Aires was established. Today Brethren churches are scattered throughout the county. Through the faithful leadership training of the missionaries, all of these churches established are now led by Argentines.</p>
 					</div>
 				</div>
 				<div class="row">
@@ -95,44 +113,35 @@
 					<div class="timeline__dot timeline__dot--country" data-dot="CF"></div>
 					<div class="timeline__event">
 						<h2>1918: Central African Republic</h2>
-						<p>God gave a former streetcar conductor a vision that would transform the heart of Africa. As a young man he accidently killed a woman who walked into his streetcar in Philadelphia. Deeply affected, he entered a church where Jacob Cassel had been a member. He found Christ and left for Africa with the Africa Inland Mission.</p>
-						<p>One night in Africa, during an attack of blackwater fever he had a vision. “I saw pass before me a panorama of the tribes of central Africa, and heard a voice saying, ‘ Thou shalt be instrumental in carrying the gospel to these people.’” Later he married Florence Newberry, a fellow missionary, who shared his vision.</p>
-					</div>
-					<div class="timeline__event">
 						<div class="timeline__event__photo">
-							<img src="../../_images/about/history/car-image1.jpg" alt="">		
+							<img src="../../_images/about/history/car-image1.jpg" alt="">
+							<p class="caption">Brethren missionary James Gribble and family.</p>	
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/car-image2.jpg" alt="">
+							<p class="caption">One mission research center listed the Central African Republic as the most evangelized country on the planet.</p>
 						</div>
-					</div>
-					<div class="timeline__event">
-						<p>In 1918, along with two single women, they sailed back to Africa. Their dreams were quickly shattered, for the French government, fearing the loss of control of the native populations, refused to allow them to enter the place of God’ s calling. It took three long years until permission was given for them to enter what is now the Central African Republic. What followed became of the great sagas of mission history.</p>
-						<p>Around 200 Brethren missionaries have served in this country. The rapid development of the church in Africa is a testimony both to the grace of God and the wisdom of the pioneers. Churches have been planted in most towns and villages, Bible Institutes have been organized, hospitals and medical centers have been created, and the list goes on and on. One mission research center listed the Central African Republic as the most evangelized country on the planet.</p>
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__decade timeline__decade--3">1950</div>
+					<div class="timeline__decade timeline__decade--3">1940</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="BR"></div>
 					<div class="timeline__event">
-						<h2>1951: Brazil</h2>
-						<p>Between the two world wars the vision of Brethren missions focused on Argentina and Africa. This would change in the early 1950s. Under the leadership of Dr. Russell Barnard, the mission would experience a period of rapid expansion. In their 1951 meeting the board interviewed 40 missionaries and candidates, and during the decade that followed, missionaries departed for five new fields.</p>
-						<p>The first of these was Brazil. Keith and Vivian Altig were the first to respond to God’s call to that country. One of their first converts, Raimundo Cardoso, had been warned by a priest not to look into their black book, the Bible, for fear of becoming blind. He became the first Brazilian pastor. Their target city, Belem, was at the mouth of the Amazon River.</p>
-					</div>
-					<div class="timeline__event">
+						<h2>1949: Brazil</h2>
 						<div class="timeline__event__photo">
-							<img src="../../_images/about/history/brazil-image1.jpg" alt="">		
+							<img src="../../_images/about/history/brazil-image1.jpg" alt="">
+							<p class="caption">Missionary Bill Burke and his boat the <em>Vamos</em>, used to spread the Gospel to islands on the Amazon River.</p>
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/brazil-image2.jpg" alt="">
+							<p class="caption">Ministry began in the city of Belem, near the mouth of the Amazon. Efforts later expanded south to the city of Uberlandia and the surrounding region.</p>
 						</div>
 					</div>
-					<div class="timeline__event">
-						<p>Other missionaries soon joined them, including Bill and Imogene Burk. Bill used the Amazon River as God’s instrument for reaching people. With their boat, the Vamos, they evangelized and planted churches on the islands, bring the message to these people for the first time. Converts were discipled, men were trained to be leaders, and these new leaders were immediately given responsibility for the ministry, following the patterns of the book of Acts.</p>
-						<p>Many new missionaries joined the team, many churches were planted, and training schools were established. The ministry expanded, to the south, with the city of Uberlandia becoming the main center for outreach in that region. Because of the excellent training given to the leaders, all the churches are pastored by Brazilian leaders.</p>
-					</div>
+				</div>
+				<div class="row">
+					<div class="timeline__decade timeline__decade--3">1950</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="MX"></div>
@@ -143,15 +152,13 @@
 					</div>
 					<div class="timeline__event">
 						<div class="timeline__event__photo">
-							<img src="../../_images/about/history/mexico-image1.jpg" alt="">	
+							<img src="../../_images/about/history/mexico-image1.jpg" alt="">
+							<p class="caption">Efforts in Mexico began along the border with the United States, and later expanded south to Mexico City.</p>
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/mexico-image2.jpg" alt="">
+							<p class="caption">A Bible Institute was founded in 1960, providing training for pastors and leaders.</p>
 						</div>
-					</div>
-					<div class="timeline__event">
-						<p>The vision for reaching Mexicans soon reached beyond the border cities. In 1963 the Brethren work in Mexico City was pioneered, with university students being one of the main target groups. Mexico City, the largest city in the world, soon became the principal target for outreach. A number of churches were planted in the cities in the area, and a fellowship of Mexican leaders was formed. In addition to the Mexican churches being planted, teams of Mexicans were sent to Cuba.</p>
-						<p>In more recent years, when Bess Farrell and Brenda Welling became the only resident missionaries in Mexico, they were joined by an Argentine pastor and his family. He not only gave leadership to the church, but was instrumental in mobilizing Mexican leaders to reach out to other countries in Central America.</p>
 					</div>
 				</div>
 				<div class="row">
@@ -162,10 +169,12 @@
 						<p>As a part of the initial wave of postwar missionaries, Fred and Maurita Fogle left for France in 1951, joining the staff of the European Bible Institute some years later. Tom and Doris Julien left in 1958 and after a year of French studies in Geneva moved to Grenoble where they engaged in literature distribution, camp work, and collaboration with some of the few evangelical churches there. Soon realizing that the French could not be reached without seeing evidence of Christ in the lives of His followers, they were able to begin a ministry in a 14th century castle which the Lord provided in the village of Saint-Albain.</p>
 					</div>
 					<div class="timeline__event">
-						<div class="timeline__event__photo"> 						<img src="../../_images/about/history/france-image1.jpg" alt="">
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/france-image1.jpg" alt="">
 							<p class="caption">The Chateau de Sait-Albain</p>		
 						</div>
-						<div class="timeline__event__photo"> 						<img src="../../_images/about/history/france-image2.jpg" alt="">
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/france-image2.jpg" alt="">
 							<p class="caption">Baptisms at the Chateau</p>
 						</div>
 					</div>
