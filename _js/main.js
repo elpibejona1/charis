@@ -535,20 +535,19 @@ var toggleCountry = function(){
 	var $timelineDot = $('.timeline__dot');
 
 	$timelineDot.each(function(i){
-		var currentDot = this;
+		var $currentDot = this;
 		var dot = $(this).attr('data-dot');
-		var grayTrigger = $(this).offset().top + ( $(this).parent().height() / 2 );
+		var parentHeight = $(this).parent().height() / 2;
 
-		var tweenCountry = TweenMax.to($('.histCountry[ data-name = ' + dot + ']'), 1, { fill: '#097888' });
+		var grayTrigger = $(this).offset().top + parentHeight;
 
-		var countryScene = new ScrollMagic.Scene({ triggerElement: currentDot, reverse: false })
+		var tweenCountry = new TimelineMax({});
+		
+		tweenCountry.to($('.histCountry[ data-name = ' + dot + ']'), 1, { fill: '#097888' })
+					.to($('.histCountry[ data-name = ' + dot + ']'), 1, { fill: '#696969', delay: 0.75 });
+
+		var countryScene = new ScrollMagic.Scene({ triggerElement: $currentDot })
 		.setTween(tweenCountry)
-		.addTo(controller);
-
-		var tweenGray = TweenMax.to($('.histCountry[ data-name = ' + dot + ']'), 1, { fill: '#696969' });
-
-		var countryScene = new ScrollMagic.Scene({ offset: grayTrigger, reverse: false })
-		.setTween(tweenGray)
 		.addTo(controller);
 	});
 };
