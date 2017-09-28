@@ -34,8 +34,6 @@
 							<p>Reuniones de Charis Día 1</p>
 						</a>
 					</div>
-				</div>
-				<div class="row">
 					<div class="galleryPrev">
 						<a class="fancybox" href="#gallery4">
 							<img src="../../_images/media/photos/cile-2015-4/img1.jpg" alt="Dr. Dave Guiles lidera una discusión acerca del borrador más reciente del Compromiso a la Identidad Común.">

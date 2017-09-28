@@ -55,8 +55,8 @@
 							<img src="../../_images/about/history/origins-image1.jpg" alt="">
 							<p class="caption">Alexander Mack founded the Brethren Movement in Schwarzenau, Germany.</p>
 						</div>
-						<div class="timeline__event__photo">
-							<img class="portrait" src="../../_images/about/history/origins-image2.jpg" alt="">
+						<div class="timeline__event__photo timeline__event__photo--portrait">
+							<img src="../../_images/about/history/origins-image2.jpg" alt="">
 							<p class="caption">The original eight Brethren.</p>		
 						</div>
 					</div>
@@ -86,8 +86,8 @@
 							<img src="../../_images/about/history/usa-image2.jpg" alt="">
 							<p class="caption">Plaque commemmorating the organization of the Foreign Missionary Society of the Brethren Church (known today as Encompass World Partners) in Winona Lake, IN.</p>
 						</div>
-						<div class="timeline__event__photo">
-							<img class="portrait" src="../../_images/about/history/usa-image1.jpg" alt="">
+						<div class="timeline__event__photo timeline__event__photo--portrait">
+							<img src="../../_images/about/history/usa-image1.jpg" alt="">
 							<p class="caption">Jacob C. Cassel: Founder of Brethren Missions</p>		
 						</div>
 					</div>

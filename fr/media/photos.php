@@ -34,8 +34,6 @@
 							<p>1er jour des Réunions de&nbsp;Charis</p>
 						</a>
 					</div>
-				</div>
-				<div class="row">
 					<div class="galleryPrev">
 						<a class="fancybox" href="#gallery4">
 							<img src="../../_images/media/photos/cile-2015-4/img1.jpg" alt="Le Dr. Dave Guiles (Encompass World Partners) dirige une discussion portant sur la version la plus récente de l'Engagement pour une Identité Commune.">
