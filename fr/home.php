@@ -55,9 +55,9 @@
 				</a>
 			</div>
 			<div class="content content--third content--featured">
-				<a href="donner/index.php">
+				<a href="documents/documents.php">
 					<img src="../_images/home/thumbnail2.jpg" alt="">
-					<span>Pour soutenir notre mouvement global d'églises, donnez ici.</span>
+					<span>Accédez aux statuts de Charis et à d'autres documents de notre alliance.</span>
 				</a>
 			</div>
 			<hr>

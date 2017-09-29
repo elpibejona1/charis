@@ -43,6 +43,8 @@
 
 body { margin: 0; overflow-x: hidden; }
 
+.body__noLangBar .header__languages { display: none; }
+
 strong { font-weight: 600; }
 
 ul { list-style-type: none; }
@@ -91,8 +93,13 @@ header {
 		position: relative;
 
 		&--english { width: 530px; }
-		&--french { width: 702px; }
-		&--spanish { width: 631px; }
+
+		// Widths with Giving Link
+		/* &--french { width: 702px; }
+		&--spanish { width: 631px; } */
+
+		&--french { width: 625px; }
+		&.header__nav--spanish { width: 540px; }
 	
 		li {
 			float: left;

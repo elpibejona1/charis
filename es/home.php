@@ -55,9 +55,9 @@
 				</a>
 			</div>
 			<div class="content content--third content--featured">
-				<a href="ofrendar/index.php">
+				<a href="documents/documents.php">
 					<img src="../_images/home/thumbnail2.jpg" alt="">
-					<span>Para apoyar a nuestro movimiento global de iglesias, ofrende aquí.</span>
+					<span>Acceda a los Estatutos de Charis y a otros documentos de nuestra alianza.</span>
 				</a>
 			</div>
 			<hr>

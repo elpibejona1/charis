@@ -4,7 +4,7 @@
 <head>
 	<? $globalFunction->includeContent(2,'topInc'); ?>
 </head>
-<body>
+<body class="body__noLangBar">
 <? $globalFunction->includeContent(2,'englishHeader'); ?>
 <? $globalFunction->includeContent(2,'englishGivingSubNav'); ?>
 <div class="container">
