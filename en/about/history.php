@@ -84,7 +84,7 @@
 						<h2>1900: Mission Efforts Begin</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/usa-image2.jpg" alt="">
-							<p class="caption">Plaque commemmorating the organization of the Foreign Missionary Society of the Brethren Church (known today as Encompass World Partners) in Winona Lake, IN.</p>
+							<p class="caption">Plaque commemorating the organization of the Foreign Missionary Society of the Brethren Church (known today as Encompass World Partners) in Winona Lake, IN.</p>
 						</div>
 						<div class="timeline__event__photo timeline__event__photo--portrait">
 							<img src="../../_images/about/history/usa-image1.jpg" alt="">
@@ -184,7 +184,7 @@
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/chad-image2.jpg" alt="">
-							<p class="caption">Evangelist Samuel Dadjé, founder of the Chadean School of Evangelism</p>
+							<p class="caption">Evangelist Dadjé Samuel, founder of the Chadean School of Evangelism</p>
 						</div>
 					</div>
 				</div>

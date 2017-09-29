@@ -42,26 +42,6 @@
 			</div>
 		</div>
 	</div>
-	<script>
-		$(document).ready(function() {
-
-			var sizeBackground = function(){
-				if (window.innerHeight > window.innerWidth) {
-					$('.index__background').css('background-size', 'auto 100%');
-				} else if (window.innerHeight / window.innerWidth > 0.66 && window.innerHeight / window.innerWidth <= 1) {
-					$('.index__background').css('background-size', 'auto 100%');
-				} else {
-					$('.index__background').css('background-size', '100% auto');
-				}
-			};
-
-			sizeBackground();
-
-			$(window).on('resize', function(){
-				sizeBackground();
-			});
-		});
-	</script>
 	<? $globalFunction->includeContent(0,'botInc'); ?>
 </body>
 </html>

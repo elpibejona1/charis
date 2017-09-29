@@ -45,8 +45,8 @@
 				<div class="archive__files">
 					<ul>
 						<li><a target="_blank" href="../../documents/sermons-2015/ES-Mensaje-Florent-V.pdf">¡Guarda el Evangelio Intacto! – Florent&nbsp;Varak</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/ES-Discurso-De-Acceptación.docx">Discurso de Aceptación del Compromiso de Charis a la Misión Común – Dr.&nbsp;Dave&nbsp;Guiles</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/ES-Pensando-En-Nuestros-Próximos-Pasos.docx">Pensando en Nuestros Próximos Pasos</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Discurso-De-Acceptación.pdf">Discurso de Aceptación del Compromiso de Charis a la Misión Común – Dr.&nbsp;Dave&nbsp;Guiles</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Pensando-En-Nuestros-Próximos-Pasos.pdf">Pensando en Nuestros Próximos Pasos</a></li>
 					</ul>
 				</div>
 			</div>

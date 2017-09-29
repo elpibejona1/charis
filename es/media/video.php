@@ -14,7 +14,7 @@
 				<h2>The Charis Alliance</h2>
 				<div class="row">
 					<div class="galleryPrev galleryPrev--video">
-						<a target="_blank" href="https://vimeo.com/234318690">
+						<a target="_blank" href="https://vimeo.com/234542538">
 							<img src="../../_images/media/videos/video1.jpg" alt="">
 							<h3>La Historia de la Alianza de&nbsp;Charis</h3>
 							<p>¿Cuáles son los orígenes de la Alianza de Charis? Este video contiene una breve historia animada del movimiento.</p>

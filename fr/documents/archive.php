@@ -45,8 +45,8 @@
 				<div class="archive__files">
 					<ul>
 						<li><a target="_blank" href="../../documents/sermons-2015/FR-Message-Florent-V.pdf">Garde L'Evangile intact! &ndash; Florent Varak</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/FR-Discours-d’Acceptation.docx">Discours d’acceptation CCCI &ndash; Dr. Dave Guiles</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/FR-Etapes-à-venir.docx">Penser aux étapes à venir</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/FR-Discours-d’Acceptation.pdf">Discours d’acceptation CCCI &ndash; Dr. Dave Guiles</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/FR-Prochaines-Étapes.pdf">Nous pensons aux prochaines étapes</a></li>
 					</ul>
 				</div>
 			</div>

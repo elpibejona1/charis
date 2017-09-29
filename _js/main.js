@@ -408,23 +408,20 @@ var mobileHamburger = function(){
 		if ($headerButtons.hasClass('active')) {
 
 			$htmlBody.css({
-				'overflow-y': 'scroll',
+				'overflow-y': 'initial',
 				'height': 'auto'
 			});
 			
 			$headerButtons.removeClass('active');
-
-			TweenMax.to('.header__nav', 0.5, { right: -275 });
-
-			setTimeout(function(){ $headerNav.hide(); }, 500);
+			$headerNav.removeClass('active');
 
 			$closeEverything.removeClass('active');
 
-			animateHamburger.to( '.hamburger__top', 0.25, { rotation: 0, transformOrigin: 'center center' })
+		/* 	animateHamburger.to( '.hamburger__top', 0.25, { rotation: 0, transformOrigin: 'center center' })
 							.to( '.hamburger__bottom', 0.25, { rotation: 0, transformOrigin: 'center center' }, "-=0.25" )
 							.to( '.hamburger__middle', 0, { opacity: 1 })
 							.to( '.hamburger__top', 0.25, { y: 0, transformOrigin: 'center center' })
-							.to( '.hamburger__bottom', 0.25, { y: 0, transformOrigin: 'center center' }, '-=0.25' );
+							.to( '.hamburger__bottom', 0.25, { y: 0, transformOrigin: 'center center' }, '-=0.25' ); */
 
 		} else {
 
@@ -434,18 +431,15 @@ var mobileHamburger = function(){
 			});
 
 			$headerButtons.addClass('active');
-
-			$headerNav.show();
-
-			TweenMax.to('.header__nav', 0.5, { right: 0 });
+			$headerNav.addClass('active');
 
 			$closeEverything.addClass('active');
 
-			animateHamburger.to( '.hamburger__top', 0.25, { y: '+=8px', transformOrigin: 'center center' })
+			/* animateHamburger.to( '.hamburger__top', 0.25, { y: '+=8px', transformOrigin: 'center center' })
 							.to( '.hamburger__bottom', 0.25, { y: '-=8px', transformOrigin: 'center center' }, "-=0.25" )
 							.to( '.hamburger__middle', 0, { opacity: 0 })
 							.to( '.hamburger__top', 0.25, { rotation: 45, transformOrigin: 'center center' })
-							.to( '.hamburger__bottom', 0.25, { rotation: -45, transformOrigin: 'center center' }, '-=0.25' );
+							.to( '.hamburger__bottom', 0.25, { rotation: -45, transformOrigin: 'center center' }, '-=0.25' ); */
 
 		}
 	});
@@ -455,14 +449,30 @@ var mobileHamburger = function(){
 			$headerButtons.removeClass('active');
 
 			$htmlBody.css({
-				'overflow-y': 'scroll',
+				'overflow-y': 'initial',
 				'height': 'auto'
 			});
-
-			TweenMax.to('.header__nav', 0.5, { right: -250 });
-
+			
+			$headerNav.removeClass('active');
 			$closeEverything.removeClass('active');
 	});
+
+	$(window).on('resize', function(){
+		if ($(window).width() > 870) {
+			$('.closeEverything').removeClass('active');
+			$htmlBody.css({
+				'overflow-y': 'initial',
+				'height': 'auto'
+			});
+		} else if ($(window).width() < 870 && $('.header__buttons').hasClass('active')){
+			$('.closeEverything').addClass('active');
+			window.scrollTo(0, 0);
+			$htmlBody.css({
+				'overflow-y': 'hidden',
+				'height': '100%'
+			});
+		}
+	})
 }
 mobileHamburger();
 
