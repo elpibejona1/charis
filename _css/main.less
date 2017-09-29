@@ -1170,6 +1170,18 @@ p.interior__description__subTitle {
 	svg { width: 100%; }
 }
 
+.container--historyTemp {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	position: absolute;
+	left: 50%;
+	top: 565px;
+	.transform(translate(-50%, -50%));
+	z-index: -1;
+
+	svg { width: 100%; }
+}
+
 .content--history {
 	position: relative;
 
@@ -1184,6 +1196,13 @@ p.interior__description__subTitle {
 			left: 50%;
 			top: 50%;
 			.transform(translate(-50%));
+			text-align: center;
+			
+			span {
+				font-family: 'Raleway', sans-serif;
+				font-size: 18px;
+				color: @black;
+			}
 		}
 	}
 }
