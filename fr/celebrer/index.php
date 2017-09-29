@@ -33,13 +33,15 @@
             <img src="../../_images/celebration/resource1.png" alt="">
             <h3>GUIDE DE LA CÉLÉBRATION</h3>
             <p>Un guide pour la Célébration dominicale Charis, ainsi qu’un programme conseillé</p>
-            <div class="long"><a class="resourceThird__link" target="_blank" href="csc_celebrationGuide_2017.pdf">TÉLÉCHARGEMENT</a></div>
+            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
+            <span>À venir!</span>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource2.png" alt="">
             <h3>NOTES DE LEADER</h3>
             <p>Pour vous aider à organiser votre célébration, avec des options de 10 minutes, 30 minutes et une heure</p>
-            <div class="long"><a class="resourceThird__link" target="_blank" href="csc_Leader_Notes_2017.pdf">TÉLÉCHARGEMENT</a></div>
+            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
+            <span>À venir!</span>
         </div>
         <div class="resourceThird">
             <img class="wide" src="../../_images/celebration/resource3.png" alt="">
@@ -51,44 +53,51 @@
             <img src="../../_images/celebration/resource4.png" alt="">
             <h3>FICHE INFORMATIVE DE L'HISTOIRE DE CHARIS</h3>
             <p>Pour les églises sans capacité vidéo</p>
-            <div class="long"><a class="resourceThird__link" target="_blank" href="csc_history_2017.pdf">TÉLÉCHARGEMENT</a></div>
+            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
+            <span>À venir!</span>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource10.png" alt="">
             <h3>GUIDE DE PRIÈRE</h3>
             <p>Il contient des informations sur les églises de Charis dans le monde avec des sujets de prière.</p>
-            <div class="long"><a class="resourceThird__link" target="_blank" href="csc_Prayer_Guide_2017.pdf">TÉLÉCHARGEMENT</a></div>
+            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
+            <span>À venir!</span>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource5.png" alt="">
             <h3>AFFICHE PROMOTIONNELLE</h3>
             <p>Affiche de 22 cm x 28 cm à imprimer et afficher dans votre église</p>
-            <div class="long"><a class="resourceThird__link" target="_blank" href="csc_poster_2017_noBleed.pdf">TÉLÉCHARGEMENT</a></div>
+            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
+            <span>À venir!</span>
         </div>
         <div class="resourceThird">
             <img class="wide" src="../../_images/celebration/resource6.png" alt="">
             <h3>ÉCRANS DE PROMOTION</h3>
             <p>Pour des présentations de diapositives, en format 4:3 et 16:9</p>
-            <div><a class="resourceThird__link" href="csc_projection_slides_4-3.zip">4:3</a></div>
-            <div><a class="resourceThird__link" href="csc_projection_slides_16-9.zip">16:9</a></div>
+            <!-- <div><a class="resourceThird__link" href="#">4:3</a></div>
+            <div><a class="resourceThird__link" href="#">16:9</a></div> -->
+            <span>À venir!</span>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource7.png" alt="">
             <h3>GRAPHIQUES POUR LA PROMOTION AUX MÉDIAS SOCIAUX</h3>
             <p>Y compris une image de couverture de Facebook et des graphismes partageables</p>
-            <div class="long"><a class="resourceThird__link" href="csc_social_media_2017.zip">TÉLÉCHARGEMENT</a></div>
+            <!-- <div class="long"><a class="resourceThird__link" href="#">TÉLÉCHARGEMENT</a></div> -->
+            <span>À venir!</span>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource8.png" alt="">
             <h3>Feuille des offrandes</h3>
             <p>Il comprend les différentes façons de donner aux églises de Charis.</p>
-            <div class="long"><a class="resourceThird__link" target="_blank" href="csc_Giving_Sheet_2017.pdf">TÉLÉCHARGEMENT</a></div>
+            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
+            <span>À venir!</span>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource9.png" alt="">
             <h3>FORMULAIRE DE COMMENTAIRES</h3>
             <p>Nous voulons vous entendre ! Votre contribution nous aidera à rendre de futures célébrations encore plus réussies.</p>
-            <div class="long"><a class="resourceThird__link" target="_blank" href="csc_feedbackForm_2017.pdf">TÉLÉCHARGEMENT</a></div>
+            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
+            <span>À venir!</span>
         </div>
     </div>
     <div class="row">
@@ -101,7 +110,7 @@
         <p class="copy copy--large">Pour préparer votre église pour le Dimanche de Célébration de Charis et créer une plus grande prise de conscience sur l’Alliance Charis, partagez ces vidéos à l’église et dans vos réseaux sociaux.</p>
     </div>
     <div class="row">
-        <div class="resourceThird resourceThird--video">
+        <div class="resourceThird resourceThird--video resourceThird--half">
             <a class="resourceThird__videoLink" href="https://vimeo.com/153226056" target="_blank"><img src="../../_images/celebration/video2.jpg" alt="">
             <h3>L’ALLIANCE CHARIS</h3></a>
             <p>Cette vidéo est une introduction et un aperçu de

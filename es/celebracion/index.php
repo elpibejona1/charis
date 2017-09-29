@@ -33,13 +33,15 @@
             <img src="../../_images/celebration/resource1.png" alt="">
             <h3>GUÍA PARA LA CELEBRACIÓN</h3>
             <p>Una guía para el Domingo de Celebración de Charis, junto con una agenda recomendada</p>
-            <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div>
+           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
+            <span>Pronto!</span>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource2.png" alt="">
             <h3>Notas para líderes</h3>
             <p>Para ayudarle a organizar la celebración, con opciones de 10 minutos, de 30 minutos, y de 1 hora.</p>
-            <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div>
+           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
+            <span>Pronto!</span>
         </div>
         <div class="resourceThird">
             <img class="wide" src="../../_images/celebration/resource3.png" alt="">
@@ -51,44 +53,51 @@
             <img src="../../_images/celebration/resource4.png" alt="">
             <h3>FOLLETO IMPRESO DE LA HISTORIA DE CHARIS</h3>
             <p>Para las iglesias que no tienen la posibilidad de proyectar videos</p>
-            <div><a class="resourceThird__link" target="_blank" href="csc_history_2017.pdf">Bajar</a></div>
+           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
+            <span>Pronto!</span>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource10.png" alt="">
             <h3>Guía de oración</h3>
             <p>Contiene información sobre las iglesias de Charis alrededor del mundo con motivos de oración.</p>
-            <div><a class="resourceThird__link" target="_blank" href="csc_Prayer_Guide_2017.pdf">Bajar</a></div>
+           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
+            <span>Pronto!</span>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource5.png" alt="">
             <h3>POSTER DE PROMOCIÓN</h3>
             <p>Poster de 22 cm x 28 cm para imprimir y colocar en su iglesia.</p>
-            <div><a class="resourceThird__link" target="_blank" href="csc_poster_2017_noBleed.pdf">Bajar</a></div>
+           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
+            <span>Pronto!</span>
         </div>
         <div class="resourceThird">
             <img class="wide" src="../../_images/celebration/resource6.png" alt="">
             <h3>PANTALLAS DE PROYECCIÓN</h3>
             <p>Para presentación de diapositivas, en ambos formatos 4:3 y 16:9</p>
-            <div><a class="resourceThird__link" href="csc_projection_slides_4-3.zip">4:3</a></div>
-            <div><a class="resourceThird__link" href="csc_projection_slides_16-9.zip">16:9</a></div>
+            <!-- <div><a class="resourceThird__link" href="#">4:3</a></div>
+            <div><a class="resourceThird__link" href="#">16:9</a></div> -->
+            <span>Pronto!</span>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource7.png" alt="">
             <h3>GRÁFICOS PARA PROMOCIONAR EN UN MEDIO PÚBLICO</h3>
             <p>Incluye una imágen de portada del facebook y gráficos que se pueden compartir</p>
-            <div><a class="resourceThird__link" href="csc_social_media_2017.zip">Bajar</a></div>
+            <!-- <div><a class="resourceThird__link" href="#">Bajar</a></div> -->
+            <span>Pronto!</span>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource8.png" alt="">
             <h3>FOLLETO PARA OFRENDAS</h3>
             <p>Incluye las diferentes formas para ofrendar a las iglesias de Charis.</p>
-            <div><a class="resourceThird__link" target="_blank" href="csc_Giving_Sheet_2017.pdf">Bajar</a></div>
+           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
+            <span>Pronto!</span>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource9.png" alt="">
             <h3>FORMULARIO DE COMENTARIOS</h3>
             <p>¡Queremos saber de usted! Su opinion nos ayudará a tener celebraciones en el futuro aún más exitosas</p>
-            <div><a class="resourceThird__link" target="_blank" href="csc_feedbackForm_2017.pdf">Bajar</a></div>
+           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
+            <span>Pronto!</span>
         </div>
     </div>
     <div class="row">
