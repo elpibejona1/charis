@@ -332,7 +332,7 @@
 				<div class="row">
 					<div class="timeline__dot"></div>
 					<div class="timeline__event">
-						<h2>1994: Charis Gathering in Saint-Albain, France</h2>
+						<h2>1994: Charis Gathering in Saint-Albain,&nbsp;France</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis94-image1.jpg" alt="">
 							<p class="caption">Charis coordinator Florent Varak of France leads the Charis gathering at the Chateau de St. Albain.</p>		
@@ -356,7 +356,7 @@
 				<div class="row">
 					<div class="timeline__dot"></div>
 					<div class="timeline__event">
-						<h2>1996: Charis Gathering in Toronto, Canada</h2>
+						<h2>1996: Charis Gathering in Toronto,&nbsp;Canada</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis96-image1.jpg" alt="">
 							<p class="caption">International delegates and Encompass staff arrive at the 1996 Charis Gathering.</p>		
@@ -384,7 +384,7 @@
 				<div class="row">
 					<div class="timeline__dot timeline__dot--lastTrigger"></div>
 					<div class="timeline__event">
-						<h2>1999: Charis Gathering in Carlos Paz, Argentina</h2>
+						<h2>1999: Charis Gathering in Carlos Paz,&nbsp;Argentina</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis99-image1.jpg" alt="">
 							<p class="caption">The Participants of the 1999 Charis Gathering.</p>
@@ -415,10 +415,12 @@
 					<div class="timeline__event">
 						<h2>2003: Cameroon</h2>
 						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
+							<img src="../../_images/about/history/cameroon-image1.jpg" alt="">
+							<p class="caption">Evangelist Delphi Wilingang and school of evangelism students in Toubouro, Northern Cameroon.</p>
 						</div>
 						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
+							<img src="../../_images/about/history/cameroon-image2.jpg" alt="">
+							<p class="caption">A crew from the Church of Santa Barbara, Yaounde, builds a bridge as a way to reach out to their community.</p>
 						</div>
 					</div>
 				</div>
@@ -427,17 +429,19 @@
 					<div class="timeline__event">
 						<h2>2005: Nigeria</h2>
 						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
+							<img src="../../_images/about/history/nigeria-image1.jpg" alt="">
+							<p class="caption">President of Churches Enoch Kolarambaye and Evangelist Clison Djendode pose with school of evangelism students.</p>
 						</div>
 						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
+							<img src="../../_images/about/history/nigeria-image2.jpg" alt="">
+							<p class="caption">2017 Woman's Conference in Nigeria</p>
 						</div>
 					</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot"></div>
 					<div class="timeline__event">
-						<h2>2008: Charis Gathering in Bad Homburg, Germany</h2>
+						<h2>2008: Charis Gathering in Bad Homburg,&nbsp;Germany</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis08-image1.jpg" alt="">
 							<p class="caption">The Participants of the 2008 Charis Leadership Encounter.</p>		
@@ -462,7 +466,7 @@
 				<div class="row">
 					<div class="timeline__dot"></div>
 					<div class="timeline__event">
-						<h2>2010: Charis Gathering in Saint-Albain, France</h2>
+						<h2>2010: Charis Gathering in Saint-Albain,&nbsp;France</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis10-image1.jpg" alt="">
 							<p class="caption">The Participants of the 2010 Charis Gathering.</p>		
@@ -488,7 +492,7 @@
 				<div class="row">
 					<div class="timeline__dot"></div>
 					<div class="timeline__event">
-						<h2>2015: Charis Gathering in Bangkok, Thailand</h2>
+						<h2>2015: Charis Gathering in Bangkok,&nbsp;Thailand</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis15-image1.jpg" alt="">
 							<p class="caption">The Participants of the 2015 Charis International Leadership Encounter.</p>		

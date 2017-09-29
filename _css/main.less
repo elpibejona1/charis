@@ -1332,10 +1332,10 @@ p.interior__description__subTitle {
 	h2 {
 		position: relative;
 		font-family: 'Raleway', sans-serif;
-		font-size: 35px;
+		font-size: 22px;
 		color: @gray;
 		background-color: rgba(9, 120, 136, 0.3);
-		padding: 10px;
+		padding: 16px 10px;
 		width: 100%;
 		text-align: left;
 		margin-bottom: 15px;
@@ -2035,8 +2035,6 @@ p.interior__description__subTitle {
 	// history.php
 
 	.timeline__event { float: left; }
-
-	.timeline__event h2 { font-size: 22px; padding: 16px 10px; }
 }
 
 // Mobile nav for mobile screen
@@ -2104,6 +2102,10 @@ p.interior__description__subTitle {
 		padding: 15px 0;
 	}
 
+	.timeline__dot { top: 13px; }
+
+	.timeline__event h2 { font-size: 18px; padding: 18px 10px; }
+
 
 	// Primary Documents
 
@@ -2153,20 +2155,6 @@ p.interior__description__subTitle {
 	
 }
 
-@media screen and (max-width: 690px) {
-	.timeline__dot { top: 13px; }
-
-	.timeline__event h2 {
-		font-size: 25px;
-
-		&::before {
-			border-top: 23px solid transparent;
-	    	border-bottom: 23px solid transparent;
-	    	border-right: 23px solid rgba(9,120,136,.3);
-	    	left: -23px;
-		}
-	}
-}
 
 @media screen and (max-width: 665px) {
 
@@ -2210,6 +2198,10 @@ p.interior__description__subTitle {
 	.fancybox-inner { height: 100% !important; width: 100% !important; }
 }
 
+@media only screen and (max-width: 620px) {
+	.timeline__event h2::before { display: none; }
+}
+
 @media only screen and (max-width: 594px) {
 	// history.php
 
@@ -2234,17 +2226,6 @@ p.interior__description__subTitle {
 	.timeline__dot { top: 10px; }
 
 	.timeline__event {
-
-		h2 {
-			font-size: 20px;
-
-			&::before {
-				border-top: 20px solid transparent;
-		    	border-bottom: 20px solid transparent;
-		    	border-right: 20px solid rgba(9,120,136,.3);
-		    	left: -20px;
-			}
-		}
 
 		p,
 		li { font-size: 16px; }
