@@ -1806,6 +1806,7 @@ p.interior__description__subTitle {
 	.header__logo { width: 180px; }
 	
 	.header__nav {
+		display: none;
 		height: auto;
     	width: 275px;
     	padding: 20px;
@@ -1815,7 +1816,7 @@ p.interior__description__subTitle {
     	top: 0;
     	z-index: 999999999999999;
 		background-color: rgba(230, 230, 230, 0.9);
-		transition: right 0.5s;
+		transition: all 0.5s;
 
     	li {
     		display: block;
@@ -1837,7 +1838,7 @@ p.interior__description__subTitle {
 
 	.header__nav.active {
     	right: 0;
-		
+		display: block;
 	}
 
 	.header__nav__first { margin-top: 40px!important; }

@@ -209,6 +209,7 @@ var membersMap = function () {
 
 		var top = coords[i].buttonTop;
 		var left = coords[i].buttonLeft;
+		console.log(top + ', ' + left);
 
 		var mapInfoLeft = $('.map__info').css('left');
 		var mapInfoTop = $('.map__info').css('top');
@@ -310,6 +311,10 @@ var membersMap = function () {
 			TweenMax.to([$mapInfoTitle, $mapInfoList], 1, { opacity: 1, visibility: "visible", delay: 2});
 			$map.attr('class', 'zoomed');
 		}
+
+		$(window).on('resize', function(){
+			location.reload();
+		})
 
 		
 	};
