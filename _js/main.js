@@ -331,10 +331,18 @@ var membersMap = function () {
 			$map.attr('class', 'zoomed');
 		}
 
-		$(window).on('resize', function(){
-			window.scrollTo(0, 0);
-			location.reload();
-		})
+		if (window.orientation === undefined) {
+
+			$(window).on('resize', function(){
+				window.scrollTo(0, 0);
+				location.reload();
+			})
+		} else {
+			$(window).on('orientationchange', function(){
+				window.scrollTo(0, 0);
+				location.reload();
+			})
+		}
 
 		
 	};
