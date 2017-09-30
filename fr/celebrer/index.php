@@ -47,7 +47,7 @@
             <img class="wide" src="../../_images/celebration/resource3.png" alt="">
             <h3>VIDÉO-TABLEAU BLANC DE LA CÉLÉBRATION CHARIS</h3>
             <p>Pour les églises ayant des capacités vidéo</p>
-            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/234318544">Visionner la vidéo</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/234315598">Visionner la vidéo</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource4.png" alt="">
@@ -111,7 +111,7 @@
     </div>
     <div class="row">
         <div class="resourceThird resourceThird--video resourceThird--half">
-            <a class="resourceThird__videoLink" href="https://vimeo.com/153226056" target="_blank"><img src="../../_images/celebration/video2.jpg" alt="">
+            <a class="resourceThird__videoLink" href="https://vimeo.com/162081663" target="_blank"><img src="../../_images/celebration/video2.jpg" alt="">
             <h3>L’ALLIANCE CHARIS</h3></a>
             <p>Cette vidéo est une introduction et un aperçu de
             l’Alliance Charis, un mouvement issu des Églises
