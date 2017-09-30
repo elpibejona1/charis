@@ -189,6 +189,7 @@ var membersMap = function () {
 		var $mapInfoItem1 = $('.map__info__item--1');
 		var $mapInfoItem2 = $('.map__info__item--2');
 		var $mapInfoItem3 = $('.map__info__item--3');
+		var $mapInfoDirections = $('.map__info__directions');
 
 		// Zoom Button Variables
 		var $mapZoom = $('.map__zoom');
@@ -277,6 +278,12 @@ var membersMap = function () {
 				if ( totalPointsOfLight !== 0 ){
 					$mapInfoItem3.html('Points of Light: <span>' + totalPointsOfLight + '</span>');
 				}
+				if ( window.orientation === undefined ) {
+					$mapInfoDirections.html('(Click on the map for specific country&nbsp;information.)');
+				} else {
+					$mapInfoDirections.html('(Tap on the map for specific country&nbsp;information.)');
+				}
+				
 				$mapHeading.text('Select a Country:');
 			} else if ( language === 'es' ) {
 				$mapInfoTitle.html('La Alianza de Charis en <br><span class="continent">' + info[current][0].continente + '</span>');
@@ -286,6 +293,12 @@ var membersMap = function () {
 					$mapInfoItem3.html('Puntos de Luz: <span>' + totalPointsOfLight + '</span>');
 				}
 
+				if ( window.orientation === undefined ) {
+					$mapInfoDirections.html('(Haga clic en el mapa para acceder a información específica de cada&nbsp;país.)');
+				} else {
+					$mapInfoDirections.html('(Toque en el mapa para acceder a información específica de cada&nbsp;país.)');
+				}
+
 				$mapHeading.text('Elija un País:');
 			} else if ( language === 'fr' ) {
 				$mapInfoTitle.html('L’Alliance Charis ' + info[current][0].continentFr + '</span>');
@@ -293,6 +306,12 @@ var membersMap = function () {
 				$mapInfoItem2.html('Églises Charis : <span>' + totalChurches + '</span>');
 				if ( totalPointsOfLight !== 0 ){
 					$mapInfoItem3.html('Points de Lumière : <span>' + totalPointsOfLight + '</span>');
+				}
+
+				if ( window.orientation === undefined ) {
+					$mapInfoDirections.html('(Cliquez sur la carte pour accéder à des informations spécifiques pour chaque&nbsp;pays.)');
+				} else {
+					$mapInfoDirections.html('(Appuyez sur la carte pour accéder à des informations spécifiques pour chaque&nbsp;pays.)');
 				}
 
 				$mapHeading.text('Choisir un Pays:');
@@ -388,6 +407,7 @@ var membersMap = function () {
 					}
 				}
 
+				$mapInfoDirections.html('');
 				$(this).attr('class', 'country zoomed active');
 				$('.country.zoomed').not($(this)).attr('class', 'country zoomed');
 				TweenMax.to($('.country.zoomed').not('.country.zoomed.active'), 0, { fill: "#c4c4c4" });
@@ -423,12 +443,6 @@ var mobileHamburger = function(){
 
 			$closeEverything.removeClass('active');
 
-		/* 	animateHamburger.to( '.hamburger__top', 0.25, { rotation: 0, transformOrigin: 'center center' })
-							.to( '.hamburger__bottom', 0.25, { rotation: 0, transformOrigin: 'center center' }, "-=0.25" )
-							.to( '.hamburger__middle', 0, { opacity: 1 })
-							.to( '.hamburger__top', 0.25, { y: 0, transformOrigin: 'center center' })
-							.to( '.hamburger__bottom', 0.25, { y: 0, transformOrigin: 'center center' }, '-=0.25' ); */
-
 		} else {
 
 			$htmlBody.css({
@@ -440,12 +454,6 @@ var mobileHamburger = function(){
 			$headerNav.addClass('active');
 
 			$closeEverything.addClass('active');
-
-			/* animateHamburger.to( '.hamburger__top', 0.25, { y: '+=8px', transformOrigin: 'center center' })
-							.to( '.hamburger__bottom', 0.25, { y: '-=8px', transformOrigin: 'center center' }, "-=0.25" )
-							.to( '.hamburger__middle', 0, { opacity: 0 })
-							.to( '.hamburger__top', 0.25, { rotation: 45, transformOrigin: 'center center' })
-							.to( '.hamburger__bottom', 0.25, { rotation: -45, transformOrigin: 'center center' }, '-=0.25' ); */
 
 		}
 	});

@@ -1399,7 +1399,7 @@ p.interior__description__subTitle {
 .map__info h3 span.country {
   color: #097888;
 }
-.map__info li {
+.map__info__item {
   font-family: 'Raleway', sans-serif;
   color: #696969;
   font-size: 20px;
@@ -1407,8 +1407,16 @@ p.interior__description__subTitle {
   line-height: 1.2;
   font-weight: 600;
 }
-.map__info li span {
+.map__info__item span {
   font-weight: 400;
+}
+.map__info__directions {
+  font-family: 'Raleway', sans-serif;
+  color: #000;
+  font-size: 14px;
+  margin-top: 40px;
+  line-height: 1.2;
+  font-style: italic;
 }
 .map__info p {
   font-family: 'Raleway', sans-serif;

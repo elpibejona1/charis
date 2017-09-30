@@ -72,7 +72,7 @@ var info = {
 			pays: 'au <br><span class="country">Cameroun',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			statut: 'Membre fondateur Charis',
+			statut: 'Signataire de la charte Charis',
 			churches: 49,
 			pointsOfLight: 37
 		},
@@ -82,7 +82,7 @@ var info = {
 			pays: 'en <br><span class="country">République Centrafricaine',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			statut: 'Membre fondateur Charis',
+			statut: 'Signataire de la charte Charis',
 			churches: 2965,
 			pointsOfLight: 384
 		},
@@ -92,7 +92,7 @@ var info = {
 			pays: 'au <br><span class="country">Nigéria',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			statut: 'Membre fondateur Charis',
+			statut: 'Signataire de la charte Charis',
 			churches: 13,
 			pointsOfLight: 10
 		},
@@ -102,7 +102,7 @@ var info = {
 			pays: 'au <br><span class="country">Tchad',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			statut: 'Membre fondateur Charis',
+			statut: 'Signataire de la charte Charis',
 			churches: 249,
 			pointsOfLight: 283
 		},
@@ -129,7 +129,7 @@ var info = {
 			pays: 'au <br><span class="country">Cambodge',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			statut: 'Membre fondateur Charis',
+			statut: 'Signataire de la charte Charis',
 			churches: 4,
 			pointsOfLight: 4
 		},
@@ -139,7 +139,7 @@ var info = {
 			pays: 'aux <br><span class="country">Philippines',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			statut: 'Membre fondateur Charis',
+			statut: 'Signataire de la charte Charis',
 			churches: 6,
 			pointsOfLight: 10
 		},
@@ -156,7 +156,7 @@ var info = {
 			pays: 'aux <br><span class="country">Bahamas',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			statut: 'Membre fondateur Charis',
+			statut: 'Signataire de la charte Charis',
 			churches: 5,
 			pointsOfLight: 0
 		}
@@ -183,9 +183,7 @@ var info = {
 			pays: 'en <br><span class="country">France',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			statut: 'Membre fondateur Charis',
-			estado: "Miembro Observador",
-			statut: 'Membre Observateur Charis',
+			statut: 'Signataire de la charte Charis',
 			churches: 7,
 			pointsOfLight: 5
 		},
@@ -222,7 +220,7 @@ var info = {
 			pays: 'au <br><span class="country">Canada',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			statut: 'Membre fondateur Charis',
+			statut: 'Signataire de la charte Charis',
 			churches: 4,
 			pointsOfLight: 2
 		},
@@ -242,7 +240,7 @@ var info = {
 			pays: 'au <br><span class="country">Mexique',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			statut: 'Membre fondateur Charis',
+			statut: 'Signataire de la charte Charis',
 			churches: 30,
 			pointsOfLight: 15
 		},
@@ -252,7 +250,7 @@ var info = {
 			pays: 'aux <br><span class="country">États-Unis',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			statut: 'Membre fondateur Charis',
+			statut: 'Signataire de la charte Charis',
 			churches: 238,
 			pointsOfLight: 0
 		}
@@ -269,7 +267,7 @@ var info = {
 			pays: 'en <br><span class="country">Argentine',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			statut: 'Membre fondateur Charis',
+			statut: 'Signataire de la charte Charis',
 			churches: 18,
 			pointsOfLight: 4
 		},
@@ -279,7 +277,7 @@ var info = {
 			pays: 'au <br><span class="country">Brésil',
 			status: "Charis Charter Member",
 			estado: "Miembro de la Alianza",
-			statut: 'Membre fondateur Charis',
+			statut: 'Signataire de la charte Charis',
 			churches: 33,
 			pointsOfLight: 29
 		},

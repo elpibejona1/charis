@@ -46,6 +46,7 @@
 					<li class="map__info__item map__info__item--1"></li>
 					<li class="map__info__item map__info__item--2"></li>
 					<li class="map__info__item map__info__item--3"></li>
+					<li class="map__info__directions"></li>
 				</ul>
 			</div>
 		</div>
