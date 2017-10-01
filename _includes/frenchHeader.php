@@ -5,7 +5,7 @@
 		<ul class="header__nav header__nav--french">
 			<li class="header__nav__first"><a href="<?php echo $directory ?>fr/about/about.php">À propos de</a></li>
 				<ul class="header__subNav">
-					<li><a href="<?php echo $directory ?>fr/about/about.php">Qu’est-ce que c’est&nbsp;Charis?</a></li>
+					<li><a href="<?php echo $directory ?>fr/about/about.php">Qu’est-ce que&nbsp;Charis?</a></li>
 					<li><a href="<?php echo $directory ?>fr/about/members.php">Membres de l’Alliance</a></li>
 					<li><a href="<?php echo $directory ?>fr/about/history.php">Histoire de Charis</a></li>
 				</ul>

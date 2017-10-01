@@ -95,11 +95,10 @@ header {
 		&--english { width: 530px; }
 
 		// Widths with Giving Link
-		/* &--french { width: 702px; }
-		&--spanish { width: 631px; } */
+		/* &--french { width: 702px; } */
+		&--spanish { width: 631px; }
 
 		&--french { width: 625px; }
-		&--spanish { width: 540px; }
 	
 		li {
 			float: left;
@@ -687,6 +686,8 @@ footer {
 
 			span.general { font-family: 'Kaushan Script', cursive; }
 		}
+
+		p.small.small--last { margin-top: 50px; padding-bottom: 0; }
 
 		p.small { font-size: 14px; }
 
@@ -2305,15 +2306,12 @@ p.interior__description__subTitle {
 
 	.archive__files li a { font-size: 15px; }
 
-	.siteMap {
-		
-		&__img {
-			width: 125px;
-			position: absolute;
-			right: 10px; top: 50px;
-			background-position: 55% 9%;
-			background-size: 155px;
-		}
+	.siteMap__img {
+		width: 125px;
+		position: absolute;
+		right: 10px; top: 50px;
+		background-position: 55% 9%;
+		background-size: 155px;
 	}
 }
 
@@ -2366,6 +2364,10 @@ p.interior__description__subTitle {
 	.content--map .continentOverlay h2 { font-size: 24px; }
 
 	.archive__section h2 { padding: 15px; }
+}
+
+@media screen and (max-width: 350px) {
+	.siteMap__img { width: 110px; background-size: 130px; }
 }
 
 // iPhone 5

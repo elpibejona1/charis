@@ -20,7 +20,7 @@
 					<li><a href="<?php echo $directory ?>es/media/photos.php">Fotos</a></li>
 				</ul>
 			<li><a href="<?php echo $directory ?>es/news/index.php">Noticias</a></li>
-			<!-- <li><a href="<?php echo $directory ?>es/ofrendar/index.php">Ofrendar</a></li> -->
+			<li><a href="<?php echo $directory ?>es/ofrendar/index.php">Ofrendar</a></li>
 			<li class="featured"><a href="<?php echo $directory ?>es/celebracion/index.php">Domingo de <br>Celebración</a></li>
 
 			<div class="header__languages">
