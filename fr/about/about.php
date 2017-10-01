@@ -40,7 +40,7 @@
 				</div>
 				<div class="interior__description">
 					<p>En 2008, lors d’une réunion historique près de Schwarzenau, en Allemagne (le berceau de notre mouvement), les délégués de 15 pays se sont réunis pour étudier les moyens de favoriser une coopération accrue dans le ministère. Le résultat a été <span class="about__highlight">l’Engagement de Charis pour une Mission Commune</span>, qui décrit nos engagements réciproques pour l’implantation d’églises, le développement du leadership et le « faire du bien » dans nos collectivités. Que ce soit sur le plan local, régional ou international, les membres de <span class="about__highlight">l’Alliance Charis</span> cherchent à partager leur expérience et leurs ressources et à travailler ensemble dans le ministère.</p>
-					<p>Accéder à <a class="inline" href="../documents/documents.php">l’Engagement de Charis pour une Identité Commune</a></p>
+					<p>Accéder à <a class="inline" href="../documents/documents.php">l’Engagement de Charis pour une Mission Commune</a></p>
 				</div>
 			</div>
 		</div>

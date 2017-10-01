@@ -17,7 +17,7 @@
 				<div class="archive__files">
 					<ul>
 						<li><a target="_blank" href="../../documents/audits/2015_Implantation_deglises.pdf">Audit global 2015 – Implantation d’églises Charis</a></li>
-						<li><a target="_blank" href="../../documents/audits/2015_Ministères_Intégrés.pdf">Audit global 2015 – Ministères intégrés Charis</a></li>
+						<li><a target="_blank" href="../../documents/audits/2015_Ministères_Intégrés.pdf">Audit global 2015 – Ministères intégrés Charis</a></li>
 						<li><a target="_blank" href="../../documents/audits/2015_Formation_de_responsables.pdf">Audit global 2015 – Formation de responsables Charis</a></li>
 					</ul>
 				</div>

@@ -37,16 +37,16 @@
 			<div class="archive">
 				<div class="archive__files">
 					<ul>
-						<li><a target="_blank" href="../../documents/sermons-2015/1-EN-Message-Eduardo-P.pdf">The Church of the Living God &ndash; Eduardo&nbsp;Pizzi</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/2-EN-Message-Augustin-H.pdf">Managing Your Family &ndash; Dr.&nbsp;Augustin&nbsp;Hibaile</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/3-EN-Message-Keith-M.pdf">To &ndash; Keith Minier</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/EN-Message-Eduardo-P.pdf">The Church of the Living God &ndash; Eduardo&nbsp;Pizzi</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/EN-Message-Augustin-H.pdf">Managing Your Family &ndash; Dr.&nbsp;Augustin&nbsp;Hibaile</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/EN-Message-Keith-M.pdf">To &ndash; Keith Minier</a></li>
 					</ul>
 				</div>
 				<div class="archive__files">
 					<ul>
-						<li><a target="_blank" href="../../documents/sermons-2015/4-EN-Message-Florent-V.pdf">Keep the Gospel Intact! &ndash; Florent&nbsp;Varak</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/5-EN-Approval-Speech-Dave-G.pdf">CCCI Acceptance Speech &ndash; Dr.&nbsp;Dave&nbsp;Guiles</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/6-EN-Thinking-About-Next-Steps.pdf">Thinking About Next Steps</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/EN-Message-Florent-V.pdf">Keep the Gospel Intact! &ndash; Florent&nbsp;Varak</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/EN-Approval-Speech-Dave-G.pdf">CCCI Acceptance Speech &ndash; Dr.&nbsp;Dave&nbsp;Guiles</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/EN-Thinking-About-Next-Steps.pdf">Thinking About Next Steps</a></li>
 					</ul>
 				</div>
 			</div>

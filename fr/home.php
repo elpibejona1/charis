@@ -34,7 +34,7 @@
 <div class="container">
 	<div class="row">
 		<div class="content content--home content--video">
-			<h2>Qu’est-ce que c’est Charis?</h2>
+			<h2>Qu’est-ce que Charis?</h2>
 			<iframe class="about__video" src="https://player.vimeo.com/video/234315598?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 			<hr>
 		</div>
