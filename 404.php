@@ -1,11 +1,21 @@
 <!DOCTYPE html>
-<?php require("_includes/directory.php"); ?>
 <html>
 <head>
-	<? $globalFunction->includeContent(0,'topInc'); ?>
-</head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">  
+	<title>Charis Alliance</title>
+	<link rel="shortcut icon" href="http://www.charisalliance.org/favicon.ico?v2" />
+	<script src="https://use.fontawesome.com/6c79dd991d.js"></script>
+	<link rel="stylesheet" href="http://www.charisalliance.org/_js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script type="text/javascript" src="http://www.charisalliance.org/_js/fancybox/jquery.fancybox.pack.js"></script>
+	<link rel="stylesheet" href="http://www.charisalliance.org/_css/main.css?v2"/>
 <body>
-	<? $globalFunction->includeContent(0,'404Header'); ?>
+	<header>
+		<div class="container">
+			<a href="http://www.charisalliance.org/index.php"><img src="http://www.charisalliance.org/_images/global/logo.png"/ class="header__logo"></a>
+		</div>
+	</header>
 	<div class="container">
 		<div class="cycle-slideshow"
     		data-cycle-timeout="5000"
@@ -28,7 +38,20 @@
 			</div>
 		</div>
 	</div>
-	<? $globalFunction->includeContent(0,'404Footer'); ?>
-	<? $globalFunction->includeContent(0,'botInc'); ?>
+	<div class="footer__image fullContainer">
+	</div>
+	<footer class="fullContainer footer--404">
+		<div class="container">
+			<div class="row">
+				<div class="siteMap__img siteMap__img--404"></div>
+			</div>
+		</div>
+	</footer>
+	<script src="http://www.charisalliance.org/_js/TweenMax.min.js"></script>
+	<script src="http://www.charisalliance.org/_js/scrollMagic.min.js"></script>
+	<script src="http://www.charisalliance.org/_js/animation.gsap.js"></script>
+	<script src="http://www.charisalliance.org/_js/cycle2.js"></script>
+	<script src="http://www.charisalliance.org/_js/jquery.mousewheel.js"></script>
+	<script src="http://www.charisalliance.org/_js/main.js"></script>
 </body>
 </html>
