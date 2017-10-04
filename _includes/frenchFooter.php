@@ -21,7 +21,7 @@
 			<div class="siteMap">
 				<h6><a href="<?php echo $directory ?>fr/media/video.php">Médiathèque</a></h6>
 				<h6><a href="<?php echo $directory ?>fr/news/index.php">Nouvelles</a></h6>
-				<!-- <h6><a href="<?php echo $directory ?>fr/donner/index.php">Donner</a></h6> -->
+				<h6><a href="<?php echo $directory ?>fr/donner/index.php">Donner</a></h6>
 			</div>
 			<div class="siteMap__img">
 			</div>

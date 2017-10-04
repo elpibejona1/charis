@@ -93,8 +93,8 @@ var info = {
 			status: "Charis Charter Member",
 			estado: "Miembro Fundador de&nbsp;Charis",
 			statut: 'Membre fondateur de&nbsp;Charis',
-			churches: 13,
-			pointsOfLight: 10
+			churches: 6,
+			pointsOfLight: 47
 		},
 		{
 			country: "Chad",  //TD
@@ -191,9 +191,9 @@ var info = {
 			country: "The United Kingdom",
 			pais: "Reino Unido",
 			pays: 'au <br><span class="country">Royaume-Uni',
-			status: "Charis Observer Member",
-			estado: "Miembro Observador",
-			statut: 'Membre Observateur Charis',
+			status: "Charis Charter Member (British Isles Association)",
+			estado: "Miembro Fundador de&nbsp;Charis (Asociación de las Islas Británicas)",
+			statut: 'Membre fondateur de&nbsp;Charis (Association des Îles Britanniques)',
 			churches: 2,
 			pointsOfLight: 0
 		},
@@ -201,9 +201,9 @@ var info = {
 			country: "Ireland",
 			pais: "Irlanda",
 			pays: 'en <br><span class="country">Irlande',
-			status: "Charis Observer Member",
-			estado: "Miembro Observador",
-			statut: 'Membre Observateur Charis',
+			status: "Charis Charter Member (British Isles Association)",
+			estado: "Miembro Fundador de&nbsp;Charis (Asociación de las Islas Británicas)",
+			statut: 'Membre fondateur de&nbsp;Charis (Association des Îles Britanniques)',
 			churches: 1,
 			pointsOfLight: 0
 		}
