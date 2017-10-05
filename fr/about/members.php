@@ -2,7 +2,7 @@
 <?php require("../../_includes/directory.php"); ?>
 <html>
 <head>
-	<? $globalFunction->includeContent(2,'topInc'); ?>
+	<? $globalFunction->includeContent(2,'frenchTopInc'); ?>
 </head>
 <body>
 	<? $globalFunction->includeContent(2,'frenchHeader'); ?>

@@ -10,7 +10,7 @@
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">  
-<title>Charis Alliance</title>
+<title>The Charis Alliance</title>
 <link rel="shortcut icon" href="<?php echo $directory ?>favicon.ico?v2" />
 <script src="https://use.fontawesome.com/6c79dd991d.js"></script>
 <link rel="stylesheet" href="<?php echo $directory ?>_js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
