@@ -31,17 +31,15 @@
     <div class="row">
         <div class="resourceThird">
             <img src="../../_images/celebration/resource1.png" alt="">
-            <h3>GUÍA PARA LA CELEBRACIÓN</h3>
+            <h3>GUÍA DE CELEBRACIÓN</h3>
             <p>Una guía para el Domingo de Celebración de Charis, junto con una agenda recomendada</p>
-           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
-            <span>Pronto!</span>
+            <div><a class="resourceThird__link" target="_blank" href="Guía_de_Celebración.pdf">Bajar</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource2.png" alt="">
-            <h3>Notas para líderes</h3>
+            <h3>Notas del Líder</h3>
             <p>Para ayudarle a organizar la celebración, con opciones de 10 minutos, de 30 minutos, y de 1 hora.</p>
-           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
-            <span>Pronto!</span>
+            <div><a class="resourceThird__link" target="_blank" href="Notas_del_Líder.pdf">Bajar</a></div>
         </div>
         <div class="resourceThird">
             <img class="wide" src="../../_images/celebration/resource3.png" alt="">
@@ -96,8 +94,7 @@
             <img src="../../_images/celebration/resource9.png" alt="">
             <h3>FORMULARIO DE COMENTARIOS</h3>
             <p>¡Queremos saber de usted! Su opinion nos ayudará a tener celebraciones en el futuro aún más exitosas</p>
-           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
-            <span>Pronto!</span>
+            <div><a class="resourceThird__link" target="_blank" href="Formulario_de_Comentarios.pdf">Bajar</a></div>
         </div>
     </div>
     <div class="row">

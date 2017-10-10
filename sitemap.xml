@@ -42,9 +42,9 @@
 <url>
   <loc>http://www.charisalliance.org/fr/news/index.php</loc>
 </url>
-<url>
+<!-- <url>
   <loc>http://www.charisalliance.org/fr/donner/index.php</loc>
-</url>
+</url> -->
 <url>
   <loc>http://www.charisalliance.org/fr/celebrer/index.php</loc>
 </url>
@@ -102,9 +102,9 @@
 <url>
   <loc>http://www.charisalliance.org/es/news/index.php</loc>
 </url>
-<url>
+<!-- <url>
   <loc>http://www.charisalliance.org/es/ofrendar/index.php</loc>
-</url>
+</url> -->
 <url>
   <loc>http://www.charisalliance.org/es/celebracion/index.php</loc>
 </url>
