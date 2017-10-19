@@ -31,17 +31,15 @@
     <div class="row">
         <div class="resourceThird">
             <img src="../../_images/celebration/resource1.png" alt="">
-            <h3>GUIDE DE LA CÉLÉBRATION</h3>
+            <h3>GUIDE DE CÉLÉBRATION</h3>
             <p>Un guide pour la Célébration dominicale Charis, ainsi qu’un programme conseillé</p>
-            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
-            <span>À venir!</span>
+            <div class="long"><a class="resourceThird__link" target="_blank" href="Guide_de_celebration.pdf">TÉLÉCHARGEMENT</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource2.png" alt="">
-            <h3>NOTES DE LEADER</h3>
+            <h3>NOTES DU LEADER</h3>
             <p>Pour vous aider à organiser votre célébration, avec des options de 10 minutes, 30 minutes et une heure</p>
-            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
-            <span>À venir!</span>
+            <div class="long"><a class="resourceThird__link" target="_blank" href="Notes_du_Leader.pdf">TÉLÉCHARGEMENT</a></div>
         </div>
         <div class="resourceThird">
             <img class="wide" src="../../_images/celebration/resource3.png" alt="">
@@ -53,37 +51,32 @@
             <img src="../../_images/celebration/resource4.png" alt="">
             <h3>FICHE INFORMATIVE DE L'HISTOIRE DE CHARIS</h3>
             <p>Pour les églises sans capacité vidéo</p>
-            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
-            <span>À venir!</span>
+            <div class="long"><a class="resourceThird__link" target="_blank" href="L'histoire_de_Charis_Alliance.pdf">TÉLÉCHARGEMENT</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource10.png" alt="">
             <h3>GUIDE DE PRIÈRE</h3>
             <p>Il contient des informations sur les églises de Charis dans le monde avec des sujets de prière.</p>
-            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
-            <span>À venir!</span>
+            <div class="long"><a class="resourceThird__link" target="_blank" href="Guide_de_Priere.pdf">TÉLÉCHARGEMENT</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource5.png" alt="">
             <h3>AFFICHE PROMOTIONNELLE</h3>
             <p>Affiche de 22 cm x 28 cm à imprimer et afficher dans votre église</p>
-            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
-            <span>À venir!</span>
+            <div class="long"><a class="resourceThird__link" target="_blank" href="Affiche_Promotionnelle.pdf">TÉLÉCHARGEMENT</a></div>
         </div>
         <div class="resourceThird">
             <img class="wide" src="../../_images/celebration/resource6.png" alt="">
             <h3>ÉCRANS DE PROMOTION</h3>
             <p>Pour des présentations de diapositives, en format 4:3 et 16:9</p>
-            <!-- <div><a class="resourceThird__link" href="#">4:3</a></div>
-            <div><a class="resourceThird__link" href="#">16:9</a></div> -->
-            <span>À venir!</span>
+            <div><a class="resourceThird__link" href="Ecrans_de_promotion_4-3.zip">4:3</a></div>
+            <div><a class="resourceThird__link" href="Ecrans_de_promotion_16-9.zip">16:9</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource7.png" alt="">
             <h3>GRAPHIQUES POUR LA PROMOTION AUX MÉDIAS SOCIAUX</h3>
             <p>Y compris une image de couverture de Facebook et des graphismes partageables</p>
-            <!-- <div class="long"><a class="resourceThird__link" href="#">TÉLÉCHARGEMENT</a></div> -->
-            <span>À venir!</span>
+            <div class="long"><a class="resourceThird__link" href="Medias_Sociaux.zip">TÉLÉCHARGEMENT</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource8.png" alt="">
@@ -96,8 +89,7 @@
             <img src="../../_images/celebration/resource9.png" alt="">
             <h3>FORMULAIRE DE COMMENTAIRES</h3>
             <p>Nous voulons vous entendre ! Votre contribution nous aidera à rendre de futures célébrations encore plus réussies.</p>
-            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
-            <span>À venir!</span>
+            <div class="long"><a class="resourceThird__link" target="_blank" href="Formulaire_de_commentaires.pdf">TÉLÉCHARGEMENT</a></div>
         </div>
     </div>
     <div class="row">

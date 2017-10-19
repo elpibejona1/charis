@@ -51,22 +51,19 @@
             <img src="../../_images/celebration/resource4.png" alt="">
             <h3>FOLLETO IMPRESO DE LA HISTORIA DE CHARIS</h3>
             <p>Para las iglesias que no tienen la posibilidad de proyectar videos</p>
-           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
-            <span>Pronto!</span>
+            <div><a class="resourceThird__link" target="_blank" href="Folleto_Impreso_de_la_Historia_de_Charis.pdf">Bajar</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource10.png" alt="">
             <h3>Guía de oración</h3>
             <p>Contiene información sobre las iglesias de Charis alrededor del mundo con motivos de oración.</p>
-           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
-            <span>Pronto!</span>
+            <div><a class="resourceThird__link" target="_blank" href="Guía_de_Oración.pdf">Bajar</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource5.png" alt="">
             <h3>POSTER DE PROMOCIÓN</h3>
             <p>Poster de 22 cm x 28 cm para imprimir y colocar en su iglesia.</p>
-           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
-            <span>Pronto!</span>
+            <div><a class="resourceThird__link" target="_blank" href="Poster_de_Promoción.pdf">Bajar</a></div>
         </div>
         <div class="resourceThird">
             <img class="wide" src="../../_images/celebration/resource6.png" alt="">
@@ -80,8 +77,7 @@
             <img src="../../_images/celebration/resource7.png" alt="">
             <h3>GRÁFICOS PARA PROMOCIONAR EN UN MEDIO PÚBLICO</h3>
             <p>Incluye una imágen de portada del facebook y gráficos que se pueden compartir</p>
-            <!-- <div><a class="resourceThird__link" href="#">Bajar</a></div> -->
-            <span>Pronto!</span>
+            <div><a class="resourceThird__link" href="Medio_Publico.zip">Bajar</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource8.png" alt="">
