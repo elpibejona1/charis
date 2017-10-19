@@ -78,13 +78,12 @@
             <p>Y compris une image de couverture de Facebook et des graphismes partageables</p>
             <div class="long"><a class="resourceThird__link" href="Medias_Sociaux.zip">TÉLÉCHARGEMENT</a></div>
         </div>
-        <div class="resourceThird">
+        <!-- <div class="resourceThird">
             <img src="../../_images/celebration/resource8.png" alt="">
             <h3>Feuille des offrandes</h3>
             <p>Il comprend les différentes façons de donner aux églises de Charis.</p>
-            <!-- <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div> -->
-            <span>À venir!</span>
-        </div>
+            <div class="long"><a class="resourceThird__link" target="_blank" href="#">TÉLÉCHARGEMENT</a></div>
+        </div> -->
         <div class="resourceThird">
             <img src="../../_images/celebration/resource9.png" alt="">
             <h3>FORMULAIRE DE COMMENTAIRES</h3>

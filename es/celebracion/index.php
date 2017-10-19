@@ -69,9 +69,8 @@
             <img class="wide" src="../../_images/celebration/resource6.png" alt="">
             <h3>PANTALLAS DE PROYECCIÓN</h3>
             <p>Para presentación de diapositivas, en ambos formatos 4:3 y 16:9</p>
-            <!-- <div><a class="resourceThird__link" href="#">4:3</a></div>
-            <div><a class="resourceThird__link" href="#">16:9</a></div> -->
-            <span>Pronto!</span>
+            <div><a class="resourceThird__link" href="Proyeccion_4-3.zip">4:3</a></div>
+            <div><a class="resourceThird__link" href="Proyeccion_16-9.zip">16:9</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource7.png" alt="">
@@ -79,13 +78,12 @@
             <p>Incluye una imágen de portada del facebook y gráficos que se pueden compartir</p>
             <div><a class="resourceThird__link" href="Medio_Publico.zip">Bajar</a></div>
         </div>
-        <div class="resourceThird">
+        <!-- <div class="resourceThird">
             <img src="../../_images/celebration/resource8.png" alt="">
             <h3>FOLLETO PARA OFRENDAS</h3>
             <p>Incluye las diferentes formas para ofrendar a las iglesias de Charis.</p>
-           <!--  <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div> -->
-            <span>Pronto!</span>
-        </div>
+            <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div>
+        </div> -->
         <div class="resourceThird">
             <img src="../../_images/celebration/resource9.png" alt="">
             <h3>FORMULARIO DE COMENTARIOS</h3>
