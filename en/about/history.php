@@ -496,7 +496,7 @@
 						<h2>2009: Bahamas</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/bahamas-image1.jpg" alt="">
-							<p class="caption">Leaders of the Bahamian Charis Alliance signing charter documents.</p>
+							<p class="caption">Leaders of the Bahamian Charis Alliance signing charter&nbsp;documents.</p>
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/bahamas-image2.jpg" alt="">
