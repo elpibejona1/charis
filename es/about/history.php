@@ -474,7 +474,7 @@
 						<h2>2008: Encuentro de Charis en Bad Homburg,&nbsp;Alemania</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis08-image1.jpg" alt="">
-							<p class="caption">Los participantes del Encuentro de Liderazgo de Charis 2008.</p>		
+							<p class="caption">Los participantes del Encuentro de Liderazgo de Charis&nbsp;2008.</p>		
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis08-image2.jpg" alt="">
