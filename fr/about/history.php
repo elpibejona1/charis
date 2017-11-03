@@ -84,7 +84,7 @@
 						<h2>1900: début des efforts de la Mission</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/usa-image2.jpg" alt="">
-							<p class="caption">Plaque commémorant l’organisation de la <em>Foreign Missionary Society</em> (Société missionnaire étrangère) de l’Église des Frères (connue aujourd’hui comme <em>Encompass World Partners</em>) à Winona Lake, dans l’Indiana aux Etats-Unis.</p>
+							<p class="caption">Plaque commémorant l’organisation de la <em>Foreign Missionary Society</em> (Société missionnaire étrangère) des Églises des Frères (connue aujourd’hui comme <em>Encompass World Partners</em>) à Winona Lake, dans l’Indiana aux Etats-Unis.</p>
 						</div>
 						<div class="timeline__event__photo timeline__event__photo--portrait">
 							<img src="../../_images/about/history/usa-image1.jpg" alt="">
@@ -98,7 +98,7 @@
 						<h2>1909: Argentine</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/argentina-image1.jpg" alt="">
-							<p class="caption">En 1932, devant l’Église des Frères de la Grâce à <em>Rio Cuarto</em>, les conseillers bibliques se préparent pour une réunion sous tente.</p>		
+							<p class="caption">En 1932, devant l’Église des Frères à <em>Rio Cuarto</em>, les conseillers bibliques se préparent pour une réunion sous&nbsp;tente.</p>		
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/argentina-image2.jpg" alt="">
@@ -132,11 +132,11 @@
 						<h2>1949: Brésil</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/brazil-image1.jpg" alt="">
-							<p class="caption">Le missionnaire Bill Burke et son embarcation <em>Vamos</em>, utilisée pour répandre l’Évangile dans les îles du fleuve Amazone.</p>
+							<p class="caption">Le missionnaire Bill Burke et son embarcation <em>Vamos</em>, utilisée pour répandre l’Évangile dans les îles du fleuve&nbsp;Amazone.</p>
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/brazil-image2.jpg" alt="">
-							<p class="caption">Le ministère a commencé dans la ville de Belém, près de l’embouchure de l’Amazone. Les efforts ont ensuite été étendus au sud de la ville d’Uberlândia et à la région environnante.</p>
+							<p class="caption">Le ministère a commencé dans la ville de Belém, près de l’embouchure de l’Amazone. Les efforts ont ensuite été étendus au sud de la ville d’Uberlândia et à la région&nbsp;environnante.</p>
 						</div>
 					</div>
 				</div>
@@ -194,7 +194,7 @@
 						<h2>1968: Allemagne</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/germany-image1.jpg" alt="">
-							<p class="caption">Les missionnaires Roger et Nancy Peugh ont commencé à organiser des études bibliques et des cultes dans leur maison.</p>
+							<p class="caption">Les missionnaires Roger et Nancy Peugh ont commencé à organiser des études bibliques et des cultes dans leur&nbsp;maison.</p>
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/germany-image2.jpg" alt="">
@@ -237,7 +237,7 @@
 						<h2>1984: Japon</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/japan-image1.jpg" alt="">
-							<p class="caption">Le ministère au Japon a commencé à Hoya City (Grand Tokyo).</p>
+							<p class="caption">Le ministère au Japon a commencé à Hoya City (Grand&nbsp;Tokyo).</p>
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/japan-image2.jpg" alt="">
@@ -255,7 +255,7 @@
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/philippines-image2.jpg" alt="">
-							<p class="caption">Célébration des 10 ans des Eglises des Frères de la Grâce aux&nbsp;Philippines.</p>
+							<p class="caption">Célébration des 10 ans des Eglises des Frères aux&nbsp;Philippines.</p>
 						</div>
 					</div>
 				</div>
@@ -341,13 +341,13 @@
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis94-image2.jpg" alt="">
-							<p class="caption">Les délégués Charis discutent de thèmes d’intérêt commun.</p>
+							<p class="caption">Les délégués Charis discutent de thèmes d’intérêt&nbsp;commun.</p>
 						</div>
 					</div>
 					<div class="timeline__event">
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis94-image3.jpg" alt="">
-							<p class="caption">Les délégués Charis discutent de thèmes d’intérêt commun.</p>		
+							<p class="caption">Les délégués Charis discutent de thèmes d’intérêt&nbsp;commun.</p>		
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis94-image4.jpg" alt="">
@@ -387,7 +387,7 @@
 						<h2>1997: Cambodge</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/cambodia-image2.jpg" alt="">
-							<p class="caption">Le ministère au Cambodge a commencé grâce à un partenariat entre Vek Huong Taing et les Missions des Frères de la Grâce.</p>
+							<p class="caption">Le ministère au Cambodge a commencé grâce à un partenariat entre Vek Huong Taing et la Mission des&nbsp;Frères.</p>
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/cambodia-image1.jpg" alt="">
@@ -436,7 +436,7 @@
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/ireland-image2.jpg" alt="">
-							<p class="caption">Les personnes souhaitant explorer l’Évangile se retrouvent dans un café à Dublin pour des discussions en groupes.</p>
+							<p class="caption">Les personnes souhaitant explorer l’Évangile se retrouvent dans un café à Dublin pour des discussions en&nbsp;groupes.</p>
 						</div>
 					</div>
 				</div>
@@ -474,7 +474,7 @@
 						<h2>2008: Rencontre Charis à Bad Homburg,&nbsp;Allemagne</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis08-image1.jpg" alt="">
-							<p class="caption">Les participants de la Rencontre Charis de 2008 sur le leadership.</p>		
+							<p class="caption">Les participants de la Rencontre Internationale de Leadership de Charis 2008.</p>		
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis08-image2.jpg" alt="">
