@@ -67,11 +67,11 @@
 						<h2>1719: First Wave of Immigration to America</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/immigration-image1.jpg" alt="">
-							<p class="caption">Early Brethren in America</p>
+							<p class="caption">Early Brethren in America.</p>
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/immigration-image2.jpg" alt="">
-							<p class="caption">Building of the first Brethren in America</p>		
+							<p class="caption">Building of the first Brethren in America.</p>		
 						</div>
 					</div>
 				</div>
@@ -88,7 +88,7 @@
 						</div>
 						<div class="timeline__event__photo timeline__event__photo--portrait">
 							<img src="../../_images/about/history/usa-image1.jpg" alt="">
-							<p class="caption">Jacob C. Cassel: Founder of Brethren Missions</p>		
+							<p class="caption">Jacob C. Cassel: Founder of Brethren Missions.</p>		
 						</div>
 					</div>
 				</div>
@@ -163,11 +163,11 @@
 						<h2>1951: France</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/france-image1.jpg" alt="">
-							<p class="caption">Efforts centered around the Chateau de Sait-Albain</p>		
+							<p class="caption">Efforts centered around the Chateau de Sait-Albain.</p>		
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/france-image2.jpg" alt="">
-							<p class="caption">Baptisms at the Chateau</p>
+							<p class="caption">Baptisms at the Chateau.</p>
 						</div>
 					</div>
 				</div>
@@ -180,11 +180,11 @@
 						<h2>1966: Chad</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/chad-image1.jpg" alt="">
-							<p class="caption">Graduates of the Chadean School of Evangelism</p>		
+							<p class="caption">Graduates of the Chadean School of Evangelism.</p>		
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/chad-image2.jpg" alt="">
-							<p class="caption">Evangelist Dadjé Samuel, founder of the Chadean School of Evangelism</p>
+							<p class="caption">Evangelist Dadjé Samuel, founder of the Chadean School of Evangelism.</p>
 						</div>
 					</div>
 				</div>
@@ -215,11 +215,11 @@
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/uk-image2.jpg" alt="">
-							<p class="caption">Grace Bible Fellowship of Solihull, England (Easter 1983)</p>
+							<p class="caption">Grace Bible Fellowship of Solihull, England (Easter 1983).</p>
 						</div>
 					</div>
 				</div>
-				<div class="row">
+				<!-- <div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="GT"></div>
 					<div class="timeline__event">
 						<h2>1983: Guatemala</h2>
@@ -230,7 +230,7 @@
 							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
 						</div>
 					</div>
-				</div>
+				</div> -->
 				<div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="JP"></div>
 					<div class="timeline__event">
@@ -251,23 +251,25 @@
 						<h2>1984: The Philippines</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/philippines-image1.jpg" alt="">
-							<p class="caption">Greater Manila Church Meeting</p>		
+							<p class="caption">Greater Manila Church Meeting.</p>		
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/philippines-image2.jpg" alt="">
-							<p class="caption">Celebrating 10 years of Grace Brethren Churches in the&nbsp;Philippines</p>
+							<p class="caption">Celebrating 10 years of Grace Brethren Churches in the&nbsp;Philippines.</p>
 						</div>
 					</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="UY"></div>
 					<div class="timeline__event">
-						<h2>1986: Uruguay</h2>
+						<h2>1987: Uruguay</h2>
 						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
+							<img src="../../_images/about/history/uruguay-image1.jpg" alt="">
+							<p class="caption">José and Titi Palacios, the founders of the Grace Brethren movement in Uruguay.</p>
 						</div>
 						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
+							<img src="../../_images/about/history/uruguay-image2.jpg" alt="">
+							<p class="caption">Beginnings in the Shangri-la neighborhood ministry in&nbsp;1988.</p>
 						</div>
 					</div>
 				</div>
@@ -353,6 +355,18 @@
 						</div>
 					</div>
 				</div>
+				<!-- <div class="row">
+					<div class="timeline__dot timeline__dot--country" data-dot="CA"></div>
+					<div class="timeline__event">
+						<h2>1996: Canada</h2>
+						<div class="timeline__event__photo">
+							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
+						</div>
+						<div class="timeline__event__photo">
+							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
+						</div>
+					</div>
+				</div> -->
 				<div class="row">
 					<div class="timeline__dot"></div>
 					<div class="timeline__event">
@@ -382,6 +396,20 @@
 					</div>
 				</div>
 				<div class="row">
+					<div class="timeline__dot timeline__dot--country" data-dot="CL"></div>
+					<div class="timeline__event">
+						<h2>1998: Chile</h2>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/chile-image1.jpg" alt="">
+							<p class="caption">The missionary team in Curico, Chile, 2006.</p>
+						</div>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/chile-image2.jpg" alt="">
+							<p class="caption">Meeting in homes, 2006.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
 					<div class="timeline__dot timeline__dot--lastTrigger"></div>
 					<div class="timeline__event">
 						<h2>1999: Charis Gathering in Carlos Paz,&nbsp;Argentina</h2>
@@ -396,19 +424,21 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot timeline__dot--country" data-dot="CL"></div>
-					<div class="timeline__event">
-						<h2>1999: Chile</h2>
-						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
-						</div>
-						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
-						</div>
-					</div>
+					<div class="timeline__decade timeline__decade--7">2000</div>
 				</div>
 				<div class="row">
-					<div class="timeline__decade timeline__decade--7">2000</div>
+					<div class="timeline__dot timeline__dot--country" data-dot="IE"></div>
+					<div class="timeline__event">
+						<h2>2002: Ireland</h2>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/ireland-image1.jpg" alt="">
+							<p class="caption">Crossroads Church of Dublin.</p>
+						</div>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/ireland-image2.jpg" alt="">
+							<p class="caption">People interested in exploring the gospel meet in café discussion groups in Dublin.</p>
+						</div>
+					</div>
 				</div>
 				<div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="CM"></div>
@@ -427,14 +457,14 @@
 				<div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="NG"></div>
 					<div class="timeline__event">
-						<h2>2005: Nigeria</h2>
+						<h2>2006: Nigeria</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/nigeria-image1.jpg" alt="">
 							<p class="caption">President of Churches Enoch Kolarambaye and Evangelist Clison Djendode pose with school of evangelism students.</p>
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/nigeria-image2.jpg" alt="">
-							<p class="caption">2017 Woman's Conference in Nigeria</p>
+							<p class="caption">2017 Woman's Conference in Nigeria.</p>
 						</div>
 					</div>
 				</div>
@@ -461,6 +491,20 @@
 					</div> -->
 				</div>
 				<div class="row">
+					<div class="timeline__dot timeline__dot--country" data-dot="BS"></div>
+					<div class="timeline__event">
+						<h2>2009: Bahamas</h2>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/bahamas-image1.jpg" alt="">
+							<p class="caption">Leaders of the Bahamian Charis Alliance signing charter documents.</p>
+						</div>
+						<div class="timeline__event__photo">
+							<img src="../../_images/about/history/bahamas-image2.jpg" alt="">
+							<p class="caption">Pastors and leaders celebrate the formation of the Charis Alliance of the Bahamas.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
 					<div class="timeline__decade timeline__decade--8">2010</div>
 				</div>
 				<div class="row">
@@ -473,19 +517,7 @@
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis10-image2.jpg" alt="">
-							<p class="caption">Members of the Charis Steering Committee</p>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="timeline__dot timeline__dot--country" data-dot="BS"></div>
-					<div class="timeline__event">
-						<h2>2011: Bahamas</h2>
-						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
-						</div>
-						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
+							<p class="caption">Members of the Charis Steering Committee.</p>
 						</div>
 					</div>
 				</div>

@@ -64,14 +64,14 @@
 				<div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="US"></div>
 					<div class="timeline__event">
-						<h2>1719: Première vague d’immigration en Amérique</h2>
+						<h2>1719: Première vague d’immigration en Amérique.</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/immigration-image1.jpg" alt="">
-							<p class="caption">Premiers Frères en Amérique</p>
+							<p class="caption">Premiers Frères en Amérique.</p>
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/immigration-image2.jpg" alt="">
-							<p class="caption">Immeuble des premiers Frères en Amérique</p>		
+							<p class="caption">Immeuble des premiers Frères en Amérique.</p>		
 						</div>
 					</div>
 				</div>
@@ -88,7 +88,7 @@
 						</div>
 						<div class="timeline__event__photo timeline__event__photo--portrait">
 							<img src="../../_images/about/history/usa-image1.jpg" alt="">
-							<p class="caption">Jacob C. Cassel : Fondateur des Missions des Frères</p>		
+							<p class="caption">Jacob C. Cassel : Fondateur des Missions des Frères.</p>		
 						</div>
 					</div>
 				</div>
@@ -115,7 +115,7 @@
 						<h2>1918: République Centrafricaine</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/car-image1.jpg" alt="">
-							<p class="caption">Le missionnaire des Frères Jacques Gribble et sa famille</p>	
+							<p class="caption">Le missionnaire des Frères Jacques Gribble et sa famille.</p>	
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/car-image2.jpg" alt="">
@@ -132,7 +132,7 @@
 						<h2>1949: Brésil</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/brazil-image1.jpg" alt="">
-							<p class="caption">Le missionnaire Bill Burke et son embarcation <em>Vamos</em>, utilisée pour répandre l’Évangile dans les îles du fleuve Amazone.  </p>
+							<p class="caption">Le missionnaire Bill Burke et son embarcation <em>Vamos</em>, utilisée pour répandre l’Évangile dans les îles du fleuve Amazone.</p>
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/brazil-image2.jpg" alt="">
@@ -167,7 +167,7 @@
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/france-image2.jpg" alt="">
-							<p class="caption">Baptêmes au Château</p>
+							<p class="caption">Baptêmes au Château.</p>
 						</div>
 					</div>
 				</div>
@@ -180,11 +180,11 @@
 						<h2>1966: Tchad</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/chad-image1.jpg" alt="">
-							<p class="caption">Diplômés de l’École d’évangélisation tchadienne</p>		
+							<p class="caption">Diplômés de l’École d’évangélisation tchadienne.</p>		
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/chad-image2.jpg" alt="">
-							<p class="caption">L’Évangéliste Dadjé Samuel, fondateur de l’École d’évangélisation tchadienne</p>
+							<p class="caption">L’Évangéliste Dadjé Samuel, fondateur de l’École d’évangélisation tchadienne.</p>
 						</div>
 					</div>
 				</div>
@@ -215,11 +215,11 @@
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/uk-image2.jpg" alt="">
-							<p class="caption">Communauté Biblique de la Grâce de Solihull, en Angleterre (Pâques 1983)</p>
+							<p class="caption">Communauté Biblique de la Grâce de Solihull, en Angleterre (Pâques 1983).</p>
 						</div>
 					</div>
 				</div>
-				<div class="row">
+				<!-- <div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="GT"></div>
 					<div class="timeline__event">
 						<h2>1983: Guatemala</h2>
@@ -230,7 +230,7 @@
 							<img src="http://via.placeholder.com/500x284?text=Photo+à+venir" alt="">
 						</div>
 					</div>
-				</div>
+				</div> -->
 				<div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="JP"></div>
 					<div class="timeline__event">
@@ -251,7 +251,7 @@
 						<h2>1984: Philippines</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/philippines-image1.jpg" alt="">
-							<p class="caption">Réunion à l’Église du Grand Manille</p>		
+							<p class="caption">Réunion à l’Église du Grand Manille.</p>		
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/philippines-image2.jpg" alt="">
@@ -265,11 +265,11 @@
 						<h2>1987: Uruguay</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/uruguay-image1.jpg" alt="">
-							<p class="caption">José et Titi Palacios, les fondateurs du mouvement des Églises des Frères en Uruguay</p>
+							<p class="caption">José et Titi Palacios, les fondateurs du mouvement des Églises des Frères en Uruguay.</p>
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/uruguay-image2.jpg" alt="">
-							<p class="caption">Les débuts du ministère aux environs de Shangri-la en&nbsp;1988</p>
+							<p class="caption">Les débuts du ministère aux environs de Shangri-la en&nbsp;1988.</p>
 						</div>
 					</div>
 				</div>
@@ -427,7 +427,7 @@
 					<div class="timeline__decade timeline__decade--7">2000</div>
 				</div>
 				<div class="row">
-					<div class="timeline__dot timeline__dot--country" data-dot="CM"></div>
+					<div class="timeline__dot timeline__dot--country" data-dot="IE"></div>
 					<div class="timeline__event">
 						<h2>2002: Irlande</h2>
 						<div class="timeline__event__photo">
@@ -460,7 +460,7 @@
 						<h2>2006: Nigéria</h2>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/nigeria-image1.jpg" alt="">
-							<p class="caption">Le président des Églises Enoch Kolarambaye et l’évangéliste Clison Djendode posent avec les étudiants de l’école d’évangélisation. </p>
+							<p class="caption">Le président des Églises Enoch Kolarambaye et l’évangéliste Clison Djendode posent avec les étudiants de l’école d’évangélisation.</p>
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/nigeria-image2.jpg" alt="">
@@ -517,7 +517,7 @@
 						</div>
 						<div class="timeline__event__photo">
 							<img src="../../_images/about/history/charis10-image2.jpg" alt="">
-							<p class="caption">Membres du Comité directeur Charis</p>
+							<p class="caption">Membres du Comité directeur Charis.</p>
 						</div>
 					</div>
 				</div>
