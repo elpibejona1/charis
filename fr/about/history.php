@@ -355,18 +355,20 @@
 						</div>
 					</div>
 				</div>
-				<!-- <div class="row">
+				<div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="CA"></div>
 					<div class="timeline__event">
 						<h2>1996: Canada</h2>
 						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+à+venir" alt="">
+							<img src="../../_images/about/history/canada-image1.jpg" alt="">
+							<p class="caption">Baptême à l’Eglise “Grasslands Church” à Medicine Hat, dans l’Alberta (Canada).</p>
 						</div>
 						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+à+venir" alt="">
+							<img src="../../_images/about/history/canada-image2.jpg" alt="">
+							<p class="caption">Un événement de sensibilisation organisé par l’Eglise “Renew Church” à Toronto.</p>
 						</div>
 					</div>
-				</div> -->
+				</div>
 				<div class="row">
 					<div class="timeline__dot"></div>
 					<div class="timeline__event">

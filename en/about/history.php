@@ -355,18 +355,20 @@
 						</div>
 					</div>
 				</div>
-				<!-- <div class="row">
+				<div class="row">
 					<div class="timeline__dot timeline__dot--country" data-dot="CA"></div>
 					<div class="timeline__event">
 						<h2>1996: Canada</h2>
 						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
+							<img src="../../_images/about/history/canada-image1.jpg" alt="">
+							<p class="caption">Baptism at the Grasslands Church in Medicine Hat, Alberta</p>
 						</div>
 						<div class="timeline__event__photo">
-							<img src="http://via.placeholder.com/500x284?text=Photo+to+come" alt="">
+							<img src="../../_images/about/history/canada-image2.jpg" alt="">
+							<p class="caption">An outreach event organized by Renew Church of Toronto</p>
 						</div>
 					</div>
-				</div> -->
+				</div>
 				<div class="row">
 					<div class="timeline__dot"></div>
 					<div class="timeline__event">
