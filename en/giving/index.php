@@ -14,7 +14,7 @@
 		</div>
 		<div class="interior__description interior__description--full">
 			<p>Your gift to the Charis Alliance will strengthen and equip our global network of churches as they continue to touch the world with the hope of Christ. All donations will be used to facilitate communication, networking and deploying national missionaries throughout the Charis Alliance world.</p>
-			<p class="small">The Charis Alliance is a 501(c)(3) nonprofit organization, and all gifts are tax-deductible to the full extent of the law. Gifts are processed by Encompass World Partners, the cross-cultural ministries arm of the Fellowship of Grace Brethren Churches, USA. All donations will be used by and for Charis Alliance purposes worldwide.</p>
+			<p class="small">The Charis Alliance is a 501(c)(3) nonprofit organization, and all gifts are tax-deductible to the full extent of the law. Gifts are processed by Encompass World Partners, the cross-cultural ministries arm of the of the Charis Fellowship, USA (formerly the Fellowship of Grace Brethren Churches, USA). All donations will be used by and for Charis Alliance purposes worldwide.</p>
 			<div class="primary__downloadContainer">
 				<ul class="center">
 					<li class="primary__download__button primary__download__button--giving"><a target="_blank" href="https://moreblessed.com/donate/to/charisalliance">Give Here</a></li>
