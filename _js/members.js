@@ -121,7 +121,7 @@ var info = {
 			estado: "Miembro Observador",
 			statut: 'Membre Observateur Charis',
 			churches: 2,
-			pointsOfLight: 0
+			pointsOfLight: 1
 		},
 		{
 			country: "Cambodia", //KH
@@ -140,8 +140,8 @@ var info = {
 			status: "Charis Charter Member",
 			estado: "Miembro Fundador de&nbsp;Charis",
 			statut: 'Membre fondateur de&nbsp;Charis',
-			churches: 6,
-			pointsOfLight: 10
+			churches: 7,
+			pointsOfLight: 1
 		},
 	],
 	caribbean: [
