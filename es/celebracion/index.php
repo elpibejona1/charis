@@ -33,66 +33,72 @@
             <img src="../../_images/celebration/resource1.png" alt="">
             <h3>GUÍA DE CELEBRACIÓN</h3>
             <p>Una guía para el Domingo de Celebración de Charis, junto con una agenda recomendada</p>
-            <div><a class="resourceThird__link" target="_blank" href="Guía_de_Celebración.pdf">Bajar</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="Guía_de_Celebración.pdf">Bajar (Español)</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="Guia_da_Celebracao_2017.pdf">Bajar (Portugués)</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource2.png" alt="">
             <h3>Notas del Líder</h3>
             <p>Para ayudarle a organizar la celebración, con opciones de 10 minutos, de 30 minutos, y de 1 hora.</p>
-            <div><a class="resourceThird__link" target="_blank" href="Notas_del_Líder.pdf">Bajar</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="Notas_del_Líder.pdf">Bajar (Español)</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="Guia_para_o_Lider_da_Celebracao_2017.pdf">Bajar (Portugués)</a></div>
         </div>
         <div class="resourceThird">
             <img class="wide" src="../../_images/celebration/resource3.png" alt="">
             <h3>VIDEO: EXPLICACIÓN DE LA HISTORIA DE CHARIS</h3>
             <p>Para las iglesias con posibilidad de proyectar videos</p>
-            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/234542538">Ver Video</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="https://vimeo.com/234542538">Ver Video (Español)</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource4.png" alt="">
             <h3>FOLLETO IMPRESO DE LA HISTORIA DE CHARIS</h3>
             <p>Para las iglesias que no tienen la posibilidad de proyectar videos</p>
-            <div><a class="resourceThird__link" target="_blank" href="Folleto_Impreso_de_la_Historia_de_Charis.pdf">Bajar</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="Folleto_Impreso_de_la_Historia_de_Charis.pdf">Bajar (Español)</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="Historia_da_Alianca_Charis_2017.pdf">Bajar (Portugués)</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource10.png" alt="">
             <h3>Guía de oración</h3>
             <p>Contiene información sobre las iglesias de Charis alrededor del mundo con motivos de oración.</p>
-            <div><a class="resourceThird__link" target="_blank" href="Guía_de_Oración.pdf">Bajar</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="Guía_de_Oración.pdf">Bajar (Español)</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="Guia_de_Oracao_2017.pdf">Bajar (Portugués)</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource5.png" alt="">
             <h3>POSTER DE PROMOCIÓN</h3>
             <p>Poster de 22 cm x 28 cm para imprimir y colocar en su iglesia.</p>
-            <div><a class="resourceThird__link" target="_blank" href="Poster_de_Promoción.pdf">Bajar</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="Poster_de_Promoción.pdf">Bajar (Español)</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="Poster_2017.pdf">Bajar (Portugués)</a></div>
         </div>
         <div class="resourceThird">
             <img class="wide" src="../../_images/celebration/resource6.png" alt="">
             <h3>PANTALLAS DE PROYECCIÓN</h3>
             <p>Para presentación de diapositivas, en ambos formatos 4:3 y 16:9</p>
-            <div><a class="resourceThird__link" href="Proyeccion_4-3.zip">4:3</a></div>
-            <div><a class="resourceThird__link" href="Proyeccion_16-9.zip">16:9</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" href="Proyeccion_4-3.zip">4:3 <br>(Español)</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" href="Proyeccion_16-9.zip">16:9 <br>(español)</a></div>
         </div>
         <div class="resourceThird">
             <img src="../../_images/celebration/resource7.png" alt="">
             <h3>GRÁFICOS PARA PROMOCIONAR EN UN MEDIO PÚBLICO</h3>
             <p>Incluye una imágen de portada del facebook y gráficos que se pueden compartir</p>
-            <div><a class="resourceThird__link" href="Medio_Publico.zip">Bajar</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" href="Medio_Publico.zip">Bajar (Español)</a></div>
         </div>
         <!-- <div class="resourceThird">
             <img src="../../_images/celebration/resource8.png" alt="">
             <h3>FOLLETO PARA OFRENDAS</h3>
             <p>Incluye las diferentes formas para ofrendar a las iglesias de Charis.</p>
-            <div><a class="resourceThird__link" target="_blank" href="#">Bajar</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="#">Bajar (español)</a></div>
         </div> -->
         <div class="resourceThird">
             <img src="../../_images/celebration/resource9.png" alt="">
             <h3>FORMULARIO DE COMENTARIOS</h3>
             <p>¡Queremos saber de usted! Su opinion nos ayudará a tener celebraciones en el futuro aún más exitosas</p>
-            <div><a class="resourceThird__link" target="_blank" href="Formulario_de_Comentarios.pdf">Bajar</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="Formulario_de_Comentarios.pdf">Bajar (Español)</a></div>
+            <div><a class="resourceThird__link resourceThird__link--es" target="_blank" href="Formulario_de_Avaliacao_2017.pdf">Bajar (Portugués)</a></div>
         </div>
     </div>
     <div class="row">
-        <div class="divider divider--2">
+        <div class="divider">
             <img src="../../_images/celebration/divider.png" alt="">
         </div>
     </div>
@@ -103,7 +109,7 @@
     <div class="row">
         <div class="resourceThird resourceThird--video resourceThird--half">
             <a class="resourceThird__videoLink" href="https://vimeo.com/162078890" target="_blank"><img src="../../_images/celebration/video2.jpg" alt="">
-            <h3>LA ALIANZA DE CHARIS</h3></a>
+            <h3>LA ALIANZA DE CHARIS (Español)</h3></a>
             <p>Este video es una presentación y un vistazo general de la Alianza de Charis, un movimiento de iglesias de Los Hermanos por Gracia alrededor del mundo. Finalizó a comienzos del año 2016. La mayoría de las imágenes de este video fueron tomadas en OCT/NOV 2015, en el Encuentro Internacional de Liderazgo de Charis en Bangkok, Tailandia.</p>
         </div>
         <div class="resourceThird resourceThird--video resourceThird--half">
