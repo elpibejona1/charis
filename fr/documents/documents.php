@@ -31,10 +31,10 @@
 				<p><span>Identité Commune de l’Alliance Charis</span> - Approuvé à l’unanimité par les délégués de la Rencontre Internationale de Leadership de Charis 2015, ce document historique est une expression véritablement globale des valeurs et des croyances du mouvement des Églises des Frères.</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Identité_Commune_de_lAlliance_Charis_2015_(FRA_v2015.0).pdf">Fichier PDF</a></li>
-						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Identité_Commune_de_l’Alliance_Charis_2015_(FRA_v2015.0)_w_verses.pdf">Fichier PDF (avec&nbsp;écritures)</a></li>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Identité_Commune_de_l'Alliance_Charis_2015_(FRA_v2015.0).docx">Fichier DOCX</a></li>
-						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Identité_Commune_de_l’Alliance_Charis_2015_(FRA_v2015.0)_w_verses.docx">Fichier DOCX<br> (avec&nbsp;écritures)</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Identite_Commune_de_lAlliance_Charis_2015_(FRA_v2015.0).pdf">Fichier PDF</a></li>
+						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Identite_Commune_de_l’Alliance_Charis_2015_(FRA_v2015.0)_w_verses.pdf">Fichier PDF (avec&nbsp;écritures)</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Identite_Commune_de_l'Alliance_Charis_2015_(FRA_v2015.0).docx">Fichier DOCX</a></li>
+						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Identite_Commune_de_l’Alliance_Charis_2015_(FRA_v2015.0)_w_verses.docx">Fichier DOCX<br> (avec&nbsp;écritures)</a></li>
 					</ul>
 				</div>
 			</div>
@@ -70,8 +70,8 @@
 				<div class="primary__downloadContainer">
 					
 				<ul>
-					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Die_Charis_Übereinkunft_zur_gemeinsamen_Identität_(DEUTSCH_V2015.1).pdf">Allemand</a></li>
-					<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Die_Charis_Übereinkunft_zur_gemeinsamen_Identität_Fußnoten_(DEUTSCH_V2015.1).pdf">Allemand (avec&nbsp;écritures)</a></li>
+					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Die_Charis_Ubereinkunft_zur_gemeinsamen_Identitat_(DEUTSCH_V2015.1).pdf">Allemand</a></li>
+					<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Die_Charis_Ubereinkunft_zur_gemeinsamen_Identitat_Fußnoten_(DEUTSCH_V2015.1).pdf">Allemand (avec&nbsp;écritures)</a></li>
 					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Nosso_Compromisso_para_uma_Identidade_Comum_2015_(POR_v2015_0)_com_versos.pdf">Portuguese</a></li>
 					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Tagalog_Charis_Common_Identity_(v2015.0).pdf">Tagalog</a></li>
 				</ul>

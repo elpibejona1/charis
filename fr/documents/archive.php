@@ -17,7 +17,7 @@
 				<div class="archive__files">
 					<ul>
 						<li><a target="_blank" href="../../documents/audits/2015_Implantation_deglises.pdf">Audit global 2015 – Implantation d’églises Charis</a></li>
-						<li><a target="_blank" href="../../documents/audits/2015_Ministères_Intégrés.pdf">Audit global 2015 – Ministères intégrés Charis</a></li>
+						<li><a target="_blank" href="../../documents/audits/2015_Ministeres_Integres.pdf">Audit global 2015 – Ministères intégrés Charis</a></li>
 						<li><a target="_blank" href="../../documents/audits/2015_Formation_de_responsables.pdf">Audit global 2015 – Formation de responsables Charis</a></li>
 					</ul>
 				</div>
@@ -46,7 +46,7 @@
 					<ul>
 						<li><a target="_blank" href="../../documents/sermons-2015/FR-Message-Florent-V.pdf">Garde L'Evangile intact! &ndash; Florent Varak</a></li>
 						<li><a target="_blank" href="../../documents/sermons-2015/FR-Discours-d’Acceptation.pdf">Discours d’acceptation CCCI &ndash; Dr. Dave Guiles</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/FR-Prochaines-Étapes.pdf">Nous pensons aux prochaines étapes</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/FR-Prochaines-Etapes.pdf">Nous pensons aux prochaines étapes</a></li>
 					</ul>
 				</div>
 			</div>

@@ -85,8 +85,8 @@
 				<div class="primary__downloadContainer">
 					
 				<ul>
-					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Die_Charis_Übereinkunft_zur_gemeinsamen_Identität_(DEUTSCH_V2015.1).pdf">German</a></li>
-					<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Die_Charis_Übereinkunft_zur_gemeinsamen_Identität_Fußnoten_(DEUTSCH_V2015.1).pdf">German <br>(with scriptures)</a></li>
+					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Die_Charis_Ubereinkunft_zur_gemeinsamen_Identitat_(DEUTSCH_V2015.1).pdf">German</a></li>
+					<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Die_Charis_Ubereinkunft_zur_gemeinsamen_Identitat_Fußnoten_(DEUTSCH_V2015.1).pdf">German <br>(with scriptures)</a></li>
 					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Nosso_Compromisso_para_uma_Identidade_Comum_2015_(POR_v2015_0)_com_versos.pdf">Portuguese</a></li>
 					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Tagalog_Charis_Common_Identity_(v2015.0).pdf">Tagalog</a></li>
 				</ul>

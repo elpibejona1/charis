@@ -16,9 +16,9 @@
 			<div class="archive">
 				<div class="archive__files">
 					<ul>
-						<li><a target="_blank" href="../../documents/audits/2015_Fundación_de_Iglesias.pdf">Auditoría Global de Charis 2015 para Fundación de Iglesias</a></li>
+						<li><a target="_blank" href="../../documents/audits/2015_Fundacion_de_Iglesias.pdf">Auditoría Global de Charis 2015 para Fundación de Iglesias</a></li>
 						<li><a target="_blank" href="../../documents/audits/2015_Ministerios_Integrales.pdf">Auditoría Global de Charis 2015 para Ministerios Integrales</a></li>
-						<li><a target="_blank" href="../../documents/audits/2015_Capacitación_para_el_Liderazgo.pdf">Auditoría Global de Charis 2015 para Capacitación para el Liderazgo</a></li>
+						<li><a target="_blank" href="../../documents/audits/2015_Capacitacion_para_el_Liderazgo.pdf">Auditoría Global de Charis 2015 para Capacitación para el Liderazgo</a></li>
 					</ul>
 				</div>
 				<div class="archive__files">
@@ -45,8 +45,8 @@
 				<div class="archive__files">
 					<ul>
 						<li><a target="_blank" href="../../documents/sermons-2015/ES-Mensaje-Florent-V.pdf">¡Guarda el Evangelio Intacto! – Florent&nbsp;Varak</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/ES-Discurso-De-Acceptación.pdf">Discurso de Aceptación del Compromiso de Charis a la Misión Común – Dr.&nbsp;Dave&nbsp;Guiles</a></li>
-						<li><a target="_blank" href="../../documents/sermons-2015/ES-Pensando-En-Nuestros-Próximos-Pasos.pdf">Pensando en Nuestros Próximos Pasos</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Discurso-De-Acceptacion.pdf">Discurso de Aceptación del Compromiso de Charis a la Misión Común – Dr.&nbsp;Dave&nbsp;Guiles</a></li>
+						<li><a target="_blank" href="../../documents/sermons-2015/ES-Pensando-En-Nuestros-Proximos-Pasos.pdf">Pensando en Nuestros Próximos Pasos</a></li>
 					</ul>
 				</div>
 			</div>

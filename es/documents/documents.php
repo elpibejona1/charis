@@ -31,10 +31,10 @@
 				<p><span>El Compromiso de Charis a la Identidad Común</span> - Aprobado por unanimidad por los delegados de EILC 2015, este documento histórico es una expresión verdaderamente global de los valores y creencias en común del movimiento de La Iglesia de los Hermanos por Gracia.</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Nuestro_Compromiso_a_la_Identidad_Común_2015_(ESP_v2015.0).pdf">Archivo PDF</a></li>
-						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Nuestro_Compromiso_a_la_Identidad_Común_2015_(ESP_v2015.0)_con_versículos.pdf">Archivo PDF <br>(con&nbsp;versos)</a></li>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Nuestro_Compromiso_a_la_Identidad_Común_2015_(ESP_v2015.0).docx">Archivo DOCX</a></li>
-						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Nuestro_Compromiso_a_la_Identidad_Común_2015_(ESP_v2015.0)_con_versículos.docx">Archivo DOCX <br> (con&nbsp;versos)</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Nuestro_Compromiso_a_la_Identidad_Comun_2015_(ESP_v2015.0).pdf">Archivo PDF</a></li>
+						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Nuestro_Compromiso_a_la_Identidad_Comun_2015_(ESP_v2015.0)_con_versiculos.pdf">Archivo PDF <br>(con&nbsp;versos)</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Nuestro_Compromiso_a_la_Identidad_Comun_2015_(ESP_v2015.0).docx">Archivo DOCX</a></li>
+						<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Nuestro_Compromiso_a_la_Identidad_Comun_2015_(ESP_v2015.0)_con_versiculos.docx">Archivo DOCX <br> (con&nbsp;versos)</a></li>
 					</ul>
 				</div>
 			</div>
@@ -47,7 +47,7 @@
 				<p><span>El Compromiso de Charis a la Misión Común</span> - Aprobado por unanimidad por los delegados de EILC 2008, este documento histórico resume nuestro compromiso a trabajar juntos en la esfera regional e internacional para promover la fundación de iglesias, capacitación para el liderazgo y ministerios integrales.</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/cccm/CCCM_Español.pdf">Archivo PDF</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/cccm/CCCM_Espanol.pdf">Archivo PDF</a></li>
 					</ul>
 				</div>
 			</div>
@@ -70,8 +70,8 @@
 				<div class="primary__downloadContainer">
 					
 				<ul>
-					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Die_Charis_Übereinkunft_zur_gemeinsamen_Identität_(DEUTSCH_V2015.1).pdf">Alemán</a></li>
-					<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Die_Charis_Übereinkunft_zur_gemeinsamen_Identität_Fußnoten_(DEUTSCH_V2015.1).pdf">Alemán <br>(con versos)</a></li>
+					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Die_Charis_Ubereinkunft_zur_gemeinsamen_Identitat_(DEUTSCH_V2015.1).pdf">Alemán</a></li>
+					<li class="primary__download__button primary__download__button--twoLines"><a target="_blank" href="../../documents/ccci/Die_Charis_Ubereinkunft_zur_gemeinsamen_Identitat_Fußnoten_(DEUTSCH_V2015.1).pdf">Alemán <br>(con versos)</a></li>
 					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Nosso_Compromisso_para_uma_Identidade_Comum_2015_(POR_v2015_0)_com_versos.pdf">Portuguese</a></li>
 					<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Tagalog_Charis_Common_Identity_(v2015.0).pdf">Tagalo</a></li>
 				</ul>
