@@ -24,10 +24,6 @@
 		<div class="homeSlideShow__callout">
 			<h2>La Alianza de Charis ...</h2>
 			<p>... intenta obedecer a la Gran Comisión mediante la promoción de la comunión fraternal y la cooperación a nivel regional e internacional entre las asociaciones de iglesias que apoyan el Compromiso de Charis a la Misión Común y al Compromiso de Charis a la Identidad Común.</p>
-			<div class="home__scroll">
-				<i class="fa fa-angle-down" aria-hidden="true"></i>
-				<i class="fa fa-angle-down" aria-hidden="true"></i>
-			</div>
 		</div>
 	</div>
 </div>
