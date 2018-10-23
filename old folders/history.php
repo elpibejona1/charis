@@ -2,11 +2,11 @@
 <?php require("../../_includes/directory.php"); ?>
 <html>
 <head>
-	<? $globalFunction->includeContent(2,'topInc'); ?>
+	<?php $globalFunction->includeContent(2,'topInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(2,'header'); ?>
-	<? $globalFunction->includeContent(2,'aboutSubNav'); ?>
+	<?php $globalFunction->includeContent(2,'header'); ?>
+	<?php $globalFunction->includeContent(2,'aboutSubNav'); ?>
 <div class="container container--historyMap">
 	<div class="row">
 		<?php include('../../_images/about/history/world.svg'); ?>
@@ -180,7 +180,7 @@
 		</div>
 	</div>
 </div>
-	<? $globalFunction->includeContent(2,'footer'); ?>
+	<?php $globalFunction->includeContent(2,'footer'); ?>
 	<script>
 		$('document').ready(function(){
 
@@ -191,6 +191,6 @@
 
 		});
 	</script>
-	<? $globalFunction->includeContent(2,'botInc'); ?>
+	<?php $globalFunction->includeContent(2,'botInc'); ?>
 </body>
 </html>

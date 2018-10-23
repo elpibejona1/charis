@@ -2,10 +2,10 @@
 <?php require("../../../_includes/directory.php"); ?>
 <html>
 <head>
-	<? $globalFunction->includeContent(3,'frenchTopInc'); ?>
+	<?php $globalFunction->includeContent(3,'frenchTopInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(3,'frenchHeader'); ?>
+	<?php $globalFunction->includeContent(3,'frenchHeader'); ?>
 <div class="subNav fullContainer">
 	<div class="container">
 		<div class="row">
@@ -61,7 +61,7 @@
 		</div>
 	</div>
 </div>
-	<? $globalFunction->includeContent(2,'frenchFooter'); ?>
+	<?php $globalFunction->includeContent(2,'frenchFooter'); ?>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script src="../../../_js/cycle2.js"></script>
 </body>

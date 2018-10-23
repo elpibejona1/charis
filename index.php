@@ -2,7 +2,7 @@
 <?php require("_includes/directory.php"); ?>
 <html>
 <head>
-	<? $globalFunction->includeContent(0,'englishTopInc'); ?>
+	<?php $globalFunction->includeContent(0,'englishTopInc'); ?>
 </head>
 <body class="index__background">
 	<div class="container container--home">
@@ -42,6 +42,6 @@
 			</div>
 		</div>
 	</div>
-	<? $globalFunction->includeContent(0,'botInc'); ?>
+	<?php $globalFunction->includeContent(0,'botInc'); ?>
 </body>
 </html>

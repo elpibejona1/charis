@@ -2,10 +2,10 @@
 <?php require("../_includes/directory.php"); ?>
 <html>
 <head>
-	<? $globalFunction->includeContent(1,'topInc'); ?>
+	<?php $globalFunction->includeContent(1,'topInc'); ?>
 </head>
 <body class="body--celebration">
-<? $globalFunction->includeContent(1,'englishHeader'); ?>
+<?php $globalFunction->includeContent(1,'englishHeader'); ?>
 <div class="fullContainer fullContainer--noPadding">
     <div class="row">
         <div class="hero">
@@ -122,7 +122,7 @@
         <img src="../_images/celebration/watermark.png" alt="" class="watermark">
     </div>
 </div>
-<? $globalFunction->includeContent(1,'englishFooter'); ?>
-<? $globalFunction->includeContent(1,'botInc'); ?>
+<?php $globalFunction->includeContent(1,'englishFooter'); ?>
+<?php $globalFunction->includeContent(1,'botInc'); ?>
 </body>
 </html>

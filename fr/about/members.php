@@ -2,11 +2,11 @@
 <?php require("../../_includes/directory.php"); ?>
 <html>
 <head>
-	<? $globalFunction->includeContent(2,'frenchTopInc'); ?>
+	<?php $globalFunction->includeContent(2,'frenchTopInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(2,'frenchHeader'); ?>
-	<? $globalFunction->includeContent(2,'frenchAboutSubNav'); ?>
+	<?php $globalFunction->includeContent(2,'frenchHeader'); ?>
+	<?php $globalFunction->includeContent(2,'frenchAboutSubNav'); ?>
 <div class="fullContainer fullContainer--members">
 	<div class="content content--map">
 		<div class="continentOverlay">
@@ -53,9 +53,9 @@
 	</div>
 </div>
 <div class="membersFooter">
-	<? $globalFunction->includeContent(2,'frenchFooter'); ?>
+	<?php $globalFunction->includeContent(2,'frenchFooter'); ?>
 </div>
 	<script src="../../_js/members.js"></script>
-	<? $globalFunction->includeContent(2,'botInc'); ?>
+	<?php $globalFunction->includeContent(2,'botInc'); ?>
 </body>
 </html>

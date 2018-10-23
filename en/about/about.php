@@ -2,11 +2,11 @@
 <?php require("../../_includes/directory.php"); ?>
 <html>
 <head>
-	<? $globalFunction->includeContent(2,'englishTopInc'); ?>
+	<?php $globalFunction->includeContent(2,'englishTopInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(2,'englishHeader'); ?>
-	<? $globalFunction->includeContent(2,'englishAboutSubNav'); ?>
+	<?php $globalFunction->includeContent(2,'englishHeader'); ?>
+	<?php $globalFunction->includeContent(2,'englishAboutSubNav'); ?>
 <div class="fullContainer">
 	<div class="container">
 		<iframe class="about__video" src="https://player.vimeo.com/video/234318690?color=b7962f&title=0&byline=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -61,7 +61,7 @@
 		</div>
 	</div>
 </div>
-	<? $globalFunction->includeContent(2,'englishFooter'); ?>
-	<? $globalFunction->includeContent(2,'botInc'); ?>
+	<?php $globalFunction->includeContent(2,'englishFooter'); ?>
+	<?php $globalFunction->includeContent(2,'botInc'); ?>
 </body>
 </html>

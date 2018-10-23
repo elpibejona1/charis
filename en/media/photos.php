@@ -2,11 +2,11 @@
 <?php require("../../_includes/directory.php"); ?>
 <html>
 <head>
-	<? $globalFunction->includeContent(2,'englishTopInc'); ?>
+	<?php $globalFunction->includeContent(2,'englishTopInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(2,'englishHeader'); ?>
-	<? $globalFunction->includeContent(2,'englishMediaSubNav'); ?>
+	<?php $globalFunction->includeContent(2,'englishHeader'); ?>
+	<?php $globalFunction->includeContent(2,'englishMediaSubNav'); ?>
 <div class="documents__background fullContainer">
 	<div class="container">
 		<div class="row row--archive">
@@ -248,7 +248,7 @@
 	<div id="alt-caption7" class="slideshow__caption"></div>
 </div>
 
-<? $globalFunction->includeContent(2,'englishFooter'); ?>
+<?php $globalFunction->includeContent(2,'englishFooter'); ?>
 <script src="../../_js/plugins/cycle2Swipe.js"></script>
 <script>
     $(document).ready(function() {
@@ -267,6 +267,6 @@
 			});
 		});
 </script>
-<? $globalFunction->includeContent(2,'botInc'); ?>
+<?php $globalFunction->includeContent(2,'botInc'); ?>
 </body>
 </html>

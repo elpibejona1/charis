@@ -2,11 +2,11 @@
 <?php require("../../_includes/directory.php"); ?>
 <html>
 <head>
-	<? $globalFunction->includeContent(2,'frenchTopInc'); ?>
+	<?php $globalFunction->includeContent(2,'frenchTopInc'); ?>
 </head>
 <body>
-<? $globalFunction->includeContent(2,'frenchHeader'); ?>
-<? $globalFunction->includeContent(2,'frenchGivingSubNav'); ?>
+<?php $globalFunction->includeContent(2,'frenchHeader'); ?>
+<?php $globalFunction->includeContent(2,'frenchGivingSubNav'); ?>
 <div class="container">
 	<div class="row row--documents">
 		<div class="interior__photo interior__photo--full">
@@ -26,7 +26,7 @@
 </div>
 
 </script>
-	<? $globalFunction->includeContent(2,'frenchFooter'); ?>
-	<? $globalFunction->includeContent(2,'botInc'); ?>
+	<?php $globalFunction->includeContent(2,'frenchFooter'); ?>
+	<?php $globalFunction->includeContent(2,'botInc'); ?>
 </body>
 </html>

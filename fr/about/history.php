@@ -2,11 +2,11 @@
 <?php require("../../_includes/directory.php"); ?>
 <html>
 <head>
-	<? $globalFunction->includeContent(2,'frenchTopInc'); ?>
+	<?php $globalFunction->includeContent(2,'frenchTopInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(2,'frenchHeader'); ?>
-	<? $globalFunction->includeContent(2,'frenchAboutSubNav'); ?>
+	<?php $globalFunction->includeContent(2,'frenchHeader'); ?>
+	<?php $globalFunction->includeContent(2,'frenchAboutSubNav'); ?>
 <div class="container container--historyMap">
 	<div class="row">
 		<?php include('../../_images/about/history/world.svg'); ?>
@@ -548,7 +548,7 @@
 		</div>
 	</div>
 </div>
-	<? $globalFunction->includeContent(2,'frenchFooter'); ?>
+	<?php $globalFunction->includeContent(2,'frenchFooter'); ?>
 	<script>
 		$('document').ready(function(){
 
@@ -559,6 +559,6 @@
 
 		});
 	</script>
-	<? $globalFunction->includeContent(2,'botInc'); ?>
+	<?php $globalFunction->includeContent(2,'botInc'); ?>
 </body>
 </html>

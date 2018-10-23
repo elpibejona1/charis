@@ -2,10 +2,10 @@
 <?php require("../_includes/directory.php"); ?>
 <html>
 <head>
-	<? $globalFunction->includeContent(1,'frenchTopInc'); ?>
+	<?php $globalFunction->includeContent(1,'frenchTopInc'); ?>
 </head>
 <body>
-	<? $globalFunction->includeContent(1,'frenchHeader'); ?>
+	<?php $globalFunction->includeContent(1,'frenchHeader'); ?>
 <div class="homeSlideShow cycle-slideshow"
 	data-cycle-fx="scrollHorz"
     data-cycle-speed="700"
@@ -65,7 +65,7 @@
 	</div>
 </div>
 
-	<? $globalFunction->includeContent(1,'frenchFooter'); ?>
-	<? $globalFunction->includeContent(1,'botInc'); ?>
+	<?php $globalFunction->includeContent(1,'frenchFooter'); ?>
+	<?php $globalFunction->includeContent(1,'botInc'); ?>
 </body>
 </html>
