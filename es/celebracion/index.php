@@ -18,9 +18,9 @@
 </div>
 <div class="container">
     <div class="row row--content">
-        <p class="copy copy--large">Su iglesia está invitada para unirse a cientos de iglesias más alrededor del mundo, para saber cómo Dios hizo que Charis existiera, y cómo está usando esta alianza vibrante para llevar la esperanza de Cristo a los confines de la tierra.</p>
-        <p class="copy">Únanse a otras iglesias alrededor del mundo celebrando nuestro movimiento global y buscando la bendición de Dios sobre nuestro compromiso común en pro de la verdad bíblica, las relaciones bíblicas y la misión bíblica.</p>
-        <p class="copy">Los siguientes recursos están diseñados para ayudarle a preparar su iglesia para este evento y tener una celebración exitosa.</p>
+        <p class="copy copy--large">Su iglesia está invitada a unirse a cientos de personas en todo el mundo para aprender cómo Dios trajo a Charis a la existencia y está utilizando esta vibrante alianza para llevar la esperanza de Cristo a los rincones del mundo. Lo alentamos a que seleccione un domingo para celebrar la Alianza Charis en su iglesia.</p>
+        <p class="copy">Hemos preparado dos videos animados para ayudar a su congregación a aprender sobre la alianza, y pueden unirse en oración para que Dios continúe bendiciendo este movimiento único. Además, contamos con gráficos para pantallas de proyección y redes sociales para la promoción de eventos. A continuación encontrará enlaces para descargar todos estos recursos.</p>
+        <p class="copy">Únase a las iglesias de todo el mundo para celebrar nuestro movimiento global y buscar la bendición de Dios sobre nuestra búsqueda común de la verdad bíblica, la relación bíblica y la misión bíblica.</p>
     </div>
     <div class="row">
         <div class="divider">
