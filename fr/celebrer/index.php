@@ -18,9 +18,9 @@
 </div>
 <div class="container">
     <div class="row row--content">
-        <p class="copy copy--large">Votre église est invitée à se joindre à des centaines d’autres dans le monde entier le dimanche 5 novembre, afin de découvrir la façon dont Dieu a amené Charis à l’existence et utilise cette alliance dynamique pour apporter l’espoir du Christ aux quatre coins du globe.</p>
-        <p class="copy">Rejoignez les églises du monde entier en célébrant notre mouvement mondial et en cherchant la bénédiction de Dieu sur notre quête commune de la vérité biblique, la relation biblique et la mission biblique.</p>
-        <p class="copy">Les ressources suivantes sont conçues pour vous aider à préparer votre église pour l’événement et à organiser une célébration réussie.</p>
+        <p class="copy copy--large">Votre église est invitée à se joindre à des centaines d'autres à travers le monde pour apprendre comment Dieu a créé Charis et utilise cette alliance dynamique pour apporter l'espoir de Christ aux quatre coins du monde. Nous vous encourageons à choisir un dimanche pour célébrer l'Alliance Charis dans votre église.</p>
+        <p class="copy">Nous avons préparé deux vidéos pour aider votre congrégation à mieux connaître l’alliance et vous pouvez prier ensemble pour que Dieu continue de bénir ce mouvement unique. De plus, nous avons des graphiques à projeter ou publier dans les réseaux sociaux pour la promotion de l'événement. Vous trouverez des liens pour télécharger toutes ces ressources ci-dessous.</p>
+        <p class="copy">Rejoignez les églises du monde entier pour célébrer notre mouvement mondial et rechercher la bénédiction de Dieu pour notre quête commune de la vérité biblique, des relations bibliques et de la mission biblique.</p>
     </div>
     <div class="row">
         <div class="divider">
