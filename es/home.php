@@ -32,7 +32,8 @@
 		<div class="content content--home content--video">
 			<h2>¿Qué es la Alianza de Charis?</h2>
 			<iframe class="about__video" src="https://player.vimeo.com/video/234542538?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-			<hr>
+			<iframe class="about__video" src="https://player.vimeo.com/video/296639077?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			<hr class="videoHR">
 		</div>
 	</div>
 	<div class="row">

@@ -35,8 +35,9 @@
 	<div class="row">
 		<div class="content content--home content--video">
 			<h2>What is the Charis Alliance?</h2>
-			<iframe class="about__video" src="https://player.vimeo.com/video/234318690?color=b7962f&title=0&byline=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-			<hr>
+			<iframe class="about__video" src="https://player.vimeo.com/video/234318690?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			<iframe class="about__video" src="https://player.vimeo.com/video/296002480?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			<hr class="videoHR">
 		</div>
 	</div>
 	<div class="row">
@@ -45,7 +46,7 @@
 			<div class="content content--third content--featured">
 				<a href="/celebration/">
 					<img src="../_images/news/thumbnail1.jpg" alt="">
-					<span>Charis Celebration Sunday. <br>Join us on November 5th!</span>
+					<span>Charis Celebration Sunday. <br>Join us!</span>
 				</a>
 			</div>
 			<div class="content content--third content--featured">

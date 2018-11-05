@@ -10,6 +10,7 @@
 <div class="fullContainer">
 	<div class="container">
 		<iframe class="about__video" src="https://player.vimeo.com/video/234315598?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<iframe class="about__video" src="https://player.vimeo.com/video/296640239?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 		<div class="row row--aboutIntroBlock">
 			<h2 class="about__heading">Qu’est-ce que l’Alliance Charis?</h2>
 			<p class="about__introText">De leurs modestes débuts jusqu’à leur impact mondial actuel, les églises de l’Alliance Charis partagent une même quête : annoncer fidèlement et de manière créative le Fils de Dieu et la Parole de Dieu parmi les diverses cultures de notre monde. Le mouvement a commencé dans un petit village allemand en 1708, lorsque huit hommes et femmes se sont engagés à créer une église fidèle aux enseignements du Nouveau Testament. La persécution les a bientôt obligés à émigrer en Amérique du Nord. Au cours des siècles, le mouvement s’est transformé, divisé et a grandi, jusqu’à être aujourd’hui représenté par des églises et des efforts de sensibilisation dans trente-trois pays. Alors que les églises individuelles et les groupes d’églises maintiennent leur autonomie, l’Alliance Charis fournit une plate-forme à ces églises qui veulent poursuivre des questions de bénéfices et d’intérêts communs.</p>

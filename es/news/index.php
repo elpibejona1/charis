@@ -17,7 +17,7 @@
 			</div>
 			<div class="news__description">
 				<h4>Miércoles 23 de agosto</h4>
-				<h3><a href="../celebracion/" target="_blank">Un Domingo Para Celebrar la Alianza de Charis</a></h3>
+				<h3><a href="../celebracion/" target="_blank">Un Domingo Para Celebrar la Alianza de Charis (2017)</a></h3>
 				<p>Su iglesia está invitada a unirse a cientos deiglesias más alrededor del mundo, el <span>domingo 5 de noviembre,</span> para saber cómo Dios hizo que Charis existiera, y cómo está usando esta alianza vibrante para llevar la esperanza de Cristo a los confines de la tierra. <a href="../celebracion/" target="_blank">Acceda a los recursos</a> diseñados para ayudarle a preparar su iglesia para este evento y tener una celebración&nbsp;exitosa.</p>
 			</div>
 		</div>

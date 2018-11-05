@@ -21,6 +21,13 @@
 						</a>
 					</div>
 					<div class="galleryPrev galleryPrev--video">
+						<a target="_blank" href="https://vimeo.com/296640239">
+							<img src="../../_images/media/videos/video5.jpg" alt="">
+							<h3>L'histoire de Charis 2</h3>
+							<p>Continuant à regarder l’histoire de l’Alliance Charis, cette vidéo suit la croissance du mouvement du début des années 1900.</p>
+						</a>
+					</div>
+					<div class="galleryPrev galleryPrev--video">
 						<a target="_blank" href="https://vimeo.com/162081663">
 							<img src="../../_images/media/videos/video3.jpg" alt="">
 							<h3>L'Alliance Charis</h3>

@@ -36,7 +36,8 @@
 		<div class="content content--home content--video">
 			<h2>Qu’est-ce que Charis?</h2>
 			<iframe class="about__video" src="https://player.vimeo.com/video/234315598?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-			<hr>
+			<iframe class="about__video" src="https://player.vimeo.com/video/296640239?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			<hr class="videoHR">
 		</div>
 	</div>
 	<div class="row">

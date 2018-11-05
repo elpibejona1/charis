@@ -21,6 +21,13 @@
 						</a>
 					</div>
 					<div class="galleryPrev galleryPrev--video">
+						<a target="_blank" href="https://vimeo.com/296639077">
+							<img src="../../_images/media/videos/video5.jpg" alt="">
+							<h3>La Historia de la Alianza de Charis&nbsp;2</h3>
+							<p>Continuando con la historia de la Alianza Charis, este video sigue el crecimiento del movimiento desde principios del siglo XX.</p>
+						</a>
+					</div>
+					<div class="galleryPrev galleryPrev--video">
 						<a target="_blank" href="https://vimeo.com/162078890">
 							<img src="../../_images/media/videos/video3.jpg" alt="">
 							<h3>La Alianza de Charis</h3>

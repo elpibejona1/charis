@@ -447,7 +447,7 @@ var mobileHamburger = function(){
 			});
 			
 			$headerButtons.removeClass('active');
-			$headerNav.removeClass('active');
+			TweenMax.to($headerNav, 0.25, { className: '-=active'});
 
 			$closeEverything.removeClass('active');
 
@@ -459,7 +459,7 @@ var mobileHamburger = function(){
 			});
 
 			$headerButtons.addClass('active');
-			$headerNav.addClass('active');
+			TweenMax.to($headerNav, 0.25, { className: '+=active'});
 
 			$closeEverything.addClass('active');
 
