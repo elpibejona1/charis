@@ -10,19 +10,29 @@
     <div class="row">
         <div class="hero">
             <div class="hero__title">
-                <h1>Charis</h1>
-                <h2>Celebration<span>Sunday</span</h2>
+                <h1>Charis Sunday</h1>
             </div>
         </div>
     </div>
 </div>
 <div class="container">
     <div class="row row--content">
-        <p class="copy copy--large">Your church is invited to join with hundreds of others around the world to learn about how God brought Charis into existence and is using this vibrant alliance to bring the hope of Christ to the corners of the globe. We encourage you to select a Sunday to celebrate the Charis Alliance in your&nbsp;church.</p>
-        <p class="copy">We have prepared two animated videos to help your congregation learn about the alliance, and you can join together in prayer that God continues to bless this unique movement. In addition, we have graphics for projection screens and social media for event promotion. You will find links to download all of these resources below.</p>
-        <p class="copy">Join churches around the world in celebrating our global movement and seeking God’s blessing upon our common pursuit of biblical truth, biblical relationship and biblical mission.</p>
+		<p class="copy copy--large">For them, living the gospel means facing the unimaginable.</p>
+		<p class="copy copy--large">Learn their stories and join together in prayer.</p>
+		<p class="copy">Physical brutality. Destroyed property. Cast out from society. These are the realities of countless Christians within our global movement. On Sunday, November 3, 2019, churches around the globe will join together to pray for those in the global Charis Alliance who are facing such atrocities.</p>
+        <p class="copy">Will you dedicate 6-12 minutes during your service or small group to watch a short video and pray together for these brothers and sisters?</p>
+        <p class="copy">Click the links below to download and share this video.</p>
     </div>
-    <div class="row">
+	<div class="row">
+		<div class="resourceThird resourceThird--video resourceThird--single">
+			<a class="resourceThird__videoLink" href="https://vimeo.com/365414420" target="_blank">
+				<img src="../../_images/celebration/persecuted/video.jpg" alt="">
+				View Video
+			</a>
+			<a target="_blank" href="https://vimeo.com/encompassworldpartners/download/365414420/601698f5c7">Download Video</a>
+        </div>
+	</div>
+    <!-- <div class="row">
         <div class="divider">
             <img src="../../_images/celebration/divider.png" alt="">
         </div>
@@ -81,7 +91,7 @@
             <h3>The Charis Alliance (short&nbsp;version)</h3></a>
             <p>This video is a shortened version of the introduction and overview of the Charis Alliance.</p>
         </div>
-    </div>
+	</div> -->
     <div class="row">
         <img src="../../_images/celebration/watermark.png" alt="" class="watermark">
     </div>

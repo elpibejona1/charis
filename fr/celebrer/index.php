@@ -10,19 +10,29 @@
     <div class="row">
         <div class="hero">
             <div class="hero__title">
-                <h1>Charis</h1>
-                <h2>dimanche de <span>célébration</span</h2>
+                <h1>Dimanche de Charis</h1>
             </div>
         </div>
     </div>
 </div>
 <div class="container">
     <div class="row row--content">
-        <p class="copy copy--large">Votre église est invitée à se joindre à des centaines d'autres à travers le monde pour apprendre comment Dieu a créé Charis et utilise cette alliance dynamique pour apporter l'espoir de Christ aux quatre coins du monde. Nous vous encourageons à choisir un dimanche pour célébrer l'Alliance Charis dans votre église.</p>
-        <p class="copy">Nous avons préparé deux vidéos pour aider votre congrégation à mieux connaître l’alliance et vous pouvez prier ensemble pour que Dieu continue de bénir ce mouvement unique. De plus, nous avons des graphiques à projeter ou publier dans les réseaux sociaux pour la promotion de l'événement. Vous trouverez des liens pour télécharger toutes ces ressources ci-dessous.</p>
-        <p class="copy">Rejoignez les églises du monde entier pour célébrer notre mouvement mondial et rechercher la bénédiction de Dieu pour notre quête commune de la vérité biblique, des relations bibliques et de la mission biblique.</p>
+        <p class="copy copy--large">Pour eux, vivre l’évangile, c’est faire face à l’inimaginable.</p>
+		<p class="copy copy--large">Écoutez leurs histoires et réunissons-nous dans la prière.</p>
+        <p class="copy">Brutalité physique. Destruction de biens. Chassés de la société. Telles sont les réalités d&#39;innombrables chrétiens au sein de notre mouvement mondial. Le dimanche 3 novembre 2019, des églises du monde entier se réuniront pour prier pour les membres de l&#39;alliance mondiale Charis qui font face à de telles atrocités.</p>
+		<p class="copy">Allez-vous consacrer 6 à 12 minutes pendant votre service ou en petit groupe pour regarder une courte vidéo et prier ensemble pour ces frères et sœurs?</p>
+		<p class="copy">Cliquez sur le lien ci-dessous pour télécharger et partager cette vidéo.</p>
     </div>
-    <div class="row">
+	<div class="row">
+		<div class="resourceThird resourceThird--video resourceThird--single">
+			<a class="resourceThird__videoLink" href="https://vimeo.com/153226056" target="_blank">
+				<img src="../../_images/celebration/video2.jpg" alt="">
+				Regarder la vidéo
+			</a>
+			<a href="" target="_blank">Télécharger la vidéo</a>
+        </div>
+	</div>
+   <!--  <div class="row">
         <div class="divider">
             <img src="../../_images/celebration/divider.png" alt="">
         </div>
@@ -81,7 +91,7 @@
             Rencontre Internationale des Leaders de Charis à
             Bangkok, en Thaïlande.</p>
         </div>
-    </div>
+    </div> -->
     <div class="row">
         <img src="../../_images/celebration/watermark.png" alt="" class="watermark">
     </div>

@@ -10,19 +10,29 @@
     <div class="row">
         <div class="hero">
             <div class="hero__title">
-                <h1>Charis</h1>
-                <h2>Domingo de <span>Celebración</span</h2>
+                <h1>Domingo de Charis</h1>
             </div>
         </div>
     </div>
 </div>
 <div class="container">
     <div class="row row--content">
-        <p class="copy copy--large">Su iglesia está invitada a unirse a cientos de personas en todo el mundo para aprender cómo Dios trajo a Charis a la existencia y está utilizando esta vibrante alianza para llevar la esperanza de Cristo a los rincones del mundo. Lo alentamos a que seleccione un domingo para celebrar la Alianza Charis en su iglesia.</p>
-        <p class="copy">Hemos preparado dos videos animados para ayudar a su congregación a aprender sobre la alianza, y pueden unirse en oración para que Dios continúe bendiciendo este movimiento único. Además, contamos con gráficos para pantallas de proyección y redes sociales para la promoción de eventos. A continuación encontrará enlaces para descargar todos estos recursos.</p>
-        <p class="copy">Únase a las iglesias de todo el mundo para celebrar nuestro movimiento global y buscar la bendición de Dios sobre nuestra búsqueda común de la verdad bíblica, la relación bíblica y la misión bíblica.</p>
-    </div>
-    <div class="row">
+		<p class="copy copy--large">Para ellos, vivir el evangelio significa enfrentar lo inimaginable.</p>
+		<p class="copy copy--large">Conoce sus historias y únete en oración.</p>
+        <p class="copy">Brutalidad física. Propiedad destruida. Expulsado de la sociedad. Estas son las realidades de innumerables cristianos dentro de nuestro movimiento global. El domingo 3 de noviembre de 2019, las iglesias de todo el mundo se unirán para rezar por aquellos en la Alianza Global Charis que enfrentan tales atrocidades.</p>
+		<p class="copy">¿Dedicará 6-12 minutos durante su servicio o grupo pequeño para ver un video corto y orar juntos por estos hermanos y hermanas?</p>
+		<p class="copy">Haga clic en el enlace a continuación para descargar y compartir este video.</p>
+	</div>
+	<div class="row">
+		<div class="resourceThird resourceThird--video resourceThird--single">
+			<a class="resourceThird__videoLink" href="https://vimeo.com/153226056" target="_blank">
+				<img src="../../_images/celebration/video2.jpg" alt="">
+				Ver video
+			</a>
+			<a href="" target="_blank">Descargar video</a>
+        </div>
+	</div>
+    <!-- <div class="row">
         <div class="divider">
             <img src="../../_images/celebration/divider.png" alt="">
         </div>
@@ -80,7 +90,7 @@
             <h3>LA ALIANZA DE CHARIS (Portugués)</h3></a>
             <p>Este video es una presentación y un vistazo general de la Alianza de Charis, un movimiento de iglesias de Los Hermanos por Gracia alrededor del mundo. Finalizó a comienzos del año 2016. La mayoría de las imágenes de este video fueron tomadas en OCT/NOV 2015, en el Encuentro Internacional de Liderazgo de Charis en Bangkok, Tailandia.</p>
         </div>
-    </div>
+    </div> -->
     <div class="row">
         <img src="../../_images/celebration/watermark.png" alt="" class="watermark">
     </div>

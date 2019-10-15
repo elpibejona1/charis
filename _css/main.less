@@ -1522,16 +1522,19 @@ p.interior__description__subTitle {
 	bottom: 0;
 	.transform(translateX(-50%));
 	text-align: center;
-	padding: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 
-	h1 {
+	/* h1 {
 		font-size: 60px;
 		color: @white;
 		font-family: 'Raleway', sans-serif;
-	}
+	} */
 
-	h2 {
-		font-size: 18px;
+	/* h2 { */
+	h1 {
+		font-size: 30px;
 		color: @lGray;
 		font-family: 'Raleway', sans-serif;
 		font-weight: 600;
@@ -1654,6 +1657,21 @@ p.interior__description__subTitle {
 	}
 
 	&--half { .columns(6); height: auto; }
+
+	&--single {
+		.columns(6);
+		padding-left: 0;
+
+		a {
+			display: block;
+			font-family: 'Raleway', sans-serif;
+			color: @tea;
+			text-decoration: underline;
+			font-size: 16px;
+
+			+ a { margin-top: 20px; }
+		}
+	}
 }
 
 .videoList { 
