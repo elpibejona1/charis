@@ -26,10 +26,9 @@
 	<div class="row">
 		<div class="resourceThird resourceThird--video resourceThird--single">
 			<a class="resourceThird__videoLink" href="https://vimeo.com/365414420" target="_blank">
-				<img src="../../_images/celebration/persecuted/video.jpg" alt="">
-				View Video
+				<img src="../../_images/celebration/persecuted/video-english.jpg" alt="">
 			</a>
-			<a target="_blank" href="https://vimeo.com/encompassworldpartners/download/365414420/601698f5c7">Download Video</a>
+			<a target="_blank" href="https://vimeo.com/encompassworldpartners/download/365414420/601698f5c7">DOWNLOAD VIDEO</a>
         </div>
 	</div>
     <!-- <div class="row">
