@@ -11,7 +11,7 @@
 	<div class="container">
 		<div class="row row--documents">
 			<div class="interior__photo">
-				<img src="../../_images/home/thumbnail3.jpg" alt="">
+				<img src="../../_images/documents/primary/thumbnail3.jpg" alt="">
 			</div>
 			<div class="interior__description">
 				<p><span>Charte de l’Alliance Charis</span> - Que signifie être membre de <strong>l’Alliance Charis </strong>? Accéder aux définitions, à une description des responsabilités et des avantages des membres et aux informations sur l’instance dirigeante de ce partenariat international.</p>
@@ -25,7 +25,7 @@
 		</div>
 		<div class="row row--documents">
 			<div class="interior__photo">
-				<img src="../../_images/home/thumbnail2.jpg" alt="">
+				<img src="../../_images/documents/primary/thumbnail2.jpg" alt="">
 			</div>
 			<div class="interior__description">
 				<p><span>Identité Commune de l’Alliance Charis</span> - Approuvé à l’unanimité par les délégués de la Rencontre Internationale de Leadership de Charis 2015, ce document historique est une expression véritablement globale des valeurs et des croyances du mouvement des Églises des Frères.</p>

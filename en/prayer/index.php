@@ -41,7 +41,7 @@
 <div id="prayerengine"><!-- "prayerengine" body id must be present for correct styling -->
 	<div class="container">
 		<div class="row">
-			<h1>Charis Alliance Prayer Wall</h1>
+			<h1>Global Prayer Wall</h1>
 		</div>
 		<div class="row">
 <!-- PRAYER ENGINE PRAYER WALL - EDIT AT YOUR OWN RISK! -->	

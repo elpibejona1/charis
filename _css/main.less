@@ -523,13 +523,14 @@ footer {
 			&:first-child { padding-top: 10px; }
 		}
 
-		a { 
-				text-decoration: none;
-				font-family: 'Raleway', sans-serif;
-				font-size: 20px;
-				font-weight: 600;
-				color: @gold;
-			}
+		a {
+			text-decoration: none;
+			font-family: 'Raleway', sans-serif;
+			font-size: 20px;
+			color: @tea;
+
+			&:hover { text-decoration: underline; }
+		}
 	}
 
 	&--gray { background-color: @gray; }
@@ -607,8 +608,7 @@ footer {
 		padding: 0 10px;
 		line-height: 1.2;
 		text-decoration: none;
-
-		strong { font-weight: 700; }
+		font-weight: 700;
 	}
 
 	+ .homeLink { margin-left: 15px; }

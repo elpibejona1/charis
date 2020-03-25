@@ -11,7 +11,7 @@
 	<div class="container">
 		<div class="row row--documents">
 			<div class="interior__photo">
-				<img src="../../_images/home/thumbnail3.jpg" alt="">
+				<img src="../../_images/documents/primary/thumbnail3.jpg" alt="">
 			</div>
 			<div class="interior__description">
 				<p><span>Charis Alliance Charter</span> - What does it mean to be a member of the  <strong>Charis Alliance</strong>? Access definitions, a description of member benefits and responsibilities, and information on the governing body of this international partnership.</p>
@@ -27,7 +27,7 @@
 		</div>
 		<div class="row row--documents">
 			<div class="interior__photo">
-				<img src="../../_images/home/thumbnail2.jpg" alt="">
+				<img src="../../_images/documents/primary/thumbnail2.jpg" alt="">
 			</div>
 			<div class="interior__description">
 				<p><span>Charis Commitment to a Common Identity</span> - Unanimously approved by the delegates of the 2015 CILE, this historic document is a truly global expression of the common values and beliefs of the Grace Brethren movement.</p>

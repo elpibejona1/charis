@@ -11,7 +11,7 @@
 	<div class="container">
 		<div class="row row--documents">
 			<div class="interior__photo">
-				<img src="../../_images/home/thumbnail3.jpg" alt="">
+				<img src="../../_images/documents/primary/thumbnail3.jpg" alt="">
 			</div>
 			<div class="interior__description">
 				<p><span>Estatutos de la Alianza de Charis:</span> - ¿Qué significa ser un miembro de la  <strong>Charis Alliance</strong>? Acceda a definiciones, descripciones de los beneficios y responsabilidades, y a la información del cuerpo que dirige esta asociación internacional.</p>
@@ -25,7 +25,7 @@
 		</div>
 		<div class="row row--documents">
 			<div class="interior__photo">
-				<img src="../../_images/home/thumbnail2.jpg" alt="">
+				<img src="../../_images/documents/primary/thumbnail2.jpg" alt="">
 			</div>
 			<div class="interior__description">
 				<p><span>El Compromiso de Charis a la Identidad Común</span> - Aprobado por unanimidad por los delegados de EILC 2015, este documento histórico es una expresión verdaderamente global de los valores y creencias en común del movimiento de La Iglesia de los Hermanos por Gracia.</p>
