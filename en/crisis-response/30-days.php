@@ -6,7 +6,7 @@
 </head>
 <body>
 	<?php $globalFunction->includeContent(2,'englishHeader'); ?>
-<div class="documents__background fullContainer">
+<div class="thirtyDaysPage fullContainer">
 	<div class="container">
 		<div class="row">
 			<div class="thirtyDaysContent">
