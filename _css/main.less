@@ -987,6 +987,8 @@ p.interior__description__subTitle {
 	font-size: 18px;
 	color: @gray;
 	line-height: 1.6;
+
+	+ .about__introText { margin-top: 20px; }
 }
 
 .about__highlight {
@@ -1808,6 +1810,47 @@ p.interior__description__subTitle {
 
 .footer--404 { height: 141px; }
 
+// Crisis Response Section - 30 Days
+.thirtyDaysContent:first-child {
+	.columns(11);
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.coverImg {
+	float: left;
+	margin-right: 20px;
+	width: 200px;
+}
+
+.thirtyDays__heading {
+	font-family: 'Kaushan Script', cursive;
+	color: @tea;
+	font-size: 40px;
+	font-weight: 600;
+	margin-bottom: 20px;
+	line-height: 1.2;
+}
+
+.thirtyDays__text {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	color: @gray;
+	line-height: 1.6;
+
+	+ .thirtyDays__text { margin-top: 20px; }
+
+	a {
+		color: #696969;
+		padding-bottom: 2px;
+		text-decoration: none;
+		border-bottom: 1px solid #696969;
+		line-height: 1.6;
+
+		&:hover { color: @dGold; border-bottom: 1px solid @dGold;; }
+	}
+}
+
 // Prayer Engine Page
 div#prayerengine { font-family: 'Raleway', sans-serif; }
 
@@ -1949,6 +1992,11 @@ div#prayerengine {
 	.subNav__item--wide { 
 		width: 300px !important;
 	}
+}
+
+@media only screen and (max-width: 900px) {
+	// 30 Days
+	.thirtyDays__heading br { display: none; }
 }
 
 @media only screen and (max-width: 890px) {
@@ -2406,6 +2454,17 @@ div#prayerengine {
 
 	.content--history.history--first h1,
 	.history--last h1 { width: 100%; text-align: center; }
+
+	// 30 Days
+	.coverImg {
+		float: none;
+		width: auto;
+		max-width: 100%;
+		margin-bottom: 10px; 
+		margin-left: -10px;
+	}
+
+	.thirtyDays__heading { display: none; }
 }
 
 @media only screen and (max-width: 580px) {
