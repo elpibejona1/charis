@@ -20,7 +20,7 @@
 					<li><a href="<?php echo $directory ?>en/media/photos.php">Photo Archive</a></li>
 				</ul>
 			<li><a href="<?php echo $directory ?>en/news/index.php">News</a></li>
-			<li><a href="https://moreblessed.net/donate/to/charisalliance">Giving</a></li>
+			<!-- <li><a href="https://moreblessed.net/donate/to/charisalliance">Giving</a></li> -->
 			<li class="featured"><a href="<?php echo $directory ?>en/prayer/">Global <br>Prayer Wall</a></li>
 		
 			<div class="header__languages">

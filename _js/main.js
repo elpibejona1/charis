@@ -25,6 +25,7 @@ var statusIndication = function() {
 				$(this).parent().addClass('active');
 			}
 		});
+		console.log(folder + ', ' + directory)
 	}
 	mainMenu();
 
@@ -435,9 +436,16 @@ var mobileHamburger = function(){
 	var $headerNav = $('.header__nav');
 	var $closeEverything = $('.closeEverything');
 
+
+	var menuTl = new TimelineMax({ paused: true })
+
+	menuTl.to($headerNav, 0, { display: 'block' })
+		.to($headerNav, 0.25, { x: 0, ease: Power0.easeNone })
+
 	$headerButtons.on('click', function(){
 
 		var animateHamburger = new TimelineMax();
+
 
 		if ($headerButtons.hasClass('active')) {
 
@@ -447,7 +455,7 @@ var mobileHamburger = function(){
 			});
 			
 			$headerButtons.removeClass('active');
-			TweenMax.to($headerNav, 0.25, { className: '-=active'});
+			menuTl.reverse();
 
 			$closeEverything.removeClass('active');
 
@@ -457,9 +465,8 @@ var mobileHamburger = function(){
 				'overflow-y': 'hidden',
 				'height': '100%'
 			});
-
 			$headerButtons.addClass('active');
-			TweenMax.to($headerNav, 0.25, { className: '+=active'});
+			menuTl.play();
 
 			$closeEverything.addClass('active');
 

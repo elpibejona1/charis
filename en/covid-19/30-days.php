@@ -4,7 +4,7 @@
 <head>
 	<?php $globalFunction->includeContent(2,'englishTopInc'); ?>
 </head>
-<body>
+<body class="noLang">
 	<?php $globalFunction->includeContent(2,'englishHeader'); ?>
 <div class="thirtyDaysPage fullContainer">
 	<div class="container">

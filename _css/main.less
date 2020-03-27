@@ -43,6 +43,9 @@
 
 body { margin: 0; overflow-x: hidden; }
 
+// HIDE LANGUAGE OPTIONS FOR PAGES IN JUST ONE LANGUAGE
+.noLang .header__languages { opacity: 0; visibility: hidden; }
+
 .body__noLangBar .header__languages { display: none; }
 
 strong { font-weight: 600; }
@@ -148,6 +151,8 @@ header {
 
 				&.active a { border-bottom: none; }
 			}
+
+			&.twoLines { margin-top: 33px; text-align: center; }
 		}
 	}
 }
@@ -424,6 +429,12 @@ footer {
 
 // Home Page Styles
 
+.homeVideo {
+	margin-top: 20px;
+	margin-right: 20px;
+	float: left;
+}
+
 .homeSlideShow {
 	background-color: @gray;
 	margin-top: 35px;
@@ -596,7 +607,6 @@ footer {
 
 .homeLink {
 	position: relative;
-	width: 100% / 4;
 	text-decoration: none;
 	color: @tea;
 	
@@ -615,6 +625,33 @@ footer {
 
 	&:hover,
 	&:focus p { text-decoration: underline; }
+
+	&--half { width: 50%; }
+	&--third { width: 100% / 3; }
+}
+
+.homeBlurb {
+	padding: 15px 0;
+	background-color: fade(@gray, 80%);
+	color: @white;
+	border: 1px solid @tea;
+	border-bottom: 5px solid @tea;
+	z-index: 999;
+
+	h2 {
+		font-family: "Kaushan Script", serif;
+		font-size: 40px;
+		margin-bottom: 20px;
+		opacity: 1;
+		color: @gold;
+	}
+
+	p {
+		font-family: "Raleway", sans-serif;
+		font-size: 18px;
+		line-height: 1.5;
+		opacity: 1;
+	}
 }
 
 // Document Pages Styles
@@ -1855,6 +1892,16 @@ p.interior__description__subTitle {
 	}
 }
 
+// Crisis Response Resources
+.crisisResources__heading {
+	font-family: 'Kaushan Script', cursive;
+	color: @tea;
+	font-size: 40px;
+	font-weight: 600;
+	margin-bottom: 20px;
+	line-height: 1.2;
+}
+
 // Prayer Engine Page
 div#prayerengine { font-family: 'Raleway', sans-serif; }
 
@@ -2053,7 +2100,7 @@ div#prayerengine {
 
 @media screen and (max-width: 870px) {
 
-	// Choose Language Page
+	// Choose Language Page        
 
 	.chooseLang li { margin-right: calc(~'10% / 6'); margin-left: calc(~'10% / 6'); }
 
@@ -2077,12 +2124,14 @@ div#prayerengine {
     	width: 275px;
     	padding: 20px;
     	margin-left: 0;
-    	position: absolute;
-    	right: -275px;
-    	top: 0;
+    	position: fixed;
+    	right: 0;
+		top: 0;
+		transform: translateX(275px);
     	z-index: 999999999999999;
 		background-color: rgba(230, 230, 230, 0.9);
 		transition: all 0.5s;
+		display: none;
 
     	li {
     		display: block;
@@ -2092,7 +2141,8 @@ div#prayerengine {
 			text-align: left;
 		}
 		
-		li.featured {
+		li.featured
+		li.twoLines {
 			text-align: left;
 			margin-top: 20px;
 
@@ -2101,8 +2151,6 @@ div#prayerengine {
 
     	
 	}
-
-	.header__nav.active { right: 0; }
 
 	.header__nav__first { margin-top: 40px!important; }
 	
@@ -2296,6 +2344,22 @@ div#prayerengine {
 // Mobile nav for mobile screen
 @media only screen and (max-height: 570px) and (max-width: 870px) {
 	.header__nav { height: 85vh; overflow-y: scroll; }
+}
+
+@media only screen and (max-width: 767px) {
+	// COVID Home Page
+	.content--home h2 { line-height: 1.2; }
+
+	.content--home {
+		p,
+		a { text-align: left; font-size: 14px; }
+	}
+
+	.content--covid { display: block; }
+
+	.homeLink { display: inline-block; max-width: 100%; width: auto; }
+
+	.homeLink + .homeLink { margin-left: 0; margin-top: 40px; }
 }
 
 @media screen and (max-width: 750px) {

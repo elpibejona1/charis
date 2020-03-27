@@ -36,7 +36,7 @@
 	<!-- end display fixes for Internet Explorer -->
 <!-- END PRAYER ENGINE HEADER FILES -->
 </head>
-<body>
+<body class="noLang">
 <?php $globalFunction->includeContent(2,'englishHeader'); ?>
 <div id="prayerengine"><!-- "prayerengine" body id must be present for correct styling -->
 	<div class="container">
