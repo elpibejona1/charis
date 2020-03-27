@@ -14,5 +14,5 @@
 <link rel="shortcut icon" href="<?php echo $directory ?>favicon.ico?v2" />
 <script src="https://kit.fontawesome.com/b26ed14651.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
-<link rel="stylesheet" href="<?php echo $directory ?>_css/main.css?v3"/>
+<link rel="stylesheet" href="<?php echo $directory ?>_css/main.css?v2020-03-27"/>
 

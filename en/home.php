@@ -23,7 +23,7 @@
 			<div class="content content--covid">
 				<a data-fancybox href="https://vimeo.com/401111300" class="homeLink homeLink--half">
 					<img src="../_images/home/thumbnail0.jpg" alt="">
-					<p>COVID-19 Announcement</p>
+					<p>WELCOME and SPECIAL ANNOUNCEMENTS</p>
 				</a>
 				<a href="prayer/" class="homeLink homeLink--half">
 					<img src="../_images/home/thumbnail3.jpg" alt="">

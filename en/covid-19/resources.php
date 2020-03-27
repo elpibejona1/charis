@@ -16,7 +16,7 @@
 				<p><span>Make a Protective Mask:</span> <br>This mask can provide protection the Covid-19 virus or protect others if you are infected (in the absence of regulatory masks; this mask does not provide complete viral protection).</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/charter/The_Charis_Alliance_Charter_(v2015.0)_letter_size.pdf">Download</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/crisis-response/resources/Protective-Mask-Notice.pdf">Download</a></li>
 					</ul>
 				</div>
 			</div>
@@ -29,7 +29,7 @@
 				<p><span>Ten Perspectives on Coronavirus:</span> <br>10 Perspectives and supporting verses intended to bring comfort and renew motivation for service during these difficult times.</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/ccci/Our_Commitment_to_Common_Identity_(ENG_v2015.0_Letter).pdf">Download</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/crisis-response/resources/Ten_Perspectives_on_Covid19.pdf">Download</a></li>
 					</ul>
 				</div>
 			</div>
