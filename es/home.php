@@ -3,6 +3,8 @@
 <html>
 <head>
 	<?php $globalFunction->includeContent(1,'spanishTopInc'); ?>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+	<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 </head>
 <body>
 	<?php $globalFunction->includeContent(1,'spanishHeader'); ?>
