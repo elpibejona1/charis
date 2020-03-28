@@ -6,59 +6,51 @@
 </head>
 <body>
 	<?php $globalFunction->includeContent(1,'spanishHeader'); ?>
-<div class="homeSlideShow cycle-slideshow"
-	data-cycle-fx="scrollHorz"
-    data-cycle-speed="700"
-	>
-	<img src="../_images/home/slide1.jpg" alt="">
-	<img src="../_images/home/slide2.jpg" alt="">
-	<img src="../_images/home/slide3.jpg" alt="">
-	<img src="../_images/home/slide4.jpg" alt="">
-	<img src="../_images/home/slide5.jpg" alt="">
-	<img src="../_images/home/slide6.jpg" alt="">
-	<img src="../_images/home/slide7.jpg" alt="">
-	<img src="../_images/home/slide8.jpg" alt="">
-</div>
-<div class="container container--callout">
-	<div class="row">
-		<div class="homeSlideShow__callout">
-			<h2>La Alianza de Charis ...</h2>
-			<p>... intenta obedecer a la Gran Comisión mediante la promoción de la comunión fraternal y la cooperación a nivel regional e internacional entre las asociaciones de iglesias que apoyan el Compromiso de Charis a la Misión Común y al Compromiso de Charis a la Identidad Común.</p>
-		</div>
+	<div class="homeBlurb">
+	<div class="container">
+		<h2>La Alianza de Charis ...</h2>
+		<p>... intenta obedecer a la Gran Comisión mediante la promoción de la comunión fraternal y la cooperación a nivel regional e internacional entre las asociaciones de iglesias que apoyan el Compromiso de Charis a la Misión Común y al Compromiso de Charis a la Identidad Común.</p>
 	</div>
-</div>
+</div>	
 <div class="container">
-	<div class="row">
+	<div id="covid19" class="row">
 		<div class="content content--home content--video">
-			<h2>¿Qué es la Alianza de Charis?</h2>
-			<iframe class="about__video" src="https://player.vimeo.com/video/234542538?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-			<iframe class="about__video" src="https://player.vimeo.com/video/296639077?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-			<hr class="videoHR">
+			<h2>La Alianza Charis y el COVID-19</h2>
+			<p>En respuesta a la pandemia global producida por el COVID-19, los líderes y las iglesias de la Alianza global de Charis reafirman &quot;que el plan de Dios para esta era incluye nuestra responsabilidad de expresar la compasión de Cristo al proclamar el Evangelio en palabras mientras amamos con obras. Estamos comprometidos a encontrar formas creativas y prácticas para abordar las necesidades físicas, emocionales,sociales y espirituales” de nuestras comunidades (ver <a href="documents/documents.php">Compromiso con la identidad común</a>, Sección Tres)</p>
+			<div class="content content--covid">
+				<a data-fancybox href="https://vimeo.com/401675644" class="homeLink homeLink--half">
+					<img src="../_images/home/thumbnail0.jpg" alt="">
+					<p>BIENVENIDO y ANUNCIOS ESPECIALES</p>
+				</a>
+				<a href="oracion/" class="homeLink homeLink--half">
+					<img src="../_images/home/thumbnail3.jpg" alt="">
+					<p>Muro de oración global de la Alianza de Charis</p>
+				</a>
+			</div>
+			<p>En un esfuerzo por servir mejor a nuestros líderes e iglesias, estamos actualizando este sitio web para coordinar y promover mejor nuestros esfuerzos compartidos para ayudar a los afectados por la crisis actual. Si es nuevo en este sitio, lo invitamos a seguir los enlaces enumerados anteriormente para obtener más información sobre la Alianza de Charis.</p>
+		</div>
+		<div class="row">
+		<div class="content content--covid">
+			<h2>En Respuesta a la Crisis del COVID-19:</h2>
 		</div>
 	</div>
 	<div class="row">
-		<div class="content content--home">
-			<h2>Contenido Destacado:</h2>
-			<div class="content content--third content--featured">
-				<a href="celebracion/index.php">
-					<img src="../_images/news/thumbnail1.jpg" alt="">
-					<span>Domingo de Celebración. Celebre nuestro movimiento&nbsp;global.</span>
-				</a>
-			</div>
-			<div class="content content--third content--featured">
-				<a href="about/about.php">
-					<img src="../_images/home/thumbnail3.jpg" alt="">
-					<span>¿Qué es Charis? Quiénes somos y qué creemos.</span>
-				</a>
-			</div>
-			<div class="content content--third content--featured">
-				<a href="documents/documents.php">
-					<img src="../_images/home/thumbnail2.jpg" alt="">
-					<span>Acceda a los Estatutos de Charis y a otros documentos de nuestra alianza.</span>
-				</a>
-			</div>
-			<hr>
+		<div class="content content--covid">
+			<a href="covid-19/30-days.php" class="homeLink homeLink--third">
+				<img src="../_images/home/thumbnail1.jpg" alt="">
+				<p>Devocional diario para ser resilientes durante la crisis</p>
+			</a>
+			<a href="covid-19/resources.php" class="homeLink homeLink--third">
+				<img src="../_images/home/thumbnail2.jpg" alt="">
+				<p>Recursos que pueden ser de ayuda en estos tiempos crisis</p>
+			</a>
+			<a target="_blank" href="http://encompasscrisisresponse.org/crisis-form/" class="homeLink homeLink--third">
+				<img src="../_images/home/thumbnail4.jpg" alt="">
+				<p>Cómo pedir ayuda en estos tiempos de crisis</p>
+			</a>
 		</div>
+	</div>
+
 	</div>
 </div>
 	<?php $globalFunction->includeContent(1,'spanishFooter'); ?>

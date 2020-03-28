@@ -47,7 +47,7 @@
 				<img src="../_images/home/thumbnail2.jpg" alt="">
 				<p>Helpful Resources for Responding to the Crisis</p>
 			</a>
-			<a href="mailto:bwooler@encompassworld.org" class="homeLink homeLink--third">
+			<a target="_blank" href="http://encompasscrisisresponse.org/crisis-form/" class="homeLink homeLink--third">
 				<img src="../_images/home/thumbnail4.jpg" alt="">
 				<p>How to request assistance for Meeting Crisis Needs</p>
 			</a>

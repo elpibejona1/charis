@@ -94,8 +94,6 @@ header {
 	&__nav { 
 		float: right;
 		position: relative;
-		&--french { width: 625px; }
-		&--spanish { width: 540px; }
 
 		// Widths with Giving Link
 		/* &--french { width: 702px; }
@@ -1905,12 +1903,21 @@ p.interior__description__subTitle {
 // Prayer Engine Page
 div#prayerengine { font-family: 'Raleway', sans-serif; }
 
+.pe-count-area { width: 330px; }
+
 .pe-count-area a.submitlink:link,
 .pe-count-area a.submitlink:visited { background-color: @red; }
 
 .pe-count-area a.submitlink {
 	height: auto;
 	padding: 5px 10px;
+	font-size: 12px;
+	width: 170px;
+}
+
+#prayerengine .pe-count-area blockquote {
+	font-size: 12px;
+	width: 170px;
 }
 
 #pe-form-container input.submit {
@@ -1945,24 +1952,24 @@ div#prayerengine {
 
 #pe-container { width: 100%; margin: 0; }
 
-#prayerengine #pe-submit-container h2 { font-size: 2.5em; }
+#prayerengine #pe-submit-container h2 { font-size: 25px; }
 
 #prayerengine .pe-prayer-even h3,
 #prayerengine .pe-prayer-odd h3 {
-	font-size: 2.1em;
+	font-size: 21px;
 	font-weight: 700;
 }
 
 #prayerengine .pe-prayer-even p,
 #prayerengine .pe-prayer-odd p {
-	font-size: 1.7em;
+	font-size: 17px;
 	line-height: 1.4;
 }
 
 #prayerengine .pe-prayer-even h4,
 #prayerengine .pe-prayer-odd h4 {
 	color: @black;
-	font-size: 1.3em;
+	font-size: 13px;
 }
 
 #prayerengine .pe-count-area h4 {
@@ -1973,25 +1980,25 @@ div#prayerengine {
 	width: auto;
 	height: auto;
 	padding: 10px 20px;
-	font-size: 1.5em;
+	font-size: 15px;
 }
 
 #prayerengine #pe-form-container p.instructions {
-	font-size: 1.7em;
+	font-size: 17px;
 	height: auto;
 }
 
 #pe-form-container label {
-	font-size: 1.7em;
+	font-size: 17px;
 }
 
 #pe-form-container input,
 #pe-form-container textarea,
 #pe-form-container select {
-	font-size: 1.7em;
+	font-size: 17px;
 }
 
-#pe-form-container label.checkbox { font-size: 1.6em; }
+#pe-form-container label.checkbox { font-size: 16px; }
 
 // Responsive Media Queries
 
@@ -2096,6 +2103,61 @@ div#prayerengine {
 	.content--history.history--first h1 { top: 40%; }
 
 	.history__scroll { bottom: 80px; }
+
+	// Prayer Wall Page
+	#pe-form-header {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		height: auto;
+	}
+
+	#pe-submit-container #pe-share-button {
+		order: 2;
+		width: 100%;
+		margin-left: 0;
+	}
+
+	#prayerengine #pe-submit-container h2 { order: 1; }
+
+	.pe-count-area { float: none; width: 100%; }
+
+	.pe-count-area a.submitlink {
+		display: inline-block;
+		float: none;
+		margin-left: 0;
+		order: 2
+	}
+
+	#prayerengine .pe-count-area h4 {
+		display: inline-block;
+		width: calc(~'100% - 175px');
+		order: 1;
+	}
+
+	#pe-form-container table { table-layout: fixed; }
+
+	#pe-form-container input,
+	#pe-form-container textarea,
+	#pe-form-container select { width: 100%; }
+
+	.g-recaptcha div,
+	.g-recaptcha div iframe { width: 100%!important; }
+
+	#pe-submit-area { text-align: left; }
+
+	#pe-form-container label.checkbox { font-size: 14px; }
+
+	#pe-form-container input.submit {
+		display: block;
+		width: 150px;
+		margin: 30px 0 10px;
+	}
+
+	#pe-form-container input.check {
+		margin-left: 0;
+		margin-right: 0;
+	}
 }
 
 @media screen and (max-width: 870px) {
