@@ -38,7 +38,7 @@
 <!-- END PRAYER ENGINE HEADER FILES -->
 </head>
 <body class="noLang">
-<?php $globalFunction->includeContent(2,'englishHeader'); ?>
+<?php $globalFunction->includeContent(2,'spanishHeader'); ?>
 <div id="prayerengine"><!-- "prayerengine" body id must be present for correct styling -->
 	<div class="container">
 		<div class="row">
@@ -184,7 +184,7 @@
 							</form>
 						</div>
 						
-						<h3><?php if ($prayer['share_option'] == "Share Online") {echo stripslashes($prayer['name']);} else {echo "Anonymous";}; if (($prayer['share_option'] == "Share Online") && (strlen($prayer['name']) == 0)) {echo "Anonymous";} ?></h3>
+						<h3><?php if ($prayer['share_option'] == "Share Online") {echo stripslashes($prayer['name']);} else {echo "Anónimo";}; if (($prayer['share_option'] == "Share Online") && (strlen($prayer['name']) == 0)) {echo "Anónimo";} ?></h3>
 						
 						<?php echo nl2p(stripslashes($prayer['posted_prayer'])) ?>
 						
@@ -208,9 +208,23 @@
 	
 </div>
 <!-- END PRAYER ENGINE PRAYER WALL v010919.gd  -->
-<?php $globalFunction->includeContent(2,'spanishFooter'); ?><!-- 
-<?php $globalFunction->includeContent(2,'botInc'); ?> -->
+<?php $globalFunction->includeContent(2,'spanishFooter'); ?>
+<script>
+	var hamburger = document.getElementById("hamburger");
 
+	hamburger.addEventListener("click", function(){
+		var menu = document.getElementById("menu");
+		var check = menu.classList.contains("active");
+
+		if (check) {
+			hamburger.classList.remove("active");
+			menu.classList.remove("active");
+		} else {
+			hamburger.classList.add("active");
+			menu.classList.add("active");
+		}
+	});
+</script>
 
 </body>
 </html>

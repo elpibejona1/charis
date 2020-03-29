@@ -91,13 +91,10 @@ header {
 .header {
 	&__logo { .columns(3); }
 
-	&__nav { 
+	&__nav {
 		float: right;
 		position: relative;
-
-		// Widths with Giving Link
-		/* &--french { width: 702px; }
-		&--spanish { width: 631px; } */
+		transition: all 0.25s;
 	
 		li {
 			float: left;
@@ -2189,11 +2186,10 @@ div#prayerengine {
     	position: fixed;
     	right: 0;
 		top: 0;
-		transform: translateX(275px);
+		.transform(translateX(275px));
     	z-index: 999999999999999;
 		background-color: rgba(230, 230, 230, 0.9);
 		transition: all 0.5s;
-		display: none;
 
     	li {
     		display: block;
@@ -2211,6 +2207,9 @@ div#prayerengine {
 			br { display: none; }
 		}
 
+		&.active {
+			.transform(translateX(0));
+		}
     	
 	}
 

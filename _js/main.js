@@ -436,12 +436,6 @@ var mobileHamburger = function(){
 	var $headerNav = $('.header__nav');
 	var $closeEverything = $('.closeEverything');
 
-
-	var menuTl = new TimelineMax({ paused: true })
-
-	menuTl.to($headerNav, 0, { display: 'block' })
-		.to($headerNav, 0.25, { x: 0, ease: Power0.easeNone })
-
 	$headerButtons.on('click', function(){
 
 		var animateHamburger = new TimelineMax();
@@ -455,7 +449,7 @@ var mobileHamburger = function(){
 			});
 			
 			$headerButtons.removeClass('active');
-			menuTl.reverse();
+			$('.header__nav').removeClass('active');
 
 			$closeEverything.removeClass('active');
 
@@ -466,7 +460,7 @@ var mobileHamburger = function(){
 				'height': '100%'
 			});
 			$headerButtons.addClass('active');
-			menuTl.play();
+			$('.header__nav').addClass('active');
 
 			$closeEverything.addClass('active');
 
