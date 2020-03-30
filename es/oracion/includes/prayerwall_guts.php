@@ -52,7 +52,7 @@
 		    // should return JSON with success as true
 		    if($responseKeys["success"]) {
 		    } else {
-		           $errors[] = 'Please prove you\'re not a spam robot.';
+		           $errors[] = 'Por favor, conpruebe que no es un robot de spam.';
 		    }
 		}
 		

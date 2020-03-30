@@ -37,7 +37,7 @@
 	<!-- end display fixes for Internet Explorer -->
 <!-- END PRAYER ENGINE HEADER FILES -->
 </head>
-<body class="noLang">
+<body class="prayerWall">
 <?php $globalFunction->includeContent(2,'englishHeader'); ?>
 <div id="prayerengine"><!-- "prayerengine" body id must be present for correct styling -->
 	<div class="container">
@@ -208,8 +208,24 @@
 	
 </div>
 <!-- END PRAYER ENGINE PRAYER WALL v010919.gd  -->
-<?php $globalFunction->includeContent(2,'englishFooter'); ?><!-- 
-<?php $globalFunction->includeContent(2,'botInc'); ?> -->
+<?php $globalFunction->includeContent(2,'englishFooter'); ?>
+<!-- Show Mobile Menu without jQuery -->
+<script>
+	var hamburger = document.getElementById("hamburger");
+
+	hamburger.addEventListener("click", function(){
+		var menu = document.getElementById("menu");
+		var check = menu.classList.contains("active");
+
+		if (check) {
+			hamburger.classList.remove("active");
+			menu.classList.remove("active");
+		} else {
+			hamburger.classList.add("active");
+			menu.classList.add("active");
+		}
+	});
+</script>
 
 
 </body>

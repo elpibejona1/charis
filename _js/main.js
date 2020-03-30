@@ -10,7 +10,6 @@ var statusIndication = function() {
 	var enReplace = '';
 	var esReplace = '';
 	var frReplace = '';
-
 	var mainMenu = function() {
 		var anchor;
 		var anchorArray;
@@ -68,6 +67,14 @@ var statusIndication = function() {
 
 			$('.header__languages__link--fr').attr('href', frReplace);
 
+		} else if (directory === 'prayer') {
+			console.log('prayer');
+			esReplace = pathName.replace('/en/celebration', '/es/oracion');
+			frReplace = pathName.replace('/en/celebration', '/fr/priere');
+
+			$('.header__languages__link--es').attr('href', esReplace);
+
+			$('.header__languages__link--fr').attr('href', frReplace);
 		} else {
 
 			esReplace = pathName.replace('/en/', '/es/');
@@ -93,6 +100,14 @@ var statusIndication = function() {
 			
 			enReplace = pathName.replace('/es/celebracion', '/en/celebration');
 			frReplace = pathName.replace('/es/celebracion', '/fr/celebrer');
+
+			$('.header__languages__link--en').attr('href', enReplace);
+
+			$('.header__languages__link--fr').attr('href', frReplace);
+		
+		} else if (directory === 'oracion') {
+			enReplace = pathName.replace('/es/oracion', '/en/prayer');
+			frReplace = pathName.replace('/es/oracion', '/fr/priere');
 
 			$('.header__languages__link--en').attr('href', enReplace);
 
@@ -129,6 +144,14 @@ var statusIndication = function() {
 
 			$('.header__languages__link--es').attr('href', esReplace);
 
+		} else if (directory === 'priere') {
+			enReplace = pathName.replace('/fr/priere', '/en/prayer');
+			esReplace = pathName.replace('/fr/priere', '/es/oracion');
+
+			$('.header__languages__link--en').attr('href', enReplace);
+
+			$('.header__languages__link--es').attr('href', esReplace);
+		
 		} else {
 		
 			enReplace = pathName.replace('/fr/', '/en/');

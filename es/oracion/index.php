@@ -37,7 +37,7 @@
 	<!-- end display fixes for Internet Explorer -->
 <!-- END PRAYER ENGINE HEADER FILES -->
 </head>
-<body class="noLang">
+<body class="prayerWall">
 <?php $globalFunction->includeContent(2,'spanishHeader'); ?>
 <div id="prayerengine"><!-- "prayerengine" body id must be present for correct styling -->
 	<div class="container">
@@ -68,7 +68,7 @@
 					
 						<?php if ($_POST && empty($errors)) { // Success Message ?>
 						<div id="success">
-							<p>Gracias por enviar su motivo de oración. Después de ser moderada, será compartida de acuerdo a sus instrucciones. Si lo desea, puede compartir otro motivo rellenando el formulario nuevamente.</p>
+							<p>Gracias por enviar su motivo de oración. Después de ser moderado, será compartido de acuerdo a sus instrucciones. Si lo desea, puede compartir otro motivo rellenando el formulario nuevamente.</p>
 						</div>
 						<?php }; ?>
 					
@@ -209,6 +209,8 @@
 </div>
 <!-- END PRAYER ENGINE PRAYER WALL v010919.gd  -->
 <?php $globalFunction->includeContent(2,'spanishFooter'); ?>
+
+<!-- Show Mobile Menu without jQuery -->
 <script>
 	var hamburger = document.getElementById("hamburger");
 

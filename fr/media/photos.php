@@ -3,6 +3,9 @@
 <html>
 <head>
 	<?php $globalFunction->includeContent(2,'frenchTopInc'); ?>
+
+	<link rel="stylesheet" href="../../_js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+	<script type="text/javascript" src="../../_js/fancybox/jquery.fancybox.pack.js"></script>
 </head>
 <body>
 	<?php $globalFunction->includeContent(2,'frenchHeader'); ?>

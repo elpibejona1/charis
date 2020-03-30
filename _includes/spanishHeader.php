@@ -21,7 +21,7 @@
 				</ul>
 			<li><a href="<?php echo $directory ?>es/news/index.php">Noticias</a></li>
 			<!-- <li><a href="<?php echo $directory ?>es/ofrendar/index.php">Ofrendar</a></li> -->
-			<li class="featured"><a href="<?php echo $directory ?>es/celebracion/index.php">Muro de <br>Oración</a></li>
+			<li class="featured"><a href="<?php echo $directory ?>es/oracion/">Muro de <br>Oración</a></li>
 
 			<div class="header__languages">
 				<ul>
