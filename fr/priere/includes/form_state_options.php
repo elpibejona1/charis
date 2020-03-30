@@ -6,16 +6,16 @@ if (TWITTER == 'yes') { ?>
 <?php if ($_POST) { ?>
 	<script type="text/javascript">
 		$(document).ready(function() {
-		$("#pe-share-button").toggle( //If JavaScript is on, toggle the visibility and text of the Prayer Request form
+		$("#pe-share-button").toggle( //If JavaScript is on, toggle the visibility and text of the Formulaire de sujets de prière
 			function () { 
 				$("#pe-form-container").slideUp(500);
-				$("#pe-share-button").text('Share Your Prayer Request');
-				$("#pe-form-header h2").text('Recent Prayer Requests');
+				$("#pe-share-button").text('Partagez votre sujet de prière');
+				$("#pe-form-header h2").text('Sujets de prières récents');
 			},
 			function () {
 				$("#pe-form-container").slideDown(500);
-				$("#pe-share-button").text('Close Prayer Request Form');
-				$("#pe-form-header h2").text('Prayer Request Form');
+				$("#pe-share-button").text('Fermer le formulaire');
+				$("#pe-form-header h2").text('Formulaire de sujets de prière');
 			}
 		);
 		});
@@ -23,16 +23,16 @@ if (TWITTER == 'yes') { ?>
 <?php } else { //Hide form unless it has been posted ?> 
 	<script type="text/javascript">
 		$(document).ready(function() {
-			$("#pe-share-button").toggle( //If JavaScript is on, toggle the visibility and text of the Prayer Request form
+			$("#pe-share-button").toggle( //If JavaScript is on, toggle the visibility and text of the Formulaire de sujets de prière
 				function () { 
 					$("#pe-form-container").slideDown(500);
-					$("#pe-share-button").text('Close Prayer Request Form');
-					$("#pe-form-header h2").text('Prayer Request Form');
+					$("#pe-share-button").text('Fermer le formulaire');
+					$("#pe-form-header h2").text('Formulaire de sujets de prière');
 				},
 				function () {
 					$("#pe-form-container").slideUp(500);
-					$("#pe-share-button").text('Share Your Prayer Request');
-					$("#pe-form-header h2").text('Recent Prayer Requests');
+					$("#pe-share-button").text('Partagez votre sujet de prière');
+					$("#pe-form-header h2").text('Sujets de prières récents');
 				}
 			);
 		});

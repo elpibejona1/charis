@@ -29,11 +29,11 @@
 	};
 ?>
 
-<blockquote>I Prayed for This</blockquote>
+<blockquote>J'ai prié pour ça</blockquote>
 <?php if ($prayer['prayer_count'] == 1) { ?>
-<h4>Prayed for <strong><?php echo number_format($prayer['prayer_count'], 0, '.', ','); ?></strong> time.</h4>
+<h4>Prié <strong><?php echo number_format($prayer['prayer_count'], 0, '.', ','); ?></strong> fois.</h4>
 <?php } elseif ($prayer['prayer_count'] > 1) { ?>
-<h4>Prayed for <strong><?php echo number_format($prayer['prayer_count'], 0, '.', ','); ?></strong> times.</h4>
+<h4>Prié <strong><?php echo number_format($prayer['prayer_count'], 0, '.', ','); ?></strong> fois.</h4>
 <?php } else {} ?>
 
 <?php $dbc = null; ?>
