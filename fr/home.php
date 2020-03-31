@@ -20,11 +20,11 @@
 			<h2>L'Alliance Charis et le COVID-19</h2>
 			<p>En réponse à la pandémie mondiale COVID-19, les dirigeants et les églises de l'Alliance Charis mondiale réaffirment « que le plan de Dieu pour notre ère comprend la responsabilité d’exprimer la compassion de Christ en proclamant l’Évangile en paroles et en actions. Nous assumons notre responsabilité de trouver des moyens pratiques pour répondre aux besoins physiques, émotionnels, sociaux et spirituels de nos communautés » (voir <a href="documents/documents.php">Engagement pour une identité commune</a>, section trois).</p>
 			<div class="content content--covid">
-				<a data-fancybox href="https://vimeo.com/401111300" class="homeLink homeLink--half">
+				<a data-fancybox href="https://vimeo.com/402540568" class="homeLink homeLink--half">
 					<img src="../_images/home/thumbnail0.jpg" alt="">
 					<p>BIENVENUE ! – ANNONCE SPÉCIALE</p>
 				</a>
-				<a href="prayer/" class="homeLink homeLink--half">
+				<a href="priere/" class="homeLink homeLink--half">
 					<img src="../_images/home/thumbnail3.jpg" alt="">
 					<p>Mur de Prière Charis</p>
 				</a>
