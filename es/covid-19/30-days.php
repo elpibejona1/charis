@@ -27,12 +27,12 @@
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia2.pdf"><strong>Día 2 -</strong> Dios usa la crisis para mover a la gente - Geográficamente</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia3.pdf"><strong>Día 3 -</strong> Dios usa la crisis para mover a la gente - Cambiando corazones</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia4.pdf"><strong>Día 4 -</strong> Dios usa la crisis para mover a la gente - Cambiando mentes</a></li>
-						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia5.pdf"><strong>Día 5 -</strong> LOS QUÉ Y LOS PORQUÉ DETRÁS DEL SUFRIMIENTO</a></li><!-- 
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia5.pdf"><strong>Día 5 -</strong> LOS QUÉ Y LOS PORQUÉ DETRÁS DEL SUFRIMIENTO</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia6.pdf"><strong>Día 6 -</strong> Todo lo que no sabemos sobre los problemas</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia7.pdf"><strong>Día 7 -</strong> La incómoda verdad sobre los problemas: ¡Dios podría detenerlos!</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia8.pdf"><strong>Día 8 -</strong> TLa incómoda verdad sobre los problemas: ¡Dios es Cómplice!</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia9.pdf"><strong>Día 9 -</strong> El lugar estratégico de la oración en la crisis</a></li>
-						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia10.pdf"><strong>Día 10 -</strong> Una oración por la crisis que Dios no olvidó</a></li> -->
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia10.pdf"><strong>Día 10 -</strong> Una oración por la crisis que Dios no olvidó</a></li>
 						<!-- <li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia11.pdf"><strong>Día 11 -</strong> The Blessing of ISIS</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia12.pdf"><strong>Día 12 -</strong> Groaning Spoken Here</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia13.pdf"><strong>Día 13 -</strong> (Groaning): An Aria Breaks Forth</a></li>
@@ -42,15 +42,16 @@
 				</div>
 				<div class="archive__files">
 					<ul>
-						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia7.pdf"><strong>Día 7 -</strong> La incómoda verdad sobre los problemas: ¡Dios podría detenerlos!</a></li>
-						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia8.pdf"><strong>Día 8 -</strong> TLa incómoda verdad sobre los problemas: ¡Dios es Cómplice!</a></li>
-						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia9.pdf"><strong>Día 9 -</strong> El lugar estratégico de la oración en la crisis</a></li>
-						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia10.pdf"><strong>Día 10 -</strong> Una oración por la crisis que Dios no olvidó</a></li>
-						<!-- <li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia16.pdf"><strong>Día 16 -</strong> No Graven Image</a></li>
-						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia17.pdf"><strong>Día 17 -</strong> No Graven Image – Crises of Faith</a></li>
-						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia18.pdf"><strong>Día 18 -</strong> No Graven Image – Obedience is The Highest Service</a></li>
-						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia19.pdf"><strong>Día 19 -</strong> No Graven Image – Which Image Will We Embrace?</a></li>
-						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia20.pdf"><strong>Día 20 -</strong> Sometimes Knowing What the Reason <em>Is Not</em> Is Enough</a></li>
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia11.pdf"><strong>Día 11 -</strong> La bendición de ISIS</a></li>
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia12.pdf"><strong>Día 12 -</strong> Parte 1: Hablando con gemidos</a></li>
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia13.pdf"><strong>Día 13 -</strong> Parte 2 (Gemidos): Un Aria irrumpe</a></li>
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia14.pdf"><strong>Día 14 -</strong> Limpieza de la casa - Paja, Escoria y Polvo</a></li>
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia15.pdf"><strong>Día 15 -</strong> Un argumento para el silencio: Lo que no se ora</a></li>
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia16.pdf"><strong>Día 16 -</strong> Parte 1: Sin Imágenes Esculpidas</a></li>
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia17.pdf"><strong>Día 17 -</strong> Parte 2: Sin Imágenes Esculpidas - Crisis de fe</a></li>
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia18.pdf"><strong>Día 18 -</strong> Sin Imágenes Esculpidas - La obediencia es el más alto servicio</a></li>
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia19.pdf"><strong>Día 19 -</strong> Sin Imágenes Esculpidas. ¿Qué imagen abrazaremos?</a></li>
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia20.pdf"><strong>Día 20 -</strong> A veces, saber cuál NO ES la razón, es suficiente...</a></li><!-- 
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia21.pdf"><strong>Día 21 -</strong> Survivor’s Guide to Suffering – Wonder</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia22.pdf"><strong>Día 22 -</strong> Survivor’s Guide to Suffering – Worship</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia23.pdf"><strong>Día 23 -</strong> Survivor’s Guide to Suffering – Staying Under His Wings</a></li>

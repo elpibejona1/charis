@@ -16,7 +16,7 @@
 				<p><span>Make a Protective Mask:</span> <br>This mask can provide protection the Covid-19 virus or protect others if you are infected (in the absence of regulatory masks; this mask does not provide complete viral protection).</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="../../documents/crisis-response/resources/Protective-Mask-Notice.pdf">Download</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/crisis-response/resources/Protective-Mask-Notice.pdf?v2">Download</a></li>
 					</ul>
 				</div>
 			</div>
