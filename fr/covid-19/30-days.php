@@ -13,7 +13,7 @@
 				<img src="../../_images/crisis-response/30-days/image1.jpg" alt="" class="coverImg">
 				<h1 class="thirtyDays__heading">30 jours pour fortifier votre foi : <br>Dans les bras du Dieu de la tempête</h1>
 				<p class="thirtyDays__text">Job, le plus ancien livre de la Bible, traite de la question la plus ancienne de l'homme: pourquoi des choses apparemment mauvaises arrivent-elles aux bonnes personnes? Ou, autrement dit, si Dieu est bon, pourquoi la souffrance existe-t-elle?</p>
-				<p class="thirtyDays__text"><strong>Chapitre en cours -</strong> <a target="_blank" href="../../documents/crisis-response/30-days/francais/Jour1.pdf"><strong>Jour 1:</strong> La crise et son creuset</a></p>
+				<!-- <p class="thirtyDays__text"><strong>Chapitre en cours -</strong> <a target="_blank" href="../../documents/crisis-response/30-days/francais/Jour1.pdf"><strong>Jour 1:</strong> La crise et son creuset</a></p> -->
 			</div>
 		</div>
 		<div class="row">
@@ -57,6 +57,7 @@
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/francais/Jour28.pdf"><strong>Jour 28 -</strong> Surveillez vos paroles ! - Jérémie et Jonas</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/francais/Jour29.pdf"><strong>Jour 29 -</strong> Notre Dieu bienheureux</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/francais/Jour30.pdf"><strong>Jour 30 -</strong> La parabole du petit cerf-volant</a></li>
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/francais/PARTIE2.pdf"><strong>PARTIE 2 -</strong> Discipliné par la douleur : L'histoire d'un homme</a></li>
 					</ul>
 				</div>
 			</div>

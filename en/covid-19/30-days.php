@@ -57,6 +57,7 @@
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/english/Day28.pdf"><strong>Day 28 -</strong> Watch Your Mouth! – Jeremiah & Jonah</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/english/Day29.pdf"><strong>Day 29 -</strong> Our Happy God</a></li>
 						<li><a target="_blank" href="../../documents/crisis-response/30-days/english/Day30.pdf"><strong>Day 30 -</strong> The Parable of the Little Kite</a></li>
+						<li><a target="_blank" href="../../documents/crisis-response/30-days/english/PART2.pdf"><strong>PART 2 -</strong> Discipled by Pain: One Man’s Story</a></li>
 					</ul>
 				</div>
 			</div>
