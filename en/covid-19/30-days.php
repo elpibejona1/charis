@@ -13,7 +13,7 @@
 				<img src="../../_images/crisis-response/30-days/image1.jpg" alt="" class="coverImg">
 				<h1 class="thirtyDays__heading">30 Days to a More Resilient Faith: <br>Embracing the God of the Storm</h1>
 				<p class="thirtyDays__text">The oldest book of the Bible, Job, deals with the oldest question of man: why do seemingly bad things happen to good people? Or put another way, if God is good, why is there suffering?</p>
-				<p class="thirtyDays__text"><strong>Current Chapter -</strong> <a target="_blank" href="../../documents/crisis-response/30-days/english/Day1.pdf"><strong>Day 1:</strong> The Crucible of&nbsp;Crisis</a></p>
+				<p class="thirtyDays__text">Copyright © Barb Wooler and Wayne Hannah, 2016</p>
 			</div>
 		</div>
 		<div class="row">

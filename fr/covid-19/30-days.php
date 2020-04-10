@@ -13,7 +13,7 @@
 				<img src="../../_images/crisis-response/30-days/image1.jpg" alt="" class="coverImg">
 				<h1 class="thirtyDays__heading">30 jours pour fortifier votre foi : <br>Dans les bras du Dieu de la tempête</h1>
 				<p class="thirtyDays__text">Job, le plus ancien livre de la Bible, traite de la question la plus ancienne de l'homme: pourquoi des choses apparemment mauvaises arrivent-elles aux bonnes personnes? Ou, autrement dit, si Dieu est bon, pourquoi la souffrance existe-t-elle?</p>
-				<p class="thirtyDays__text">&copy; 2016 Barb Wooler et Wayne Hannah</p>
+				<p class="thirtyDays__text">Copyright &copy; Barb Wooler et Wayne Hannah, 2016</p>
 			</div>
 		</div>
 		<div class="row">
