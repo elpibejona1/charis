@@ -13,7 +13,7 @@
 				<img src="../../_images/crisis-response/30-days/image1.jpg" alt="" class="coverImg">
 				<h1 class="thirtyDays__heading">30 días para una fe más resiliente: <br>Abrazando al Dios de la tormenta</h1>
 				<p class="thirtyDays__text">El libro más antiguo de la Biblia, Job, trata la cuestión más antigua del hombre: ¿por qué le pasan cosas aparentemente malas a las personas buenas? O dicho de otra manera, si Dios es bueno, ¿por qué hay sufrimiento?</p>
-				<!-- <p class="thirtyDays__text"><strong>Capítulo de hoy -</strong> <a target="_blank" href="../../documents/crisis-response/30-days/espanol/Dia1.pdf"><strong>Día 1:</strong> El crisol de la crisis</a></p> -->
+				<p class="thirtyDays__text">&copy; 2016 Barb Wooler y Wayne Hannah</p>
 			</div>
 		</div>
 		<div class="row">

@@ -42,7 +42,7 @@
 				<p><span>20 réponses bibliques pour faire face au Covid-19 :</span> <br>En pleine crise du Covid-19, Florent Varak nous propose une compilation de 20 podcasts qui répondent aux questions existentielles que nous nous posons en ce moment.</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="https://florentvarak.toutpoursagloire.com/reponses-covid-19/">Accéder aux informations</a></li>
+						<li class="primary__download__button"><a target="_blank" href="https://florentvarak.toutpoursagloire.com/reponses-covid-19/">Accéder au site</a></li>
 					</ul>
 				</div>
 			</div>
@@ -68,7 +68,7 @@
 				<p><span>Covid-19 - En finir avec les idées reçues</span>: <br>Conseils au grand public de l'Organisation mondiale de la santé.</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters">Accéder aux informations</a></li>
+						<li class="primary__download__button"><a target="_blank" href="https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters">Accéder au site</a></li>
 					</ul>
 				</div>
 			</div>
@@ -81,7 +81,7 @@
 				<p><span>Informations sur le coronavirus de l'OMS :</span>: <br>Faits sur le coronavirus de l'Organisation mondiale de la santé. Comprend un aperçu général, des symptômes courants et des recommandations de prévention</p>
 				<div class="primary__downloadContainer">
 					<ul>
-						<li class="primary__download__button"><a target="_blank" href="https://www.who.int/fr/health-topics/coronavirus/coronavirus">Accéder aux informations</a></li>
+						<li class="primary__download__button"><a target="_blank" href="https://www.who.int/fr/health-topics/coronavirus/coronavirus">Accéder au site</a></li>
 					</ul>
 				</div>
 			</div>
