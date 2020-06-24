@@ -10,6 +10,20 @@
 	<div class="container">
 		<div class="row row--documents">
 			<div class="interior__photo">
+				<img src="../../_images/crisis-response/resources/thumbnail0.jpg" alt="">
+			</div>
+			<div class="interior__description">
+				<p><span>Una luz en la oscuridad:</span> <br>¿Qué dice la Biblia sobre la salud mental o emocional? Guía de estudio con perspectivas bíblicas sobre este tema.</p>
+				<div class="primary__downloadContainer">
+					<ul>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/crisis-response/resources/Una_luz_en_la_oscuridad-Guia_de_estudio.pdf">Descargar<!--  en español --></a></li>
+						<!-- <li class="primary__download__button"><a target="_blank" href="../../documents/crisis-response/resources/Una_luz_en_la_oscuridad-Guia_de_estudio.pdf">Descargar en portugués</a></li> -->
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="row row--documents">
+			<div class="interior__photo">
 				<img src="../../_images/crisis-response/resources/thumbnail1.jpg" alt="">
 			</div>
 			<div class="interior__description">
@@ -72,6 +86,7 @@
 					</ul>
 				</div>
 			</div>
+		</div>
 	</div>
 </div>
 
