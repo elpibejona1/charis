@@ -20,8 +20,6 @@
 			</div>
 			<div class="siteMap">
 				<h6><a href="<?php echo $directory ?>es/media/video.php">Galería</a></h6>
-				<h6><a href="<?php echo $directory ?>es/news/index.php">Noticias</a></h6>
-				<!-- <h6><a href="<?php echo $directory ?>es/ofrendar/index.php">Ofrendar</a></h6> -->
 			</div>
 			<div class="siteMap__img">
 			</div>

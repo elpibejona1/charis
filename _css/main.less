@@ -43,10 +43,6 @@
 
 body { margin: 0; overflow-x: hidden; }
 
-// HIDE LANGUAGE OPTIONS FOR PRAYER WALL PAGES
-
-.prayerWall .header__languages { opacity: 0; visibility: hidden; }
-
 .body__noLangBar .header__languages { display: none; }
 
 strong { font-weight: 600; }
@@ -92,10 +88,13 @@ header {
 .header {
 	&__logo { .columns(3); }
 
-	&__nav {
+	&__nav { 
 		float: right;
 		position: relative;
-		transition: all 0.25s;
+
+		// Widths with Giving Link
+		/* &--french { width: 702px; }
+		&--spanish { width: 631px; } */
 	
 		li {
 			float: left;
@@ -147,8 +146,6 @@ header {
 
 				&.active a { border-bottom: none; }
 			}
-
-			&.twoLines { margin-top: 33px; text-align: center; }
 		}
 	}
 }
@@ -412,6 +409,7 @@ footer {
 			display: block;
 			width: 100%;
 			height: 100%;
+			vertical-align: middle;
 			padding: 16px 5px;
 			
 			&:hover {
@@ -425,26 +423,22 @@ footer {
 
 // Home Page Styles
 
-.homeVideo {
-	margin-top: 20px;
-	margin-right: 20px;
-	float: left;
-}
-
 .homeSlideShow {
 	background-color: @gray;
-	margin-top: 35px;
+	padding: 0;
+	height: 75vh;
 	overflow-y: hidden;
 	position: relative;
 
 	img { width: 100%; }
 	
 	&__callout {
-		width: calc(~'100% - 40px');
+		width: 100%;
+		height: 175px;
 		padding: 15px;
-		background-color: fade(@gray, 80%);
+		background-color: rgba(105, 105, 105, 0.7);
 		position: absolute;
-		bottom: 0;
+		top: -170px;
 		color: @white;
 		border: 1px solid @tea;
 		border-bottom: 5px solid @tea;
@@ -530,19 +524,18 @@ footer {
 			&:first-child { padding-top: 10px; }
 		}
 
-		a {
-			text-decoration: none;
-			font-family: 'Raleway', sans-serif;
-			font-size: 20px;
-			color: @tea;
-
-			&:hover { text-decoration: underline; }
-		}
+		a { 
+				text-decoration: none;
+				font-family: 'Raleway', sans-serif;
+				font-size: 20px;
+				font-weight: 600;
+				color: @gold;
+			}
 	}
 
 	&--gray { background-color: @gray; }
 
-	&--video { padding-top: 35px; }
+	&--first { padding-top: 35px; }
 }
 
 .home__scroll {
@@ -576,6 +569,8 @@ footer {
 
 .content--third { .columns(4); }
 
+.content--half { .columns(6); }
+
 .content--featured {
 	position: relative;
 	
@@ -584,71 +579,35 @@ footer {
 	span {
 		display: block;
 		width: 100%;
-		position: absolute;
-		background-color: rgba(0, 0, 0, 0.75);
 		padding: 10px 15px;
 		font-family: "Raleway", sans-serif;
 		font-size: 16px;
 		color: @tea;
-		text-align: center;
-		bottom: 25px;
 		font-weight: 600;
+		text-align: center;
 	}
 
+	div { position: relative; }
+
+	&:hover span,
+	&:focus span { text-decoration: underline; }
+
+	i {
+		color: @black;
+		font-size: 85px;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
 }
+
+
+.content--bordered img { border: 1px solid @black; }
 
 .fullContainer--gray { background-color: @lGray; }
 
-.content--covid { display: flex; padding-top: 0; }
 
-.homeLink {
-	position: relative;
-	text-decoration: none;
-	color: @tea;
-	
-	img { width: 100%; margin-bottom: 10px; }
-
-	p {
-		font-family: 'Raleway', sans-serif;
-		color: @tea;
-		padding: 0 10px;
-		line-height: 1.2;
-		text-decoration: none;
-		font-weight: 700;
-	}
-
-	+ .homeLink { margin-left: 15px; }
-
-	&:hover,
-	&:focus p { text-decoration: underline; }
-
-	&--half { width: 50%; }
-	&--third { width: 100% / 3; }
-}
-
-.homeBlurb {
-	padding: 15px 0;
-	background-color: fade(@gray, 80%);
-	color: @white;
-	border: 1px solid @tea;
-	border-bottom: 5px solid @tea;
-	z-index: 999;
-
-	h2 {
-		font-family: "Kaushan Script", serif;
-		font-size: 40px;
-		margin-bottom: 20px;
-		opacity: 1;
-		color: @gold;
-	}
-
-	p {
-		font-family: "Raleway", sans-serif;
-		font-size: 18px;
-		line-height: 1.5;
-		opacity: 1;
-	}
-}
 
 // Document Pages Styles
 
@@ -1020,8 +979,6 @@ p.interior__description__subTitle {
 	font-size: 18px;
 	color: @gray;
 	line-height: 1.6;
-
-	+ .about__introText { margin-top: 20px; }
 }
 
 .about__highlight {
@@ -1843,161 +1800,6 @@ p.interior__description__subTitle {
 
 .footer--404 { height: 141px; }
 
-// Crisis Response Section - 30 Days
-.thirtyDaysPage {
-	.archive__files li + li { margin-top: 10px; }
-}
-
-.thirtyDaysContent:first-child {
-	.columns(11);
-	padding-top: 30px;
-	padding-bottom: 30px;
-}
-
-.coverImg {
-	float: left;
-	margin-right: 20px;
-	width: 200px;
-}
-
-.thirtyDays__heading {
-	font-family: 'Kaushan Script', cursive;
-	color: @tea;
-	font-size: 40px;
-	font-weight: 600;
-	margin-bottom: 20px;
-	line-height: 1.2;
-}
-
-.thirtyDays__text {
-	font-family: 'Raleway', sans-serif;
-	font-size: 18px;
-	color: @gray;
-	line-height: 1.6;
-
-	+ .thirtyDays__text { margin-top: 20px; }
-
-	a {
-		color: #696969;
-		padding-bottom: 2px;
-		text-decoration: none;
-		border-bottom: 1px solid #696969;
-		line-height: 1.6;
-
-		&:hover { color: @dGold; border-bottom: 1px solid @dGold;; }
-	}
-}
-
-// Crisis Response Resources
-.crisisResources__heading {
-	font-family: 'Kaushan Script', cursive;
-	color: @tea;
-	font-size: 40px;
-	font-weight: 600;
-	margin-bottom: 20px;
-	line-height: 1.2;
-}
-
-// Prayer Engine Page
-div#prayerengine { font-family: 'Raleway', sans-serif; }
-
-.pe-count-area { width: 330px; }
-
-.pe-count-area a.submitlink:link,
-.pe-count-area a.submitlink:visited { background-color: @red; }
-
-.pe-count-area a.submitlink {
-	height: auto;
-	padding: 5px 10px;
-	font-size: 12px;
-	width: 170px;
-}
-
-#prayerengine .pe-count-area blockquote {
-	font-size: 12px;
-	width: 170px;
-}
-
-#pe-form-container input.submit {
-	background-color: @red;
-	border: 2px solid @red;
-	color: #fff;
-	width: auto;
-}
-
-#pe-submit-container #pe-share-button { background-color: @gray; }
-
-#pe-form-container table { width: calc(~'100% - 15px'); margin-left: 15px; }
-
-#pe-form-container td.label {
-	width: 115px;
-	text-align: left;
-}
-
-div#prayerengine {
-	min-height: calc(~'100vh - 143px - 150px - 141px');
-	padding-top: 30px;
-
-	h1 {
-		font-family: 'Kaushan Script',cursive;
-		color: #097888;
-		font-size: 40px;
-		font-weight: 600;
-		margin-bottom: 20px;
-		line-height: 1.2;
-	}
-}
-
-#pe-container { width: 100%; margin: 0; }
-
-#prayerengine #pe-submit-container h2 { font-size: 25px; }
-
-#prayerengine .pe-prayer-even h3,
-#prayerengine .pe-prayer-odd h3 {
-	font-size: 21px;
-	font-weight: 700;
-}
-
-#prayerengine .pe-prayer-even p,
-#prayerengine .pe-prayer-odd p {
-	font-size: 17px;
-	line-height: 1.4;
-}
-
-#prayerengine .pe-prayer-even h4,
-#prayerengine .pe-prayer-odd h4 {
-	color: @black;
-	font-size: 13px;
-}
-
-#prayerengine .pe-count-area h4 {
-	font-style: italic;
-}
-
-#pe-submit-container #pe-share-button {
-	width: auto;
-	height: auto;
-	padding: 10px 20px;
-	font-size: 15px;
-}
-
-#prayerengine #pe-form-container p.instructions {
-	font-size: 17px;
-	height: auto;
-}
-
-#pe-form-container label {
-	font-size: 17px;
-}
-
-#pe-form-container input,
-#pe-form-container textarea,
-#pe-form-container select {
-	font-size: 17px;
-}
-
-#pe-form-container label.checkbox { font-size: 16px; }
-
 // Responsive Media Queries
 
 // Choose Language Page
@@ -2050,11 +1852,6 @@ div#prayerengine {
 	}
 }
 
-@media only screen and (max-width: 900px) {
-	// 30 Days
-	.thirtyDays__heading br { display: none; }
-}
-
 @media only screen and (max-width: 890px) {
 	.subNav__item {
 		width: 270px;
@@ -2101,78 +1898,11 @@ div#prayerengine {
 	.content--history.history--first h1 { top: 40%; }
 
 	.history__scroll { bottom: 80px; }
-
-	// Prayer Wall Page
-	#pe-form-header {
-		display: flex;
-		flex-direction: column;
-		align-items: flex-start;
-		height: auto;
-	}
-
-	#pe-submit-container #pe-share-button {
-		order: 2;
-		width: 100%;
-		margin-left: 0;
-	}
-
-	#prayerengine #pe-submit-container h2 { order: 1; }
-
-	.pe-count-area { float: none; width: 100%; }
-
-	.pe-count-area a.submitlink {
-		display: inline-block;
-		float: none;
-		margin-left: 0;
-		order: 2
-	}
-
-	#prayerengine .pe-count-area h4 {
-		display: inline-block;
-		width: calc(~'100% - 175px');
-		order: 1;
-	}
-
-	#prayerengine .pe-count-area blockquote {
-		float: none;
-		margin-left: 0;
-		display: inline-block;
-	}
-
-	#pe-form-container table { table-layout: fixed; }
-
-	#pe-form-container input,
-	#pe-form-container textarea,
-	#pe-form-container select { width: 100%; }
-
-	.g-recaptcha div,
-	.g-recaptcha div iframe { width: 100%!important; }
-
-	#pe-submit-area { text-align: left; }
-
-	#pe-form-container { overflow: hidden; }
-
-	#pe-form-container label.checkbox { font-size: 14px; }
-
-	#pe-form-container input.submit {
-		display: block;
-		width: auto;
-		margin: 30px 0 10px;
-		border: none;
-		-webkit-appearance: none;
-		border-radius: 0;
-		padding: 5px 30px;
-	}
-
-	#pe-form-container input.check {
-		margin-left: 0;
-		margin-right: 0;
-	}
 }
 
 @media screen and (max-width: 870px) {
 
-	// Choose Language Page        
+	// Choose Language Page
 
 	.chooseLang li { margin-right: calc(~'10% / 6'); margin-left: calc(~'10% / 6'); }
 
@@ -2196,10 +1926,9 @@ div#prayerengine {
     	width: 275px;
     	padding: 20px;
     	margin-left: 0;
-    	position: fixed;
-    	right: 0;
-		top: 0;
-		.transform(translateX(275px));
+    	position: absolute;
+    	right: -275px;
+    	top: 0;
     	z-index: 999999999999999;
 		background-color: rgba(230, 230, 230, 0.9);
 		transition: all 0.5s;
@@ -2212,19 +1941,17 @@ div#prayerengine {
 			text-align: left;
 		}
 		
-		li.featured,
-		li.twoLines {
+		li.featured {
 			text-align: left;
 			margin-top: 20px;
 
 			br { display: none; }
 		}
 
-		&.active {
-			.transform(translateX(0));
-		}
     	
 	}
+
+	.header__nav.active { right: 0; }
 
 	.header__nav__first { margin-top: 40px!important; }
 	
@@ -2408,32 +2135,11 @@ div#prayerengine {
 		
 		br { display: none; }
 	}
-
-	// Thirty Days Page
-	.thirtyDaysPage {
-		.archive__files + .archive__files { margin-top: 10px; }
-	}
 }
 
 // Mobile nav for mobile screen
 @media only screen and (max-height: 570px) and (max-width: 870px) {
 	.header__nav { height: 85vh; overflow-y: scroll; }
-}
-
-@media only screen and (max-width: 767px) {
-	// COVID Home Page
-	.content--home h2 { line-height: 1.2; }
-
-	.content--home {
-		p,
-		a { text-align: left; font-size: 14px; }
-	}
-
-	.content--covid { display: block; }
-
-	.homeLink { display: inline-block; max-width: 100%; width: auto; }
-
-	.homeLink + .homeLink { margin-left: 0; margin-top: 40px; }
 }
 
 @media screen and (max-width: 750px) {
@@ -2601,17 +2307,6 @@ div#prayerengine {
 
 	.content--history.history--first h1,
 	.history--last h1 { width: 100%; text-align: center; }
-
-	// 30 Days
-	.coverImg {
-		float: none;
-		width: auto;
-		max-width: 100%;
-		margin-bottom: 10px; 
-		margin-left: -10px;
-	}
-
-	.thirtyDays__heading { display: none; }
 }
 
 @media only screen and (max-width: 580px) {

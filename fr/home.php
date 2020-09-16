@@ -3,56 +3,66 @@
 <html>
 <head>
 	<?php $globalFunction->includeContent(1,'frenchTopInc'); ?>
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-	<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 </head>
 <body>
 	<?php $globalFunction->includeContent(1,'frenchHeader'); ?>
-<div class="homeBlurb">
-	<div class="container">
-		<h2>L'Alliance Charis ...</h2>
-		<p>... vise l’accomplissement du Mandat Missionnaire par le développement de relations fraternelles, et par la coopération régionale et internationale entre les unions d'églises qui partagent l'Engagement de Charis pour une Identité et une Mission communes.</p>
-	</div>
-</div>	
-<div class="container">
-	<div id="covid19" class="row">
-		<div class="content content--home content--video">
-			<h2>L'Alliance Charis et le COVID-19</h2>
-			<p>En réponse à la pandémie mondiale COVID-19, les dirigeants et les églises de l'Alliance Charis mondiale réaffirment « que le plan de Dieu pour notre ère comprend la responsabilité d’exprimer la compassion de Christ en proclamant l’Évangile en paroles et en actions. Nous assumons notre responsabilité de trouver des moyens pratiques pour répondre aux besoins physiques, émotionnels, sociaux et spirituels de nos communautés » (voir <a href="documents/documents.php">Engagement pour une identité commune</a>, section trois).</p>
-			<div class="content content--covid">
-				<a data-fancybox href="https://vimeo.com/402540568" class="homeLink homeLink--half">
-					<img src="../_images/home/thumbnail0.jpg" alt="">
-					<p>BIENVENUE ! – ANNONCE SPÉCIALE</p>
-				</a>
-				<a href="priere/" class="homeLink homeLink--half">
-					<img src="../_images/home/thumbnail3.jpg" alt="">
-					<p>Mur de Prière Charis</p>
-				</a>
+<div class="homeSlideShow cycle-slideshow"
+	data-cycle-fx="scrollHorz"
+    data-cycle-speed="700"
+	>
+	<img src="../_images/home/slide1.jpg" alt="">
+	<img src="../_images/home/slide2.jpg" alt="">
+	<img src="../_images/home/slide3.jpg" alt="">
+	<img src="../_images/home/slide4.jpg" alt="">
+	<img src="../_images/home/slide5.jpg" alt="">
+	<img src="../_images/home/slide6.jpg" alt="">
+	<img src="../_images/home/slide7.jpg" alt="">
+	<img src="../_images/home/slide8.jpg" alt="">
+</div>
+<div class="container container--callout">
+	<div class="row">
+		<div class="homeSlideShow__callout">
+			<h2>L'Alliance Charis ...</h2>
+			<p>... vise l’accomplissement du Mandat Missionnaire par le développement de relations fraternelles, et par la coopération régionale et internationale entre les unions d'églises qui partagent l'Engagement de Charis pour une Identité et une Mission communes.</p>
+			<div class="home__scroll">
+				<i class="fa fa-angle-down" aria-hidden="true"></i>
+				<i class="fa fa-angle-down" aria-hidden="true"></i>
 			</div>
-			<p>Pour mieux servir nos dirigeants et nos églises, nous réorganisons ce site web. Le but est d’améliorer la coordination et la promotion de nos efforts pour aider ceux qui sont touchés par la crise actuelle. Si vous êtes nouveau sur ce site, nous vous invitons à suivre les liens ci-dessus pour en savoir plus sur l'Alliance&nbsp;Charis.</p>
 		</div>
-		<div class="row">
-		<div class="content content--covid">
-			<h2>En réponse à la crise du Covid-19</h2>
+	</div>
+</div>
+<div class="container">
+	<div class="row">
+		<div class="content content--home content--video">
+			<h2>Qu’est-ce que Charis?</h2>
+			<iframe class="about__video" src="https://player.vimeo.com/video/234315598?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			<iframe class="about__video" src="https://player.vimeo.com/video/296640239?color=b7962f&title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			<hr class="videoHR">
 		</div>
 	</div>
 	<div class="row">
-		<div class="content content--covid">
-			<a href="covid-19/30-days.php" class="homeLink homeLink--third">
-				<img src="../_images/home/thumbnail1.jpg" alt="">
-				<p>Méditations quotidiennes pour temps de crise</p>
-			</a>
-			<a href="covid-19/resources.php" class="homeLink homeLink--third">
-				<img src="../_images/home/thumbnail2.jpg" alt="">
-				<p>Ressources utiles</p>
-			</a>
-			<a target="_blank" href="http://encompasscrisisresponse.org/crisis-form/" class="homeLink homeLink--third">
-				<img src="../_images/home/thumbnail4.jpg" alt="">
-				<p>Formulaire de demande d’assistance</p>
-			</a>
+		<div class="content content--home">
+			<h2>Contenu présenté :</h2>
+			<div class="content content--third content--featured">
+				<a href="celebrer/index.php">
+					<img src="../_images/news/thumbnail1.jpg" alt="">
+					<span>Dimanche de célébration. Célébrez notre mouvement mondial.</span>
+				</a>
+			</div>
+			<div class="content content--third content--featured">
+				<a href="about/about.php">
+					<img src="../_images/home/thumbnail3.jpg" alt="">
+					<span>Qu'est-ce que Charis? Qui sommes-nous et ce que nous croyons.</span>
+				</a>
+			</div>
+			<div class="content content--third content--featured">
+				<a href="documents/documents.php">
+					<img src="../_images/home/thumbnail2.jpg" alt="">
+					<span>Accédez aux statuts de Charis et à d'autres documents de notre alliance.</span>
+				</a>
+			</div>
+			<hr>
 		</div>
-	</div>
-
 	</div>
 </div>
 
