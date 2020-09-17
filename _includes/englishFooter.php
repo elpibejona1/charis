@@ -20,6 +20,8 @@
 			</div>
 			<div class="siteMap">
 				<h6><a href="<?php echo $directory ?>en/media/video.php">Media Gallery</a></h6>
+				<!-- <h6><a href="<?php echo $directory ?>">Celebration Sunday</a></h6>
+				<h6><a href="<?php echo $directory ?>">Charis Global Prayer Walk</a></h6> -->
 			</div>
 			<div class="siteMap__img">
 			</div>

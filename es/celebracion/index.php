@@ -8,7 +8,7 @@
 <?php $globalFunction->includeContent(2,'spanishHeader'); ?>
 <div class="fullContainer fullContainer--noPadding">
     <div class="row">
-        <div class="hero">
+        <div class="hero hero--celebration">
             <div class="hero__title">
                 <h1>Domingo de Charis</h1>
             </div>
@@ -17,19 +17,10 @@
 </div>
 <div class="container">
     <div class="row row--content">
-		<p class="copy copy--large">Para ellos, vivir el evangelio significa enfrentar lo inimaginable.</p>
-		<p class="copy copy--large">Conoce sus historias y únete en oración.</p>
-        <p class="copy">Brutalidad física. Propiedad destruida. Expulsado de la sociedad. Estas son las realidades de innumerables cristianos dentro de nuestro movimiento global. El domingo 3 de noviembre de 2019, las iglesias de todo el mundo se unirán para rezar por aquellos en la Alianza Global Charis que enfrentan tales atrocidades.</p>
-		<p class="copy">¿Dedicará 6-12 minutos durante su servicio o grupo pequeño para ver un video corto y orar juntos por estos hermanos y hermanas?</p>
-		<p class="copy">Haga clic en el enlace a continuación para descargar y compartir este video.</p>
-	</div>
-	<div class="row">
-		<div class="resourceThird resourceThird--video resourceThird--single">
-			<a class="resourceThird__videoLink" href="https://vimeo.com/366626794/80dfaf7cac" target="_blank">
-				<img src="../../_images/celebration/persecuted/video-spanish.jpg" alt="">
-			</a>
-			<a href="https://vimeo.com/encompassworldpartners/download/366626794/b506f85bbb" target="_blank">DESCARGAR VIDEO</a>
-        </div>
+		<div class="row row--content">
+			<p class="copy copy--large">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam.</p>
+			<p class="copy">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod praesentium alias sint ut sit quae, voluptatibus, animi blanditiis quaerat illo fugit numquam rem molestias? Cum, quasi iste voluptates cupiditate expedita, laboriosam mollitia, autem enim debitis fuga ipsam suscipit dolor aliquid placeat veniam cumque provident accusantium.</p>
+		</div>
 	</div>
     <!-- <div class="row">
         <div class="divider">

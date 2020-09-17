@@ -8,29 +8,20 @@
 <?php $globalFunction->includeContent(2,'frenchHeader'); ?>
 <div class="fullContainer fullContainer--noPadding">
     <div class="row">
-        <div class="hero">
+        <div class="hero hero--celebration">
             <div class="hero__title">
-                <h1>Dimanche de Charis</h1>
+                <h1>Dimanche <br>Charis</h1>
             </div>
         </div>
     </div>
 </div>
 <div class="container">
     <div class="row row--content">
-        <p class="copy copy--large">Pour eux, vivre l’évangile, c’est faire face à l’inimaginable.</p>
-		<p class="copy copy--large">Écoutez leurs histoires et réunissons-nous dans la prière.</p>
-        <p class="copy">Brutalité physique. Destruction de biens. Chassés de la société. Telles sont les réalités d&#39;innombrables chrétiens au sein de notre mouvement mondial. Le dimanche 3 novembre 2019, des églises du monde entier se réuniront pour prier pour les membres de l&#39;alliance mondiale Charis qui font face à de telles atrocités.</p>
-		<p class="copy">Allez-vous consacrer 6 à 12 minutes pendant votre service ou en petit groupe pour regarder une courte vidéo et prier ensemble pour ces frères et sœurs?</p>
-		<p class="copy">Cliquez sur le lien ci-dessous pour télécharger et partager cette vidéo.</p>
+		<div class="row row--content">
+			<p class="copy copy--large">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam.</p>
+			<p class="copy">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod praesentium alias sint ut sit quae, voluptatibus, animi blanditiis quaerat illo fugit numquam rem molestias? Cum, quasi iste voluptates cupiditate expedita, laboriosam mollitia, autem enim debitis fuga ipsam suscipit dolor aliquid placeat veniam cumque provident accusantium.</p>
+		</div>
     </div>
-	<div class="row">
-		<div class="resourceThird resourceThird--video resourceThird--single">
-			<a class="resourceThird__videoLink" href="https://vimeo.com/366646906/ca93e2c224" target="_blank">
-				<img src="../../_images/celebration/persecuted/video-french.jpg" alt="">
-			</a>
-			<a href="https://vimeo.com/encompassworldpartners/download/366646906/2f20934665" target="_blank">TÉlÉCHARGER LA VIDÉO</a>
-        </div>
-	</div>
    <!--  <div class="row">
         <div class="divider">
             <img src="../../_images/celebration/divider.png" alt="">

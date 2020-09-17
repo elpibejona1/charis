@@ -8,7 +8,7 @@
 <?php $globalFunction->includeContent(2,'englishHeader'); ?>
 <div class="fullContainer fullContainer--noPadding">
     <div class="row">
-        <div class="hero">
+        <div class="hero hero--celebration">
             <div class="hero__title">
                 <h1>Charis Sunday</h1>
             </div>
@@ -17,20 +17,9 @@
 </div>
 <div class="container">
     <div class="row row--content">
-		<p class="copy copy--large">For them, living the gospel means facing the unimaginable.</p>
-		<p class="copy copy--large">Learn their stories and join together in prayer.</p>
-		<p class="copy">Physical brutality. Destroyed property. Cast out from society. These are the realities of countless Christians within our global movement. On Sunday, November 3, 2019, churches around the globe will join together to pray for those in the global Charis Alliance who are facing such atrocities.</p>
-        <p class="copy">Will you dedicate 6-12 minutes during your service or small group to watch a short video and pray together for these brothers and sisters?</p>
-        <p class="copy">Click the links below to download and share this video.</p>
+		<p class="copy copy--large">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam.</p>
+		<p class="copy">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod praesentium alias sint ut sit quae, voluptatibus, animi blanditiis quaerat illo fugit numquam rem molestias? Cum, quasi iste voluptates cupiditate expedita, laboriosam mollitia, autem enim debitis fuga ipsam suscipit dolor aliquid placeat veniam cumque provident accusantium.</p>
     </div>
-	<div class="row">
-		<div class="resourceThird resourceThird--video resourceThird--single">
-			<a class="resourceThird__videoLink" href="https://vimeo.com/365414420" target="_blank">
-				<img src="../../_images/celebration/persecuted/video-english.jpg" alt="">
-			</a>
-			<a target="_blank" href="https://vimeo.com/encompassworldpartners/download/365414420/601698f5c7">DOWNLOAD VIDEO</a>
-        </div>
-	</div>
     <!-- <div class="row">
         <div class="divider">
             <img src="../../_images/celebration/divider.png" alt="">

@@ -19,8 +19,8 @@
 					<li><a href="<?php echo $directory ?>es/media/video.php">Videos</a></li>
 					<li><a href="<?php echo $directory ?>es/media/photos.php">Fotos</a></li>
 				</ul>
-			<li class="featured"><a href="<?php echo $directory ?>es/celebracion/index.php">Domingo de <br>Charis</a></li>
-			<li class="featured"><a href="<?php echo $directory ?>es/celebracion/index.php">Caminata de <br>Oración</a></li>
+			<!-- <li class="featured"><a href="<?php echo $directory ?>es/celebracion/index.php">Domingo de <br>Charis</a></li>
+			<li class="featured"><a href="<?php echo $directory ?>es/celebracion/index.php">Caminata de <br>Oración</a></li> -->
 
 			<div class="header__languages">
 				<ul>

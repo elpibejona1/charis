@@ -148,6 +148,12 @@ TweenMax.staggerFrom(['.home__scroll i:first-child', '.home__scroll i:nth-of-typ
 // History Page Scroll Arrows
 TweenMax.staggerFrom(['.history__scroll i:first-child', '.history__scroll i:nth-of-type(2)'], 0.25, { visibility: 'hidden', repeatDelay: 1.5, repeat: -1 }, 0.35 );
 
+$('.home__scroll').on('click', function(){
+	var offset = $('.container--homeContent').offset().top;
+
+	$("html, body").animate({ scrollTop: offset });
+})
+
 // "What is Charis?" Accordion
 
 var accordionToggle = function(){
