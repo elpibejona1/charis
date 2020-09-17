@@ -8,9 +8,9 @@
 <?php $globalFunction->includeContent(2,'frenchHeader'); ?>
 <div class="fullContainer fullContainer--noPadding">
     <div class="row">
-        <div class="hero">
-            <div class="hero__title">
-                <h1>Dimanche <br>Charis</h1>
+        <div class="hero hero--prayer">
+            <div class="hero__title hero__title--prayer">
+                <h1>Mouvement de prière <br>mondiale Charis</h1>
             </div>
         </div>
     </div>

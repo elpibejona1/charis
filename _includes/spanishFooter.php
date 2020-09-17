@@ -20,8 +20,8 @@
 			</div>
 			<div class="siteMap">
 				<h6><a href="<?php echo $directory ?>es/media/video.php">Galería</a></h6>
-				<!-- <h6><a href="<?php echo $directory ?>">Domingo de Charis</a></h6>
-				<h6><a href="<?php echo $directory ?>">Caminata de Oración</a></h6> -->
+				<!-- <h6><a href="<?php echo $directory ?>es/celebracion/">Domingo de Charis</a></h6>
+				<h6><a href="<?php echo $directory ?>es/oracion">Caminata de Oración</a></h6> -->
 			</div>
 			<div class="siteMap__img">
 			</div>

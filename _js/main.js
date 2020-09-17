@@ -49,10 +49,10 @@ var statusIndication = function() {
 
 	if ( $('.header__languages__link--en').hasClass('active') ) {
 
-		if ( directory === 'giving') {
+		if ( directory === 'prayer') {
 
-			esReplace = pathName.replace('/en/giving', '/es/ofrendar');
-			frReplace = pathName.replace('/en/giving', '/fr/donner');
+			esReplace = pathName.replace('/en/prayer', '/es/oracion');
+			frReplace = pathName.replace('/en/prayer', '/fr/priere');
 
 			$('.header__languages__link--es').attr('href', esReplace);
 
@@ -79,10 +79,10 @@ var statusIndication = function() {
 
 	} else if ( $('.header__languages__link--es').hasClass('active')) {
 
-		if ( directory === 'ofrendar') {
+		if ( directory === 'oracion') {
 			
-			enReplace = pathName.replace('/es/ofrendar', '/en/giving');
-			frReplace = pathName.replace('/es/ofrendar', '/fr/donner');
+			enReplace = pathName.replace('/es/oracion', '/en/prayer');
+			frReplace = pathName.replace('/es/oracion', '/fr/priere');
 
 			$('.header__languages__link--en').attr('href', enReplace);
 
@@ -110,10 +110,10 @@ var statusIndication = function() {
 		
 	} else if ( $('.header__languages__link--fr').hasClass('active') ) {
 
-		if ( directory === 'donner') {
+		if ( directory === 'priere') {
 			
-			enReplace = pathName.replace('/fr/donner', '/en/giving');
-			esReplace = pathName.replace('/fr/donner', '/es/ofrendar');
+			enReplace = pathName.replace('/fr/priere', '/en/prayer');
+			esReplace = pathName.replace('/fr/priere', '/es/oracion');
 
 			$('.header__languages__link--en').attr('href', enReplace);
 

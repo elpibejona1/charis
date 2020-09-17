@@ -8,7 +8,7 @@
 <?php $globalFunction->includeContent(2,'englishHeader'); ?>
 <div class="fullContainer fullContainer--noPadding">
     <div class="row">
-        <div class="hero">
+        <div class="hero hero--prayer">
             <div class="hero__title hero__title--prayer">
                 <h1>Charis Global <br>Prayer Walk 2020</h1>
             </div>
