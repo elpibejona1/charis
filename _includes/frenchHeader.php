@@ -19,8 +19,8 @@
 					<li><a href="<?php echo $directory ?>fr/media/video.php">Vidéos</a></li>
 					<li><a href="<?php echo $directory ?>fr/media/photos.php">Photos</a></li>
 				</ul>
-			<!-- <li class="featured"><a href="<?php echo $directory ?>fr/celebrer/">Dimanche <br>Charis</a></li>
-			<li class="featured"><a href="<?php echo $directory ?>fr/priere/">Mouvement de <br>Prière Mondiale</a></li> -->
+			<li class="featured"><a href="<?php echo $directory ?>fr/celebrer/">Dimanche <br>Charis</a></li>
+			<li class="featured"><a href="<?php echo $directory ?>fr/priere/">Mouvement de <br>Prière Mondiale</a></li>
 			
 			<div class="header__languages">
 				<ul>

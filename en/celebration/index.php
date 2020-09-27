@@ -36,7 +36,7 @@
         <div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource2.png" alt="">
             <h3><br>SCREEN GRAPHICS</h3>
-            <div><a class="resourceThird__link" href="csc_projection_slides_4-3.zip">Download</a></div>
+            <div><a class="resourceThird__link" href="../../documents/celebration/en/Charis-Alliance-Screens-English.zip">Download</a></div>
         </div>
 		<div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource3.png" alt="">

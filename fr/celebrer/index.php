@@ -18,70 +18,41 @@
 <div class="container">
     <div class="row row--content">
 		<div class="row row--content">
-			<p class="copy copy--large">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam.</p>
-			<p class="copy">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod praesentium alias sint ut sit quae, voluptatibus, animi blanditiis quaerat illo fugit numquam rem molestias? Cum, quasi iste voluptates cupiditate expedita, laboriosam mollitia, autem enim debitis fuga ipsam suscipit dolor aliquid placeat veniam cumque provident accusantium.</p>
+			<p class="copy copy--large">Même au milieu de l'incertitude et de la peur qui ont saisi le monde cette année, Dieu a œuvré. Rejoignez-nous pour célébrer la manière dont Dieu a utilisé l'Alliance Charis pour bénir et pourvoir aux plus démunis. Inscrivez-vous aujourd'hui et nous vous enverrons tout le matériel dont vous avez besoin pour participer.</p>
+			<div class="signUpLink"><a class="resourceThird__link" target="_blank" href="https://mailchi.mp/encompassworld/marche-de-prire-mondiale-charis-2020">Inscrivez-vous</a></div>
+			<p class="copy copy--large copy--marginBot">Voici tout le matériel dont vous avez besoin pour participer :</p>
 		</div>
     </div>
-   <!--  <div class="row">
-        <div class="divider">
-            <img src="../../_images/celebration/divider.png" alt="">
+    <div class="row row--resources">
+        <div class="resourceThird resourceThird--celebration">
+            <img src="../../_images/celebration/resource1.png" alt="">
+            <h3>INFORMATIONS GÉNÉRALES SUR L'ALLIANCE CHARIS</h3>
+            <div><a class="resourceThird__link" target="_blank" href="../../documents/celebration/fr/Informations-Generales-Alliance-Charis.pdf">Ouvrir</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="../../documents/celebration/fr/Informations-Generales-Alliance-Charis.pdf" download>Télécharger</a></div>
         </div>
-    </div>
-    <div class="row">
-        <div class="resourceThird">
+        <div class="resourceThird resourceThird--celebration">
+            <img class="wide" src="../../_images/celebration/resource2.png" alt="">
+            <h3><br>Graphiques d'écran</h3>
+            <div><a class="resourceThird__link" href="../../documents/celebration/fr/Dimanche-Charis-Graphiques-d-ecran.zip">Télécharger</a></div>
+        </div><!-- 
+		<div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource3.png" alt="">
-            <h3>VIDÉO-TABLEAU BLANC DE LA CÉLÉBRATION CHARIS</h3>
-            <p>Pour les églises ayant des capacités vidéo</p>
-            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/234315598">Visionner la vidéo</a></div>
+            <h3>Dimanche Charis - Instructions</h3>
+            <div><a class="resourceThird__link" target="_blank" href="">Voir la Video</a></div>
+        </div> -->
+	</div>
+	<div class="row row--resources">
+		<div class="resourceThird resourceThird--celebration">
+            <img class="wide" src="../../_images/celebration/resource4.png" alt="">
+            <h3>DIMANCHE CHARIS - VIDÉO DE BANDE-ANNONCE</h3>
+            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/encompassworldpartners/download/460701466/112fecbc1c">Télécharger la video</a></div>
+		</div>
+		<div class="resourceThird resourceThird--celebration">
+            <img class="wide" src="../../_images/celebration/resource5.png" alt="">
+            <h3>DIMANCHE CHARIS - VIDÉO COMPLÈTE</h3>
+            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/encompassworldpartners/download/461076044/04be0dc7dd">Télécharger la video</a></div>
         </div>
-        <div class="resourceThird">
-            <img class="wide" src="../../_images/celebration/new/resource2.png" alt="">
-            <h3>VIDÉO-TABLEAU BLANC DE LA CÉLÉBRATION CHARIS 2</h3>
-            <p>Pour les églises ayant des capacités vidéo</p>
-            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/296640239">Visionner la vidéo</a></div>
-        </div>
-        <div class="resourceThird">
-            <img src="../../_images/celebration/resource4.png" alt="">
-            <h3>FICHE INFORMATIVE DE L'HISTOIRE DE CHARIS</h3>
-            <p>Pour les églises sans capacité vidéo</p>
-            <div class="long"><a class="resourceThird__link" target="_blank" href="L'histoire_de_Charis_Alliance.pdf">TÉLÉCHARGEMENT</a></div>
-        </div>
-        <div class="resourceThird">
-            <img class="wide" src="../../_images/celebration/resource6.png" alt="">
-            <h3>ÉCRANS DE PROMOTION</h3>
-            <p>Pour des présentations de diapositives, en format 4:3 et 16:9</p>
-            <div><a class="resourceThird__link" href="Ecrans_de_promotion_4-3.zip">4:3</a></div>
-            <div><a class="resourceThird__link" href="Ecrans_de_promotion_16-9.zip">16:9</a></div>
-        </div>
-        <div class="resourceThird">
-            <img src="../../_images/celebration/resource7.png" alt="">
-            <h3>GRAPHIQUES POUR LA PROMOTION AUX MÉDIAS SOCIAUX</h3>
-            <p>Y compris une image de couverture de Facebook et des graphismes partageables</p>
-            <div class="long"><a class="resourceThird__link" href="Medias_Sociaux.zip">TÉLÉCHARGEMENT</a></div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="divider divider--2">
-            <img src="../../_images/celebration/divider.png" alt="">
-        </div>
-    </div>
-    <div class="row">
-        <h2 class="heading">Vidéos de l’Alliance Charis</h2>
-        <p class="copy copy--large">Pour préparer votre église pour le Dimanche de Célébration de Charis et créer une plus grande prise de conscience sur l’Alliance Charis, partagez ces vidéos à l’église et dans vos réseaux sociaux.</p>
-    </div>
-    <div class="row">
-        <div class="resourceThird resourceThird--video resourceThird--half">
-            <a class="resourceThird__videoLink" href="https://vimeo.com/162081663" target="_blank"><img src="../../_images/celebration/video2.jpg" alt="">
-            <h3>L’ALLIANCE CHARIS</h3></a>
-            <p>Cette vidéo est une introduction et un aperçu de
-            l’Alliance Charis, un mouvement issu des Églises
-            des Frères partout dans le monde. Finalisé
-            en début 2016, la plupart des images de cette
-            vidéo ont été prises en automne 2015 à la
-            Rencontre Internationale des Leaders de Charis à
-            Bangkok, en Thaïlande.</p>
-        </div>
-    </div> -->
+	</div>
     <div class="row">
         <img src="../../_images/celebration/watermark.png" alt="" class="watermark">
     </div>
