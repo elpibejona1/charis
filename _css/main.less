@@ -1635,12 +1635,16 @@ p.interior__description__subTitle {
 	font-size: 16px;
 	font-family: 'Raleway', sans-serif;
 	line-height: 1.5;
+
+	a { color: @tea; }
 }
 
 .copy + .copy,
 .copy + .videoList { margin-top: 30px; }
 
 .copy--large { font-size: 20px; }
+
+.copy--marginBot { margin-bottom: 50px; }
 
 .divider {
 	margin: 100px auto!important;
@@ -1649,6 +1653,13 @@ p.interior__description__subTitle {
 	img { width: 100%; }
 
 	&--2 { margin-top: 0!important; }
+}
+
+.row--resources {
+	display: flex;
+	align-items: flex-end;
+
+	+ .row--resources { margin-top: 85px;}
 }
 
 .resourceThird {
@@ -1737,6 +1748,29 @@ p.interior__description__subTitle {
 
 			+ a { margin-top: 20px; }
 		}
+	}
+
+	&--celebration { height: auto; }
+}
+
+.signUpLink {
+	background-color: @red;
+	text-align: center;
+	display: inline-block;
+	margin: 20px 0 40px;
+	width: 115px;
+
+	a {
+		font-family: 'Raleway', sans-serif;
+		color:@white;
+		text-transform: uppercase;
+		font-weight: 600;
+		font-size: 14px;
+		display: inline-block;
+		padding: 5px;
+		width: 100%;
+		text-decoration: none;
+		line-height: 1.4;
 	}
 }
 
