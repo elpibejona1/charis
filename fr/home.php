@@ -63,7 +63,8 @@
 			<p>Même au milieu de l'incertitude et de la peur qui ont saisi le monde cette année, <strong>Dieu a œuvré</strong>. Rejoignez-nous pour célébrer la manière dont Dieu a utilisé l'Alliance Charis pour bénir et pourvoir aux plus démunis. <strong>Inscrivez-vous aujourd'hui</strong> et nous vous enverrons tout le matériel dont vous avez besoin pour participer.</p>
 			<div class="primary__downloadContainer">
 				<ul>
-					<li class="primary__download__button"><a target="_blank" href="https://mailchi.mp/encompassworld/2020-charis-dimanche">Inscrivez-vous</a></li>
+					<li class="primary__download__button primary__download__button--home"><a target="_blank" href="https://mailchi.mp/encompassworld/2020-charis-dimanche">Inscrivez-vous</a></li>
+					<li class="primary__download__button primary__download__button--home"><a href="celebrer/">Accéder aux ressources</a></li>
 				</ul>
 			</div>
 		</div>
@@ -78,7 +79,8 @@
 			<p><strong>En novembre,</strong> les membres de Charis du monde entier se réunissent pour un mouvement virtuel de prière de partout dans le monde. À partir du 1er novembre, nous prierons ensemble pour les églises Charis et les ministères de notre Alliance situés à travers le monde pendant 30 jours. <strong>Inscrivez-vous</strong> pour recevoir ces e-mails.</p>
 			<div class="primary__downloadContainer">
 				<ul>
-					<li class="primary__download__button"><a target="_blank" href="https://mailchi.mp/encompassworld/marche-de-prire-mondiale-charis-2020">Inscrivez-vous</a></li>
+					<li class="primary__download__button primary__download__button--home"><a target="_blank" href="https://mailchi.mp/encompassworld/marche-de-prire-mondiale-charis-2020">Inscrivez-vous</a></li>
+					<li class="primary__download__button primary__download__button--home"><a href="priere/">Accéder aux ressources</a></li>
 				</ul>
 			</div>
 		</div>

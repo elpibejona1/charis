@@ -63,7 +63,8 @@
 			<p>Even amid the uncertainty and fear that has gripped the world this year, God has been moving. Join us as we celebrate the ways God has used the Charis Alliance to bless and provide for the least reached. <strong>Sign up today,</strong> and we will send you all the materials you need to participate.</p>
 			<div class="primary__downloadContainer">
 				<ul>
-					<li class="primary__download__button"><a target="_blank" href="https://mailchi.mp/encompassworld/chariscelebration2020">Sign Up</a></li>
+					<li class="primary__download__button primary__download__button--home"><a target="_blank" href="https://mailchi.mp/encompassworld/chariscelebration2020">Sign Up</a></li>
+					<li class="primary__download__button primary__download__button--home"><a href="celebration/">Access Resources</a></li>
 				</ul>
 			</div>
 		</div>
@@ -78,7 +79,8 @@
 			<p>In November, Charis members from around the globe are joining together for a virtual Global Prayer Walk. <strong>Starting November 1,</strong> we will pray together for the Charis churches and ministries of our Alliance located around the world for 30 days. <strong>Sign up below</strong> to receive these emails.</p>
 			<div class="primary__downloadContainer">
 				<ul>
-					<li class="primary__download__button"><a target="_blank" href="https://mailchi.mp/encompassworld/globalprayerwalk2020">Sign Up</a></li>
+					<li class="primary__download__button primary__download__button--home"><a target="_blank" href="https://mailchi.mp/encompassworld/globalprayerwalk2020">Sign Up</a></li>
+					<li class="primary__download__button primary__download__button--home"><a href="prayer/">Access Resources</a></li>
 				</ul>
 			</div>
 		</div>

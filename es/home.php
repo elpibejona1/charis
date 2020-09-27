@@ -63,7 +63,8 @@
 			<p>Incluso en medio de la incertidumbre y del miedo que se ha apoderado del mundo este año, <strong>Dios sigue obrando</strong>. Únase a nosotros para celebrar las formas en que Dios ha usado la Alianza Charis para bendecir a los menos alcanzados. <strong>Regístrese hoy</strong> y le enviaremos todos los materiales que necesita para participar.</p>
 			<div class="primary__downloadContainer">
 				<ul>
-					<li class="primary__download__button"><a target="_blank" href="https://mailchi.mp/encompassworld/2020-charis-domingo">Regístrese</a></li>
+					<li class="primary__download__button primary__download__button--home"><a target="_blank" href="https://mailchi.mp/encompassworld/2020-charis-domingo">Regístrese</a></li>
+					<li class="primary__download__button primary__download__button--home"><a href="celebracion/">Acceda a los materiales</a></li>
 				</ul>
 			</div>
 		</div>
@@ -78,7 +79,8 @@
 			<p><strong>En noviembre,</strong> los miembros de Charis de todo el mundo se unirán para una <strong>caminata de oración virtual</strong>. A partir del 1 de noviembre, oraremos juntos por las iglesias y los ministerios de la Alianza Charis durante 30 días. <strong>Regístrese aquí</strong> para recibir estos correos electrónicos.</p>
 			<div class="primary__downloadContainer">
 				<ul>
-					<li class="primary__download__button"><a target="_blank" href="https://mailchi.mp/encompassworld/caminata-global-de-oracin-charis-2020">Regístrese</a></li>
+					<li class="primary__download__button primary__download__button--home"><a target="_blank" href="https://mailchi.mp/encompassworld/caminata-global-de-oracin-charis-2020">Regístrese</a></li>
+					<li class="primary__download__button primary__download__button--home"><a href="oracion/">Acceda a los materiales</a></li>
 				</ul>
 			</div>
 		</div>
