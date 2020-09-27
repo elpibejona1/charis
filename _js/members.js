@@ -70,41 +70,41 @@ var info = {
 			country: "Cameroon",
 			pais: "Camerún",
 			pays: 'au <br><span class="country">Cameroun',
-			status: "Charis Charter Member",
-			estado: "Miembro Fundador de&nbsp;Charis",
-			statut: 'Membre fondateur de&nbsp;Charis',
-			churches: 49,
-			pointsOfLight: 37
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
+			churches: 52,
+			pointsOfLight: 24
 		},
 		{
 			country: "The Central African Republic",
 			pais: "República Centroafricana",
 			pays: 'en <br><span class="country">République Centrafricaine',
-			status: "Charis Charter Member",
-			estado: "Miembro Fundador de&nbsp;Charis",
-			statut: 'Membre fondateur de&nbsp;Charis',
-			churches: 2965,
-			pointsOfLight: 384
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
+			churches: 3060,
+			pointsOfLight: 218
 		},
 		{
 			country: "Nigeria",
 			pais: "Nigeria",
 			pays: 'au <br><span class="country">Nigéria',
-			status: "Charis Charter Member",
-			estado: "Miembro Fundador de&nbsp;Charis",
-			statut: 'Membre fondateur de&nbsp;Charis',
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
 			churches: 6,
-			pointsOfLight: 47
+			pointsOfLight: 8
 		},
 		{
 			country: "Chad",  //TD
 			pais: "Chad",
 			pays: 'au <br><span class="country">Tchad',
-			status: "Charis Charter Member",
-			estado: "Miembro Fundador de&nbsp;Charis",
-			statut: 'Membre fondateur de&nbsp;Charis',
-			churches: 249,
-			pointsOfLight: 283
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
+			churches: 301,
+			pointsOfLight: 115
 		},
 	],
 	asia: [
@@ -127,21 +127,21 @@ var info = {
 			country: "Cambodia", //KH
 			pais: "Camboya",
 			pays: 'au <br><span class="country">Cambodge',
-			status: "Charis Charter Member",
-			estado: "Miembro Fundador de&nbsp;Charis",
-			statut: 'Membre fondateur de&nbsp;Charis',
-			churches: 4,
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
+			churches: 3,
 			pointsOfLight: 4
 		},
 		{
 			country: "The Philippines",
 			pais: "Filipinas",
 			pays: 'aux <br><span class="country">Philippines',
-			status: "Charis Charter Member",
-			estado: "Miembro Fundador de&nbsp;Charis",
-			statut: 'Membre fondateur de&nbsp;Charis',
-			churches: 7,
-			pointsOfLight: 1
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
+			churches: 5,
+			pointsOfLight: 4
 		},
 	],
 	caribbean: [
@@ -154,10 +154,20 @@ var info = {
 			country: "The Bahamas",
 			pais: "Bahamas",
 			pays: 'aux <br><span class="country">Bahamas',
-			status: "Charis Charter Member",
-			estado: "Miembro Fundador de&nbsp;Charis",
-			statut: 'Membre fondateur de&nbsp;Charis',
-			churches: 5,
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
+			churches: 3,
+			pointsOfLight: 3
+		},
+		{
+			country: "Haiti",
+			pais: "Haití",
+			pays: 'en <br><span class="country">Haïti</span>',
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
+			churches: 70,
 			pointsOfLight: 0
 		}
 	],
@@ -174,38 +184,48 @@ var info = {
 			status: "Charis Observer Member",
 			estado: "Miembro Observador",
 			statut: 'Membre Observateur Charis',
-			churches: 3,
-			pointsOfLight: 1
+			churches: 1,
+			pointsOfLight: 0
 		},
 		{
 			country: "France",
 			pais: "Francia",
 			pays: 'en <br><span class="country">France',
-			status: "Charis Charter Member",
-			estado: "Miembro Fundador de&nbsp;Charis",
-			statut: 'Membre fondateur de&nbsp;Charis',
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
 			churches: 7,
-			pointsOfLight: 5
+			pointsOfLight: 2
 		},
 		{
 			country: "The United Kingdom",
 			pais: "Reino Unido",
 			pays: 'au <br><span class="country">Royaume-Uni',
-			status: "Charis Charter Member (British Isles Association)",
-			estado: "Miembro Fundador de&nbsp;Charis (Asociación de las Islas Británicas)",
-			statut: 'Membre fondateur de&nbsp;Charis (Association des Îles Britanniques)',
+			status: "Charis Observer Member",
+			estado: "Miembro Observador",
+			statut: 'Membre Observateur Charis',
 			churches: 2,
 			pointsOfLight: 0
 		},
 		{
-			country: "Ireland",
-			pais: "Irlanda",
-			pays: 'en <br><span class="country">Irlande',
-			status: "Charis Charter Member (British Isles Association)",
-			estado: "Miembro Fundador de&nbsp;Charis (Asociación de las Islas Británicas)",
-			statut: 'Membre fondateur de&nbsp;Charis (Association des Îles Britanniques)',
+			country: "Poland",
+			pais: "Polonia",
+			pays: 'en <br><span class="country">Pologne',
+			status: "Charis Observer Member",
+			estado: "Miembro Observador",
+			statut: 'Membre Observateur Charis',
 			churches: 1,
 			pointsOfLight: 0
+		},
+		{
+			country: "Portugal",
+			pais: "Portugal",
+			pays: 'au <br><span class="country">Portugal',
+			status: "Charis Observer Member",
+			estado: "Miembro Observador",
+			statut: 'Membre Observateur Charis',
+			churches: 1,
+			pointsOfLight: 1
 		}
 	],
 	northAmerica: [
@@ -218,11 +238,11 @@ var info = {
 			country: "Canada",
 			pais: "Canadá",
 			pays: 'au <br><span class="country">Canada',
-			status: "Charis Charter Member",
-			estado: "Miembro Fundador de&nbsp;Charis",
-			statut: 'Membre fondateur de&nbsp;Charis',
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
 			churches: 4,
-			pointsOfLight: 2
+			pointsOfLight: 0
 		},
 		{
 			country: "Guatemala",
@@ -238,20 +258,20 @@ var info = {
 			country: "Mexico",
 			pais: "México",
 			pays: 'au <br><span class="country">Mexique',
-			status: "Charis Charter Member",
-			estado: "Miembro Fundador de&nbsp;Charis",
-			statut: 'Membre fondateur de&nbsp;Charis',
-			churches: 30,
-			pointsOfLight: 15
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
+			churches: 25,
+			pointsOfLight: 23
 		},
 		{
 			country: "The United States",
 			pais: "Estados Unidos",
 			pays: 'aux <br><span class="country">États-Unis',
-			status: "Charis Charter Member",
-			estado: "Miembro Fundador de&nbsp;Charis",
-			statut: 'Membre fondateur de&nbsp;Charis',
-			churches: 238,
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
+			churches: 231,
 			pointsOfLight: 0
 		}
 	],
@@ -265,21 +285,21 @@ var info = {
 			country: "Argentina",
 			pais: "Argentina",
 			pays: 'en <br><span class="country">Argentine',
-			status: "Charis Charter Member",
-			estado: "Miembro Fundador de&nbsp;Charis",
-			statut: 'Membre fondateur de&nbsp;Charis',
-			churches: 18,
-			pointsOfLight: 4
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
+			churches: 14,
+			pointsOfLight: 18
 		},
 		{
 			country: "Brazil",
 			pais: "Brasil",
 			pays: 'au <br><span class="country">Brésil',
-			status: "Charis Charter Member",
-			estado: "Miembro Fundador de&nbsp;Charis",
-			statut: 'Membre fondateur de&nbsp;Charis',
-			churches: 33,
-			pointsOfLight: 29
+			status: "Charis Member Association",
+			estado: "Asociación miembro de Charis",
+			statut: 'Association membre de Charis',
+			churches: 32,
+			pointsOfLight: 26
 		},
 		{
 			country: "Chile",
@@ -289,7 +309,7 @@ var info = {
 			estado: "Miembro Observador",
 			statut: 'Membre Observateur Charis',
 			churches: 1,
-			pointsOfLight: 1
+			pointsOfLight: 0
 		},
 		{
 			country: "Uruguay",
@@ -299,7 +319,7 @@ var info = {
 			estado: "Miembro Observador",
 			statut: 'Membre Observateur Charis',
 			churches: 1,
-			pointsOfLight: 1
+			pointsOfLight: 5
 		}
 	]
 }
