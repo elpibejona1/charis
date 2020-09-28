@@ -26,13 +26,18 @@
 	<div class="row row--resources">
         <div class="resourceThird resourceThird--celebration">
             <img src="../../_images/prayer/resource1.png" alt="">
-            <h3>Guide de prière</h3>
+            <h3><br>Guide de prière</h3>
             <p class="resourceThird__comingSoon"><strong><em>Bientôt!</em></strong></p>
         </div>
         <div class="resourceThird resourceThird--celebration">
-            <img class="wide" src="../../_images/prayer/resource2.png" alt="">
+            <img class="wide" src="../../_images/prayer/resource2-fr.png" alt="">
             <h3><br>Graphique d'écran</h3>
             <div><a class="resourceThird__link" href="../../documents/prayer/fr/Graphique-d-ecran-mouvement-priere-charis.png" download>Télécharger</a></div>
+        </div>
+        <div class="resourceThird resourceThird--celebration">
+            <img src="../../_images/prayer/resource3-fr.png" alt="">
+            <h3>GRAPHIQUE POUR LES MÉDIAS SOCIAUX</h3>
+            <div><a class="resourceThird__link" href="../../documents/prayer/en/Graphic-medias-sociaux-mouvement-priere-charis.png" download>Télécharger</a></div>
         </div>
 	</div>
     <div class="row">

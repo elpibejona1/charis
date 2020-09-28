@@ -31,26 +31,31 @@
             <div><a class="resourceThird__link" target="_blank" href="../../documents/celebration/fr/Informations-Generales-Alliance-Charis.pdf" download>Télécharger</a></div>
         </div>
         <div class="resourceThird resourceThird--celebration">
-            <img class="wide" src="../../_images/celebration/resource2.png" alt="">
+            <img class="wide" src="../../_images/celebration/resource2-fr.png?v2" alt="">
             <h3><br>Graphiques d'écran</h3>
             <div><a class="resourceThird__link" href="../../documents/celebration/fr/Dimanche-Charis-Graphiques-d-ecran.zip">Télécharger</a></div>
-        </div><!-- 
+        </div>
+		<div class="resourceThird resourceThird--celebration">
+            <img src="../../_images/celebration/resource7-fr.png" alt="">
+            <h3>Graphique pour les médias sociaux</h3>
+            <div><a class="resourceThird__link" download href="../../documents/celebration/fr/Dimanche-Charis-medias-sociaux.png">Download</a></div>
+		</div><!-- 
 		<div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource3.png" alt="">
             <h3>Dimanche Charis - Instructions</h3>
-            <div><a class="resourceThird__link" target="_blank" href="">Voir la Video</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="">Voir la Vidéo</a></div>
         </div> -->
 	</div>
 	<div class="row row--resources">
 		<div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource4.png" alt="">
             <h3>DIMANCHE CHARIS - VIDÉO DE BANDE-ANNONCE</h3>
-            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/encompassworldpartners/download/460701466/112fecbc1c">Télécharger la video</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/encompassworldpartners/download/460701466/112fecbc1c">Télécharger la vidéo</a></div>
 		</div>
 		<div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource5.png" alt="">
-            <h3>DIMANCHE CHARIS - VIDÉO COMPLÈTE</h3>
-            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/encompassworldpartners/download/461076044/04be0dc7dd">Télécharger la video</a></div>
+            <h3>DIMANCHE CHARIS - VIDÉO&nbsp;COMPLÈTE</h3>
+            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/encompassworldpartners/download/461076044/04be0dc7dd">Télécharger la vidéo</a></div>
         </div>
 	</div>
     <div class="row">

@@ -27,6 +27,11 @@
         </div>
 	</div> -->
     <div class="row row--resources">
+		<div class="resourceThird resourceThird--celebration">
+            <img class="wide" src="../../_images/celebration/resource3.png" alt="">
+            <h3>CHARIS CELEBRATION INSTRUCTIONS</h3>
+            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/461376246/33cd38aa00">View Video</a></div>
+        </div>
         <div class="resourceThird resourceThird--celebration">
             <img src="../../_images/celebration/resource1.png" alt="">
             <h3>CHARIS ALLIANCE TALKING&nbsp;POINTS</h3>
@@ -34,17 +39,17 @@
             <div><a class="resourceThird__link" target="_blank" href="../../documents/celebration/en/Charis-Alliance-Talking-Points-English.pdf" download>Download</a></div>
         </div>
         <div class="resourceThird resourceThird--celebration">
-            <img class="wide" src="../../_images/celebration/resource2.png" alt="">
+            <img class="wide" src="../../_images/celebration/resource2-en.png?v2" alt="">
             <h3><br>SCREEN GRAPHICS</h3>
             <div><a class="resourceThird__link" href="../../documents/celebration/en/Charis-Alliance-Screens-English.zip">Download</a></div>
         </div>
-		<div class="resourceThird resourceThird--celebration">
-            <img class="wide" src="../../_images/celebration/resource3.png" alt="">
-            <h3>CHARIS CELEBRATION INSTRUCTIONS</h3>
-            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/461376246/33cd38aa00">View Video</a></div>
-        </div>
 	</div>
 	<div class="row row--resources">
+		<div class="resourceThird resourceThird--celebration">
+            <img src="../../_images/celebration/resource7-en.png" alt="">
+            <h3>SOCIAL MEDIA GRAPHIC</h3>
+            <div><a class="resourceThird__link" download href="../../documents/celebration/en/Charis-Sunday-SM-Graphic.png">Download</a></div>
+		</div>
 		<div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource4.png" alt="">
             <h3>CHARIS SUNDAY TEASER</h3>
@@ -55,6 +60,8 @@
             <h3>CHARIS SUNDAY VIDEO</h3>
             <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/encompassworldpartners/download/454107619/4247dceb26">Download Video</a></div>
         </div>
+	</div>
+	<div class="row row--resources">
 		<div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource6.png" alt="">
 			<h3>CHARIS SUNDAY VIDEO</h3>

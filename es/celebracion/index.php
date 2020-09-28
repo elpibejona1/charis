@@ -36,10 +36,15 @@
             <div><a class="resourceThird__link" target="_blank" href="../../documents/celebration/es/Informacion-General-Alianza-Charis.pdf" download>Descargar</a></div>
         </div>
         <div class="resourceThird resourceThird--celebration">
-            <img class="wide" src="../../_images/celebration/resource2.png" alt="">
+            <img class="wide" src="../../_images/celebration/resource2-es.png?v2" alt="">
             <h3><br>GRÁFICOS DE PANTALLA</h3>
             <div><a class="resourceThird__link" href="../../documents/celebration/es/Domingo-Charis-Graficos-Pantalla.zip">Descargar</a></div>
         </div>
+		<div class="resourceThird resourceThird--celebration">
+            <img src="../../_images/celebration/resource7-es.png" alt="">
+            <h3>GRÁFICO PARA REDES&nbsp;SOCIALES</h3>
+            <div><a class="resourceThird__link" download href="../../documents/celebration/es/Domingo-Charis-Redes-Sociales.png">Download</a></div>
+		</div>
 		<!-- <div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource3.png" alt="">
             <h3>DOMINGO DE CHARIS - INSTRUCCIONES</h3>

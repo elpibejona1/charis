@@ -28,9 +28,14 @@
             <p class="resourceThird__comingSoon"><strong><em>Coming Soon!</em></strong></p>
         </div>
         <div class="resourceThird resourceThird--celebration">
-            <img class="wide" src="../../_images/prayer/resource2.png" alt="">
+            <img class="wide" src="../../_images/prayer/resource2-en.png" alt="">
             <h3><br>SCREEN GRAPHIC</h3>
             <div><a class="resourceThird__link" href="../../documents/prayer/en/Screen-Graphic-Charis-Global-Prayer-Walk.png" download>Download</a></div>
+        </div>
+        <div class="resourceThird resourceThird--celebration">
+            <img src="../../_images/prayer/resource3-en.png" alt="">
+            <h3><br>Social Media Graphic</h3>
+            <div><a class="resourceThird__link" href="../../documents/prayer/en/Charis-Global-Prayer-Walk-SM.png" download>Download</a></div>
         </div>
 	</div>
     <div class="row">
