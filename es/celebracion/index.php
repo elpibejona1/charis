@@ -43,7 +43,7 @@
 		<div class="resourceThird resourceThird--celebration">
             <img src="../../_images/celebration/resource7-es.png" alt="">
             <h3>GRÁFICO PARA REDES&nbsp;SOCIALES</h3>
-            <div><a class="resourceThird__link" download href="../../documents/celebration/es/Domingo-Charis-Redes-Sociales.png">Download</a></div>
+            <div><a class="resourceThird__link" download href="../../documents/celebration/es/Domingo-Charis-Redes-Sociales.png">Descargar</a></div>
 		</div>
 		<!-- <div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource3.png" alt="">
