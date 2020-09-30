@@ -55,7 +55,7 @@
 		<div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource5.png" alt="">
             <h3>DIMANCHE CHARIS - VIDÉO&nbsp;COMPLÈTE</h3>
-            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/encompassworldpartners/download/461076044/04be0dc7dd">Télécharger la vidéo</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/encompassworldpartners/download/461052110/7f6af29c8e">Télécharger la vidéo</a></div>
         </div>
 	</div>
     <div class="row">
