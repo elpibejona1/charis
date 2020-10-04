@@ -58,16 +58,7 @@
 		<div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource6.png" alt="">
 			<h3>CHARIS SUNDAY VIDEO</h3>
-			<p>(With 2020 Charis Prayer Walk&nbsp;Information)<p>
             <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/encompassworldpartners/download/461041837/a44bfd7dd3">Download Video</a></div>
-        </div>
-	</div>
-	<div class="row row--resources">
-		<div class="resourceThird resourceThird--celebration">
-            <img class="wide" src="../../_images/celebration/resource5.png" alt="">
-            <h3>CHARIS SUNDAY VIDEO</h3>
-			<p>(Without 2020 Charis Prayer Walk&nbsp;Information)<p>
-            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/encompassworldpartners/download/454107619/4247dceb26">Download Video</a></div>
         </div>
 	</div>
     <div class="row">

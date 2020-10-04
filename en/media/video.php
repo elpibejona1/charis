@@ -28,7 +28,7 @@
 						</a>
 					</div>
 					<div class="galleryPrev galleryPrev--video">
-						<a target="_blank" href="https://vimeo.com/234318544">
+						<a target="_blank" href="https://vimeo.com/296002480">
 							<img src="../../_images/media/videos/video5.jpg" alt="">
 							<h3>Charis Whiteboard Video 2</h3>
 							<p>Continuing to look at the history of the Charis Alliance, this video follows the growth of the movement from the early 1900s.</p>
