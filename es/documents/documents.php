@@ -81,6 +81,7 @@
 				<div class="primary__downloadContainer">
 					<ul>
 						<li class="primary__download__button"><a target="_blank" href="../../documents/cccm/CCCM_German.pdf">Alemán</a></li>
+						<li class="primary__download__button"><a target="_blank" href="../../documents/cccm/CCCM_Portugues.pdf">Portugués</a></li>
 						<li class="primary__download__button"><a target="_blank" href="../../documents/cccm/CCCM_Sango.pdf">Sango</a></li>
 					</ul>
 				</div>

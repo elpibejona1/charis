@@ -23,9 +23,9 @@
     </div>
 	<div class="row row--resources">
         <div class="resourceThird resourceThird--celebration">
-            <img src="../../_images/prayer/resource1.png" alt="">
+            <img src="../../_images/prayer/resource1-en.png" alt="">
             <h3>Prayer Guide</h3>
-            <p class="resourceThird__comingSoon"><strong><em>Coming Soon!</em></strong></p>
+			<div><a class="resourceThird__link" href="../../documents/prayer/en/2020-Charis-Global-Prayer-Walk-Guide.pdf" download>Download</a></div>
         </div>
         <div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/prayer/resource2-en.png" alt="">
