@@ -31,7 +31,7 @@
             <div><a class="resourceThird__link" href="../../documents/prayer/es/Guia_caminata_de_oracion_2020.pdf" download>Descargar</a></div>
         </div>
         <div class="resourceThird resourceThird--celebration">
-            <img src="../../_images/prayer/resource1-pt.png" alt="">
+            <img src="../../_images/prayer/resource1-pt.png?v2" alt="">
             <h3>Guia de oração</h3>
 			<p>(português)</p>
             <div><a class="resourceThird__link" href="../../documents/prayer/es/Guia-da-Caminhada-de-Oração-Charis.pdf" download>Descargar</a></div>
