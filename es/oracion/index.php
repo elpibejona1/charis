@@ -25,10 +25,20 @@
 	</div>
     <div class="row row--resources">
         <div class="resourceThird resourceThird--celebration">
-            <img src="../../_images/prayer/resource1.png" alt="">
-            <h3><br>Guía de oración</h3>
-            <p class="resourceThird__comingSoon"><strong><em>Pronto!</em></strong></p>
+            <img src="../../_images/prayer/resource1-es.png" alt="">
+			<h3>Guía de oración</h3>
+			<p>(español)</p>
+            <div><a class="resourceThird__link" href="../../documents/prayer/es/Guia_caminata_de_oracion_2020.pdf" download>Descargar</a></div>
         </div>
+        <div class="resourceThird resourceThird--celebration">
+            <img src="../../_images/prayer/resource1-pt.png" alt="">
+            <h3>Guia de oração</h3>
+			<p>(português)</p>
+            <div><a class="resourceThird__link" href="../../documents/prayer/es/Guia-da-Caminhada-de-Oração-Charis.pdf" download>Descargar</a></div>
+        </div>
+	</div>
+
+    <div class="row row--resources">
         <div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/prayer/resource2-es.png" alt="">
             <h3><br>Gráfico de pantalla</h3>

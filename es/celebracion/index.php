@@ -32,24 +32,31 @@
 		<div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource3.png" alt="">
             <h3>DOMINGO DE CHARIS - Indicaciones</h3>
+			<p>(español)</p>
             <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/463139920/7490fd66bb">Ver Video</a></div>
+        </div>
+		<div class="resourceThird resourceThird--celebration">
+            <img class="wide" src="../../_images/celebration/resource3.png" alt="">
+            <h3>DOMINGO DE CHARIS - Convite</h3>
+			<p>(português)</p>
+            <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/469813292/82f59f7642">Ver Video</a></div>
         </div>
         <div class="resourceThird resourceThird--celebration">
             <img src="../../_images/celebration/resource1.png" alt="">
             <h3>INFORMACIÓN GENERAL SOBRE LA ALIANZA CHARIS</h3>
-			<p>(en español)</p>
+			<p>(español)</p>
             <div><a class="resourceThird__link" target="_blank" href="../../documents/celebration/es/Informacion-General-Alianza-Charis.pdf">Abrir</a></div>
-            <div><a class="resourceThird__link" target="_blank" href="../../documents/celebration/es/Informacion-General-Alianza-Charis.pdf" download>Descargar</a></div>
-        </div>
-        <div class="resourceThird resourceThird--celebration">
-            <img src="../../_images/celebration/resource1.png" alt="">
-            <h3>Informação Geral sobre a Aliança Charis</h3>
-			<p>(em português)</p>
-            <div><a class="resourceThird__link" target="_blank" href="../../documents/celebration/es/Informação-Geral-sobre-a-Aliança-Charis.pdf">Abrir</a></div>
             <div><a class="resourceThird__link" target="_blank" href="../../documents/celebration/es/Informacion-General-Alianza-Charis.pdf" download>Descargar</a></div>
         </div>
 	</div>
 	<div class="row row--resources">
+        <div class="resourceThird resourceThird--celebration">
+            <img src="../../_images/celebration/resource1.png" alt="">
+            <h3>Informação Geral sobre a Aliança Charis</h3>
+			<p>(português)</p>
+            <div><a class="resourceThird__link" target="_blank" href="../../documents/celebration/es/Informação-Geral-sobre-a-Aliança-Charis.pdf">Abrir</a></div>
+            <div><a class="resourceThird__link" target="_blank" href="../../documents/celebration/es/Informacion-General-Alianza-Charis.pdf" download>Descargar</a></div>
+        </div>
         <div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource2-es.png?v2" alt="">
             <h3><br>GRÁFICOS DE PANTALLA</h3>
@@ -60,13 +67,13 @@
             <h3>GRÁFICO PARA REDES&nbsp;SOCIALES</h3>
             <div><a class="resourceThird__link" download href="../../documents/celebration/es/Domingo-Charis-Redes-Sociales.png">Descargar</a></div>
 		</div>
+	</div>
+	<div class="row row--resources">
 		<div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource4.png" alt="">
             <h3>DOMINGO DE CHARIS - VIDEO DE AVANCE</h3>
             <div><a class="resourceThird__link" target="_blank" href="https://vimeo.com/encompassworldpartners/download/460678241/86a8b1ec85">Descargar Video</a></div>
 		</div>
-	</div>
-	<div class="row row--resources">
 		<div class="resourceThird resourceThird--celebration">
             <img class="wide" src="../../_images/celebration/resource5.png" alt="">
             <h3>DOMINGO DE CHARIS - VIDEO COMPLETO</h3>
