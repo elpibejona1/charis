@@ -47,7 +47,7 @@
         <div class="resourceThird resourceThird--celebration">
             <img src="../../_images/prayer/resource3-es.png" alt="">
             <h3>GRÁFICO PARA REDES&nbsp;SOCIALES</h3>
-            <div><a class="resourceThird__link" href="../../documents/prayer/en/Grafico-redes-sociales-caminata-global-charis.png" download>Descargar</a></div>
+            <div><a class="resourceThird__link" href="../../documents/prayer/es/Grafico-redes-sociales-caminata-global-charis.png" download>Descargar</a></div>
         </div>
 	</div>
     <div class="row">
